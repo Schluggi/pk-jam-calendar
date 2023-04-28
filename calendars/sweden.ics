@@ -59,4 +59,19 @@ LOCATION:Stockholm\, Sweden
 ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/blogs/kipa-stre
  et-jam-2023/info":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xjam Summer 23
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230702
+UID:1571199
+DESCRIPTION:<p>Both outdoor training on great spots\, guided by Elis Torha
+ ll and Markus Nilsson and indoor training at xFlow.</p><br><p>Price: from 
+ 750SEK</p><p>Food: only breakfast</p><p>Accomodation: Yes. In the gym</p><
+ p>Here is the link for the registration and all the information and prices
+ : <a rel="noopener noreferrer" target="_blank" href="https://cdn.boomte.ch
+ /calendar/dashboard/xflow.se/xjam">xflow.se/xjam</a></p>
+GEO:57.7454373;14.1708718
+LOCATION:xFlow\, Herkulesvägen\, Jönköping\, Sweden
+ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=:MAILTO:erik@xflow.se
+END:VEVENT
 END:VCALENDAR
