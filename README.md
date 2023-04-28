@@ -8,8 +8,8 @@
 ## Description
 
 This repo provides you with ics calendar files of the [matttma jam calendar](https://www.matttma.de/parkourjamcalendar).
-You can easily subscribe to them via ical. Have fun :)
-
+You can easily subscribe to them via ical using 
+[this link](https://github.com/Schluggi/pk-jam-calendar/blob/main/calendars/README.md). Have fun :)
 
 ## Credits & Special thanks
 
