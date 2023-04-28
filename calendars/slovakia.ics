@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Pkfr Battle - Nitra
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220724
+UID:1029220
+DESCRIPTION:<p>🇩🇪 Slovenska Parkourscena Existuje veranstaltet eine 
+ Jam inkl. Flow Competition für Männer und Frauen (ab 15 Jahren) Es gibt 
+ auch Preise &amp\; Preisgeld!</p><p>Abends gibt es eine Aftershowparty.</p
+ ><br><p>🇬🇧 Slovenska Parkourscena Existuje is organising a jam incl.
+  flow competition for men and women (from 15 years) There are also prizes 
+ &amp\; prize money!</p><p>In the evening there will be an aftershow party.
+ </p>
+GEO:48.3159272;18.1141748
+LOCATION:Skill Lab\, Levická\, Nitra-Chrenová\, Slovakia
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.parkourscenaexistuje.sk/":MAILTO
+ :info@parkourscenaexistuje.sk
+END:VEVENT
+END:VCALENDAR

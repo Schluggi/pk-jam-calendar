@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Krap Invaders
+DTSTART;VALUE=DATE:20221001
+DTEND;VALUE=DATE:20221002
+UID:1143442
+DESCRIPTION:<p>🇩🇪 KRAP INVADERS COMEBACK</p><p>- 2 Tage Parkour Jam<
+ /p><p>- KRAP Parkour pants included (im 2 Tages-Preis)</p><p>- Samstag und
+  Sonntag den ganzen Tag freies Training im Gym Krapannone Schio</p><br><p>
+ Essen: nicht sicher</p><p>Schlafplatz: Im Gym&nbsp\;</p><p>Preis:&nbsp\;</
+ p><p>1 Tag 35€ (inkl. Krap Shirt)</p><p>2 Tage 60€ (inkl. Krap Sweatpa
+ nt)</p><br><p>Mehr Informationen und Anmeldung hier: <a rel="noopener nore
+ ferrer" target="_blank" href="http://www.krapinvaders.com/"><strong>http:/
+ /www.krapinvaders.com/</strong></a></p><br><p>🇬🇧 KRAP INVADERS COMEB
+ ACK</p><p>- 2 days event- A pair of Krap Parkour Pants INCLUDED (for 2 day
+ s price)</p><p>- Saturday and Sunday free training in the gym Krapannone S
+ chio</p><br><p>Food: not sure if it's included</p><p>Accomodation: in the 
+ gym</p><p>Price:&nbsp\;</p><p>1 day 35€ (incl. Krap Shirt)</p><p>2 days 
+ 60€ (incl. Krap Sweatpant)</p><br><p>more information & sign up on the w
+ ebsite <a rel="noopener noreferrer" target="_blank" href="http://www.krapi
+ nvaders.com/"><strong>http://www.krapinvaders.com/</strong></a></p>
+GEO:45.7147415;11.3429302
+LOCATION:KRAPANNONE Indoor Parkourpark\, Via Pietro Riboli\, Schio\, Provi
+ nce of Vicenza\, Italy
+ORGANIZER;CN=Krapinvaders;PHONE=;WEBSITE="http://www.krapinvaders.com/":MA
+ ILTO:info@krapinvaders.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam - Bologna
+DTSTART;VALUE=DATE:20230318
+DTEND;VALUE=DATE:20230319
+UID:1305167
+DESCRIPTION:<p>🇩🇪 Street Jam in Bologna! Pasta Moves lädt nach Bolo
+ gna ein für eine gratis Jam.</p><br><p>Preis: Nix</p><p>Essen: Auch nicht
+ </p><p>Schlafplatz: In einem Gym\, Reservierung über Instagram Privatnach
+ richt (pastamoves)</p><br><p>🇬🇧 Free street jam in Bologna hosted by
+  Pasta Moves</p><br><p>Price: Free</p><p>Food: None</p><p>Accomodation: In
+  the gym\, reservation via instagram direct message. (pastamoves)</p>
+GEO:44.494887;11.3426163
+LOCATION:Bologna\, Metropolitan City of Bologna\, Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE=:MAILTO:pastamovesdivision@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eden Prototype X
+DTSTART;VALUE=DATE:20230513
+DTEND;VALUE=DATE:20230514
+UID:1500966
+DESCRIPTION:<p>More information coming soon!</p>
+GEO:44.476416;11.4129206
+LOCATION:Eden Park San Lazzaro\, Via Commenda\, San Lazzaro di Savena\, Me
+ tropolitan City of Bologna\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+END:VCALENDAR

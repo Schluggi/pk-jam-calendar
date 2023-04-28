@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Swiss Parkour Tour - Geneva - Jam & Skill
+DTSTART;VALUE=DATE:20220716
+DTEND;VALUE=DATE:20220716
+UID:1051525
+DESCRIPTION:<p>&nbsp\;🇩🇪 Die 4. Station der Swiss Parkour Tour ist G
+ enf. Parkour EXPO organisiert die Skill Competition und Jam. Diese Veranst
+ altung ist 1 von 3 Wettbewerben\, die im Rahmen der SPT22 stattfinden. Es 
+ gibt sowohl eine Männer als auch Frauen-Division &amp\; ein neues Skill C
+ ompetition-Format wird getestet (mehr Informationen auf der Website).</p><
+ br><p>Um an der Skill Competition teilzunehmen\, müsst ihr euch bis zum 1
+ 5. Juli anmelden.</p><br><p>Preis: 10 CHF (vor Ort)</p><p>Schlafplatz &amp
+ \; Essen: nein</p><p>Anmeldung hier: <a rel="noopener noreferrer" target="
+ _blank" href="https://forms.office.com/pages/responsepage.aspx?id=A4-5EvPH
+ uUC-vV8dEhBJzjV9ZNC-v_FLpRszl5575URUNUpPQVNJTkpLNFpLRVdHNTRWTlNKTVVXOC4u">
+ JAM &amp\; SKILL</a></p><br><p>🇬🇧 The 4th stop of the Swiss Parkour 
+ Tour is going to happen in Geneva.</p><p>The event includes a Skill Compet
+ ition and a JAM\, organised by Parkour EXPO. This event states 1 out of 3 
+ Competitions happening in the SPT22. There will be a Skill Competition for
+  both men and women with a new format (more information on their website).
+ </p><br><p>To take part in the Skill Competition you have to register till
+  the 15th of July.</p><br><p>Price: 10 CHF (to be paid on site)</p><p>Acco
+ modation &amp\; food: none</p><p>Sign up here: <a rel="noopener noreferrer
+ " target="_blank" href="https://forms.office.com/pages/responsepage.aspx?i
+ d=A4-5EvPHuUC-vV8dEhBJzjV9ZNC-v_FLpRszl5575URUNUpPQVNJTkpLNFpLRVdHNTRWTlNK
+ TVVXOC4u">JAM &amp\; SKILL</a></p>
+GEO:46.2043907;6.1431577
+LOCATION:Geneva\, Switzerland
+ORGANIZER;CN="Parkour EXPO";PHONE=;WEBSITE="https://www.swissparkourtour.c
+ h/4-geneva/":MAILTO:https://chat.whatsapp.com/D6xsUGFF9u0G6LP5Q6vhpw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Pocket Camp 2022
+DTSTART;VALUE=DATE:20220729
+DTEND;VALUE=DATE:20220801
+UID:1051526
+DESCRIPTION:<p>🇩🇪 Das WPF "Pocket" Camp 2022 findet statt! Das Camp 
+ wird von Overground in Basel veranstaltet. Es wird 4 Tage lang Training an
+  Outdoor-Spots sowie im Parkour-Gym Overground geben\, sowie auch Lagerfeu
+ er\, Party und vieles mehr!</p><br><p>Preis: zwischen 40 - 90 CHF (du kann
+ st wählen\, wie viele Tage)</p><p>Schlafplatz: in der Turnhalle</p><p>Ess
+ en: im Preis inbegriffen (je nachdem\, welches Paket du wählst)</p><br><p
+ >Weitere Informationen\, das vollständige Programm und das Anmeldeformula
+ r findest du hier: <a rel="noopener noreferrer" target="_blank" href="http
+ s://worldsparkourfamily.ch/wpf-camp/">WPF CAMP 22</a></p><p>&nbsp\;</p><p>
+ 🇬🇧 The WPF „Pocket“ Camp 2022 takes place! The Camp is hosted by
+  Overground\, Basel. There will be 4 days of training at outdoor spots as 
+ well as in the parkour gym Overground\, camp fire\, party and so on!</p><b
+ r><p>Price: between 40 - 90 CHF (you can choose how many days)</p><p>Accom
+ odation: in the gym</p><p>Food: included (depending which package you take
+  though)</p><br><p>More information\, the full program and sign up form he
+ re: <a rel="noopener noreferrer" target="_blank" href="https://worldsparko
+ urfamily.ch/wpf-camp/">WPF CAMP 22</a></p>
+GEO:47.5741527;7.573705599999999
+LOCATION:Overground Basel\, Elsässerstrasse\, Basel\, Switzerland
+ORGANIZER;CN="World's Parkour Family";PHONE=;WEBSITE="https://worldsparkou
+ rfamily.ch/wpf-camp/":MAILTO:
+END:VEVENT
+END:VCALENDAR

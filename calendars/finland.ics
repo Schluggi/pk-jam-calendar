@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Supreme Parkour Armageddon
+DTSTART;VALUE=DATE:20221216
+DTEND;VALUE=DATE:20221218
+UID:1216756
+DESCRIPTION:<p>🇩🇪 Das 16. jährliche und epische Supreme Parkour Arm
+ ageddon: Die Veranstaltung findet im Parkour Gym von Parkour Akatemia Turk
+ u statt und soll die finnische Community und internationale Gäste zusamme
+ nbringen. Vier Gastcoaches (TBA) werden während der Veranstaltung Worksho
+ ps geben\, die meiste Zeit ist aber für freies Jammen da. Im Preis inbegr
+ iffen sind ein Jam-shirt\, Lunch am Samstag und die Übernachtung in der H
+ alle.</p><br><p>Weitere Informationen und Anmeldung <a rel="noopener noref
+ errer" target="_blank" href="https://www.parkour.fi/spka/"><strong>hier </
+ strong></a>und auf Instagram @parkourfi</p><p>Preis: 65€/85€</p><p>Unt
+ erkunft: Übernachtung im Gym</p><p>Essen: nur Lunch am Samstag</p><br><p>
+ 🇬🇧 The 16th annual and epic\, Supreme Parkour Armageddon:&nbsp\;</p>
+ <p>The Escape from Middle-Örth will be held in Turku on the weekend befor
+ e Christmas (16.-18.12.2022). Hosted at the gym of Parkour Akatemia Turku\
+ , we hope to bring together the Finnish community alongside foreign visito
+ rs. Four guest coaches (TBA) will host their sessions during the event alo
+ ngside plenty of free training time. The price includes a jam shirt\, lunc
+ h for Saturday and gym accommodation.&nbsp\;</p><br><p>More info and sign 
+ up <a rel="noopener noreferrer" target="_blank" href="https://www.parkour.
+ fi/spka/"><strong>here</strong></a> and instagram @parkourfi</p><br><p>Pri
+ ce: 65€/85€</p><p>Accomodation: sleeping in the gym</p><p>Food: only l
+ unch on saturday</p>
+GEO:60.45905519999999;22.2740268
+LOCATION:Turun Parkour Akatemia\, Helsinginkatu 21\, Turku\, Finland
+ORGANIZER;CN="The Finnish Parkour Association (@parkourfi)";PHONE=;WEBSITE
+ ="https://www.parkour.fi/spka/":MAILTO:viljam.mikkelsson@parkour.fi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herttua Family Jam
+DTSTART;VALUE=DATE:20230114
+DTEND;VALUE=DATE:20230115
+UID:1328385
+DESCRIPTION:<p>&nbsp\;🇩🇪 Die Herttua Family Jam beginnt Samstag um 1
+ 3:00 und endet Sonntag um 17:00.</p><p>Es gibt eine Sauna!</p><br><p>Preis
+ : 50€</p><p>Essen: nein</p><p>Unterkunft: Schlafen im Gym\, bringt einen
+  warmen Schlafsack mit!</p><br><p>🇬🇧 Herttua Family Jam is happening
+ !</p><p>Starts Saturday at 13:00</p><p>And ends Sunday at 17:00</p><p>Ther
+ e will be a Sauna! :)</p><br><p>Price: 50€</p><p>Food: not included</p><
+ p>Accommodation: Sleeping in the gym\, bring a warm sleeping bag</p>
+GEO:60.8180722;25.7346195
+LOCATION:Herttua Family Oy\, Koulutie\, Orimattila\, Finland
+ORGANIZER;CN="Herttua Family Oy";PHONE=;WEBSITE="https://www.herttuafamily
+ .com/tapahtumat/talvijamit":MAILTO:
+END:VEVENT
+END:VCALENDAR

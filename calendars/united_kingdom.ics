@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Grim Jam
+DTSTART;VALUE=DATE:20220813
+DTEND;VALUE=DATE:20220814
+UID:1072478
+DESCRIPTION:<p>&nbsp\;🇬🇧 &nbsp\;GRIM JAM 2022!&nbsp\;</p><p>- Outdoo
+ r and indoor event&nbsp\;</p><p>- Male and Female Skill & Speed + Under 16
+ ’s speed &nbsp\;</p><p>1st place for Skill and Speed (male and female) :
+  £250 2nd: £100 3rd: £25 &nbsp\;</p><p>Under 16’s speed 1st £100 2nd
+  £50 3rd £25</p><br><p>Price: £25</p><p>Food: Not included</p><p>Sleepo
+ ver: in the gym</p><br><p>Sign up <a rel="noopener noreferrer" target="_bl
+ ank" href="https://teamreality.bigcartel.com/">here</a>!</p>
+GEO:53.57331989999999;-0.0774282
+LOCATION:Team Reality LTD\, Prince Albert Gardens\, Grimsby\, UK
+ORGANIZER;CN="Team Reality";PHONE=;WEBSITE="https://teamreality.bigcartel.
+ com/":MAILTO:jakechristopherharris@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Skill & Speed 3
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230122
+UID:1370604
+DESCRIPTION:<p>🇬🇧 Northern Speed &amp\; Skill Competition in the Urb
+ an Factory Gym in Hebburn.</p><p>3 days jam &amp\; competition - Women / M
+ en &amp\; Under 16 category</p><br><p>Tickets &amp\; More information <a r
+ el="noopener noreferrer" target="_blank" href="https://the-urban-factory.c
+ lass4kids.co.uk/camps?fbclid=PAAaZbZi6Eo0lLdlZJcyzt3FrCl1xpIdY57wKg-BwVMps
+ zmlNqs-i26iGsukk">here</a></p><p>Also find the schedule <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.instagram.com/p/CmHg5qDK5vM/?
+ igshid=YmMyMTA2M2Y=">here</a> (Instagram).</p>
+GEO:54.9623387;-1.5274937
+LOCATION:The Urban Factory\, Victoria Road West\, Hebburn\, UK
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Underground 10
+DTSTART;VALUE=DATE:20230324
+DTEND;VALUE=DATE:20230326
+UID:1328387
+DESCRIPTION:<p>🇩🇪 Project Underground 10 findet im Nova City Gym in 
+ Rotherham statt.Das bedeutet 3 Tage Jam und auch viel Competition!</p><br>
+ <p>Es gibt Speed-\, Skill- und Style-Comps für Männer\, Frauen und Kinde
+ r.&nbsp\;</p><p>Gleiches Preisgeld für Männer und Frauen!</p><br><p>Prei
+ s: Unterschiedliche Preise für Erwachsene und Kinder + je nachdem\, ob ih
+ r an der Competition teilnehmt oder nicht</p><p>- Golden Ticket: 80£ Earl
+ y Bird/ 100£ normaler Preis für 3 Tage Jam\, Competition + Essen</p><p>-
+  Silver Ticket: 65£ für 3 Tage Jam ohne Competition und Essen</p><p>Esse
+ n: nur im Golden Ticket dabei</p><p>Schlafplatz: im Gym</p><br><p>Tickets 
+ gibts <a rel="noopener noreferrer" target="_blank" href="https://www.novac
+ itycentre.com/project-underground-10"><strong>hier</strong></a> ! Es gibt 
+ noch den Early bird preis für das Golden Ticket!&nbsp\;</p><br><p>🇬
+ 🇧 Project underground 10 is happening in the Nova City Gym in Rotherham
+ .</p><br><p>3 days jam + lots of competition happening. There are Speed\, 
+ Skill and Style Competitions for Men\, Women and Kids. Equal prize money f
+ or Men and Women.</p><br><p>Price: Different prices for adults and kids + 
+ depending if your competing or not</p><p>- 80£ Early Bird/ 100£ normal p
+ rice for Competition\, 3 days jam + Food</p><p>- 65£ for 3 days jam witho
+ ut competing and food</p><p>Food: included in the golden ticket</p><p>Acco
+ modation: in the gym</p><br><p>You can buy your tickets <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.novacitycentre.com/project-un
+ derground-10"><strong>here</strong></a>! There's still a early bird price 
+ for the Golden Ticket (Competition and food included)</p>
+GEO:53.442712;-1.3610198
+LOCATION:NovaCity Rotherham\, Mangham Road\, Rotherham\, UK
+ORGANIZER;CN="NovaCity Rotherham";PHONE=;WEBSITE="https://www.novacitycent
+ re.com/project-underground-10":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wipw London
+DTSTART;VALUE=DATE:20230513
+DTEND;VALUE=DATE:20230514
+UID:1370595
+DESCRIPTION:<p>🇬🇧 The awesome Women’s International Parkour Weeken
+ d is back\, 13-14 May 2023 in London!</p><p>A whole weekend of workshops\,
+  training\, community and fun with some of the best women movers from arou
+ nd the world.&nbsp\;</p><br><p>Where? London - Archway + East India</p><p>
+ When? From 09:00 till 18:00</p><p>Who? Women and non-binary people (16+ ye
+ ars)</p><p>Price: EARLY BIRD Weekend Tickets – <strong>£69.00</strong><
+ /p><p>EARLY BIRD Saturday Tickets – <strong>£38.50</strong></p><p>EARLY
+  BIRD Sunday Tickets – <strong>£38.50</strong></p><br><p>More informati
+ on &amp\; Sign up <a rel="noopener noreferrer" target="_blank" href="https
+ ://parkourgenerationslondon.com/wipw2023/">here</a></p>
+LOCATION:
+ORGANIZER;CN="Parkour Generations London";PHONE=;WEBSITE="https://parkourg
+ enerationslondon.com/wipw2023/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streetmedia Social V1
+DTSTART;VALUE=DATE:20230520
+DTEND;VALUE=DATE:20230521
+UID:1418841
+DESCRIPTION:<p>A two day event with cash prizes to be won\, and a day in t
+ he UK's biggest Parkour centre with an independent shopping expo and after
+ party.&nbsp\;</p><br><p>Price: Early Bird £15 (available now <a rel="noop
+ ener noreferrer" target="_blank" href="https://streetmedia.store/products/
+ streetmedia-social-v1-sheffield">here</a>) and later £20 for both days.</
+ p><p>Accomodation: ???</p><p>Food: no</p><br><p>Ticket grants you entry to
+  the street competition on SATURDAY where you can win cash prizes for mult
+ iple competition categories.&nbsp\;</p><p>The ticket also grants you entry
+  to the expo day on SUNDAY in Novacity Rotherham\, which will host multipl
+ e independent pop up stores from select brands from within and outside of 
+ the Parkour community. You also gain entry to the afterparty within Novaci
+ ty\, featuring 3 DJ's\, a full sound system\, a bar\, food\, and more...</
+ p><br><p>FULL EVENT BREAKDOWN:</p><p>SATURDAY MAY 20TH - Street Jam and Co
+ mpetitions&nbsp\;</p><p>12pm - Meet up at ODEON\, Sheffield</p><p>1pm - In
+ troduction and Competition formats&nbsp\;</p><p>3pm - Move to Police stati
+ on\, Sheffield</p><p>5pm - Move to Davinci\, Sheffield&nbsp\;</p><br><p>SU
+ NDAY MAY 21ST - Expo day\, jam\, competition announcements\, and afterpart
+ y&nbsp\;</p><p>12pm - Meet up at NOVACITY Rotherham</p><p>12:30 pm - Jam a
+ nd Shopping all day</p><p>6pm - Competition announcements&nbsp\;</p><p>7pm
+  - Afterparty (18+ only)</p><p>10:30pm - Finish and clear out!</p><br><p>P
+ rizes:</p><p>Best male £100</p><p>Best female £100</p><p>Best "NBD" £10
+ 0</p><p>Best Yout £50</p><p>Best Dressed £50</p><p>Best Bail - Trophy</p
+ >
+GEO:53.38112899999999;-1.470085
+LOCATION:Sheffield\, UK
+ORGANIZER;CN="Street Media";PHONE=;WEBSITE="https://streetmedia.store/prod
+ ucts/streetmedia-social-v1-sheffield":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Next Gen Premiere + Jam - London
+DTSTART;VALUE=DATE:20230826
+DTEND;VALUE=DATE:20230827
+UID:1510155
+DESCRIPTION:<p>This is the Cinema Premiere and Jam for Project Nextgen\; a
+  feature length parkour documentary and action piece shot with 60 top leve
+ l parkour athletes in Bilbao Spain. It features parkour teams: Team Phat\,
+  Wizzy Gang\, Freerunning Schlappen\, Street Media\, Fifthunit\, Scruffy b
+ oys\, Avanti Garda\, Street Sharks\, Blent and Pasta Moves. &nbsp\;Followi
+ ng the screening there will be a big two day Jam with various competitions
+  and prizes to be announced. More information and link to the tickets comi
+ ng soon!</p><p>Price: Premiere ticket £10</p><p>Food: Not included</p><p>
+ Accomodation: There will be a number of people hosting in exchange for a f
+ ree ticket to the film.</p>
+GEO:51.5211404;-0.05112200000000001
+LOCATION:Genesis Cinema\, Mile End Road\, London\, UK
+ORGANIZER;CN="Max Ward";PHONE=;WEBSITE=:MAILTO:bmaxforlife@gmail.com
+END:VEVENT
+END:VCALENDAR

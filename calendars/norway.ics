@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Oslo Movement Gathering
+DTSTART;VALUE=DATE:20221007
+DTEND;VALUE=DATE:20221009
+UID:1016161
+DESCRIPTION:<p>🇩🇪 Parkour &amp\; Tricking - Event in Oslo</p><p>Das 
+ Event wird in einer großen Halle mit 2 Tricking-Böden\, einem Parkour Se
+ t-up\, Trampolinen\, Aitracks usw. stattfinden</p><p>Preis: 990 NOK - Earl
+ y Bird (ca. 100€)</p><p>Essen: nur Frühstück inkl.</p><p>Schlafplatz: 
+ In der Halle</p><p>Updates gibt es hier: <a rel="noopener noreferrer" targ
+ et="_blank" href="https://www.facebook.com/events/517342332621127">Faceboo
+ k EVENT</a></p><p>Tickets gibt's auf der Website</p><br><p>🇬🇧 Parkou
+ r &amp\; Tricking - Event in Oslo</p><p>The event will take place in a big
+  hall with 2 tricking floors\, a parkour set-up\, trampolines\, aitracks e
+ tc.</p><p>Price: 990 NOK - Early Bird (approx. 100€)</p><p>Food: only br
+ eakfast included</p><p>Sleeping place: in the gym</p><p>Updates can be fou
+ nd here: <a rel="noopener noreferrer" target="_blank" href="https://www.fa
+ cebook.com/events/517342332621127">Facebook EVENT</a></p><p>Buy tickets on
+  the website.</p><br><br>
+GEO:59.92466779999999;10.8200046
+LOCATION:Viqueens Hallen\, Persveien\, Oslo\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/prod
+ uct/oslo-movement-gathering-2022-parkour-tricking-october-7-9th/":MAILTO:o
+ mg@oslo-movement.no
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omw - Oslo Movement Women’S & Non-Binary Jam
+DTSTART;VALUE=DATE:20221217
+DTEND;VALUE=DATE:20221218
+UID:1305203
+DESCRIPTION:<p>🇩🇪 Oslo Movement lädt ein zur Women's and Non-Binary
+  Jam.</p><p>Es wird viele Sessions\, geleitete Workshops für Anfänger un
+ d auch Fortgeschrittene geben. Die Veranstaltung findet im Parkour Gym sta
+ tt\, es gibt einen Sprungboden\, Air-Tracks\, weichen Matten\, Blöcken un
+ d Trampolin haben - und einen Raum mit Parkour-Set up.</p><p>Zeitplan:Sams
+ tag 10.00-17.00 UhrSonntag 10.00-17.00 UhrPreis: 200 NOK\, 19€</p><p>
+ 🇬🇧 Oslo Movement invite you to the Women’s and Non-Binary Jam Dece
+ mber hosted by Alva.</p><br><p>Come train\, have fun\, learn a new more an
+ d meet new (and old) friends – Whether you are a complete beginner or an
+  experienced athlete. We will have a bunch of training\, workshops\, games
+  and more\, so expect a weekend full of movement\, learning\, socializing 
+ and fun!</p><p>The event will be in our gym at Ryen where we have the tric
+ king room with a sprung floor\, air tracks\, soft mats\, blocks and trampo
+ line – And the parkour room with a setup complete with boxes and bars.</
+ p><br><p>Weekend schedule:</p><p>Saturday 10.00-17.00</p><p>Sunday 10.00-1
+ 7.00</p><p>AGE LIMIT: 10 years+ (Under 12 – Bring a parent:)</p><p>Price
+ : 200 NOK\, 19€</p>
+GEO:59.8904008;10.8072244
+LOCATION:Oslo Movement\, Sandstuveien\, Oslo\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/prod
+ uct/omw-jam-december-17-18th/?fbclid=PAAabDZe56GfJ9ntm521I15KYwrIcp1LwAQiH
+ HrHLXUvmRC7LeHOGGWj-N5WU":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oslo Movement Festival Gathering Omfg
+DTSTART;VALUE=DATE:20230614
+DTEND;VALUE=DATE:20230618
+UID:1193575
+DESCRIPTION:<p>🇩🇪 Großes Parkour / Tricking / Skate / Breaking / De
+ athdiving / Musik Festival nähe Oslo!</p><p>Ticketverkauf startet am 1.1.
+ 23</p><p>Mehr Infos kommen bald!</p><p>SAVE THE DATE</p><br><p>🇬🇧 Bi
+ g Parkour / Tricking / Skate / Breaking / Deathdiving / Music Festival nea
+ r Oslo!</p><p>Ticket sales start on 1.1.23</p><p>More info coming soon!</p
+ ><p>SAVE THE DATE</p>
+GEO:60.8811602;10.9386217
+LOCATION:Fønix Brumunddal\, Nygata\, Brumunddal\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://instagram.com/oslomov
+ ement?igshid=YmMyMTA2M2Y=":MAILTO:
+END:VEVENT
+END:VCALENDAR

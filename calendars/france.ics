@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Evry Move 5
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220729
+UID:1029165
+DESCRIPTION:<p>🇩🇪 5. Edition von Evry Move - ein internationaler 7-t
+ ägiger Workshop für alle Level.</p><p>Yamakasi and other talented coache
+ s will be coaching at the event.</p><p>Der Workshop startet am 23.7. um 14
+ :00 und endet am 29.7. um 10:00 morgens.</p><p>Die Unterkunft ist ein 4-St
+ erne Hotel\, ca. 200m entfernt vom ikonischen Dame du Lac.</p><p>Preis: nu
+ r Event 430€ (ab 15 Jahren)</p><p>Event &amp\; Doppelzimmer im Hotel\, F
+ rühstück und Mittagessen 640 € (ab 18 Jahren)</p><p>Event &amp\; Einze
+ lzimmer im Hotel\, Frühstück und Mittagessen 840 € (ab 18 Jahren)</p><
+ p>Tickets auf der Website erhältlich.</p><br><p>🇬🇧 5th edition of E
+ vry Move - an international 7-day workshop for all levels.</p><p>Yamakasi 
+ and other talented coaches will be coaching at the event.</p><p>The worksh
+ op starts on 23th July at 2pm and ends on 29th July at 10am.</p><p>Accommo
+ dation is a 4-star hotel\, about 200m away from the iconic Dame du Lac.</p
+ ><p>Price: Only the event 430€ (from 15 years)</p><p>Event &amp\; double
+  room in hotel\, breakfast and lunch 640€ (from 18 years)</p><p>Event &a
+ mp\; single room in hotel\, breakfast and lunch 840 € (from 18 years).</
+ p><p>Tickets available on the website.</p>
+GEO:nan;nan
+LOCATION:
+ORGANIZER;CN="ADD Academy Evry";PHONE=;WEBSITE="https://www.addacademyevry
+ .com/evry-move-5/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grejam
+DTSTART;VALUE=DATE:20220917
+DTEND;VALUE=DATE:20220918
+UID:1072469
+DESCRIPTION:<p>&nbsp\;🇬🇧 6 th edition of &nbsp\;Grejam!</p><p>The la
+ st year there were 130 traceurs from Maroco\, Switzerland and a lot of par
+ t of France ! This event is open for everyone\, every level\, every style 
+ ! It's gonna be a really good opportunity for you to discover Grenoble. Gr
+ enoble has amazing spots and a passionate community! <a rel="noopener nore
+ ferrer" target="_blank" href="https://www.instagram.com/tv/CWgfJu2trAt/?ig
+ shid=YmMyMTA2M2Y=">Here</a> is last years compilation.</p><p>This year wil
+ l be the first time with a skill competition (women and men division) with
+  small prizes. Also there's a big plan for Saturday with the ending at the
+  top of the famous Bastille of Grenoble ! 150 peoples will be awaited!&nbs
+ p\;</p><p>Also\, this jam is not officially declared\, we rely on you abou
+ t respecting spots\, people\, police man\, ... All the information during 
+ the jam passe by the <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://instagram.com/socialkickmovement?igshid=YmMyMTA2M2">Instagram accoun
+ t</a> of Socialkickmovement.&nbsp\;</p><br><p>Price: 0€</p><p>Food: not 
+ included</p><p>Accomodation: Ask us on <a rel="noopener noreferrer" target
+ ="_blank" href="https://instagram.com/socialkickmovement?igshid=YmMyMTA2M2
+ ">instagram</a> for hosting possibilities.</p>
+GEO:45.188529;5.724524
+LOCATION:Grenoble\, France
+ORGANIZER;CN="Social kick movement";PHONE=;WEBSITE=:MAILTO:socialkickmovem
+ ent@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speed & Freestyle Comp Besançon
+DTSTART;VALUE=DATE:20230408
+DTEND;VALUE=DATE:20230409
+UID:1456503
+DESCRIPTION:<p>The jam will be in a big gym with several urban sports ( pa
+ rkour\, skateboard\, dance\, bmx\, rollerblading ) In the same week-end th
+ ere is also a BMX event&nbsp\;</p><p>And if the weather is good\, we will 
+ be able to move outside.</p><br><p>Sign up <a rel="noopener noreferrer" ta
+ rget="_blank" href="https://www.helloasso.com/associations/association-des
+ -traceurs-bisontins/evenements/competition-jam-parkour"><strong>here</stro
+ ng></a>.</p><br><p>Food : Food-truck for the 2 days &nbsp\;(not included)<
+ /p><p>Or there is a supermarket\, 5 minutes walk&nbsp\;</p><p>Accommodatio
+ n : No accommodation\, but we can host some people&nbsp\;</p><p>Price : Co
+ mpetition + jam : 12€ ( Cash price )</p><p>Jam : 8€&nbsp\;</p>
+GEO:47.258686;6.0152006
+LOCATION:Centre des Cultures Urbaines Bisontines - CCUB\, Chemin des Torco
+ ls\, Besançon\, France
+ORGANIZER;CN="association des traceurs bisontins ( ATB ) association of bi
+ sontins tracers";PHONE=;WEBSITE="https://www.helloasso.com/associations/as
+ sociation-des-traceurs-bisontins/evenements/competition-jam-parkour":MAILT
+ O:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A3Rojam #2
+DTSTART;VALUE=DATE:20230520
+DTEND;VALUE=DATE:20230521
+UID:1521724
+DESCRIPTION:<p>Speedrun and Freestyle competition\, and Jam session during
+  all the weekend</p><br><p>The event is in a gym\, for everyone.&nbsp\;</p
+ ><p>Two categories for each competition: under 16 years old and over 16 ye
+ ars old</p><br><p>Price: 5-15€ per person</p><br><p>We can definitively 
+ host people\, but you'll have to notify us early enough !</p>
+GEO:48.2973451;4.0744009
+LOCATION:Troyes\, France
+ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=@aerocrew.pk:MAILTO:aerocrew.pk@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Move On Mars
+DTSTART;VALUE=DATE:20230527
+DTEND;VALUE=DATE:20230528
+UID:1398600
+DESCRIPTION:<p>The biggest Parkour Gathering in the South of France!</p><b
+ r><p>This year again\, we will privatize a part of the Prado beaches\, whi
+ ch we will decorate with as many modules as possible to create a Giant Par
+ kour Park by the sea !</p><br><p>- 2 days pack at special rates\, or the p
+ ossibility to come only for the day !!!</p><p>- Challenges\, Battles and g
+ reat moments will be there!</p><p>- And the possibility to sleep on site u
+ nder the stars for those who want to (Conditions to come...)</p><p>Accomod
+ ation: maybe outdoor at the beach?! more information coming</p><p>Price: B
+ etween 20€ and 50€ depending on how many days\, accomodation and so on
+  (partly including MOM 2023 T-shirt and bracelet)</p><br><p>Sign up &amp\;
+  get tickets <a rel="noopener noreferrer" target="_blank" href="https://my
+ .weezevent.com/move-on-mars-2023">here</a>!</p>
+GEO:43.255059;5.373461
+LOCATION:Plages du Prado\, Marseille\, France
+ORGANIZER;CN="PK 13";PHONE=;WEBSITE="https://pk13.fr/move-on-mars/":MAILTO
+ :
+END:VEVENT
+END:VCALENDAR

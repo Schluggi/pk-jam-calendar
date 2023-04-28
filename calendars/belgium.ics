@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things - Leuven
+DTSTART;VALUE=DATE:20220902
+DTEND;VALUE=DATE:20220904
+UID:1012616
+DESCRIPTION:<p>🇩🇪 Jam im HAL 5 Gym &amp\; Outdoorpark mit zusätzlic
+ hen Obstacles</p><p>Challenges mit Preisen von Parkour-Marken\, Parkour-Po
+ p-up-Store\, viel Training und gute Stimmung!</p><p>Preise: Ein Tag: €25
+ \,- Zwei Tage: €40\,-</p><p>Essen: Nein</p><p>Schlafplatz: Nein\, die Lo
+ cals anfragen</p><br><p>Für die Teilnahme an der Veranstaltung ist eine <
+ a rel="noopener noreferrer" target="_blank" href="https://www.springstofpa
+ rkour.com/en/event-details/swings-n-other-things-2022"><strong>Anmeldung</
+ strong></a> über die Website erforderlich.</p><br><p>🇬🇧 Jam in HAL 
+ 5 Gym &amp\; Outdoorpark with more added Obstacles</p><p>Challenges with p
+ rizes from parkour brands\, parkour pop up store\, a lot of training and g
+ ood vibes!</p><p>Prices: Single day: €25\,- Two days: €40\,-</p><p>Foo
+ d: Not included</p><p>Accomodation: Not included\, ask the locals</p><br><
+ p>Registration through the <a rel="noopener noreferrer" target="_blank" hr
+ ef="https://www.springstofparkour.com/en/event-details/swings-n-other-thin
+ gs-2022"><strong>website</strong></a> is required to attend the event.</p>
+ <br>
+GEO:50.8829498;4.7223114
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="Geert Meusen, Nico Van Hole";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ladies In Leuven - Hal5
+DTSTART;VALUE=DATE:20230108
+DTEND;VALUE=DATE:20230108
+UID:1336048
+DESCRIPTION:<p>Are you a girl/woman who always wanted to try parkour but i
+ s maybe a little scared to start? Or do you already do parkour but would y
+ ou like to train together with some top women from the sport?</p><p>Then c
+ ome to Hal 5 on Sunday January 8 for a day full of parkour vibes\, worksho
+ ps\, training &amp\; more!</p><br><p>10-13 workshops</p><p>13-18 jam</p><p
+ >afterwards screening of Queen City</p><p>There will be initiations for co
+ mplete beginners\, workshops for those who want to expand their skillset a
+ nd an open jam in the afternoon. Girls only of course! We conclude with th
+ e screening of Queen City\, an American documentary by Pointaparkour about
+  eight women coming together to train and share their passion for movement
+ .</p><p>All ages from 12 years welcome.</p><br><p>Price: 7€ Workshops\, 
+ 5€ Jam * Screening\, 10€ full day</p><p>Accomodation: not included\, p
+ lease ask locals or reach out via the contact form as well.</p><p>Food: no
+ t included</p><p>Registration is only necessary for the workshops\, send u
+ s an email via the <a rel="noopener noreferrer" target="_blank" href="http
+ s://www.springstofparkour.com/contact"><strong>contact form</strong></a>.<
+ /p>
+GEO:50.8829498;4.7223114
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spl European Qualifiers
+DTSTART;VALUE=DATE:20230225
+DTEND;VALUE=DATE:20230226
+UID:1370583
+DESCRIPTION:<p>🇬🇧 TIME &amp\; LOCATION</p><p>25 feb. 11:00 CET – 2
+ 6 feb. 22:00 CET</p><p>Leuven\, Hal 5\, Diestsesteenweg 104\, 3010 Leuven\
+ , Belgium</p><br><p><strong>ABOUT</strong></p><p>SPRINGSTOF Parkour is pro
+ ud to host the official Sport Parkour League's European Qualifiers for <a 
+ rel="noopener noreferrer" target="_blank" href="https://www.sportparkourle
+ ague.com/"><u>SPL2</u></a>\, the world's #1 parkour championships taking p
+ lace August 17-20\, Vancouver\, BC.</p><p>While we provide logistics and t
+ he Hal 5 parkour gym as the arena for this event\, the Sport Parkour Leagu
+ e team will take care of the organisation of the competition itself.</p><b
+ r><p><strong>CATEGORIES</strong></p><p>MENS: Skill\, Speed &amp\; Style</p
+ ><p>WOMENS: Skill\, Speed &amp\; Style</p><p>Cash prizes for 1st place in 
+ each category. Amount tbd.</p><p>The top third of competitors (up to 3 tot
+ al) in each category will qualify for SPL2.&nbsp\;</p><p><em>For example: 
+ In a category with 9 or more people\, the whole podium (1st\, 2nd\, 3rd) w
+ ill qualify. If 8 or less people are in a category\, only 2 can qualify. I
+ f 5 or less people are in a category only 1 can qualify.</em></p><br><p><s
+ trong>TIMETABLE &amp\; RULES</strong></p><p><a rel="noopener noreferrer" t
+ arget="_blank" href="https://www.springstofparkour.com/event-details/">Her
+ e</a> you find the time table and more information regarding the competiti
+ on format.</p><br><p><strong>TICKET PRICING</strong></p><p>One Discipline:
+  €50</p><p>Two Disciplines: €90</p><p>Three Disciplines: €135</p><p>
+ Spectator (2 days\, including community jam on Sunday): €20</p><br><p><s
+ trong>REGISTRATION &amp\; PAYMENT</strong></p><p>Make sure to follow the i
+ nstructions <a rel="noopener noreferrer" target="_blank" href="https://www
+ .springstofparkour.com/event-details/">here</a> to sign up and do the paym
+ ent.</p>
+GEO:50.8832379;4.7221328
+LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
+ our.com/event-details/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashigaru Skillz Comp & Jam - Hal 5
+DTSTART;VALUE=DATE:20230415
+DTEND;VALUE=DATE:20230416
+UID:1440560
+DESCRIPTION:<p>save the date</p>
+GEO:50.8832379;4.7221328
+LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="Team Ashigaru";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things
+DTSTART;VALUE=DATE:20230902
+DTEND;VALUE=DATE:20230903
+UID:1310399
+DESCRIPTION:<p>🇬🇧 &nbsp\;SAVE THE DATE</p>
+GEO:50.8829498;4.7223114
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="SPRINGSTOF Parkour";PHONE=;WEBSITE="https://www.springstofpa
+ rkour.com/events":MAILTO:springstofparkour@gmail.com
+END:VEVENT
+END:VCALENDAR

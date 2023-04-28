@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Viecomto Jam - Vienna
+DTSTART;VALUE=DATE:20220626
+DTEND;VALUE=DATE:20220626
+UID:1028616
+DESCRIPTION:<p>🇩🇪 Wien Jam ab 11:00 auf der Donauinsel</p><p>Competi
+ tion um 13:00 (gibt auch Preisgeld)</p><p>Gemeinsames Essen um 18:00</p><p
+ >Preis: 0€</p><br><p>🇬🇧 Vienna Jam - 11:00 jam at Donauinsel</p><p
+ >13:00 competition (there's price money)</p><p>18:00 dinner all together</
+ p><p>price: 0€</p>
+GEO:48.2291208;16.4112149
+LOCATION:U Donauinsel\, Vienna\, Austria
+ORGANIZER;CN="RAW MOVEMENT";PHONE=;WEBSITE=:MAILTO:kontakt@raw-movement.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweaty Already Jam
+DTSTART;VALUE=DATE:20220820
+DTEND;VALUE=DATE:20220820
+UID:1105432
+DESCRIPTION:<p>&nbsp\;🇩🇪 Sweaty Already Jam Serie!</p><p>Am 20.8.22 
+ & 03.09.22 gibt es zwei eintägige Jams in der neuen Parkourhalle in Linz\
+ , Österreich.</p><p>Die Grundidee ist einfach: Erkunde unser neues Gym w
+ ährend eines ganztägigen Events (09.00 - 21.00 Uhr)\, komm mit der Commu
+ nity zusammen\, trainiere\, meistere Skill-Challenges und habe Spaß.</p><
+ br><p>Preis: 25€</p><p>Essen: nur Snacks und Getränke\, kein Mittag-/Ab
+ endessen</p><p>Übernachtung: keine</p><br><p>Einige weitere Details:&nbsp
+ \;</p><p>- Parkour-Bereich in einem alten Schwimmbad (kein Scherz)&nbsp\;<
+ /p><p>- große Freifläche mit einem Airtrick\, Wall Tramp\,...&nbsp\;</p>
+ <p>- drei Kraft- und Konditionsbereiche&nbsp\;</p><p>- viele Hindernisse&n
+ bsp\;</p><p>- Skill-Challenges</p><br><p>Keine Anmeldung erforderlich! &nb
+ sp\;Wenn Sie weitere Fragen haben\, zögern Sie bitte nicht\, uns zu konta
+ ktieren (info@teamobsession.at)</p><br><p>🇬🇧 Sweaty Already Jam Seri
+ es!</p><p>On 20.8.22 & 03.09.22 there will be two one-day jams at the new 
+ parkour gym in Linz\, Austria.</p><p>The basic idea is simple: explore our
+  new gym during a full day event (09.00 - 21.00)\, get together with the c
+ ommunity\, train\, master skill challenges and have fun.</p><br><p>Price: 
+ 25€</p><p>Food: only snacks & drinks included\, no lunch/dinner</p><p>Ac
+ comodation: not included</p><br><p>Some more details:&nbsp\;</p><p>- Parko
+ ur area in an old swimming pool (we´re not kidding)&nbsp\;</p><p>- large 
+ open area with an Airtrick\, wall tramp\,...&nbsp\;</p><p>- three strength
+  and conditioning areas&nbsp\;</p><p>- lots of obstacles&nbsp\;</p><p>- Sk
+ ill Challenges&nbsp\;</p><br><p>No registration necessary! &nbsp\;If you h
+ ave any further questions\, please don´t hesitate to contact us (info@tea
+ mobsession.at)</p>
+GEO:48.3313752;14.3236873
+LOCATION:Zero Limits Trendsporthalle\, Julius-Raab-Straße\, Linz\, Austri
+ a
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE=:MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweaty Already Jam
+DTSTART;VALUE=DATE:20220903
+DTEND;VALUE=DATE:20220903
+UID:1105433
+DESCRIPTION:<p>&nbsp\;🇩🇪 Sweaty Already Jam Serie!</p><p>Am 20.8.22 
+ & 03.09.22 gibt es zwei eintägige Jams in der neuen Parkourhalle in Linz\
+ , Österreich.</p><p>Die Grundidee ist einfach: Erkunde unser neues Gym w
+ ährend eines ganztägigen Events (09.00 - 21.00 Uhr)\, komm mit der Commu
+ nity zusammen\, trainiere\, meistere Skill-Challenges und habe Spaß.</p><
+ br><p>Preis: 25€</p><p>Essen: nur Snacks und Getränke\, kein Mittag-/Ab
+ endessen</p><p>Übernachtung: keine</p><br><p>Einige weitere Details:&nbsp
+ \;</p><p>- Parkour-Bereich in einem alten Schwimmbad (kein Scherz)&nbsp\;<
+ /p><p>- große Freifläche mit einem Airtrick\, Wall Tramp\,...&nbsp\;</p>
+ <p>- drei Kraft- und Konditionsbereiche&nbsp\;</p><p>- viele Hindernisse&n
+ bsp\;</p><p>- Skill-Challenges</p><br><p>Keine Anmeldung erforderlich! &nb
+ sp\;Wenn Sie weitere Fragen haben\, zögern Sie bitte nicht\, uns zu konta
+ ktieren (info@teamobsession.at)</p><br><p>🇬🇧 Sweaty Already Jam Seri
+ es!</p><p>On 20.8.22 & 03.09.22 there will be two one-day jams at the new 
+ parkour gym in Linz\, Austria.</p><p>The basic idea is simple: explore our
+  new gym during a full day event (09.00 - 21.00)\, get together with the c
+ ommunity\, train\, master skill challenges and have fun.</p><br><p>Price: 
+ 25€</p><p>Food: only snacks & drinks included\, no lunch/dinner</p><p>Ac
+ comodation: not included</p><br><p>Some more details:&nbsp\;</p><p>- Parko
+ ur area in an old swimming pool (we´re not kidding)&nbsp\;</p><p>- large 
+ open area with an Airtrick\, wall tramp\,...&nbsp\;</p><p>- three strength
+  and conditioning areas&nbsp\;</p><p>- lots of obstacles&nbsp\;</p><p>- Sk
+ ill Challenges&nbsp\;</p><br><p>No registration necessary! &nbsp\;If you h
+ ave any further questions\, please don´t hesitate to contact us (info@tea
+ mobsession.at)</p>
+GEO:48.3313752;14.3236873
+LOCATION:Zero Limits Trendsporthalle\, Julius-Raab-Straße\, Linz\, Austri
+ a
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE=:MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4Tc Jam
+DTSTART;VALUE=DATE:20220917
+DTEND;VALUE=DATE:20220918
+UID:1016168
+DESCRIPTION:<p>🇩🇪 Die 4TC Jam vereint großartige Communities aus de
+ n Bereichen Ninja\, Tricking und Parkour\, um gemeinsame und unvergesslich
+ e Trainingsmomente zu erleben.&nbsp\;</p><p>Vorträge\, Wellness & Action 
+ darf man erwarten.&nbsp\;</p><p>Die Location mitten in Österreich\, in de
+ r Region Schladming-Dachstein bietet eine Halle mit einer extra für diese
+  Sportarten angefertigten Trainingslandschaft\, einem großem Trampolin\, 
+ Plyoboden Ninja Hindernisse uvm.&nbsp\;</p><p>Hier der <a rel="noopener no
+ referrer" target="_blank" href="https://sportunion.at/news/2020/10/15/4tc-
+ jam-2020/">Aftermovie vom letztem Jahr</a>!</p><br><p>Essen: inkludiert\, 
+ vegan möglich</p><p>Unterkunft: Doppelzimmer im Hotel daneben oder mit Is
+ omatte und Schlafsack in der Tennishalle.</p><p>Preis: 95€ (Unterkunft i
+ m Hotel) oder 80€ (Unterkunft in der Halle)</p><br><p>Anmeldung <a rel="
+ noopener noreferrer" target="_blank" href="https://sportunion-akademie.at/
+ content/SPORTUNION_Akademie/aktivkurse/aktivkurse/oe22074-4tc_jam/1662">hi
+ er</a>.</p><br><p>🇬🇧 The 4TC Jam brings together great communities f
+ rom the fields of ninja\, tricking and parkour to experience unforgettable
+  training moments together.&nbsp\;</p><p>You can expect lectures\, wellnes
+ s and action.&nbsp\;</p><p>The location in the middle of Austria\, in the 
+ Schladming-Dachstein region\, offers a hall with a training landscape spec
+ ially made for these sports\, a large trampoline\, plyofloor Ninja obstacl
+ es and much more.&nbsp\;</p><br><p>Check out the <a rel="noopener noreferr
+ er" target="_blank" href="https://sportunion.at/news/2020/10/15/4tc-jam-20
+ 20/">Aftermovie from last year</a>!</p><br><p>Food: included\, vegan possi
+ ble</p><p>Accommodation: Double room in the hotel or with sleeping mat and
+  sleeping bag in the tennis hall.</p><p>Price: 95€ (accommodation in the
+  hotel) or 80€ (accommodation in the hall)</p><br><p>Sign up <a rel="noo
+ pener noreferrer" target="_blank" href="https://sportunion-akademie.at/con
+ tent/SPORTUNION_Akademie/aktivkurse/aktivkurse/oe22074-4tc_jam/1662">here<
+ /a>.</p>
+GEO:47.48138789999999;14.0117618
+LOCATION:sportsarea Grimming\, Niederöblarn\, Austria
+ORGANIZER;CN="Pamela Forster";PHONE=;WEBSITE=:MAILTO:Pamela.forster@sportu
+ nion.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Jam - Linz
+DTSTART;VALUE=DATE:20221001
+DTEND;VALUE=DATE:20221001
+UID:1159508
+DESCRIPTION:<p>🇩🇪 &nbsp\;Erste Flying Freaks Street Jam in Linz!</p>
+ <p>Nähere Details folgen in der WhatsApp Gruppe - Einfach per Instagram D
+ M @flying_freaks oder per E-Mail melden\, dann werdet ihr hinzugefügt.</p
+ ><br><p>Schlafplatz: Begrenzt bei Locals\, am besten in der Whatsappgruppe
+  fragen.</p><p>Preis: Gratis</p><p>Essen: nicht inkludiert</p><br><p>🇬
+ 🇧 First Flying Freaks Street Jam in Linz!</p><p>More details will follo
+ w in the WhatsApp group - just DM @flying_freaks on Instagram or send an e
+ mail and you will be added.</p><br><p>Accomodation: Limited - with locals\
+ , best to ask via the Whatsapp Chat.</p><p>Price: free</p><p>Food: not inc
+ luded</p>
+GEO:48.309757;14.2828703
+LOCATION:Neues Rathaus / Magistrat Linz\, Hauptstraße 1-5\, Linz\, Austri
+ a
+ORGANIZER;CN="Flying Freaks";PHONE=;WEBSITE=:MAILTO:flyingfreaks1@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Skill & Style
+DTSTART;VALUE=DATE:20221119
+DTEND;VALUE=DATE:20221120
+UID:1259435
+DESCRIPTION:<p>🇩🇪 &nbsp\;Skill &amp\; Style Contest in der 4 Element
+ s Academy am 19.11. &amp\; Jam am 20.11 - Zwischen Skill (Vormittag) &amp\
+ ; Style (Nachmittag) gibt es natürlich auch genug Zeit für Jammen.</p><b
+ r><p>&nbsp\;Es gibt sowohl eine Mens\, Womens and Kids Division.</p><br><p
+ >Preis: Contest Ticket + Übernachtung in der Halle (Unbedingt Schlafsack 
+ und warme Kleidung mitbringen) 50€ oder nur Contest Ticket 30€</p><br>
+ <p>Tickets &amp\; Timetable gibt's <a rel="noopener noreferrer" target="_b
+ lank" href="https://www.4elementsacademy.at/contest--77191464-de.html"><st
+ rong>hier</strong></a>.</p><br><p>🇬🇧 Skill &amp\; Style Contest at t
+ he 4 Elements Academy on 19.11. &amp\; Jam on 20.11.&nbsp\;</p><p>Between 
+ Skill (morning) &amp\; Style (afternoon) there will of course be plenty of
+  time for jamming.</p><p>There is a Mens\, Womens and Kids division.</p><p
+ >Price: Contest ticket + overnight stay in the hall (make sure to bring a 
+ sleeping bag and warm clothes): 50€ or only contest ticket 30€.</p><p>
+ Tickets &amp\; Timetable can be found <a rel="noopener noreferrer" target=
+ "_blank" href="https://www.4elementsacademy.at/contest--77191464-de.html">
+ <strong>here</strong></a>.</p>
+GEO:47.2798385;11.4914655
+LOCATION:4 Elements Academy Urban Fitness Studio\, Alte Landstraße\, Hall
+  in Tirol\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xmas Marmelade 9.0 - Linz
+DTSTART;VALUE=DATE:20221217
+DTEND;VALUE=DATE:20221218
+UID:1216737
+DESCRIPTION:<p>🇩🇪 &nbsp\;Euch erwarten zwei Tage Vollgas Jammen\, Sp
+ aß\, liebe Menschen\, Contests und noch mehr Spaß!</p><p>- Parkour Area 
+ (inkl. mobile Obstaclessss!)</p><p>- Tricking & Trampoline Area (Airtrick\
+ , Minitramp\, Riesentramp)</p><p>- Videoabend</p><p>- Skillcontests für K
+ ids (10-14 Jahre) & Teens+Above (15+ Jahre)&nbsp\;</p><br><p>Essen: Samsta
+ g Abendessen\, am Sonntag Frühstück &nbsp\;</p><p>Jamzeiten: Samstag 17.
+ 12.\, 10:00 - 22.00 Sonntag 18.12.\, 09.00 - 16.00</p><p>Preis: 60€\, Fr
+ ühbucherbonus 55€ bei Anmeldung per Mail bis 30.11.22</p><p>Unterkunft:
+  NICHT IN DER HALLE MÖGLICH - bis 17.11 ist aber ein vergünstigtes Doppe
+ lzimmer im Studentenheim buchbar mit dem Geheimwort "Weihnachtsevent" kost
+ et es 39€ pro Person inkl. Frühstück <a rel="noopener noreferrer" targ
+ et="_blank" href="http://www.sommerhaus-hotel.at/de/linz?fbclid=IwAR17PbHm
+ CpOa-S73cRItB8AUD_Ci-s7zVUHpTHA9gkGcB1aSTcOqpg3kv90">http://www.sommerhaus
+ -hotel.at/de/linz</a></p><br><p>Alle weiteren Infos <a rel="noopener noref
+ errer" target="_blank" href="https://www.facebook.com/events/4952088026220
+ 82/">hier</a>\, Anmeldung per Mail an info@teamobsession.at</p><br><p>🇬
+ 🇧 Two full days jamming\, fun\, lovely people\, contests and even more 
+ fun await you!</p><p>- Parkour Area (incl. mobile obstacles!)</p><p>- Tric
+ king & Trampoline Area (Airtrick\, Minitramp\, Big Tramp)</p><p>- Video ev
+ ening</p><p>- Skill contests for Kids (10-14 years) & Teens+Above (15+ yea
+ rs)&nbsp\;</p><br><p>Food: Saturday dinner\, Sunday breakfast</p><p>Jam ti
+ mes: Saturday 17.12.\, 10:00 - 22.00 Sunday 18.12.\, 09.00 - 16.00</p><p>P
+ rice: 60€\, early bird 55€ if you register by email until 30.11.22</p>
+ <p>Accommodation: NOT POSSIBLE IN THE GYM! - but until 17.11 you can book 
+ a discounted double room in a student dormitory with the secret word "Chri
+ stmas event" for 39€ per person incl. breakfast <a rel="noopener norefer
+ rer" target="_blank" href="http://www.sommerhaus-hotel.at/de/linz?fbclid=I
+ wAR17PbHmCpOa-S73cRItB8AUD_Ci-s7zVUHpTHA9gkGcB1aSTcOqpg3kv90">http://www.s
+ ommerhaus-hotel.at/de/linz</a></p><br><p>All further information <a rel="n
+ oopener noreferrer" target="_blank" href="https://www.facebook.com/events/
+ 495208802622082/">here</a> & sign up per email to info@teamobsession.at</p
+ >
+GEO:48.3313752;14.3236873
+LOCATION:Zero Limits Trendsporthalle\, Julius-Raab-Straße\, Linz\, Austri
+ a
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 Elements Academy Öpfv Contest
+DTSTART;VALUE=DATE:20230225
+DTEND;VALUE=DATE:20230226
+UID:1370549
+DESCRIPTION:<p>🇬🇧 The Jam/Contest starts on 25.02.23 at 9:00 am and 
+ ends on 26.02.23 at 3:00 pm. It takes place in Austria's biggest Parkour &
+ amp\; Freerunning Facility and includes Skills\, Speed &amp\; Style Contes
+ t* of the ÖPFV - Österreichischer Parkour &amp\; Freerunning Verband (Al
+ l on 25.02.) There will be youth male and female and adult male and female
+  in all competition formats. On 26.02 it's full Jam action. The gym contai
+ ns 2 Eurotramps\, 1 airbag\, 1 pole park &amp\; 1 tricking area.</p><br><p
+ >*Competing is only possible for ÖPFV Members (you can sign up easily for
+  free at the event\, that only works if you can't be involved with FIG/ÖF
+ T/DTB or any similar competitions)</p><br><p>Contest prizes: For Skill &am
+ p\; Style: 1st place 150€\, 2nd place 100€ 3rd place 50€ for male &a
+ mp\; female in the adult category.</p><br><p>Price: 50€</p><p>Sleeping p
+ lace: In the parkour gym</p><p>Food: Not included\, but a food truck will 
+ be there for Saturday (25.02) and supermarkets are just around the corner 
+ with a 5min walk.&nbsp\;</p><br><p>Sign up <a rel="noopener noreferrer" ta
+ rget="_blank" href="https://www.4elementsacademy.at/skills-contest.html"><
+ u><strong>here</strong></u></a>!</p>
+GEO:47.279843;11.4914752
+LOCATION:4 Elements Academy\, Alte Landstraße\, Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at/skills-contest.html":MAILTO:office@4elementsacademy.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ape Academy Öpfv Skill Contest
+DTSTART;VALUE=DATE:20230401
+DTEND;VALUE=DATE:20230402
+UID:1370587
+DESCRIPTION:<p>🇬🇧 Skill Contest* in the Ape Academy Gym + Jam. There
+  will be a youth and an adult category &amp\; both male &amp\; female.</p>
+ <br><p>Contest prizes: 1st place 150€\, 2nd place 100€ 3rd place 50€
+  for male &amp\; female in the adult category</p><br><p>Price: approximate
+ ly 30€\, not 100% sure yet.</p><p>Food: not included</p><p>Accomodation:
+  not included</p><br><p>*Competing is only possible for ÖPFV Members (you
+  can sign up easily for free at the event\, that only works if you can't b
+ e involved with FIG/ÖFT/DTB or any similar competitions)</p>
+GEO:48.1355934;16.3145465
+LOCATION:ape academy\, Perfektastraße\, Vienna\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Mur Jam - Graz
+DTSTART;VALUE=DATE:20230429
+DTEND;VALUE=DATE:20230429
+UID:1418864
+DESCRIPTION:<p>Outdoor Jam in Graz!!!</p><p>The jam starts at 11:00 am at 
+ the Fröbelpark Spot (<a rel="noopener noreferrer" target="_blank" href="h
+ ttps://www.google.com/maps/place/Hirtengasse+11\,+8020+Graz\,+%C3%96sterre
+ ich/data=!4m2!3m1!1s0x476e35a4b81a4ec9:0xdb3081793ac8f24e?sa=X&ved=2ahUKEw
+ jqjYibg6D9AhUJRvEDHUdZAtcQ8gF6BAgSEAI"><strong>here</strong></a>) then mor
+ e spots & food.</p><p>From 19:00 pm on there is a jam in the <a rel="noope
+ ner noreferrer" target="_blank" href="https://www.ninjabox.at/">Ninjabox</
+ a>\, afterwards cooking at Kili's Place.</p><br><p>More information in the
+  <a rel="noopener noreferrer" target="_blank" href="https://chat.whatsapp.
+ com/E3YJ1iSXBauBNRFGvVrmc7">Whatsapp group</a>!</p><br><p>Price: Free</p><
+ p>Accomodation: For hosting possibilities just ask into the whatsappgroup!
+ </p><p>Food: not included</p>
+GEO:47.0838546;15.4172171
+LOCATION:Hirtengasse 11\, Graz\, Austria
+ORGANIZER;CN="Urban Playground Graz";PHONE=;WEBSITE=:MAILTO:parkour@urban-
+ playground.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linz Öpfv Style Contest & Jam
+DTSTART;VALUE=DATE:20230603
+DTEND;VALUE=DATE:20230604
+UID:1418892
+DESCRIPTION:<p>Style Contest* at the outdoor parkour park in Linz &amp\; J
+ am afterwards. There will be a youth and adult category &amp\; both male a
+ nd female.</p><br><p>Contest prizes: 1st place 150€\, 2nd place 100€ 3
+ rd place 50€ for male &amp\; female in the adult category.</p><br><p>*Co
+ mpeting is only possible for ÖPFV Members (you can sign up easily for fre
+ e at the event\, that only works if you can't be involved with FIG/ÖFT/DT
+ B or any similar competitions)</p><br><p>Price/Sleeping place/Food: to be 
+ announced</p>
+GEO:48.2684338;14.2816505
+LOCATION:Wieningerstraße 11\, 4020 Linz\, Österreich
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revo Cult Jam - Vienna
+DTSTART;VALUE=DATE:20230707
+DTEND;VALUE=DATE:20230709
+UID:1476181
+DESCRIPTION:<p>save the date!</p><p>big street jam in Vienna!</p>
+GEO:48.2081743;16.3738189
+LOCATION:Vienna\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Playground Festival - Klagenfurt
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230715
+UID:1436346
+DESCRIPTION:<p>Urban Playground Festival!</p><p>- Parkour Jam und Skillcom
+ p&nbsp\;</p><p>- Skate Jam&nbsp\;</p><p>- Graffiti Jam&nbsp\;</p><p>- Cali
+ sthenics&nbsp\;</p><p>- Live Musik&nbsp\;</p><p>- Breaking Battle&nbsp\;</
+ p><p>- DJ Sets&nbsp\;</p><p>- Love</p><br><p>Price: free</p><p>Food: none<
+ /p><p>Accomodation: Ask for local hosts :)</p>
+GEO:46.6206319;14.2599849
+LOCATION:Europapark\, Klagenfurt am Wörthersee\, Austria
+ORGANIZER;CN="Urban Playground";PHONE=;WEBSITE=www.urban-playground.at:MAI
+ LTO:peter@urban-playground.at
+END:VEVENT
+END:VCALENDAR

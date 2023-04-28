@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:In Extremis Fam Winter Edition
+DTSTART;VALUE=DATE:20221216
+DTEND;VALUE=DATE:20221218
+UID:1259453
+DESCRIPTION:<p>🇩🇪 Winter Jam in der spanischen Parkourhalle IN EXTRE
+ MIS CLUB</p><br><p>Preis: 105€</p><p>Übernachtung: 2 x in der Halle</p>
+ <p>Essen: 1 x Essen pro Tag</p><br><p>Fragt am besten auf <a rel="noopener
+  noreferrer" target="_blank" href="https://instagram.com/inextremisclub?ig
+ shid=YmMyMTA2M2Y=">Instagram</a> nach wenn ihr mehr wissen wollt.</p><br><
+ p>🇬🇧 Winter Jam at the Spanish parkour gym IN EXTREMIS CLUB</p><br><
+ p>Price: 105€</p><p>Overnight stay: 2 x in the hall</p><p>Food: 1 x meal
+  per day</p><br><p>Ask on <a rel="noopener noreferrer" target="_blank" hre
+ f="https://instagram.com/inextremisclub?igshid=YmMyMTA2M2Y=">Instagram</a>
+  &nbsp\;if you want to know more.</p>
+GEO:41.514077;2.1342975
+LOCATION:In Extremis Club Academy\, Ronda de Santa Maria\, Barberà del Va
+ llès\, Spain
+ORGANIZER;CN=;PHONE=;WEBSITE="https://inextremisclub.com/":MAILTO:https://
+ instagram.com/inextremisclub?igshid=YmMyMTA2M2Y=
+END:VEVENT
+END:VCALENDAR

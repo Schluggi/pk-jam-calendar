@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Bialystok Jam By Swl
+DTSTART;VALUE=DATE:20220716
+DTEND;VALUE=DATE:20220717
+UID:1062083
+DESCRIPTION:<p><strong>Come join us in North East Poland for 2 days of bes
+ t training with best Polsih Freeruners. We are organizing speed\, flow\, A
+ nd best trick competition too\, with money prizes\, check out link :)</str
+ ong></p><br><p><strong>100 pln = 25 euro</strong></p>
+GEO:53.1578771;23.1654462
+LOCATION:Strefa Wysokich Lotów\, Generała Władysława Andersa\, Białys
+ tok\, Poland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mfp 2022 - Gdansk
+DTSTART;VALUE=DATE:20220826
+DTEND;VALUE=DATE:20220828
+UID:1030240
+DESCRIPTION:<p>🇩🇪 Details kommen bald!</p><p>🇬🇧 Details coming
+  soon!</p>
+GEO:54.3895517;18.6422409
+LOCATION:Movement Arena\, Pokoleń Lechii Gdańsk\, Gdańsk\, Poland
+ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://www.facebook.com/eve
+ nts/1238837550190886/?active_tab=about":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Parkour Festival (Mfp)
+DTSTART;VALUE=DATE:20230825
+DTEND;VALUE=DATE:20230827
+UID:1394452
+DESCRIPTION:<p>SAVE THE DATE! &nbsp\;</p><p>- Parkour festval in Gdańsk\,
+  Poland for the 11th time!&nbsp\;</p><p>- JAM in Movement Arena (Parkour g
+ ym) in the city and on the beach&nbsp\;</p><p>- SKILL comp&nbsp\;</p><p>- 
+ SCREENING of parkour/freerun videos</p><p>- AFTERPARTY</p><br><p>Price: 40
+ -70€</p><p>Food: not included</p><p>Accomodation: optional</p>
+GEO:54.3900786;18.6392969
+LOCATION:Pokoleń Lechii Gdańsk 1\, Gdańsk\, Poland
+ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://www.youtube.com/watc
+ h?v=9xo8KsaR8OU":MAILTO:mfp@ksmovement.pl
+END:VEVENT
+END:VCALENDAR

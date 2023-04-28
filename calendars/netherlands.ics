@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:4 The Love Of Movement - Amsterdam
+DTSTART;VALUE=DATE:20220819
+DTEND;VALUE=DATE:20220821
+UID:1016164
+DESCRIPTION:<p>🇩🇪 Festival-Version der bekannten 4TLOM Jam\, diesmal
+  in Amsterdam.</p><p>Es wird ein riesiges Parkour Set-up & eine offizielle
+  4TLOM Afterparty geben.</p><p>Preis: 101€ inkl. Event T-Shirt & Armband
+ </p><p>Essen: Nicht inkludiert!</p><p>Unterkunft: 2 Nächte im Army-Zelt m
+ it Feldbetten sind inkludiert.</p><p>Tickets gibt es auf der Website.</p><
+ br><p>🇬🇧 Festival version of the famous 4TLOM Jam\, this time in Ams
+ terdam.</p><p>There will be a huge parkour set-up & an official 4TLOM afte
+ rparty.</p><p>Price: 101€ incl. event t-shirt & wristband.</p><p>Food: N
+ ot included!</p><p>Accommodation: 2 nights in an army tent with field beds
+  are included.</p><p>Tickets on the website.</p>
+GEO:nan;nan
+LOCATION:
+ORGANIZER;CN="Jump Freerun";PHONE=;WEBSITE="https://jumpfreerun.nl/4tlom/"
+ :MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Own The Spot - Eindhoven
+DTSTART;VALUE=DATE:20220826
+DTEND;VALUE=DATE:20220828
+UID:1012615
+DESCRIPTION:<p>🇩🇪 Street Jam in Eindhoven\, Niederlande mit Competit
+ ion</p><p>"Own the Spot" - Competition - das bedeutet\, 5 Spots werden ang
+ esagt und man kann je einen Clip hochladen\, abends wird gejudged welcher 
+ Clip gewinnt (1 Clip pro Spot)</p><p>Ticketverkauf hat bereits gestartet (
+ siehe Website)</p><p>Preis: 65€ inkl. Frühstück & Abendessen\, Schlafp
+ latz & Event-T-Shirt</p><br><p>🇬🇧 Street Jam in Eindhoven\, Netherla
+ nds</p><p>"Own the Spot" - Competition.&nbsp\;</p><p>You have the chance t
+ o "own a spot" - means filming a line at 5 chosen spots\, the lines will b
+ e judged at the same night & &nbsp\;for each spot there will be one winner
+ !</p><p>Ticket sale has started already (check the website)</p><p>Price: 6
+ 5 Euro\, includes breakfast and dinner\, a sleeping spot & a event T-Shirt
+ </p>
+GEO:51.4376604;5.4805452
+LOCATION:Dynamo\, Catharinaplein\, Eindhoven\, Netherlands
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="https://urbanlab.gotgrib.nl/
+ member/selfservice/registration/own_the_spot_2022__eng":MAILTO:info@commit
+ freerun.nl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Vibes Amsterdam
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230716
+UID:1521728
+DESCRIPTION:<p>more infos soon!</p><br><p>Price &amp\; Food: tba</p><p>Acc
+ omodation: Munki Motion Zaandam</p>
+GEO:52.3675734;4.9041389
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;CN="Munki Motion Parkour";PHONE=;WEBSITE=@munkimotionparkour:MAI
+ LTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 The Love Of Movement
+DTSTART;VALUE=DATE:20230728
+DTEND;VALUE=DATE:20230730
+UID:1383950
+DESCRIPTION:<p>4TLOM in Amsterdam!</p><p>- 3 days exclusive acces to our c
+ ustom-build and enormous trainining areas.&nbsp\;</p><p>- Official event t
+ -shirt and wristband</p><p>- Access to the official 4TLOM party</p><br><p>
+ Price: Early Bird 100€&nbsp\;</p><p>Regular 115€</p><p>Food: Not inclu
+ ded</p><p>Accomodation: Sleepover in a comfortable army tent for 2 nights 
+ (with fieldbed)</p><br><p>You can buy your tickets <a rel="noopener norefe
+ rrer" target="_blank" href="https://www.nowonlinetickets.nl/Shop/EventDeta
+ ils/6EF9C9C0D78CE56FD20BC42F445DF004">here</a>!</p>
+GEO:52.3675734;4.9041389
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;CN="Jump Freerun";PHONE=;WEBSITE="https://jumpfreerun.nl/4tlom/"
+ :MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Own The Spot
+DTSTART;VALUE=DATE:20230811
+DTEND;VALUE=DATE:20230813
+UID:1143432
+DESCRIPTION:<p>SAVE THE DATE&nbsp\;</p>
+GEO:51.4376604;5.4805452
+LOCATION:Dynamo\, Catharinaplein\, Eindhoven\, Netherlands
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE=info@commitfreerun.nl:MAILTO:
+END:VEVENT
+END:VCALENDAR

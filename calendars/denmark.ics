@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Nordic Pk Jampionships
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20220904
+UID:1105434
+DESCRIPTION:<p>&nbsp\;🇩🇪 Jam &amp\; Wettbewerb mit Geldpreisen von 5
+ 000 DKK für den Gewinner jeder Kategorie (Speed\, Style und Bester Clip).
+  Neben dem eigens für die Veranstaltung aufgebautem Parkour-Park wird es 
+ auch geführte Spot-Touren geben. Es werden einige eingeladene Parkour Ath
+ leten vor Ort sein.Schlafplatz: Überdachter Schlafplatz</p><p>Essen: Selb
+ stversorger!</p><p>Der Jam ist kostenlos und erfordert keine Anmeldung :)<
+ /p><p>🇬🇧 Jam &amp\; competition with cash prizes of 5000 DKK for the
+  winner of each category (speed\, style and greatest clip).&nbsp\;</p><p>T
+ here will also be guided spot tours apart from the dedicated parkour park 
+ for the event. We will fly some athletes in as well.</p><p>Accomodation: C
+ overed sleeping space</p><p>Food: Not included</p><p>The jam is free and d
+ oes not require registration :)</p>
+GEO:56.1615639;10.2227846
+LOCATION:Hveensgade 5\, 8000 Aarhus\, Denmark
+ORGANIZER;CN="Moumen “Momo” Machlah";PHONE=;WEBSITE=:MAILTO:aarhuspark
+ our@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest In Ollerup Jam
+DTSTART;VALUE=DATE:20221104
+DTEND;VALUE=DATE:20221106
+UID:1188968
+DESCRIPTION:<p>🇩🇪 Ollerup hat sich entschieden den Parkourbereich zu
+  halbieren\, daher findet nun vorerst die letzte große Ollerup Jam statt!
+ </p><br><p>Mehr Infos kommen bald!</p><br><p>Anmeldelink <a rel="noopener 
+ noreferrer" target="_blank" href="https://tilmelding.ollerup.dk/da/public/
+ courses/signupshort?courseid=330&amp\;fbclid=IwAR3dhdxC-nJWq_yU6ypc_xfHgX3
+ H4BJlRXEba8P7i7kpFmV8IGwyNKfZOLE">hier</a>\, Achtung nicht mehr viele Plä
+ tze frei!</p><br><p>🇬🇧 Ollerup decided to to repurpose half of the p
+ arkour hall for the fitness line\, means half of the parkour area will be 
+ lost. So this might be the last big Ollerup jam!</p><br><p>More informatio
+ n coming soon.</p><br><p>Sign up <a rel="noopener noreferrer" target="_bla
+ nk" href="https://tilmelding.ollerup.dk/da/public/courses/signupshort?cour
+ seid=330&amp\;fbclid=IwAR3dhdxC-nJWq_yU6ypc_xfHgX3H4BJlRXEba8P7i7kpFmV8IGw
+ yNKfZOLE">here</a>\, not many tickets left!</p>
+GEO:55.07097;10.511618
+LOCATION:Gymnastikhøjskolen i Ollerup (Selvejende Institution)\, Svendbor
+ gvej\, Vester Skerninge\, Denmark
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.facebook.com/events/455634246480
+ 152/":MAILTO:HV@ollerup.dk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Copenhagen Winter Session
+DTSTART;VALUE=DATE:20230303
+DTEND;VALUE=DATE:20230305
+UID:1409322
+DESCRIPTION:<p>Copenhagen Parkour is a non profit NGO\, everyone is volunt
+ eers. All activities is opt-in based. Everyone is welcome. Please find all
+  information on our webpage.</p><br><p>Price: 200dkk / 30 euro</p><p>Food:
+  Breakfast only</p><p>Accomodation: yes\, in the sleeping hall</p>
+GEO:55.7022714;12.5481153
+LOCATION:Tagensvej 85D\, 2200 Copenhagen\, Denmark
+ORGANIZER;CN="Copenhagen Parkour";PHONE=;WEBSITE="https://cphparkour.wordp
+ ress.com/":MAILTO:ilja.olsen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Copenhagen (Woman & Non Binary) Parkour Gathering
+DTSTART;VALUE=DATE:20230526
+DTEND;VALUE=DATE:20230528
+UID:1455598
+DESCRIPTION:<p>The Copenhagen Parkour Gathering for Women and Non-Binary
+ ⁠Sign up and get your tickets <a rel="noopener noreferrer" target="_blan
+ k" href="https://docs.google.com/forms/d/e/1FAIpQLSch3eddqw-WgGGj4x4pn_1C6
+ ZQXA6_0X4QXB4oWKGSlPJzB5w/viewform"><strong>here</strong></a><strong> </st
+ rong>(early bird tickets end 15th March!)⁠</p><p>More information in thi
+ s <a rel="noopener noreferrer" target="_blank" href="https://www.facebook.
+ com/events/546792773528875/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_h
+ istory%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22
+ mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C
+ %22invite_link_id%5C%22%3A591832756081573%7D%7D%5D%22%7D">Facebook event</
+ a>.</p><br><p>Price: 250 DKK / 34 EURO (Early bird)</p><p>DKK 350\,- / 47 
+ EURO (normal price)</p><p>Accomodation: ?</p><p>Food: ?</p>
+GEO:55.6760968;12.5683371
+LOCATION:Copenhagen\, Denmark
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.facebook.com/events/546792773528
+ 875/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22%5B%7B%5
+ C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%2
+ 2share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22
+ %3A591832756081573%7D%7D%5D%22%7D":MAILTO:cphparkourgathering@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gerlev International Gathering
+DTSTART;VALUE=DATE:20230723
+DTEND;VALUE=DATE:20230729
+UID:1475810
+DESCRIPTION:<p>Come join the International Gathering at Gerlev if you are 
+ interested in innovative and artistic ways of moving your body? Movement p
+ eople from the four different genres\; PARKOUR\, MOVE\, DANCE and BEACHVOL
+ LEY get a unique chance to live\, socialize and do some amazing training i
+ n a great community for one week this summer.</p><br><p>You can find all t
+ he information <a rel="noopener noreferrer" target="_blank" href="https://
+ cdn.boomte.ch/calendar/Come%20join%20the%20International%20Gathering%20at%
+ 20Gerlev%20if%20you%20are%20interested%20in%20innovative%20and%20artistic%
+ 20ways%20of%20moving%20your%20body?%20Movement%20people%20from%20the%20fou
+ r%20different%20genres\;%20PARKOUR\,%20MOVE\,%20DANCE%20and%20BEACHVOLLEY%
+ 20get%20a%20unique%20chance%20to%20live\,%20socialize%20and%20do%20some%20
+ amazing%20training%20in%20a%20great%20community%20for%20one%20week%20this%
+ 20summer."><strong>here</strong></a>.</p>
+GEO:55.3536923;11.326476
+LOCATION:Skælskør Landevej 28\, Slagelse\, Denmark
+ORGANIZER;CN=;PHONE=;WEBSITE="https://gerlev.dk/kortkursus/international-g
+ athering-2023/":MAILTO:
+END:VEVENT
+END:VCALENDAR

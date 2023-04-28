@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Spl 2 Vancouver
+DTSTART;VALUE=DATE:20230817
+DTEND;VALUE=DATE:20230820
+UID:1370584
+DESCRIPTION:<p>🇬🇧 SPL 2 In Vancouver\, BC - Skill\, Speed & Style Co
+ mpetition</p><p>world's #1 parkour championships</p><br><p>SAVE THE DATE</
+ p>
+GEO:nan;nan
+LOCATION:
+ORGANIZER;CN="Sport Parkour League";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+END:VCALENDAR

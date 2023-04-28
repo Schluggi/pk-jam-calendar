@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Kipa Jam - Stockholm
+DTSTART;VALUE=DATE:20220617
+DTEND;VALUE=DATE:20220619
+UID:1016162
+DESCRIPTION:<p>🇩🇪 KIPA Street Jam in Stockholm\, Schweden</p><p>Prei
+ s der Jam: 0€</p><p>Preis fürs Übernachten im Gym: 25€ (AUSVERKAUFT)
+ </p><p>Genauere Infos gibt es auf der Website!</p><p>🇬🇧 KIPA Street 
+ in Stockholm\, Sweden</p><p>Price of the jam: 0€</p><p>Price for sleepin
+ g in the Gym: 25€ (SOLD OUT)</p><p>More information on their website!</p
+ >
+GEO:59.32932349999999;18.0685808
+LOCATION:Stockholm\, Sweden
+ORGANIZER;CN="KIPA Magazine";PHONE=;WEBSITE="https://kipamagazine.com":MAI
+ LTO:kipajumps@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Wipp Battles
+DTSTART;VALUE=DATE:20220909
+DTEND;VALUE=DATE:20220911
+UID:1144689
+DESCRIPTION:<p>🇩🇪 3 Tage Jam im Air Wipp Gym in Helsingborg</p><p>- 
+ Skill Competition & Style Competition\, 3000€ Preisgeld insgesamt</p><p>
+ Preis: 66€</p><p>Schlafplatz: im Gym</p><p>Essen: Abendessen inkludiert<
+ /p><br><p>Tickets gibts hier: <a rel="noopener noreferrer" target="_blank"
+  href="http://www.airwippacademy.com/air-wipp-battles">http://www.airwippa
+ cademy.com/air-wipp-battles</a></p><br><p>🇬🇧 3 Days Jam at Air Wipp 
+ Gym in Helsingborg</p><p>- Skill Competition & Style Competition\, 3000€
+  total prize money</p><p>Prize: 66€</p><p>Sleeping place: at the Gym</p>
+ <p>Meal: Dinner included</p><br><p>Tickets here: <a rel="noopener noreferr
+ er" target="_blank" href="http://www.airwippacademy.com/air-wipp-battles">
+ http://www.airwippacademy.com/air-wipp-battles</a></p>
+GEO:56.0314862;12.7094115
+LOCATION:Air Wipp Academy\, Västra Sandgatan\, Helsingborg\, Sweden
+ORGANIZER;CN="Air Wipp";PHONE=;WEBSITE=www.airwippacademy.com:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kipa Street Jam
+DTSTART;VALUE=DATE:20230623
+DTEND;VALUE=DATE:20230625
+UID:1455595
+DESCRIPTION:<p>KIPA Street Jam is returning to the streets of Stockholm th
+ e 23-25th of June!&nbsp\;</p><p>Last year was an absolute blast and everyo
+ ne who showed up\, threw down hard! This year we’re hoping to have even 
+ more friends join us\, training and creating memories on the streets of ou
+ r hometown.</p><p>We are offering a LIMITED amount of tickets to an accomm
+ odation hall near central Stockholm. You can find more info\, and tickets\
+ , on our <a rel="noopener noreferrer" target="_blank" href="https://kipama
+ gazine.com/blogs/kipa-street-jam-2023/info"><strong>website</strong></a>!L
+ et’s make some unforgettable memories together! Bring da vibes! 23-25th 
+ of June\, Stockholm\, SwedenMuch Love - KIPA ❤️</p><br><p>Price: free 
+ jam</p><p>Accomodation: 25€ for 3 nights (22.-25.)</p><p>Food: not inclu
+ ded</p>
+GEO:59.32932349999999;18.0685808
+LOCATION:Stockholm\, Sweden
+ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/blogs/kipa-stre
+ et-jam-2023/info":MAILTO:
+END:VEVENT
+END:VCALENDAR
