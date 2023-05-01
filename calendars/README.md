@@ -1,7 +1,9 @@
 # Calendars
 
-Copy the target link via right click.
+Copy the target link via right click. 
 
+## Categories
+- [All](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/all.ics)
 - [Austria](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/austria.ics)
 - [Belgium](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/belgium.ics)
 - [Canada](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/canada.ics)
