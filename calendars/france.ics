@@ -116,4 +116,21 @@ LOCATION:Plages du Prado\, Marseille\, France
 ORGANIZER;CN="PK 13";PHONE=;WEBSITE="https://pk13.fr/move-on-mars/":MAILTO
  :
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Session Miramas
+DTSTART;VALUE=DATE:20230707
+DTEND;VALUE=DATE:20230709
+UID:1581319
+DESCRIPTION:<p>A big Festival where we build obstacles and structures with
+  pallets and scaffolding. Participants can move on this structures or move
+  in the city. It's absolutely free and there is no competition. &nbsp\;Dur
+ ing this event we plan to hold debates about some subjects. Two of them wi
+ ll be the institutionalization of Parkour (federation\, association\, comp
+ etition\, shows\, etc...) and the inclusivity in parkour.</p><br><p>Price:
+  free</p><p>Accomodation: yes</p><p>Food: not included</p>
+GEO:43.5857743;5.0134832
+LOCATION:Chemin de Saint-Suspy\, 13140 Miramas\, France
+ORGANIZER;CN="Anthony Denis";PHONE=;WEBSITE="https://www.parkour-miramas.c
+ om/":MAILTO:parkour-miramas@hotmail.fr
+END:VEVENT
 END:VCALENDAR
