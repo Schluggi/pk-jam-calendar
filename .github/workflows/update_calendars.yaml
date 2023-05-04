@@ -28,6 +28,6 @@ jobs:
       - name: execute python script
         working-directory: src/
         env:
-          PROD_ID: ${{ env.PROD_ID }}
+          PROD_ID: ${{ vars.PROD_ID }}
           URL_MATTTMA: ${{ secrets.URL_MATTTMA }}
         run: python update.py ../calendars/ $PROD_ID $URL_MATTTMA
