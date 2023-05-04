@@ -4,6 +4,9 @@ on:
   schedule:
     - cron:  '0 7 * * *'
 
+permissions:
+  contents: write
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -13,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content
+        uses: actions/checkout@v3 # checkout the repository content
 
       - name: setup python
         uses: actions/setup-python@v4
@@ -32,3 +35,10 @@ jobs:
           PROD_ID: ${{ vars.PROD_ID }}
           URL_MATTTMA: ${{ secrets.URL_MATTTMA }}
         run: python update.py ../calendars/ $PROD_ID $URL_MATTTMA
+
+      - name: Commit report
+        run: |
+          git config --global user.name 'Calendar Bot'
+          git config --global user.email 'calendar-bot@users.noreply.github.com'
+          git commit -am "daily calendar update"
+          git push
