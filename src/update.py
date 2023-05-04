@@ -16,6 +16,8 @@ data = get(url).json()
 
 calendars = {}
 
+data['categories'].append({'name': 'all'})
+
 for category in data['categories']:
     cal = Calendar()
     cal.add('prodid', prodid)
@@ -52,6 +54,8 @@ for event_data in data['events']:
     for cat in event_data['categories']:
         calendars[cat['name']].add_component(event)
 
+    calendars['all'].add_component(event)
+
 cals = []
 for calendar in calendars:
     filename = f'{calendar.replace(" ", "_").lower()}.ics'
@@ -69,4 +73,4 @@ env = Environment(loader=FileSystemLoader('templates/'))
 template = env.get_template("README.md")
 
 with open(f'{output}/README.md', 'w', encoding='utf-8') as f:
-    f.write(template.render(cals=cals))
+    f.write(template.render(cals=[c for c in cals if c['name'] != 'all']))
