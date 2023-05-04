@@ -8,6 +8,8 @@ on:
   workflow_dispatch:
 
 jobs:
+  environment: Matttma
+
   build:
     runs-on: ubuntu-latest
     steps:
