@@ -23,7 +23,7 @@ jobs:
         working-directory: src/
         run: |
           python -m pip install --upgrade pip
-          pip install -r src/requirements.txt
+          pip install -r requirements.txt
 
       - name: execute python script
         working-directory: src/
