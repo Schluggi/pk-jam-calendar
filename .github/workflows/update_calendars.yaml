@@ -27,4 +27,7 @@ jobs:
 
       - name: execute python script
         working-directory: src/
-        run: python update.py ../calendars/ ${{ env.PROD_ID }} ${{ secrets.URL_MATTTMA }}
+        env:
+          PROD_ID: ${{ env.PROD_ID }}
+          URL_MATTTMA: ${{ secrets.URL_MATTTMA }}
+        run: python update.py ../calendars/ $PROD_ID $URL_MATTTMA
