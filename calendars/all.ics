@@ -1,0 +1,2367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Kipa Jam - Stockholm
+DTSTART;VALUE=DATE:20220617
+DTEND;VALUE=DATE:20220619
+UID:1016162
+DESCRIPTION:<p>🇩🇪 KIPA Street Jam in Stockholm\, Schweden</p><p>Prei
+ s der Jam: 0€</p><p>Preis fürs Übernachten im Gym: 25€ (AUSVERKAUFT)
+ </p><p>Genauere Infos gibt es auf der Website!</p><p>🇬🇧 KIPA Street 
+ in Stockholm\, Sweden</p><p>Price of the jam: 0€</p><p>Price for sleepin
+ g in the Gym: 25€ (SOLD OUT)</p><p>More information on their website!</p
+ >
+GEO:59.32932349999999;18.0685808
+LOCATION:Stockholm\, Sweden
+ORGANIZER;CN="KIPA Magazine";PHONE=;WEBSITE="https://kipamagazine.com":MAI
+ LTO:kipajumps@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Munich Mash
+DTSTART;VALUE=DATE:20220624
+DTEND;VALUE=DATE:20220626
+UID:1012611
+DESCRIPTION:<p>🇩🇪 fettes Stangen-Setup im Olympiapark München im Zu
+ ge des MASH Festivals</p><p>Das Olympiadorf ist direkt daneben (Rote Stadt
+  usw.)</p><p>Preis: 0€</p><p>Schlafplatz: Locals fragen!</p><br><p>🇬
+ 🇧 Big Bar-Setup at the MASH Festival in Olympiapark\, Munich&nbsp\;</p>
+ <p>The olympic village with all the spots is right next to it (Red City..)
+ </p><p>Price: free - no food and accomodation included</p><p>Accomodation:
+  not included\, check with locals!</p><br>
+GEO:48.1786853;11.5565345
+LOCATION:Olympiazentrum\, Munich\, Germany
+ORGANIZER;CN="FAM E.V";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viecomto Jam - Vienna
+DTSTART;VALUE=DATE:20220626
+DTEND;VALUE=DATE:20220626
+UID:1028616
+DESCRIPTION:<p>🇩🇪 Wien Jam ab 11:00 auf der Donauinsel</p><p>Competi
+ tion um 13:00 (gibt auch Preisgeld)</p><p>Gemeinsames Essen um 18:00</p><p
+ >Preis: 0€</p><br><p>🇬🇧 Vienna Jam - 11:00 jam at Donauinsel</p><p
+ >13:00 competition (there's price money)</p><p>18:00 dinner all together</
+ p><p>price: 0€</p>
+GEO:48.2291208;16.4112149
+LOCATION:U Donauinsel\, Vienna\, Austria
+ORGANIZER;CN="RAW MOVEMENT";PHONE=;WEBSITE=:MAILTO:kontakt@raw-movement.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regensburg Jam
+DTSTART:20220702T000000
+DTEND:20220703T010000
+UID:1016145
+DESCRIPTION:<p>🇩🇪 Parkour Jam mit Skill Competition am Samstag</p><p
+ >Renovierte Parkourhalle\, outdoor zusätzlich ein Stangen-Setup\, mobile 
+ Obstacles\, Airtrack und Riesentrampoline</p><p>Abends - Lagerfeuer und Af
+ tershowparty</p><p>Preis: 0€ - kein Essen und kein Schlafplatz inkludier
+ t</p><br><p>🇬🇧 Parkour Jam with Skill Competition on Saturday</p><p>
+ Renovated parkour hall\, outdoor additionally a bar setup\, mobile obstacl
+ es\, airtrack and trampolines</p><p>Evening - bonfire and aftershow party<
+ /p><p>Price: 0€ - no food and no accomodation included</p>
+GEO:49.0114667;12.0600309
+LOCATION:Parkour Hall Regensburg\, Lilienthalstraße\, Regensburg\, German
+ y
+ORGANIZER;CN="Parkour Regensburg";PHONE=;WEBSITE=www.parkour-regensburg.de
+ /zehn:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mannheim Jam
+DTSTART;VALUE=DATE:20220709
+DTEND;VALUE=DATE:20220710
+UID:1039024
+DESCRIPTION:<p>🇩🇪 Dennis Korra feiert seinen Geburtstag mit einer fe
+ tten Street Jam in Mannheim!</p><p>12:00 Treffpunkt an der Uni Mensa\, Bis
+ marckstr. 10 68161 Mannheim</p><p>Danach werden alle Outdoorspots abgeklap
+ pert und abends gegrillt.</p><p>Preis: 0€</p><p>Essen: Nicht dabei\, sel
+ bst mit Grillzeugs versorgen!</p><p>Wenn ihr kommen wollt\, bitte euch sel
+ bst hier zur Whatsappgruppe hinzufügen um die neuesten Infos zu bekommen:
+  &nbsp\;</p><p><a rel="noopener noreferrer" target="_blank" href="https://
+ chat.whatsapp.com/ErcoURW93JfCJkx3WuhiOY">https://chat.whatsapp.com/ErcoUR
+ W93JfCJkx3WuhiOY</a></p><br><p>🇬🇧 Dennis Korra celebrates his birthd
+ ay with a big street jam in Mannheim!</p><p>12:00 Meeting point at the Uni
+  Mensa\, Bismarckstr. 10 68161 Mannheim.</p><p>Afterwards all outdoor spot
+ s will be checked out and in the evening we will have a barbecue.</p><p>Pr
+ ice: 0€</p><p>Food: Not included\, buy your own barbecue stuff!</p><p>If
+  you want to come\, please add yourself to the Whatsapp group here to get 
+ the latest info: &nbsp\;<a rel="noopener noreferrer" target="_blank" href=
+ "https://chat.whatsapp.com/ErcoURW93JfCJkx3WuhiOY">https://chat.whatsapp.c
+ om/ErcoURW93JfCJkx3WuhiOY</a></p>
+GEO:49.4845623;8.4591443
+LOCATION:Bismarckstraße 10\, 68161 Mannheim\, Germany
+ORGANIZER;CN="Dennis Korra";PHONE=+491784952483;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Summer Jam - Pilsen
+DTSTART;VALUE=DATE:20220715
+DTEND;VALUE=DATE:20220717
+UID:1016163
+DESCRIPTION:<p>🇩🇪 Große Sommer Jam in der "In Motion Academy" in Pi
+ lsen &amp\; den besten Outdoorspots der Stadt (auch dem größten Parkourp
+ ark Tschechiens). Außerhalb der Halle wird auch ein Set-up aufgebaut sein
+ .</p><p>Es wird eine Speed Competition (Gewinner &amp\; Gewinnerin werden 
+ automatisch ins Finale zur IMACON Ende September eingeladen) und ein BigSu
+ mmerGame stattfinden\, d. h. es gibt 100 Challenges und wer die meisten ab
+ hakt\, kriegt Preise \;)</p><p>Preis: 60€ inkl. Event-T-Shirt &amp\; Unt
+ erkunft im Gym</p><p>Essen: nicht inkludiert\, aber es wird einen Grill un
+ d eine Kochnische vor Ort geben.</p><p>Ab 15 Jahren!</p><br><p>Zur Anmeldu
+ ng einfach eine E-Mail an cibulka@imacademy.cz mit deinem Namen &amp\; Geb
+ urtsdatum schicken.</p><br><p>🇬🇧 Big Summer Jam at "In Motion Academ
+ y" in Plzeň &amp\; the best outdoor spots in the city (also the biggest p
+ arkour park in the Czech Republic). Outside the gym there will also be a b
+ ar set-up.</p><p>There will be a Speed Competition (winner of male and fem
+ ale division will be automatically invited to the final at IMACON end of S
+ eptember) and the "BigSummerGame"\, means there will be 100 challenges and
+  whoever checks off the most will get prizes \;)</p><p>Price: &nbsp\;60€
+  including an event t-shirt &amp\; accommodation in the gym.</p><p>Food: n
+ ot included\, but there will be the possibility to grill and cook.</p><p>F
+ rom 15 years!</p><br><p>For registration send an email to cibulka@imacadem
+ y.cz with your names and birthdates.</p>
+GEO:49.7265431;13.4129803
+LOCATION:In Motion Academy - parkourová hala\, Koterovská\, Pilsen 2\, C
+ zechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/even
+ ty/summer-jam-2022?fbclid=IwAR13q0_MIGyVBlgosvspegkqfdMItoAyht8AH3D2teSkem
+ 55Nwrp3jGb7ZI":MAILTO:cibulka@imacademy.cz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Munich Is Burning Jam
+DTSTART;VALUE=DATE:20220716
+DTEND;VALUE=DATE:20220717
+UID:1012604
+DESCRIPTION:<p>🇩🇪 Street Jam in München mit CHILL COMPETITION!</p><
+ p>Outdoorspots\, Wasseraction (Eisbach usw.)\, es gibt eine Chill Competit
+ ion (tolle Preise warten auf euch) in der roten Stadt\, danach geht's zum 
+ neuen Parkourpark direkt an der Parkourhalle\, dort gibts auch Barbeque! W
+ er will darf in der Halle schlafen.</p><p>Preis: 0€ - aber die Übernach
+ tung im Krafti kostet pro Kopf 3-5€ (Arbeitszeit vom Aufpasser muss beza
+ hlt werden \;))</p><p>kein Essen inkludiert - kauft Grillzeugs!</p><p>Tret
+ et dem Whatsapp-Chat bei um die neuesten Infos &amp\; Zeitplan zu bekommen
+ : <a rel="noopener noreferrer" target="_blank" href="https://chat.whatsapp
+ .com/DsoIwy15Yxc0ruFRCD8nkg">https://chat.whatsapp.com/DsoIwy15Yxc0ruFRCD8
+ nkg</a></p><p>- Ab 18 Jahren\, damit wir keinen Versicherungsstress haben\
+ , wer unter 18 ist\, soll uns ne Nachricht schreiben!</p><br><p>🇬🇧 &
+ nbsp\;Street Jam in Munich with CHILL COMPETITION!</p><p>Outdoor spots\, w
+ ater action\, Chill Competition (great prizes waiting for you) in Red City
+ \, later we go to the Kraftigarten (completely new pk park directly at the
+  parkour gym)\, Barbeque\, who wants can sleep in the gym.</p><p>Price of 
+ the jam: 0€ - but the overnight stay in the Krafti costs 3-5€ &nbsp\;(
+ working time of the supervisor has to be paid \;))</p><p>no food included 
+ - buy barbecue stuff!</p><p>Join the chat for the latest information &amp\
+ ; time table: <a rel="noopener noreferrer" target="_blank" href="https://c
+ hat.whatsapp.com/DsoIwy15Yxc0ruFRCD8nkg">https://chat.whatsapp.com/DsoIwy1
+ 5Yxc0ruFRCD8nkg</a></p><br><p>- Private Meeting\, Minimum age 18\, so that
+  we have no troubles. Anybody who is under 18 should write us a message!</
+ p>
+GEO:48.1234976;11.6088903
+LOCATION:FAM Munich e.V.\, Piusstraße\, München\, Germany
+ORGANIZER;CN="matttma - Lisa & Matthias";PHONE=+491639620650;WEBSITE=:MAIL
+ TO:matttma@gmx.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swiss Parkour Tour - Geneva - Jam & Skill
+DTSTART;VALUE=DATE:20220716
+DTEND;VALUE=DATE:20220716
+UID:1051525
+DESCRIPTION:<p>&nbsp\;🇩🇪 Die 4. Station der Swiss Parkour Tour ist G
+ enf. Parkour EXPO organisiert die Skill Competition und Jam. Diese Veranst
+ altung ist 1 von 3 Wettbewerben\, die im Rahmen der SPT22 stattfinden. Es 
+ gibt sowohl eine Männer als auch Frauen-Division &amp\; ein neues Skill C
+ ompetition-Format wird getestet (mehr Informationen auf der Website).</p><
+ br><p>Um an der Skill Competition teilzunehmen\, müsst ihr euch bis zum 1
+ 5. Juli anmelden.</p><br><p>Preis: 10 CHF (vor Ort)</p><p>Schlafplatz &amp
+ \; Essen: nein</p><p>Anmeldung hier: <a rel="noopener noreferrer" target="
+ _blank" href="https://forms.office.com/pages/responsepage.aspx?id=A4-5EvPH
+ uUC-vV8dEhBJzjV9ZNC-v_FLpRszl5575URUNUpPQVNJTkpLNFpLRVdHNTRWTlNKTVVXOC4u">
+ JAM &amp\; SKILL</a></p><br><p>🇬🇧 The 4th stop of the Swiss Parkour 
+ Tour is going to happen in Geneva.</p><p>The event includes a Skill Compet
+ ition and a JAM\, organised by Parkour EXPO. This event states 1 out of 3 
+ Competitions happening in the SPT22. There will be a Skill Competition for
+  both men and women with a new format (more information on their website).
+ </p><br><p>To take part in the Skill Competition you have to register till
+  the 15th of July.</p><br><p>Price: 10 CHF (to be paid on site)</p><p>Acco
+ modation &amp\; food: none</p><p>Sign up here: <a rel="noopener noreferrer
+ " target="_blank" href="https://forms.office.com/pages/responsepage.aspx?i
+ d=A4-5EvPHuUC-vV8dEhBJzjV9ZNC-v_FLpRszl5575URUNUpPQVNJTkpLNFpLRVdHNTRWTlNK
+ TVVXOC4u">JAM &amp\; SKILL</a></p>
+GEO:46.2043907;6.1431577
+LOCATION:Geneva\, Switzerland
+ORGANIZER;CN="Parkour EXPO";PHONE=;WEBSITE="https://www.swissparkourtour.c
+ h/4-geneva/":MAILTO:https://chat.whatsapp.com/D6xsUGFF9u0G6LP5Q6vhpw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bialystok Jam By Swl
+DTSTART;VALUE=DATE:20220716
+DTEND;VALUE=DATE:20220717
+UID:1062083
+DESCRIPTION:<p><strong>Come join us in North East Poland for 2 days of bes
+ t training with best Polsih Freeruners. We are organizing speed\, flow\, A
+ nd best trick competition too\, with money prizes\, check out link :)</str
+ ong></p><br><p><strong>100 pln = 25 euro</strong></p>
+GEO:53.1578771;23.1654462
+LOCATION:Strefa Wysokich Lotów\, Generała Władysława Andersa\, Białys
+ tok\, Poland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Jam
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220724
+UID:1056779
+DESCRIPTION:<p>🇩🇪 &nbsp\;Parkour Münster lädt zur Jam ein!</p><p>I
+ m Vordergrund steht das gemeinsam jammen\, wer will kann bei der Skill Com
+ petition mitmachen\, es wird gegrillt und vieles mehr.</p><p>Samstag start
+ et es um 12:00\, 17:00 Skill Competition Vorrunde\, danach Grillen</p><p>S
+ onntag ab 12:00 Skill Competition Finale\, 16:00 Jam-Ende</p><br><p>Preis:
+  20€</p><p>Essen: Grillen (vegetarisch/vegan)\, alkoholfreie Getränke &
+ amp\; Frühstück inklusive</p><p>Schlafplatz: Zelten am Gelände möglich
+ </p><p>Limitierte Plätze\, Anmeldung per e-Mail an dominik@parkour-muenst
+ er-ev.de</p><br><p>🇬🇧 Parkour Münster invites you to the jam!</p><p
+ >The focus is on jamming together\, whoever wants to can take part in the 
+ skill competition\, there will be a barbecue and much more.</p><p>Saturday
+  the jam starts at 12:00\, 17:00 Skill Competition first round\, afterward
+ s barbecue.</p><p>Sunday from 12:00 Skill Competition finals\, 16:00 the j
+ am ends.</p><br><p>Price: 20€</p><p>Food: Barbecue (vegetarian/vegan)\, 
+ alcohol free drinks &amp\; breakfast included</p><p>Sleeping place: Campin
+ g on site possible</p><p>Limited places\, register by email to dominik@par
+ kour-muenster-ev.de</p>
+GEO:51.9950222;7.6604899
+LOCATION:Café Strandgut\, An der Kleimannbrücke\, Münster\, Germany
+ORGANIZER;CN="Parkour Münster e.V.";PHONE=;WEBSITE="https://www.parkour-m
+ uenster-ev.de":MAILTO:dominik@parkour-muenster-ev.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evry Move 5
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220729
+UID:1029165
+DESCRIPTION:<p>🇩🇪 5. Edition von Evry Move - ein internationaler 7-t
+ ägiger Workshop für alle Level.</p><p>Yamakasi and other talented coache
+ s will be coaching at the event.</p><p>Der Workshop startet am 23.7. um 14
+ :00 und endet am 29.7. um 10:00 morgens.</p><p>Die Unterkunft ist ein 4-St
+ erne Hotel\, ca. 200m entfernt vom ikonischen Dame du Lac.</p><p>Preis: nu
+ r Event 430€ (ab 15 Jahren)</p><p>Event &amp\; Doppelzimmer im Hotel\, F
+ rühstück und Mittagessen 640 € (ab 18 Jahren)</p><p>Event &amp\; Einze
+ lzimmer im Hotel\, Frühstück und Mittagessen 840 € (ab 18 Jahren)</p><
+ p>Tickets auf der Website erhältlich.</p><br><p>🇬🇧 5th edition of E
+ vry Move - an international 7-day workshop for all levels.</p><p>Yamakasi 
+ and other talented coaches will be coaching at the event.</p><p>The worksh
+ op starts on 23th July at 2pm and ends on 29th July at 10am.</p><p>Accommo
+ dation is a 4-star hotel\, about 200m away from the iconic Dame du Lac.</p
+ ><p>Price: Only the event 430€ (from 15 years)</p><p>Event &amp\; double
+  room in hotel\, breakfast and lunch 640€ (from 18 years)</p><p>Event &a
+ mp\; single room in hotel\, breakfast and lunch 840 € (from 18 years).</
+ p><p>Tickets available on the website.</p>
+GEO:nan;nan
+LOCATION:
+ORGANIZER;CN="ADD Academy Evry";PHONE=;WEBSITE="https://www.addacademyevry
+ .com/evry-move-5/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Würzburg Jam
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220723
+UID:1072461
+DESCRIPTION:<p>&nbsp\;🇩🇪 <strong>Würzburg Jam am Parkourpark!</stro
+ ng></p><p><strong>Es wird von der Stadt vergünstigtes veganes Essen vor O
+ rt am Parkourpark geben\, ggf. kann man illegal am Main zelten (nähe Wage
+ nburg\, oder Talavera hinten am Skatepark)</strong></p><p><strong>Preis: 0
+ €</strong></p><br><p>🇬🇧 <strong>Würzburg Jam at the Parkourpark!<
+ /strong></p><p><strong>There will be discounted vegan food provided by the
+  city at the Parkourpark\, if necessary you can camp illegally at the Main
+  (near Wagenburg\, or Talavera at the back of the skatepark).</strong></p>
+ <p><strong>Price: 0€</strong></p>
+GEO:49.80287550000001;9.9611682
+LOCATION:Kinderspielplatz und Parkour\, Versbacher Straße\, Würzburg\, G
+ ermany
+ORGANIZER;CN="SJR Würzburg";PHONE=;WEBSITE=:MAILTO:christian.sick@uni-wue
+ rzburg.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Auf Zollverein - Sommerfest
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220723
+UID:1041486
+DESCRIPTION:<p>&nbsp\;🇩🇪 Auf der Parkouranlage Zollverein\, findet a
+ m Samstag 23.07.2022 eine Sommerfest-Jam statt! Die Jam geht von 12-18 Uhr
+  und zeichnet sich\, neben viel Geballer\, auch durch gute Laune und einem
+  harmonischem Miteinander aus & einem ARSCHBOMBENCONTEST. &nbsp\;</p><br><
+ p>Facts:&nbsp\;</p><p>- Parkourworkshops (Start um 14 und 16 Uhr)</p><p>- 
+ Graffiti-Workshops</p><p>- Spiel und Spaß mit dem Kindermobil der AWO Ess
+ en</p><p>- Foodtrucks</p><p>- Eiswagen</p><br><p>Kein Essen\, Keine Unterk
+ unft\, dafür gratis!</p><br><p>🇬🇧 &nbsp\;A summer festival jam will
+  take place on Saturday 23.07.2022 at the Zollverein parkour facility! The
+  jam runs from 12:00 to 18:00. and is characterised not only by a lot of t
+ raining\, but also by good humour and harmonious togetherness & an ARSCHBO
+ MBENCONTEST. &nbsp\;</p><br><p>Facts:&nbsp\;</p><p>- Parkour workshops (st
+ art at 2pm and 4pm)</p><p>- Graffiti workshops</p><p>- Fun and games with 
+ the children's mobile of AWO Essen</p><p>- Food trucks</p><p>- Ice cream t
+ ruck</p><br><p>No food\, no accommodation\, but free!</p>
+GEO:51.4913156;7.0395211
+LOCATION:Parkour auf Zollverein\, Essen\, Germany
+ORGANIZER;CN="Kreisjugendwerk der AWO Essen und Stiftung Zollverein";PHONE
+ =;WEBSITE=www.jugendwerk-essen.de/parkour-zollverein.html:MAILTO:j.boll@ju
+ gendwerk-essen.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pkfr Battle - Nitra
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220724
+UID:1029220
+DESCRIPTION:<p>🇩🇪 Slovenska Parkourscena Existuje veranstaltet eine 
+ Jam inkl. Flow Competition für Männer und Frauen (ab 15 Jahren) Es gibt 
+ auch Preise &amp\; Preisgeld!</p><p>Abends gibt es eine Aftershowparty.</p
+ ><br><p>🇬🇧 Slovenska Parkourscena Existuje is organising a jam incl.
+  flow competition for men and women (from 15 years) There are also prizes 
+ &amp\; prize money!</p><p>In the evening there will be an aftershow party.
+ </p>
+GEO:48.3159272;18.1141748
+LOCATION:Skill Lab\, Levická\, Nitra-Chrenová\, Slovakia
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.parkourscenaexistuje.sk/":MAILTO
+ :info@parkourscenaexistuje.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Htown Jam - Hannover
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220724
+UID:1028561
+DESCRIPTION:<p>🇩🇪 Jam in Hannover! Es wird sowohl am Jamgelände WAK
+ ITU\, als auch an den Outdoor-Spots gejamt. Es wird auch eine Competition 
+ und Live Musik geben!</p><p>Preis: 10€ fix + gerne mehr als freiwillige 
+ Spende</p><p>Essen: Frühstück\, Abendessen\, Snacks & Wasser inkludiert<
+ /p><p>Schlafplatz: vor Ort am Jam-Gelände</p><p>Anmeldung per E-Mail an: 
+ htown.pk.official@gmail.com mit folgenden Infos: Name / Alter / Anschrift 
+ / von wann bis wann ihr kommt / E-Mail-Adresse / ob ihr Zelt oder Hängema
+ tte mitbringt</p><br><p>🇬🇧 Jam at the jam site WAKITU and the outdoo
+ r spots in Hannover. There will also be a competition and live music at ni
+ ght!</p><p>Price: 10€ + more as voluntary donation</p><p>Food: breakfast
+ \, dinner\, snacks & water included</p><p>Sleeping place: at the jam area<
+ /p><p>Registration by e-mail to: htown.pk.official@gmail.com with the foll
+ owing info: name / age / address / from when to when you come / email addr
+ ess / if you bring tent or hammock</p>
+GEO:52.38752969999999;9.7548465
+LOCATION:Wakitu Spielplatz\, Hohenzollernstraße\, Hanover\, Germany
+ORGANIZER;CN="HTOWN CREW";PHONE=;WEBSITE=:MAILTO:htown.pk.official@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Pocket Camp 2022
+DTSTART;VALUE=DATE:20220729
+DTEND;VALUE=DATE:20220801
+UID:1051526
+DESCRIPTION:<p>🇩🇪 Das WPF "Pocket" Camp 2022 findet statt! Das Camp 
+ wird von Overground in Basel veranstaltet. Es wird 4 Tage lang Training an
+  Outdoor-Spots sowie im Parkour-Gym Overground geben\, sowie auch Lagerfeu
+ er\, Party und vieles mehr!</p><br><p>Preis: zwischen 40 - 90 CHF (du kann
+ st wählen\, wie viele Tage)</p><p>Schlafplatz: in der Turnhalle</p><p>Ess
+ en: im Preis inbegriffen (je nachdem\, welches Paket du wählst)</p><br><p
+ >Weitere Informationen\, das vollständige Programm und das Anmeldeformula
+ r findest du hier: <a rel="noopener noreferrer" target="_blank" href="http
+ s://worldsparkourfamily.ch/wpf-camp/">WPF CAMP 22</a></p><p>&nbsp\;</p><p>
+ 🇬🇧 The WPF „Pocket“ Camp 2022 takes place! The Camp is hosted by
+  Overground\, Basel. There will be 4 days of training at outdoor spots as 
+ well as in the parkour gym Overground\, camp fire\, party and so on!</p><b
+ r><p>Price: between 40 - 90 CHF (you can choose how many days)</p><p>Accom
+ odation: in the gym</p><p>Food: included (depending which package you take
+  though)</p><br><p>More information\, the full program and sign up form he
+ re: <a rel="noopener noreferrer" target="_blank" href="https://worldsparko
+ urfamily.ch/wpf-camp/">WPF CAMP 22</a></p>
+GEO:47.5741527;7.573705599999999
+LOCATION:Overground Basel\, Elsässerstrasse\, Basel\, Switzerland
+ORGANIZER;CN="World's Parkour Family";PHONE=;WEBSITE="https://worldsparkou
+ rfamily.ch/wpf-camp/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inextremis Jam Barcelona
+DTSTART;VALUE=DATE:20220729
+DTEND;VALUE=DATE:20220731
+UID:1080785
+DESCRIPTION:<p>&nbsp\;🇬🇧 This year Cheer Up World Festival offers al
+ l its athletes the opportunity to practice this exciting sport for 3 DAYS!
+ </p><p>You can't miss:</p><p>- Masterclasses with big names in TRICKING\, 
+ PARKOUR\, GYMNASTICS &amp\; TRAMPOLINE. Find the invitedd athletes on thei
+ t <a rel="noopener noreferrer" target="_blank" href="https://instagram.com
+ /inextremisclub?igshid=YmMyMTA2M2Y=">instagram account</a>.</p><p>- Acroba
+ tics zones\, tumbling\, spring floor\, trampolines\, airtracks\, sponge pi
+ ts\, air bag\, parkour modules...</p><p>- Contests and competitions with p
+ rizes and gifts</p><p>- AND MUCH MORE!</p><br><p>Price: 150 € for the 3 
+ day pass - other options available</p><p>not sure if there is accomodation
+  &amp\; food.</p><br><p>Buy tickets <a rel="noopener noreferrer" target="_
+ blank" href="https://en.cheerupworld.es/event-details/cheer-up-world-2022"
+ >here</a>.&nbsp\;</p>
+GEO:41.514077;2.1342975
+LOCATION:In Extremis Club Academy\, Ronda de Santa Maria\, Barberà del Va
+ llès\, Spain
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Jam Gütersloh
+DTSTART;VALUE=DATE:20220730
+DTEND;VALUE=DATE:20220730
+UID:1056787
+DESCRIPTION:<p>🇩🇪 Kleine aber feine eintägige Jam in Gütersloh ab 
+ 11:00!</p><p>Preis: 0€</p><p>Schlafplatz: nein (bei der Community nachfr
+ agen)</p><p>Essen: nicht inkludiert&nbsp\;</p><p>Bitte <a rel="noopener no
+ referrer" target="_blank" href="https://cdn.boomte.ch/calendar/www.umfrage
+ online.com/c/itntqxz9">hier</a> eintragen\, wenn ihr kommen wollt.&nbsp\;<
+ /p><br><p>🇬🇧 Small one-day jam in Gütersloh from 11:00!</p><p>Price
+ : 0€</p><p>Sleeping place: no (ask the community)</p><p>Food: not includ
+ ed&nbsp\;</p><p>Please sign up <a rel="noopener noreferrer" target="_blank
+ " href="https://cdn.boomte.ch/calendar/www.umfrageonline.com/c/itntqxz9">h
+ ere</a> if you want to come.&nbsp\;</p>
+GEO:51.9279245;8.3927119
+LOCATION:Am Schlangenbach 93\, Gütersloh\, Germany
+ORGANIZER;CN="Parkour Gütersloh";PHONE=;WEBSITE=:MAILTO:lukas@pkgt.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skills Night - Die Halle Hamburg
+DTSTART;VALUE=DATE:20220730
+DTEND;VALUE=DATE:20220730
+UID:1079290
+DESCRIPTION:<p>&nbsp\;🇩🇪 Die neue Community Jam in DIE HALLE Hamburg
+ ! Immer am letzten Samstag des Monats! Teste deine Parkour-Skills anhand v
+ on 10 Challenges! In der Halle sind dafür Video-Challenges für Beginner\
+ , Midlevel & Advanced vorbereitet\, die du ganz individuell nach deinem Te
+ mpo absolvieren und auf deiner persönlichen Scorecard tracken kannst. Hie
+ r geht`s nicht um die Competition\, sondern um den persönlichen Test dein
+ es Könnens und das gemeinsame Jammen! Akku laden nicht vergessen! 😉 &n
+ bsp\;Facts: Sa\, 28.05.2022 Ab 18:00 Uhr - Mitternacht 10€ Vereins-Mitgl
+ ieder // 15 € Nicht-Mitglieder &nbsp\;Teilnahme - 12-16 Jährige in Begl
+ eitung einer Aufsichtsperson\, bis 22:00 - ab 16 Jahren ohne Aufsichtspers
+ on\, bis zum Ende der Veranstaltung</p><br><p>🇬🇧 The new Community J
+ am at DIE HALLE Hamburg! Always on the last Saturday of the month! Test yo
+ ur parkour skills with 10 challenges! Video challenges for beginners\, mid
+ -level and advanced are prepared in the hall\, which you can complete at y
+ our own pace and track on your personal scorecard. It's not about the comp
+ etition\, but about the personal test of your skills and jamming together!
+  Don't forget to charge your battery! &nbsp\;Facts: Sat\, 28.05.2022 From 
+ 18:00 - midnight 10€ club members // 15 € non-members Participation - 
+ 12-16 year olds accompanied by a supervisor\, until 22:00 - 16+ without su
+ pervisor\, until the end of the event.</p>
+GEO:53.5428972;10.0092951
+LOCATION:Die Halle Hamburg - Parkour Creation Center Oberhafen\, Stockmeye
+ rstraße\, Hamburg\, Germany
+ORGANIZER;CN="Parkour Creation e.V.";PHONE=;WEBSITE="https://www.diehalle.
+ hamburg/mitgliederbereich#tmup=/p/4317504-parkour-creation-ev/e/49420172-s
+ kills-night/":MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frbodensee Festival
+DTSTART;VALUE=DATE:20220811
+DTEND;VALUE=DATE:20220814
+UID:1012620
+DESCRIPTION:<p>🇩🇪 &nbsp\;AUSVERKAUFT</p><p>Das Naturatelier in Althe
+ im (Baden) in der wunderschönen Bodenseeregion wird wiedereinmal von ner 
+ Horde Pk-Menschen eingenommen.&nbsp\;</p><p>Es gibt ein Fettes Bar-Setup\,
+  ne Airtrack und n Trampolin. Ne Bühne für Unterhaltung (Open-Stage-Sess
+ ion\, Rave)\, eine Area für Kunst und Clothing\, Pizzaofe\, Crepe-Stand u
+ sw.</p><p>Im Umkreis von 10min Autofahrt gibt es viele Seen um sich abzuk
+ ühlen.</p><p>Kurz\, Eine Parkour Jam mit Festival-Charakter. Geile Vibes\
+ , tolle Menschen\, gutes Essen.</p><br><p>Essen: All inklusive. Vegetarisc
+ h und vegan.</p><p>Morgens gibt's n dickes Schnansch-Frühstück. Mittags 
+ Waffeln bzw. Crêpes. Abends ist die Hauptmahlzeit vorgesehen (Stichwort: 
+ Steinofenpizza und solche Schnanschereien) Den ganzen Tag gibt es frisches
+  Obst und kühles Wasser.</p><br><p>Übernachtung: Zelten oder Hängematte
+  auf dem Gelände\, ein paar Camper/Autostellplätze gibt es auch. Nur wen
+ ige überdachte Schlafplätze \;)</p><br><p>Anfahrt: Der Nächste Bahnhof 
+ ist Überlingen oder Salem. Es gibt einen Flixbus von München nach Meersb
+ urg und vereinzelt auch Flixbus-Verbindungen nach Überlingen. Wir werden 
+ vereinzelt nach Absprache in der Whatsappgruppe* Sammeltaxis von Überling
+ en und Salem zum Festival-Gelände organisieren.</p><br><p>Preisstaffelung
+ :</p><p>4 Tage - 50€</p><p>3 Tage - 40€</p><p>2 Tage - 30€</p><p>1 T
+ ag - 15€</p><p>Optional: Getränke-Flatrate für die Party</p><br><p>(*L
+ ink zur Whatsappgruppe wird nach dem Absenden des Anmelde-Formulars angeze
+ igt.)</p><br><p>🇬🇧 SOLD OUT</p><p>The Naturatelier in Altheim (Baden
+ ) in the beautiful Lake Constance region is once again taken over by a bun
+ ch of Pk people.&nbsp\;</p><p>There will be a fat bar set-up\, an airtrack
+  and a trampoline. A stage for entertainment (open stage session\, rave)\,
+  an area for art and clothing\, pizza oven\, &nbsp\;etc.</p><p>There are m
+ any lakes within a 10-minute drive to cool off.</p><p>In short\, a parkour
+  jam with festival character. Awesome vibes\, great people\, good food.</p
+ ><br><p>Food: All inclusive. Vegetarian and vegan.</p><p>In the morning th
+ ere's a big breakfast. Waffles or crepes for lunch. In the evening\, the m
+ ain meal is provided (keyword: stone-baked pizza and such delicacies). All
+  day there is fresh fruit and cool water.</p><br><p>Overnight: Tents or ha
+ mmock on the site\, a few camper/car sites are also available. Only a few 
+ roofed sleeping places \;)</p><br><p>Getting there: The nearest train stat
+ ion is Überlingen or Salem. There is a Flixbus from Munich to Meersburg a
+ nd occasional Flixbus connections to Überlingen. We will occasionally org
+ anise shared taxis from Überlingen and Salem to the festival site after c
+ onsultation in the Whatsapp group*.</p><br><p>Price scale:</p><p>4 days - 
+ 50€</p><p>3 days - 40€</p><p>2 days - 30€</p><p>1 day - 15€</p><p>
+ Optional: drinks flatrate for the party</p><br><p>Registration <a rel="noo
+ pener noreferrer" target="_blank" href="https://cdn.boomte.ch/calendar/www
+ .frb-freerun.de">here</a> (limited tickets)</p><p>(*Link to the Whatsapp g
+ roup will be displayed after submitting the registration form).</p>
+GEO:47.8275552;9.2612319
+LOCATION:Naturatelier\, Golpenweiler Straße\, Frickingen\, Germany
+ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE=www.frb-freerun.de:MAILTO:@frb.f
+ reerun (instagram)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grim Jam
+DTSTART;VALUE=DATE:20220813
+DTEND;VALUE=DATE:20220814
+UID:1072478
+DESCRIPTION:<p>&nbsp\;🇬🇧 &nbsp\;GRIM JAM 2022!&nbsp\;</p><p>- Outdoo
+ r and indoor event&nbsp\;</p><p>- Male and Female Skill & Speed + Under 16
+ ’s speed &nbsp\;</p><p>1st place for Skill and Speed (male and female) :
+  £250 2nd: £100 3rd: £25 &nbsp\;</p><p>Under 16’s speed 1st £100 2nd
+  £50 3rd £25</p><br><p>Price: £25</p><p>Food: Not included</p><p>Sleepo
+ ver: in the gym</p><br><p>Sign up <a rel="noopener noreferrer" target="_bl
+ ank" href="https://teamreality.bigcartel.com/">here</a>!</p>
+GEO:53.57331989999999;-0.0774282
+LOCATION:Team Reality LTD\, Prince Albert Gardens\, Grimsby\, UK
+ORGANIZER;CN="Team Reality";PHONE=;WEBSITE="https://teamreality.bigcartel.
+ com/":MAILTO:jakechristopherharris@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X-Dream Leipzig
+DTSTART;VALUE=DATE:20220819
+DTEND;VALUE=DATE:20220821
+UID:1029160
+DESCRIPTION:<p>🇩🇪 Wir vom Twio X laden euch ganz herzlich zu unserer
+  3. Parkourjam X Dream ein. Wie auch in den vorherigen Jams\, wollen wir e
+ uch tagsüber unsere Stadt zeigen und die Abende in geselliger Atmosphäre
+  - bei Feuer\, Musik und Streichelzoo - genießen. Auf dem Jamgelände gib
+ t es auch noch ein Stangen-Set up!</p><br><p>Preis: 15€</p><p>Schlafplat
+ z: Zelten/Hängematte auf dem Jamgelände nähe des Leipziger Neuseenlands
+ </p><p>Essen: Frühstück und warmes Abendessen (vegan) + Obst und Wasserf
+ latrate</p><br><p>Anmeldung hier: <a rel="noopener noreferrer" target="_bl
+ ank" href="https://twio-x.de/interessierte/events/x-dream-2022/#nav">X-DRE
+ AM 2022</a></p><br><p>🇬🇧 We at Twio X are stoked to invite you to ou
+ r 3rd annual X Dream jam. As in previous years\, we want to show you what 
+ Leipzig has to offer during the day\, and enjoy the evenings hanging out a
+ t the campsite in the evening. There will be a bar set up also!</p><p>&nbs
+ p\;</p><p>Price: 15€</p><p>Food: Breakfast and cooked dinner (vegan)</p>
+ <p>Accomodation: Camping on the beautiful jam site close to the lakes</p><
+ br><p>Sign up here: <a rel="noopener noreferrer" target="_blank" href="htt
+ ps://twio-x.de/interessierte/events/x-dream-2022/#nav">X-DREAM 2022</a></p
+ >
+GEO:51.3396955;12.3730747
+LOCATION:Leipzig\, Germany
+ORGANIZER;CN="Twio X";PHONE="+49 177 211 93 22";WEBSITE="https://twio-x.de
+ /interessierte/events/x-dream-2022/#nav":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 The Love Of Movement - Amsterdam
+DTSTART;VALUE=DATE:20220819
+DTEND;VALUE=DATE:20220821
+UID:1016164
+DESCRIPTION:<p>🇩🇪 Festival-Version der bekannten 4TLOM Jam\, diesmal
+  in Amsterdam.</p><p>Es wird ein riesiges Parkour Set-up & eine offizielle
+  4TLOM Afterparty geben.</p><p>Preis: 101€ inkl. Event T-Shirt & Armband
+ </p><p>Essen: Nicht inkludiert!</p><p>Unterkunft: 2 Nächte im Army-Zelt m
+ it Feldbetten sind inkludiert.</p><p>Tickets gibt es auf der Website.</p><
+ br><p>🇬🇧 Festival version of the famous 4TLOM Jam\, this time in Ams
+ terdam.</p><p>There will be a huge parkour set-up & an official 4TLOM afte
+ rparty.</p><p>Price: 101€ incl. event t-shirt & wristband.</p><p>Food: N
+ ot included!</p><p>Accommodation: 2 nights in an army tent with field beds
+  are included.</p><p>Tickets on the website.</p>
+GEO:nan;nan
+LOCATION:
+ORGANIZER;CN="Jump Freerun";PHONE=;WEBSITE="https://jumpfreerun.nl/4tlom/"
+ :MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweaty Already Jam
+DTSTART;VALUE=DATE:20220820
+DTEND;VALUE=DATE:20220820
+UID:1105432
+DESCRIPTION:<p>&nbsp\;🇩🇪 Sweaty Already Jam Serie!</p><p>Am 20.8.22 
+ & 03.09.22 gibt es zwei eintägige Jams in der neuen Parkourhalle in Linz\
+ , Österreich.</p><p>Die Grundidee ist einfach: Erkunde unser neues Gym w
+ ährend eines ganztägigen Events (09.00 - 21.00 Uhr)\, komm mit der Commu
+ nity zusammen\, trainiere\, meistere Skill-Challenges und habe Spaß.</p><
+ br><p>Preis: 25€</p><p>Essen: nur Snacks und Getränke\, kein Mittag-/Ab
+ endessen</p><p>Übernachtung: keine</p><br><p>Einige weitere Details:&nbsp
+ \;</p><p>- Parkour-Bereich in einem alten Schwimmbad (kein Scherz)&nbsp\;<
+ /p><p>- große Freifläche mit einem Airtrick\, Wall Tramp\,...&nbsp\;</p>
+ <p>- drei Kraft- und Konditionsbereiche&nbsp\;</p><p>- viele Hindernisse&n
+ bsp\;</p><p>- Skill-Challenges</p><br><p>Keine Anmeldung erforderlich! &nb
+ sp\;Wenn Sie weitere Fragen haben\, zögern Sie bitte nicht\, uns zu konta
+ ktieren (info@teamobsession.at)</p><br><p>🇬🇧 Sweaty Already Jam Seri
+ es!</p><p>On 20.8.22 & 03.09.22 there will be two one-day jams at the new 
+ parkour gym in Linz\, Austria.</p><p>The basic idea is simple: explore our
+  new gym during a full day event (09.00 - 21.00)\, get together with the c
+ ommunity\, train\, master skill challenges and have fun.</p><br><p>Price: 
+ 25€</p><p>Food: only snacks & drinks included\, no lunch/dinner</p><p>Ac
+ comodation: not included</p><br><p>Some more details:&nbsp\;</p><p>- Parko
+ ur area in an old swimming pool (we´re not kidding)&nbsp\;</p><p>- large 
+ open area with an Airtrick\, wall tramp\,...&nbsp\;</p><p>- three strength
+  and conditioning areas&nbsp\;</p><p>- lots of obstacles&nbsp\;</p><p>- Sk
+ ill Challenges&nbsp\;</p><br><p>No registration necessary! &nbsp\;If you h
+ ave any further questions\, please don´t hesitate to contact us (info@tea
+ mobsession.at)</p>
+GEO:48.3313752;14.3236873
+LOCATION:Zero Limits Trendsporthalle\, Julius-Raab-Straße\, Linz\, Austri
+ a
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE=:MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mfp 2022 - Gdansk
+DTSTART;VALUE=DATE:20220826
+DTEND;VALUE=DATE:20220828
+UID:1030240
+DESCRIPTION:<p>🇩🇪 Details kommen bald!</p><p>🇬🇧 Details coming
+  soon!</p>
+GEO:54.3895517;18.6422409
+LOCATION:Movement Arena\, Pokoleń Lechii Gdańsk\, Gdańsk\, Poland
+ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://www.facebook.com/eve
+ nts/1238837550190886/?active_tab=about":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Own The Spot - Eindhoven
+DTSTART;VALUE=DATE:20220826
+DTEND;VALUE=DATE:20220828
+UID:1012615
+DESCRIPTION:<p>🇩🇪 Street Jam in Eindhoven\, Niederlande mit Competit
+ ion</p><p>"Own the Spot" - Competition - das bedeutet\, 5 Spots werden ang
+ esagt und man kann je einen Clip hochladen\, abends wird gejudged welcher 
+ Clip gewinnt (1 Clip pro Spot)</p><p>Ticketverkauf hat bereits gestartet (
+ siehe Website)</p><p>Preis: 65€ inkl. Frühstück & Abendessen\, Schlafp
+ latz & Event-T-Shirt</p><br><p>🇬🇧 Street Jam in Eindhoven\, Netherla
+ nds</p><p>"Own the Spot" - Competition.&nbsp\;</p><p>You have the chance t
+ o "own a spot" - means filming a line at 5 chosen spots\, the lines will b
+ e judged at the same night & &nbsp\;for each spot there will be one winner
+ !</p><p>Ticket sale has started already (check the website)</p><p>Price: 6
+ 5 Euro\, includes breakfast and dinner\, a sleeping spot & a event T-Shirt
+ </p>
+GEO:51.4376604;5.4805452
+LOCATION:Dynamo\, Catharinaplein\, Eindhoven\, Netherlands
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="https://urbanlab.gotgrib.nl/
+ member/selfservice/registration/own_the_spot_2022__eng":MAILTO:info@commit
+ freerun.nl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Gathering Berlin
+DTSTART;VALUE=DATE:20220827
+DTEND;VALUE=DATE:20220828
+UID:1051528
+DESCRIPTION:<p>&nbsp\;🇩🇪 Das Urban Gathering (UGA) wird vom Parkour 
+ Berlin e.V. und dem Fußgänger e.V. organisiert. Die Berliner Parkour Sze
+ ne ist vielfältig und bunt. Diese Vielfalt abzubilden und darzustellen is
+ t eines unserer Anliegen. Uns eint die Leidenschaft für Parkour und der W
+ unsch nach einem tollen Event und Jam in Berlin. Es werden vor Ort viele u
+ nterschiedliche Workshops angeboten.</p><br><p>Preis: 30-50€</p><p>Schla
+ fplatz: Kein Schlafplatz inkludiert - Anfragen über die Parkour Community
+  Berlin bei Facebook.</p><p>Essen: unsicher - noch in Planung</p><br><p>An
+ meldung & Workshop-Programm hier: <a rel="noopener noreferrer" target="_bl
+ ank" href="https://www.urban-gathering.com/">UGA 2022</a></p><br><p>Das Or
+ ganisations-Team besteht aus Mitgliedern des Parkour Berlin e.V. Dieser Ve
+ rein wurde von verschiedenen Parkour-Gruppierungen Berlins ins Leben geruf
+ en (Fußgängern\, Wallrun Wallrus\, Pfeffersport\, ParkourONE und Metropo
+ lis Parkour). &nbsp\;</p><br><p>🇬🇧 The Urban Gathering (UGA) is orga
+ nised by Parkour Berlin e.V. and Fußgänger e.V.. The Berlin parkour scen
+ e is diverse and colourful. To depict and represent this diversity is one 
+ of our concerns. We are united by the passion for Parkour and the desire f
+ or a great event and jam in Berlin. Many different workshops will be offer
+ ed on site.</p><br><p>Price: 30-50€</p><p>Sleeping place: Not included -
+  enquiries via the Parkour Community Berlin on Facebook.</p><p>Food: not s
+ ure if it's included - still planning</p><br><p>Registration & workshop pr
+ ogramme here: <a rel="noopener noreferrer" target="_blank" href="https://w
+ ww.urban-gathering.com/">UGA 2022</a></p><br><p>The organising team consis
+ ts of members of Parkour Berlin e.V. This association was founded by vario
+ us Parkour groups in Berlin (Fußgängern\, Wallrun Wallrus\, Pfeffersport
+ \, ParkourONE und Metropolis Parkour). &nbsp\;</p>
+GEO:52.4373124;13.2789539
+LOCATION:Robert-W.-Kempner-Straße 6\, 14167 Berlin\, Germany
+ORGANIZER;CN="Parkour Berlin e.V. und Fußgänger e.V.";PHONE=;WEBSITE="ht
+ tps://www.urban-gathering.com/":MAILTO:mail@uga.berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordic Pk Jampionships
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20220904
+UID:1105434
+DESCRIPTION:<p>&nbsp\;🇩🇪 Jam &amp\; Wettbewerb mit Geldpreisen von 5
+ 000 DKK für den Gewinner jeder Kategorie (Speed\, Style und Bester Clip).
+  Neben dem eigens für die Veranstaltung aufgebautem Parkour-Park wird es 
+ auch geführte Spot-Touren geben. Es werden einige eingeladene Parkour Ath
+ leten vor Ort sein.Schlafplatz: Überdachter Schlafplatz</p><p>Essen: Selb
+ stversorger!</p><p>Der Jam ist kostenlos und erfordert keine Anmeldung :)<
+ /p><p>🇬🇧 Jam &amp\; competition with cash prizes of 5000 DKK for the
+  winner of each category (speed\, style and greatest clip).&nbsp\;</p><p>T
+ here will also be guided spot tours apart from the dedicated parkour park 
+ for the event. We will fly some athletes in as well.</p><p>Accomodation: C
+ overed sleeping space</p><p>Food: Not included</p><p>The jam is free and d
+ oes not require registration :)</p>
+GEO:56.1615639;10.2227846
+LOCATION:Hveensgade 5\, 8000 Aarhus\, Denmark
+ORGANIZER;CN="Moumen “Momo” Machlah";PHONE=;WEBSITE=:MAILTO:aarhuspark
+ our@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things - Leuven
+DTSTART;VALUE=DATE:20220902
+DTEND;VALUE=DATE:20220904
+UID:1012616
+DESCRIPTION:<p>🇩🇪 Jam im HAL 5 Gym &amp\; Outdoorpark mit zusätzlic
+ hen Obstacles</p><p>Challenges mit Preisen von Parkour-Marken\, Parkour-Po
+ p-up-Store\, viel Training und gute Stimmung!</p><p>Preise: Ein Tag: €25
+ \,- Zwei Tage: €40\,-</p><p>Essen: Nein</p><p>Schlafplatz: Nein\, die Lo
+ cals anfragen</p><br><p>Für die Teilnahme an der Veranstaltung ist eine <
+ a rel="noopener noreferrer" target="_blank" href="https://www.springstofpa
+ rkour.com/en/event-details/swings-n-other-things-2022"><strong>Anmeldung</
+ strong></a> über die Website erforderlich.</p><br><p>🇬🇧 Jam in HAL 
+ 5 Gym &amp\; Outdoorpark with more added Obstacles</p><p>Challenges with p
+ rizes from parkour brands\, parkour pop up store\, a lot of training and g
+ ood vibes!</p><p>Prices: Single day: €25\,- Two days: €40\,-</p><p>Foo
+ d: Not included</p><p>Accomodation: Not included\, ask the locals</p><br><
+ p>Registration through the <a rel="noopener noreferrer" target="_blank" hr
+ ef="https://www.springstofparkour.com/en/event-details/swings-n-other-thin
+ gs-2022"><strong>website</strong></a> is required to attend the event.</p>
+ <br>
+GEO:50.8829498;4.7223114
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="Geert Meusen, Nico Van Hole";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweaty Already Jam
+DTSTART;VALUE=DATE:20220903
+DTEND;VALUE=DATE:20220903
+UID:1105433
+DESCRIPTION:<p>&nbsp\;🇩🇪 Sweaty Already Jam Serie!</p><p>Am 20.8.22 
+ & 03.09.22 gibt es zwei eintägige Jams in der neuen Parkourhalle in Linz\
+ , Österreich.</p><p>Die Grundidee ist einfach: Erkunde unser neues Gym w
+ ährend eines ganztägigen Events (09.00 - 21.00 Uhr)\, komm mit der Commu
+ nity zusammen\, trainiere\, meistere Skill-Challenges und habe Spaß.</p><
+ br><p>Preis: 25€</p><p>Essen: nur Snacks und Getränke\, kein Mittag-/Ab
+ endessen</p><p>Übernachtung: keine</p><br><p>Einige weitere Details:&nbsp
+ \;</p><p>- Parkour-Bereich in einem alten Schwimmbad (kein Scherz)&nbsp\;<
+ /p><p>- große Freifläche mit einem Airtrick\, Wall Tramp\,...&nbsp\;</p>
+ <p>- drei Kraft- und Konditionsbereiche&nbsp\;</p><p>- viele Hindernisse&n
+ bsp\;</p><p>- Skill-Challenges</p><br><p>Keine Anmeldung erforderlich! &nb
+ sp\;Wenn Sie weitere Fragen haben\, zögern Sie bitte nicht\, uns zu konta
+ ktieren (info@teamobsession.at)</p><br><p>🇬🇧 Sweaty Already Jam Seri
+ es!</p><p>On 20.8.22 & 03.09.22 there will be two one-day jams at the new 
+ parkour gym in Linz\, Austria.</p><p>The basic idea is simple: explore our
+  new gym during a full day event (09.00 - 21.00)\, get together with the c
+ ommunity\, train\, master skill challenges and have fun.</p><br><p>Price: 
+ 25€</p><p>Food: only snacks & drinks included\, no lunch/dinner</p><p>Ac
+ comodation: not included</p><br><p>Some more details:&nbsp\;</p><p>- Parko
+ ur area in an old swimming pool (we´re not kidding)&nbsp\;</p><p>- large 
+ open area with an Airtrick\, wall tramp\,...&nbsp\;</p><p>- three strength
+  and conditioning areas&nbsp\;</p><p>- lots of obstacles&nbsp\;</p><p>- Sk
+ ill Challenges&nbsp\;</p><br><p>No registration necessary! &nbsp\;If you h
+ ave any further questions\, please don´t hesitate to contact us (info@tea
+ mobsession.at)</p>
+GEO:48.3313752;14.3236873
+LOCATION:Zero Limits Trendsporthalle\, Julius-Raab-Straße\, Linz\, Austri
+ a
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE=:MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gefam Jam
+DTSTART;VALUE=DATE:20220903
+DTEND;VALUE=DATE:20220904
+UID:1072480
+DESCRIPTION:<p>🇩🇪 Jam\, Party\, Spaß\, Jumps\, Snacks in Die Halle 
+ Hamburg (indoor &amp\; outdoor)</p><p>Preis: Jamticket 35€\, Tagespass 2
+ 0€</p><p>Essen: Catering&nbsp\;</p><p>Schlafplatz: inkludiert.</p><p>Tic
+ kets gibts <a rel="noopener noreferrer" target="_blank" href="https://www.
+ diehalle.hamburg/mitgliederbereich#tmup=/p/4317504-parkour-creation-ev/e/4
+ 9658060-gefam-jam-x-die-halle/">hier</a>.</p><br><p>🇬🇧 Jam\, party\,
+  fun\, jumps\, snacks in Die Halle Hamburg (indoor &amp\; outdoor)</p><p>P
+ rice: Jamticket 35€\, Daypass 20€</p><p>Food: Catering&nbsp\;</p><p>Sl
+ eeping place: included.</p><p>Tickets available <a rel="noopener noreferre
+ r" target="_blank" href="https://www.diehalle.hamburg/mitgliederbereich#tm
+ up=/p/4317504-parkour-creation-ev/e/49658060-gefam-jam-x-die-halle/">here<
+ /a>.</p>
+GEO:53.5428972;10.0092951
+LOCATION:The hall Hamburg - Parkour Creation Center Oberhafen\, Stockmeyer
+ straße\, Hamburg\, Germany
+ORGANIZER;CN=GEFAM;PHONE=;WEBSITE="https://instagram.com/gefam?igshid=YmMy
+ MTA2M2Y=":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund Parkour Convention
+DTSTART;VALUE=DATE:20220903
+DTEND;VALUE=DATE:20220903
+UID:1016166
+DESCRIPTION:<p>🇩🇪 Parkourconvention 10-20 Uhr in einer Skatehalle in
+  Dortmund</p><p>Workshops von Matthias Mayer &amp\; Renae Dambly</p><p>Aft
+ ermovie Link ist unten bei der Website!</p><p>Preis: 0€ (kein Essen oder
+  Schlafplatz inkludiert\, aber die ersten 200 leute bekommen ein gratis Ev
+ ent-T-Shirt)</p><br><p>🇬🇧 Parkourconvention 10am to 8 pm in a skate 
+ hall in Dortmund\, Germany.</p><p>Workshops by Matthias Mayer &amp\; Renae
+  Dambly</p><p>You'll find the link to the after movie at the website butto
+ n!</p><p>Price: 0€ (no food or sleeping place included\, but the first 2
+ 00 people get a free event t-shirt!</p>
+GEO:51.5215967;7.459606699999998
+LOCATION:Dietrich-Keuning-Haus (DKH)\, Leopoldstraße\, Dortmund\, Germany
+ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE="https://youtu.be/LehO
+ OBVXqtw":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aachen Chill Skill
+DTSTART;VALUE=DATE:20220903
+DTEND;VALUE=DATE:20220904
+UID:1109145
+DESCRIPTION:<p>&nbsp\;🇩🇪 Moin moin\, wir hosten am 03.09. eine klein
+ e Jam in Aachen. Wir legen un 13:00 Uhr an der Zollernstraße 10 am ehemal
+ igen Kreishaus Aachen los. Das ist zufuß etwa 5 Minuten vom Hbf entfernt.
+  Es wird auch eine kleine Chill Competition geben mit verschiedensten Chal
+ lenges die über die ganze Stadt verteilt sind. Der Hauptaspekt liegt aber
+  einfach auf einem entspannten Training zusammen mit der Aachener Communit
+ y. Am 04.09. gibt es dann noch eine ganz normale Sonntagssession die bei u
+ ns schon seit über 13 Jahren stattfindet. Falls ihr irgendwelche Fragen h
+ abt oder auch so mal in Aachen vorbei schauen wollt\, kommt gerne in unser
+ e WhatsApp Gruppe und meldet euch bei uns. Wir freuen uns auf eine geile J
+ am zusammen mit euch. &nbsp\;</p><br><p>Preis: gratis</p><p>Schlafplatz: n
+ ein\, Community fragen</p><p>Essen: Nein</p><br><p>Hier der Whatsapp-Chat 
+ für weitere Informationen: <a rel="noopener noreferrer" target="_blank" h
+ ref="https://chat.whatsapp.com/5POM7NRyeDq42L4h9OZSa0">https://chat.whatsa
+ pp.com/5POM7NRyeDq42L4h9OZSa0</a></p><br><p>🇬🇧 Hello all! Aachen is 
+ hosting its very own jam on the 03.10. We start at 1:00 p.m. at Zollernstr
+ aße 10 at the former district hall of Aachen. This is about a 5 minute wa
+ lk from the main station. There will also be a small chill competition wit
+ h a variety of challenges spread across the city. But the main aspect is s
+ imply relaxed training together with the Aachen community. On 04.09 there 
+ is a normal Sunday session that has been taking place here for over 13 yea
+ rs. If you have any questions or would like to visit Aachen\, please join 
+ our WhatsApp group and contact us. We look forward to a great jam together
+  with you.&nbsp\;</p><br><p>Price: free</p><p>Accomodation: No official sl
+ eeping place. Ask the local community for hosting.</p><p>Food: not include
+ d</p><br><p>Join the whatsapp chat for more information <a rel="noopener n
+ oreferrer" target="_blank" href="https://chat.whatsapp.com/5POM7NRyeDq42L4
+ h9OZSa0">https://chat.whatsapp.com/5POM7NRyeDq42L4h9OZSa0</a></p>
+GEO:50.76868049999999;6.097254899999999
+LOCATION:Zollernstraße 10\, Aachen\, Germany
+ORGANIZER;CN="Parkour Aachen";PHONE=;WEBSITE=:MAILTO:looi.matthew@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Wipp Battles
+DTSTART;VALUE=DATE:20220909
+DTEND;VALUE=DATE:20220911
+UID:1144689
+DESCRIPTION:<p>🇩🇪 3 Tage Jam im Air Wipp Gym in Helsingborg</p><p>- 
+ Skill Competition & Style Competition\, 3000€ Preisgeld insgesamt</p><p>
+ Preis: 66€</p><p>Schlafplatz: im Gym</p><p>Essen: Abendessen inkludiert<
+ /p><br><p>Tickets gibts hier: <a rel="noopener noreferrer" target="_blank"
+  href="http://www.airwippacademy.com/air-wipp-battles">http://www.airwippa
+ cademy.com/air-wipp-battles</a></p><br><p>🇬🇧 3 Days Jam at Air Wipp 
+ Gym in Helsingborg</p><p>- Skill Competition & Style Competition\, 3000€
+  total prize money</p><p>Prize: 66€</p><p>Sleeping place: at the Gym</p>
+ <p>Meal: Dinner included</p><br><p>Tickets here: <a rel="noopener noreferr
+ er" target="_blank" href="http://www.airwippacademy.com/air-wipp-battles">
+ http://www.airwippacademy.com/air-wipp-battles</a></p>
+GEO:56.0314862;12.7094115
+LOCATION:Air Wipp Academy\, Västra Sandgatan\, Helsingborg\, Sweden
+ORGANIZER;CN="Air Wipp";PHONE=;WEBSITE=www.airwippacademy.com:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journey To The End Of The Night 22
+DTSTART;VALUE=DATE:20220910
+DTEND;VALUE=DATE:20220911
+UID:1117229
+DESCRIPTION:<p>&nbsp\;🇩🇪 Eine Journey to the End of the Night ist "d
+ ie etwas andere Parkourveranstaltung. Es handelt es sich um eine überdime
+ nsionale Schnitzeljagd durch die gesamte Landeshauptstadt. Der Catch dabei
+  ist\, dass diese bei Nacht stattfinden wird und man als Runner (Läufer) 
+ konstant von Chasern (Fängern) verfolgt wird. Aufgabe der Runner ist es\,
+  die von uns in Erfurt verteilten Stationen zu erreichen und dort einen St
+ empel zu finden\, oder eine sportliche Aufgabe zu lösen. Der schnellste R
+ unner\, welcher es schafft alle Stationen zu erreichen\, ohne gefangen zu 
+ werden\, gewinnt. Wird man als Runner gefangen\, so wird man zum Chaser un
+ d muss selber fangen. Der gewiefteste Chaser\, welche die meisten Runner f
+ angen konnte\, gewinnt ebenfalls. In der Stadt gibt es so genannte Safezon
+ es\, welchen den Runnern eine Möglichkeit zur Planung und Ruhe dienen und
+  von Chasern nicht betreten werden dürfen.&nbsp\;Es gibt tolle Preise zu 
+ gewinnen. Denkst du\, du hast das Zeug dazu\, den Klauen der Chaser zu ent
+ gehen?</p><br><p>Preis: 5€ (kein Essen\, keine Unterkunft)</p><br><p>
+ 🇬🇧 A Journey to the End of the Night is "the somewhat different park
+ our event. It is an oversized scavenger hunt through the entire state capi
+ tal. The catch is that it will take place at night and runners will be con
+ stantly pursued by chasers. The task of the runners is to reach the statio
+ ns distributed by us in Erfurt and to find a stamp there\, or to solve a s
+ porting task. The fastest runner who manages to reach all the stations wit
+ hout being caught wins. If you are caught as a runner\, you become a chase
+ r and have to catch yourself. The most cunning chaser who manages to catch
+  the most runners also wins. In the city there are so-called safe zones\, 
+ which serve the runners as a possibility for planning and rest and may not
+  be entered by chasers. There are great prizes to be won. Do you think you
+  have what it takes to escape the clutches of the Chasers?</p><p>Price: 5
+ € (no food\, no accommodation)</p>
+GEO:50.9631465;10.9964745
+LOCATION:Gothaer Str. 38\, 99094 Erfurt\, Germany
+ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=www.journey-erfurt.de:MA
+ ILTO:run@journey-erfurt.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghettoballersesh Schwandorf
+DTSTART;VALUE=DATE:20220910
+DTEND;VALUE=DATE:20220910
+UID:1051509
+DESCRIPTION:<p>&nbsp\;🇩🇪 Ghettoballersesh ist nur einmal im Jahr.</p
+ ><p>Kein Eintritt\, dafür kriegt ihr auch nix\, außer Sand in die Hose b
+ ei den Jumps in die Sandberge.</p><p>Einen ganzen Tag wird also in Schwand
+ orf geballert - Treffpunkt & Uhrzeit wird hier noch verkündet und bei Fra
+ gen einfach das GhettoballerseshOrganisationscomitee anschreiben (siehe un
+ ten).</p><p>Anmeldung ist nicht notwendig!</p><br><p>🇬🇧 Ghettoballer
+ sesh is only once a year.</p><p>No entry fee\, but you won't get anything 
+ in return\, except sand in your pants when jumping into the sand mountains
+ .</p><p>A whole day of parkour in Schwandorf - meeting point and time will
+  be announced here and if you have any questions\, just write to the Ghett
+ oballersesh organising committee (see below).</p><p>Registration is not ne
+ cessary!</p>
+GEO:49.3308876;12.1068067
+LOCATION:Schwandorf\, Germany
+ORGANIZER;CN=GhettoballerseshOrganisationscomitee;PHONE=;WEBSITE="Instagra
+ m: @cornerjumper oder @urbanartifact":MAILTO:w.grabinger@gmx.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grejam
+DTSTART;VALUE=DATE:20220917
+DTEND;VALUE=DATE:20220918
+UID:1072469
+DESCRIPTION:<p>&nbsp\;🇬🇧 6 th edition of &nbsp\;Grejam!</p><p>The la
+ st year there were 130 traceurs from Maroco\, Switzerland and a lot of par
+ t of France ! This event is open for everyone\, every level\, every style 
+ ! It's gonna be a really good opportunity for you to discover Grenoble. Gr
+ enoble has amazing spots and a passionate community! <a rel="noopener nore
+ ferrer" target="_blank" href="https://www.instagram.com/tv/CWgfJu2trAt/?ig
+ shid=YmMyMTA2M2Y=">Here</a> is last years compilation.</p><p>This year wil
+ l be the first time with a skill competition (women and men division) with
+  small prizes. Also there's a big plan for Saturday with the ending at the
+  top of the famous Bastille of Grenoble ! 150 peoples will be awaited!&nbs
+ p\;</p><p>Also\, this jam is not officially declared\, we rely on you abou
+ t respecting spots\, people\, police man\, ... All the information during 
+ the jam passe by the <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://instagram.com/socialkickmovement?igshid=YmMyMTA2M2">Instagram accoun
+ t</a> of Socialkickmovement.&nbsp\;</p><br><p>Price: 0€</p><p>Food: not 
+ included</p><p>Accomodation: Ask us on <a rel="noopener noreferrer" target
+ ="_blank" href="https://instagram.com/socialkickmovement?igshid=YmMyMTA2M2
+ ">instagram</a> for hosting possibilities.</p>
+GEO:45.188529;5.724524
+LOCATION:Grenoble\, France
+ORGANIZER;CN="Social kick movement";PHONE=;WEBSITE=:MAILTO:socialkickmovem
+ ent@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4Tc Jam
+DTSTART;VALUE=DATE:20220917
+DTEND;VALUE=DATE:20220918
+UID:1016168
+DESCRIPTION:<p>🇩🇪 Die 4TC Jam vereint großartige Communities aus de
+ n Bereichen Ninja\, Tricking und Parkour\, um gemeinsame und unvergesslich
+ e Trainingsmomente zu erleben.&nbsp\;</p><p>Vorträge\, Wellness & Action 
+ darf man erwarten.&nbsp\;</p><p>Die Location mitten in Österreich\, in de
+ r Region Schladming-Dachstein bietet eine Halle mit einer extra für diese
+  Sportarten angefertigten Trainingslandschaft\, einem großem Trampolin\, 
+ Plyoboden Ninja Hindernisse uvm.&nbsp\;</p><p>Hier der <a rel="noopener no
+ referrer" target="_blank" href="https://sportunion.at/news/2020/10/15/4tc-
+ jam-2020/">Aftermovie vom letztem Jahr</a>!</p><br><p>Essen: inkludiert\, 
+ vegan möglich</p><p>Unterkunft: Doppelzimmer im Hotel daneben oder mit Is
+ omatte und Schlafsack in der Tennishalle.</p><p>Preis: 95€ (Unterkunft i
+ m Hotel) oder 80€ (Unterkunft in der Halle)</p><br><p>Anmeldung <a rel="
+ noopener noreferrer" target="_blank" href="https://sportunion-akademie.at/
+ content/SPORTUNION_Akademie/aktivkurse/aktivkurse/oe22074-4tc_jam/1662">hi
+ er</a>.</p><br><p>🇬🇧 The 4TC Jam brings together great communities f
+ rom the fields of ninja\, tricking and parkour to experience unforgettable
+  training moments together.&nbsp\;</p><p>You can expect lectures\, wellnes
+ s and action.&nbsp\;</p><p>The location in the middle of Austria\, in the 
+ Schladming-Dachstein region\, offers a hall with a training landscape spec
+ ially made for these sports\, a large trampoline\, plyofloor Ninja obstacl
+ es and much more.&nbsp\;</p><br><p>Check out the <a rel="noopener noreferr
+ er" target="_blank" href="https://sportunion.at/news/2020/10/15/4tc-jam-20
+ 20/">Aftermovie from last year</a>!</p><br><p>Food: included\, vegan possi
+ ble</p><p>Accommodation: Double room in the hotel or with sleeping mat and
+  sleeping bag in the tennis hall.</p><p>Price: 95€ (accommodation in the
+  hotel) or 80€ (accommodation in the hall)</p><br><p>Sign up <a rel="noo
+ pener noreferrer" target="_blank" href="https://sportunion-akademie.at/con
+ tent/SPORTUNION_Akademie/aktivkurse/aktivkurse/oe22074-4tc_jam/1662">here<
+ /a>.</p>
+GEO:47.48138789999999;14.0117618
+LOCATION:sportsarea Grimming\, Niederöblarn\, Austria
+ORGANIZER;CN="Pamela Forster";PHONE=;WEBSITE=:MAILTO:Pamela.forster@sportu
+ nion.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imacon - In Motion Brno
+DTSTART;VALUE=DATE:20220924
+DTEND;VALUE=DATE:20220925
+UID:1016169
+DESCRIPTION:<p>🇩🇪 Das größte Event der "In Motion"-Jamserie und da
+ s Finale der In Motion Competitions 2022. Es wird sowohl eine Skill-\, Spe
+ ed- als auch Style-Competition geben für die Kategorien Male\, Female &am
+ p\; Youth.&nbsp\;</p><p>Genauen Zeitplan &amp\; Details zur Qualifikation 
+ (Style Qualifikation per Video Submission bis 10.9.20222) gibt's auf der W
+ ebsite.</p><br><p>Essen: Selbstversorger</p><p>Schlafplatz: In der Halle</
+ p><p>Preis: 1100 CZK (45€)</p><br><p><a rel="noopener noreferrer" target
+ ="_blank" href="https://imacademy.cz/eventy/imacon-2022"><strong>Hier</str
+ ong></a> könnt ihr euch anmelden.</p><br><p>🇬🇧 The biggest event of
+  the "In Motion" Jamseries and the final of the In Motion Competitions 202
+ 2. There will be a Skill-\, Speed- as well as Style-Competition for the ca
+ tegories Male\, Female &amp\; Youth. Exact schedule &amp\; details for qua
+ lification (style qualification via video submission until 10.9.20222) can
+  be found on the website.</p><p>Food: Self-cateringSleeping place: In the 
+ hallPrice: 1100 CZK (45€)</p><p>Sign up <a rel="noopener noreferrer" tar
+ get="_blank" href="https://imacademy.cz/eventy/imacon-2022"><strong>here</
+ strong></a>.</p>
+GEO:49.1731419;16.5992372
+LOCATION:In Motion Academy - parkourová hala\, Vídeňská\, Brno-střed\
+ , Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/even
+ ty/imacon-2022":MAILTO:cibulka@imacademy.cz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spot Destroyer Jam - Hamburg
+DTSTART;VALUE=DATE:20220924
+DTEND;VALUE=DATE:20220924
+UID:1016170
+DESCRIPTION:<p>🇩🇪 2. Edition der Spot Destroyer Jam</p><p>Es ist ein
+ e Schnitzeljagd - Skill Competition:</p><p>Es gibt ein Zeitlimit in dem ma
+ n die Challenges an ausgewählten Spots finden und schaffen muss & der\, d
+ er am meisten geschafft hat gewinnt! Es gibt auch einige Preise!</p><p>Es 
+ gibt innerhalb der Competition Anfänger-\, Fortgeschrittene- und Profi-Ch
+ allenges.</p><p>Die Challenges werden von eingeladenen Parkour-Athleten (g
+ emacht & bewertet.)</p><p>Auf dem Instagram-Kanal der Jam könnt ihr nachs
+ ehen\, welche Athleten kommen.</p><p>Details zu Schlafplatz\, Preis & Esse
+ n kommen bald!</p><br><p>🇬🇧 2nd edition of the Spot Destroyer Jam</p
+ ><p>It's a Scavenger Hunt - Skill Competition:</p><p>There is a time limit
+  in which you have to find and complete the challenges at selected spots &
+  the one who has completed most wins! There will be prizes also!</p><p>The
+ re are beginner\, advanced and professional challenges within the competit
+ ion.</p><p>The challenges will be set by invited parkour athletes.</p><p>Y
+ ou can check out the Jam's Instagram channel to see which athletes are com
+ ing.</p><p>Details on sleeping space\, price & food coming soon!</p>
+GEO:53.6013507;10.0190171
+LOCATION:City Nord\, Hamburg\, Germany
+ORGANIZER;CN="Die Halle / Renae Dambly";PHONE=;WEBSITE="https://instagram.
+ com/searchdestroyjam?igshid=YmMyMTA2M2Y=":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Jam - Linz
+DTSTART;VALUE=DATE:20221001
+DTEND;VALUE=DATE:20221001
+UID:1159508
+DESCRIPTION:<p>🇩🇪 &nbsp\;Erste Flying Freaks Street Jam in Linz!</p>
+ <p>Nähere Details folgen in der WhatsApp Gruppe - Einfach per Instagram D
+ M @flying_freaks oder per E-Mail melden\, dann werdet ihr hinzugefügt.</p
+ ><br><p>Schlafplatz: Begrenzt bei Locals\, am besten in der Whatsappgruppe
+  fragen.</p><p>Preis: Gratis</p><p>Essen: nicht inkludiert</p><br><p>🇬
+ 🇧 First Flying Freaks Street Jam in Linz!</p><p>More details will follo
+ w in the WhatsApp group - just DM @flying_freaks on Instagram or send an e
+ mail and you will be added.</p><br><p>Accomodation: Limited - with locals\
+ , best to ask via the Whatsapp Chat.</p><p>Price: free</p><p>Food: not inc
+ luded</p>
+GEO:48.309757;14.2828703
+LOCATION:Neues Rathaus / Magistrat Linz\, Hauptstraße 1-5\, Linz\, Austri
+ a
+ORGANIZER;CN="Flying Freaks";PHONE=;WEBSITE=:MAILTO:flyingfreaks1@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Förde Jam 22 - Kiel
+DTSTART;VALUE=DATE:20221001
+DTEND;VALUE=DATE:20221002
+UID:1143436
+DESCRIPTION:<p>&nbsp\;🇩🇪 Eine spontane Jam in den Hallen des KMTV mi
+ t den üblichen Parkour Obstacles\, Slackline\, Airtrack\, Boulder. Bei pa
+ ssendem Wetter werden die Spots in Kiel entdeckt (bringt euch genügend We
+ chselklamotten mit\, wir haben jede Menge Wasser) Grillen und chillen im K
+ MTV Garten. Übernachtung in der Halle (bringt bitte Isomatte und Schlafsa
+ ck\, Hängematte mit) Wir können max. 50 Leute in der Halle unterbringen\
+ , für den Rest finden wir eine Lösung \;-) Weitere Infos kommen noch rec
+ htzeitig auf den üblichen Kanälen (Insta\, Homepage\, Facebook\, Whatsap
+ p Gruppen)&nbsp\;</p><br><p>Essen: Nicht inkludiert\, bzw. wird ev. noch o
+ rganisiert</p><p>Preis: 10 €</p><p>Schlafplatz: In der Halle</p><br><p>A
+ nmeldung <a rel="noopener noreferrer" target="_blank" href="https://widget
+ s.yolawo.de/w/631740384c60f56af607bd14/offers/6315da7a4804aa5aa994e1f0"><s
+ trong>hier</strong></a></p><br><p>🇬🇧 A spontaneous jam in the KMTV h
+ alls with the usual parkour obstacles\, slackline\, airtrack\, boulder. If
+  it's good weather we will discover the spots in Kiel (bring a change of c
+ lothes\, we have plenty of water)\, barbecue and chill in the KMTV garden.
+  Overnight stay in the hall (please bring a sleeping mat and sleeping bag\
+ , hammock) We can accommodate max. 50 people in the hall\, for the rest we
+  will find a solution \;-) More info will come in time on the usual channe
+ ls (Insta\, Homepage\, Facebook\, Whatsapp groups).</p><p>&nbsp\;</p><p>Fo
+ od: Not included\, might be organized still</p><p>Price: 10 €</p><p>Slee
+ ping place: In the gym</p><br><p>Sign up <a rel="noopener noreferrer" targ
+ et="_blank" href="https://widgets.yolawo.de/w/631740384c60f56af607bd14/off
+ ers/6315da7a4804aa5aa994e1f0">here</a></p>
+GEO:54.3308216;10.1265191
+LOCATION:Jahnstraße 8A\, 24116 Kiel\, Germany
+ORGANIZER;CN="Parkour Kiel/KMTV";PHONE=;WEBSITE=www.Parkour-Kiel.de:MAILTO
+ :ParkourKiel@GMX.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krap Invaders
+DTSTART;VALUE=DATE:20221001
+DTEND;VALUE=DATE:20221002
+UID:1143442
+DESCRIPTION:<p>🇩🇪 KRAP INVADERS COMEBACK</p><p>- 2 Tage Parkour Jam<
+ /p><p>- KRAP Parkour pants included (im 2 Tages-Preis)</p><p>- Samstag und
+  Sonntag den ganzen Tag freies Training im Gym Krapannone Schio</p><br><p>
+ Essen: nicht sicher</p><p>Schlafplatz: Im Gym&nbsp\;</p><p>Preis:&nbsp\;</
+ p><p>1 Tag 35€ (inkl. Krap Shirt)</p><p>2 Tage 60€ (inkl. Krap Sweatpa
+ nt)</p><br><p>Mehr Informationen und Anmeldung hier: <a rel="noopener nore
+ ferrer" target="_blank" href="http://www.krapinvaders.com/"><strong>http:/
+ /www.krapinvaders.com/</strong></a></p><br><p>🇬🇧 KRAP INVADERS COMEB
+ ACK</p><p>- 2 days event- A pair of Krap Parkour Pants INCLUDED (for 2 day
+ s price)</p><p>- Saturday and Sunday free training in the gym Krapannone S
+ chio</p><br><p>Food: not sure if it's included</p><p>Accomodation: in the 
+ gym</p><p>Price:&nbsp\;</p><p>1 day 35€ (incl. Krap Shirt)</p><p>2 days 
+ 60€ (incl. Krap Sweatpant)</p><br><p>more information & sign up on the w
+ ebsite <a rel="noopener noreferrer" target="_blank" href="http://www.krapi
+ nvaders.com/"><strong>http://www.krapinvaders.com/</strong></a></p>
+GEO:45.7147415;11.3429302
+LOCATION:KRAPANNONE Indoor Parkourpark\, Via Pietro Riboli\, Schio\, Provi
+ nce of Vicenza\, Italy
+ORGANIZER;CN=Krapinvaders;PHONE=;WEBSITE="http://www.krapinvaders.com/":MA
+ ILTO:info@krapinvaders.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oslo Movement Gathering
+DTSTART;VALUE=DATE:20221007
+DTEND;VALUE=DATE:20221009
+UID:1016161
+DESCRIPTION:<p>🇩🇪 Parkour &amp\; Tricking - Event in Oslo</p><p>Das 
+ Event wird in einer großen Halle mit 2 Tricking-Böden\, einem Parkour Se
+ t-up\, Trampolinen\, Aitracks usw. stattfinden</p><p>Preis: 990 NOK - Earl
+ y Bird (ca. 100€)</p><p>Essen: nur Frühstück inkl.</p><p>Schlafplatz: 
+ In der Halle</p><p>Updates gibt es hier: <a rel="noopener noreferrer" targ
+ et="_blank" href="https://www.facebook.com/events/517342332621127">Faceboo
+ k EVENT</a></p><p>Tickets gibt's auf der Website</p><br><p>🇬🇧 Parkou
+ r &amp\; Tricking - Event in Oslo</p><p>The event will take place in a big
+  hall with 2 tricking floors\, a parkour set-up\, trampolines\, aitracks e
+ tc.</p><p>Price: 990 NOK - Early Bird (approx. 100€)</p><p>Food: only br
+ eakfast included</p><p>Sleeping place: in the gym</p><p>Updates can be fou
+ nd here: <a rel="noopener noreferrer" target="_blank" href="https://www.fa
+ cebook.com/events/517342332621127">Facebook EVENT</a></p><p>Buy tickets on
+  the website.</p><br><br>
+GEO:59.92466779999999;10.8200046
+LOCATION:Viqueens Hallen\, Persveien\, Oslo\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/prod
+ uct/oslo-movement-gathering-2022-parkour-tricking-october-7-9th/":MAILTO:o
+ mg@oslo-movement.no
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest In Ollerup Jam
+DTSTART;VALUE=DATE:20221104
+DTEND;VALUE=DATE:20221106
+UID:1188968
+DESCRIPTION:<p>🇩🇪 Ollerup hat sich entschieden den Parkourbereich zu
+  halbieren\, daher findet nun vorerst die letzte große Ollerup Jam statt!
+ </p><br><p>Mehr Infos kommen bald!</p><br><p>Anmeldelink <a rel="noopener 
+ noreferrer" target="_blank" href="https://tilmelding.ollerup.dk/da/public/
+ courses/signupshort?courseid=330&amp\;fbclid=IwAR3dhdxC-nJWq_yU6ypc_xfHgX3
+ H4BJlRXEba8P7i7kpFmV8IGwyNKfZOLE">hier</a>\, Achtung nicht mehr viele Plä
+ tze frei!</p><br><p>🇬🇧 Ollerup decided to to repurpose half of the p
+ arkour hall for the fitness line\, means half of the parkour area will be 
+ lost. So this might be the last big Ollerup jam!</p><br><p>More informatio
+ n coming soon.</p><br><p>Sign up <a rel="noopener noreferrer" target="_bla
+ nk" href="https://tilmelding.ollerup.dk/da/public/courses/signupshort?cour
+ seid=330&amp\;fbclid=IwAR3dhdxC-nJWq_yU6ypc_xfHgX3H4BJlRXEba8P7i7kpFmV8IGw
+ yNKfZOLE">here</a>\, not many tickets left!</p>
+GEO:55.07097;10.511618
+LOCATION:Gymnastikhøjskolen i Ollerup (Selvejende Institution)\, Svendbor
+ gvej\, Vester Skerninge\, Denmark
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.facebook.com/events/455634246480
+ 152/":MAILTO:HV@ollerup.dk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Skill & Style
+DTSTART;VALUE=DATE:20221119
+DTEND;VALUE=DATE:20221120
+UID:1259435
+DESCRIPTION:<p>🇩🇪 &nbsp\;Skill &amp\; Style Contest in der 4 Element
+ s Academy am 19.11. &amp\; Jam am 20.11 - Zwischen Skill (Vormittag) &amp\
+ ; Style (Nachmittag) gibt es natürlich auch genug Zeit für Jammen.</p><b
+ r><p>&nbsp\;Es gibt sowohl eine Mens\, Womens and Kids Division.</p><br><p
+ >Preis: Contest Ticket + Übernachtung in der Halle (Unbedingt Schlafsack 
+ und warme Kleidung mitbringen) 50€ oder nur Contest Ticket 30€</p><br>
+ <p>Tickets &amp\; Timetable gibt's <a rel="noopener noreferrer" target="_b
+ lank" href="https://www.4elementsacademy.at/contest--77191464-de.html"><st
+ rong>hier</strong></a>.</p><br><p>🇬🇧 Skill &amp\; Style Contest at t
+ he 4 Elements Academy on 19.11. &amp\; Jam on 20.11.&nbsp\;</p><p>Between 
+ Skill (morning) &amp\; Style (afternoon) there will of course be plenty of
+  time for jamming.</p><p>There is a Mens\, Womens and Kids division.</p><p
+ >Price: Contest ticket + overnight stay in the hall (make sure to bring a 
+ sleeping bag and warm clothes): 50€ or only contest ticket 30€.</p><p>
+ Tickets &amp\; Timetable can be found <a rel="noopener noreferrer" target=
+ "_blank" href="https://www.4elementsacademy.at/contest--77191464-de.html">
+ <strong>here</strong></a>.</p>
+GEO:47.2798385;11.4914655
+LOCATION:4 Elements Academy Urban Fitness Studio\, Alte Landstraße\, Hall
+  in Tirol\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ice-H Jam
+DTSTART;VALUE=DATE:20221210
+DTEND;VALUE=DATE:20221210
+UID:1216833
+DESCRIPTION:<p>🇩🇪 Jam am 10.12. in der Parkourhalle in Hannover!&nbs
+ p\;</p><p>Übernachtung von Freitag auf Samstag möglich.</p><br><p>Mehr I
+ nfos kommen bald!</p><br><p>🇬🇧 Jam on 10.12. at the Parkourhalle in 
+ Hanover!&nbsp\;</p><p>Overnight stay possible from Friday to Saturday.&nbs
+ p\;</p><br><p>more infos soon!</p>
+GEO:52.4497013;9.7824562
+LOCATION:NatsWerk Isernhagen\, Dieselstraße\, Isernhagen\, Germany
+ORGANIZER;CN=HTOWN;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Extremis Fam Winter Edition
+DTSTART;VALUE=DATE:20221216
+DTEND;VALUE=DATE:20221218
+UID:1259453
+DESCRIPTION:<p>🇩🇪 Winter Jam in der spanischen Parkourhalle IN EXTRE
+ MIS CLUB</p><br><p>Preis: 105€</p><p>Übernachtung: 2 x in der Halle</p>
+ <p>Essen: 1 x Essen pro Tag</p><br><p>Fragt am besten auf <a rel="noopener
+  noreferrer" target="_blank" href="https://instagram.com/inextremisclub?ig
+ shid=YmMyMTA2M2Y=">Instagram</a> nach wenn ihr mehr wissen wollt.</p><br><
+ p>🇬🇧 Winter Jam at the Spanish parkour gym IN EXTREMIS CLUB</p><br><
+ p>Price: 105€</p><p>Overnight stay: 2 x in the hall</p><p>Food: 1 x meal
+  per day</p><br><p>Ask on <a rel="noopener noreferrer" target="_blank" hre
+ f="https://instagram.com/inextremisclub?igshid=YmMyMTA2M2Y=">Instagram</a>
+  &nbsp\;if you want to know more.</p>
+GEO:41.514077;2.1342975
+LOCATION:In Extremis Club Academy\, Ronda de Santa Maria\, Barberà del Va
+ llès\, Spain
+ORGANIZER;CN=;PHONE=;WEBSITE="https://inextremisclub.com/":MAILTO:https://
+ instagram.com/inextremisclub?igshid=YmMyMTA2M2Y=
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supreme Parkour Armageddon
+DTSTART;VALUE=DATE:20221216
+DTEND;VALUE=DATE:20221218
+UID:1216756
+DESCRIPTION:<p>🇩🇪 Das 16. jährliche und epische Supreme Parkour Arm
+ ageddon: Die Veranstaltung findet im Parkour Gym von Parkour Akatemia Turk
+ u statt und soll die finnische Community und internationale Gäste zusamme
+ nbringen. Vier Gastcoaches (TBA) werden während der Veranstaltung Worksho
+ ps geben\, die meiste Zeit ist aber für freies Jammen da. Im Preis inbegr
+ iffen sind ein Jam-shirt\, Lunch am Samstag und die Übernachtung in der H
+ alle.</p><br><p>Weitere Informationen und Anmeldung <a rel="noopener noref
+ errer" target="_blank" href="https://www.parkour.fi/spka/"><strong>hier </
+ strong></a>und auf Instagram @parkourfi</p><p>Preis: 65€/85€</p><p>Unt
+ erkunft: Übernachtung im Gym</p><p>Essen: nur Lunch am Samstag</p><br><p>
+ 🇬🇧 The 16th annual and epic\, Supreme Parkour Armageddon:&nbsp\;</p>
+ <p>The Escape from Middle-Örth will be held in Turku on the weekend befor
+ e Christmas (16.-18.12.2022). Hosted at the gym of Parkour Akatemia Turku\
+ , we hope to bring together the Finnish community alongside foreign visito
+ rs. Four guest coaches (TBA) will host their sessions during the event alo
+ ngside plenty of free training time. The price includes a jam shirt\, lunc
+ h for Saturday and gym accommodation.&nbsp\;</p><br><p>More info and sign 
+ up <a rel="noopener noreferrer" target="_blank" href="https://www.parkour.
+ fi/spka/"><strong>here</strong></a> and instagram @parkourfi</p><br><p>Pri
+ ce: 65€/85€</p><p>Accomodation: sleeping in the gym</p><p>Food: only l
+ unch on saturday</p>
+GEO:60.45905519999999;22.2740268
+LOCATION:Turun Parkour Akatemia\, Helsinginkatu 21\, Turku\, Finland
+ORGANIZER;CN="The Finnish Parkour Association (@parkourfi)";PHONE=;WEBSITE
+ ="https://www.parkour.fi/spka/":MAILTO:viljam.mikkelsson@parkour.fi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omw - Oslo Movement Women’S & Non-Binary Jam
+DTSTART;VALUE=DATE:20221217
+DTEND;VALUE=DATE:20221218
+UID:1305203
+DESCRIPTION:<p>🇩🇪 Oslo Movement lädt ein zur Women's and Non-Binary
+  Jam.</p><p>Es wird viele Sessions\, geleitete Workshops für Anfänger un
+ d auch Fortgeschrittene geben. Die Veranstaltung findet im Parkour Gym sta
+ tt\, es gibt einen Sprungboden\, Air-Tracks\, weichen Matten\, Blöcken un
+ d Trampolin haben - und einen Raum mit Parkour-Set up.</p><p>Zeitplan:Sams
+ tag 10.00-17.00 UhrSonntag 10.00-17.00 UhrPreis: 200 NOK\, 19€</p><p>
+ 🇬🇧 Oslo Movement invite you to the Women’s and Non-Binary Jam Dece
+ mber hosted by Alva.</p><br><p>Come train\, have fun\, learn a new more an
+ d meet new (and old) friends – Whether you are a complete beginner or an
+  experienced athlete. We will have a bunch of training\, workshops\, games
+  and more\, so expect a weekend full of movement\, learning\, socializing 
+ and fun!</p><p>The event will be in our gym at Ryen where we have the tric
+ king room with a sprung floor\, air tracks\, soft mats\, blocks and trampo
+ line – And the parkour room with a setup complete with boxes and bars.</
+ p><br><p>Weekend schedule:</p><p>Saturday 10.00-17.00</p><p>Sunday 10.00-1
+ 7.00</p><p>AGE LIMIT: 10 years+ (Under 12 – Bring a parent:)</p><p>Price
+ : 200 NOK\, 19€</p>
+GEO:59.8904008;10.8072244
+LOCATION:Oslo Movement\, Sandstuveien\, Oslo\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/prod
+ uct/omw-jam-december-17-18th/?fbclid=PAAabDZe56GfJ9ntm521I15KYwrIcp1LwAQiH
+ HrHLXUvmRC7LeHOGGWj-N5WU":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xmas Marmelade 9.0 - Linz
+DTSTART;VALUE=DATE:20221217
+DTEND;VALUE=DATE:20221218
+UID:1216737
+DESCRIPTION:<p>🇩🇪 &nbsp\;Euch erwarten zwei Tage Vollgas Jammen\, Sp
+ aß\, liebe Menschen\, Contests und noch mehr Spaß!</p><p>- Parkour Area 
+ (inkl. mobile Obstaclessss!)</p><p>- Tricking & Trampoline Area (Airtrick\
+ , Minitramp\, Riesentramp)</p><p>- Videoabend</p><p>- Skillcontests für K
+ ids (10-14 Jahre) & Teens+Above (15+ Jahre)&nbsp\;</p><br><p>Essen: Samsta
+ g Abendessen\, am Sonntag Frühstück &nbsp\;</p><p>Jamzeiten: Samstag 17.
+ 12.\, 10:00 - 22.00 Sonntag 18.12.\, 09.00 - 16.00</p><p>Preis: 60€\, Fr
+ ühbucherbonus 55€ bei Anmeldung per Mail bis 30.11.22</p><p>Unterkunft:
+  NICHT IN DER HALLE MÖGLICH - bis 17.11 ist aber ein vergünstigtes Doppe
+ lzimmer im Studentenheim buchbar mit dem Geheimwort "Weihnachtsevent" kost
+ et es 39€ pro Person inkl. Frühstück <a rel="noopener noreferrer" targ
+ et="_blank" href="http://www.sommerhaus-hotel.at/de/linz?fbclid=IwAR17PbHm
+ CpOa-S73cRItB8AUD_Ci-s7zVUHpTHA9gkGcB1aSTcOqpg3kv90">http://www.sommerhaus
+ -hotel.at/de/linz</a></p><br><p>Alle weiteren Infos <a rel="noopener noref
+ errer" target="_blank" href="https://www.facebook.com/events/4952088026220
+ 82/">hier</a>\, Anmeldung per Mail an info@teamobsession.at</p><br><p>🇬
+ 🇧 Two full days jamming\, fun\, lovely people\, contests and even more 
+ fun await you!</p><p>- Parkour Area (incl. mobile obstacles!)</p><p>- Tric
+ king & Trampoline Area (Airtrick\, Minitramp\, Big Tramp)</p><p>- Video ev
+ ening</p><p>- Skill contests for Kids (10-14 years) & Teens+Above (15+ yea
+ rs)&nbsp\;</p><br><p>Food: Saturday dinner\, Sunday breakfast</p><p>Jam ti
+ mes: Saturday 17.12.\, 10:00 - 22.00 Sunday 18.12.\, 09.00 - 16.00</p><p>P
+ rice: 60€\, early bird 55€ if you register by email until 30.11.22</p>
+ <p>Accommodation: NOT POSSIBLE IN THE GYM! - but until 17.11 you can book 
+ a discounted double room in a student dormitory with the secret word "Chri
+ stmas event" for 39€ per person incl. breakfast <a rel="noopener norefer
+ rer" target="_blank" href="http://www.sommerhaus-hotel.at/de/linz?fbclid=I
+ wAR17PbHmCpOa-S73cRItB8AUD_Ci-s7zVUHpTHA9gkGcB1aSTcOqpg3kv90">http://www.s
+ ommerhaus-hotel.at/de/linz</a></p><br><p>All further information <a rel="n
+ oopener noreferrer" target="_blank" href="https://www.facebook.com/events/
+ 495208802622082/">here</a> & sign up per email to info@teamobsession.at</p
+ >
+GEO:48.3313752;14.3236873
+LOCATION:Zero Limits Trendsporthalle\, Julius-Raab-Straße\, Linz\, Austri
+ a
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ladies In Leuven - Hal5
+DTSTART;VALUE=DATE:20230108
+DTEND;VALUE=DATE:20230108
+UID:1336048
+DESCRIPTION:<p>Are you a girl/woman who always wanted to try parkour but i
+ s maybe a little scared to start? Or do you already do parkour but would y
+ ou like to train together with some top women from the sport?</p><p>Then c
+ ome to Hal 5 on Sunday January 8 for a day full of parkour vibes\, worksho
+ ps\, training &amp\; more!</p><br><p>10-13 workshops</p><p>13-18 jam</p><p
+ >afterwards screening of Queen City</p><p>There will be initiations for co
+ mplete beginners\, workshops for those who want to expand their skillset a
+ nd an open jam in the afternoon. Girls only of course! We conclude with th
+ e screening of Queen City\, an American documentary by Pointaparkour about
+  eight women coming together to train and share their passion for movement
+ .</p><p>All ages from 12 years welcome.</p><br><p>Price: 7€ Workshops\, 
+ 5€ Jam * Screening\, 10€ full day</p><p>Accomodation: not included\, p
+ lease ask locals or reach out via the contact form as well.</p><p>Food: no
+ t included</p><p>Registration is only necessary for the workshops\, send u
+ s an email via the <a rel="noopener noreferrer" target="_blank" href="http
+ s://www.springstofparkour.com/contact"><strong>contact form</strong></a>.<
+ /p>
+GEO:50.8829498;4.7223114
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herttua Family Jam
+DTSTART;VALUE=DATE:20230114
+DTEND;VALUE=DATE:20230115
+UID:1328385
+DESCRIPTION:<p>&nbsp\;🇩🇪 Die Herttua Family Jam beginnt Samstag um 1
+ 3:00 und endet Sonntag um 17:00.</p><p>Es gibt eine Sauna!</p><br><p>Preis
+ : 50€</p><p>Essen: nein</p><p>Unterkunft: Schlafen im Gym\, bringt einen
+  warmen Schlafsack mit!</p><br><p>🇬🇧 Herttua Family Jam is happening
+ !</p><p>Starts Saturday at 13:00</p><p>And ends Sunday at 17:00</p><p>Ther
+ e will be a Sauna! :)</p><br><p>Price: 50€</p><p>Food: not included</p><
+ p>Accommodation: Sleeping in the gym\, bring a warm sleeping bag</p>
+GEO:60.8180722;25.7346195
+LOCATION:Herttua Family Oy\, Koulutie\, Orimattila\, Finland
+ORGANIZER;CN="Herttua Family Oy";PHONE=;WEBSITE="https://www.herttuafamily
+ .com/tapahtumat/talvijamit":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Winter Jam - Brno
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230122
+UID:1283557
+DESCRIPTION:<p>🇩🇪 3 Tage Jam in der größten Parkourhalle in Tschec
+ hien\, der In Motion Academy Brno. 600m2 Parkour-Park + Riesentramp\, Foam
+  Pit\, Sprungboden usw.</p><p>Die Qualifikation für den Skill Contest fü
+ r IMACON 2023 findet auf der Veranstaltung statt! Es gibt 12 Challenges\, 
+ jeweils 3 Versuche um sie zu absolvieren. Derjenige\, der es mit den wenig
+ sten Versuchen schafft\, kommt &nbsp\;ins Finale auf der IMACON 2023.</p><
+ br><p>Preis: 55 €</p><p>Übernachtung: im Gym (Schlafsäcke und Iso mitb
+ ringen)</p><p>Essen: Selbstversorger</p><br><p>Für die Anmeldung schickt 
+ eine E-Mail an cibulka@imacademy.cz mit Namen + Geburtsdaten + T-Shirt-Gr
+ ößen (T-shirts können nur bis zum 10. Januar bestellt werden)</p><br><p
+ >🇬🇧 A three-day event in the largest parkour gym in the Czech Republ
+ ic - In Motion Academy Brno. 600m2 of parkour obstacles is like the city i
+ tself in the hall\, full of towers\, jumps and arcades + trampoline\, foam
+  pit\, spring floor and so on.&nbsp\;</p><p>The qualification for the Skil
+ l Contest for IMACON 2023 will take place at the event! 12 challenges\, wh
+ ere you will only have 3 attempts to complete. The one who manages the cha
+ llenge for as low attempts as possible - automatically advances to the fin
+ als on IMACON 2023!</p><br><p>Price: 55 €</p><p>Accomodation: in the gym
+  (bring sleeping bags &amp\; mattresses)</p><p>Food: not included</p><br><
+ p>For registration send an email to cibulka@imacademy.cz with names + birt
+ hdates + Tshirt sizes of attendants. (T-shirts can only be ordered until t
+ he 10th of January)</p>
+GEO:49.1731419;16.5992372
+LOCATION:In Motion Academy - parkourová hala\, Vídeňská\, Brno-střed\
+ , Czechia
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Skill & Speed 3
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230122
+UID:1370604
+DESCRIPTION:<p>🇬🇧 Northern Speed &amp\; Skill Competition in the Urb
+ an Factory Gym in Hebburn.</p><p>3 days jam &amp\; competition - Women / M
+ en &amp\; Under 16 category</p><br><p>Tickets &amp\; More information <a r
+ el="noopener noreferrer" target="_blank" href="https://the-urban-factory.c
+ lass4kids.co.uk/camps?fbclid=PAAaZbZi6Eo0lLdlZJcyzt3FrCl1xpIdY57wKg-BwVMps
+ zmlNqs-i26iGsukk">here</a></p><p>Also find the schedule <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.instagram.com/p/CmHg5qDK5vM/?
+ igshid=YmMyMTA2M2Y=">here</a> (Instagram).</p>
+GEO:54.9623387;-1.5274937
+LOCATION:The Urban Factory\, Victoria Road West\, Hebburn\, UK
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 Elements Academy Öpfv Contest
+DTSTART;VALUE=DATE:20230225
+DTEND;VALUE=DATE:20230226
+UID:1370549
+DESCRIPTION:<p>🇬🇧 The Jam/Contest starts on 25.02.23 at 9:00 am and 
+ ends on 26.02.23 at 3:00 pm. It takes place in Austria's biggest Parkour &
+ amp\; Freerunning Facility and includes Skills\, Speed &amp\; Style Contes
+ t* of the ÖPFV - Österreichischer Parkour &amp\; Freerunning Verband (Al
+ l on 25.02.) There will be youth male and female and adult male and female
+  in all competition formats. On 26.02 it's full Jam action. The gym contai
+ ns 2 Eurotramps\, 1 airbag\, 1 pole park &amp\; 1 tricking area.</p><br><p
+ >*Competing is only possible for ÖPFV Members (you can sign up easily for
+  free at the event\, that only works if you can't be involved with FIG/ÖF
+ T/DTB or any similar competitions)</p><br><p>Contest prizes: For Skill &am
+ p\; Style: 1st place 150€\, 2nd place 100€ 3rd place 50€ for male &a
+ mp\; female in the adult category.</p><br><p>Price: 50€</p><p>Sleeping p
+ lace: In the parkour gym</p><p>Food: Not included\, but a food truck will 
+ be there for Saturday (25.02) and supermarkets are just around the corner 
+ with a 5min walk.&nbsp\;</p><br><p>Sign up <a rel="noopener noreferrer" ta
+ rget="_blank" href="https://www.4elementsacademy.at/skills-contest.html"><
+ u><strong>here</strong></u></a>!</p>
+GEO:47.279843;11.4914752
+LOCATION:4 Elements Academy\, Alte Landstraße\, Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at/skills-contest.html":MAILTO:office@4elementsacademy.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spl European Qualifiers
+DTSTART;VALUE=DATE:20230225
+DTEND;VALUE=DATE:20230226
+UID:1370583
+DESCRIPTION:<p>🇬🇧 TIME &amp\; LOCATION</p><p>25 feb. 11:00 CET – 2
+ 6 feb. 22:00 CET</p><p>Leuven\, Hal 5\, Diestsesteenweg 104\, 3010 Leuven\
+ , Belgium</p><br><p><strong>ABOUT</strong></p><p>SPRINGSTOF Parkour is pro
+ ud to host the official Sport Parkour League's European Qualifiers for <a 
+ rel="noopener noreferrer" target="_blank" href="https://www.sportparkourle
+ ague.com/"><u>SPL2</u></a>\, the world's #1 parkour championships taking p
+ lace August 17-20\, Vancouver\, BC.</p><p>While we provide logistics and t
+ he Hal 5 parkour gym as the arena for this event\, the Sport Parkour Leagu
+ e team will take care of the organisation of the competition itself.</p><b
+ r><p><strong>CATEGORIES</strong></p><p>MENS: Skill\, Speed &amp\; Style</p
+ ><p>WOMENS: Skill\, Speed &amp\; Style</p><p>Cash prizes for 1st place in 
+ each category. Amount tbd.</p><p>The top third of competitors (up to 3 tot
+ al) in each category will qualify for SPL2.&nbsp\;</p><p><em>For example: 
+ In a category with 9 or more people\, the whole podium (1st\, 2nd\, 3rd) w
+ ill qualify. If 8 or less people are in a category\, only 2 can qualify. I
+ f 5 or less people are in a category only 1 can qualify.</em></p><br><p><s
+ trong>TIMETABLE &amp\; RULES</strong></p><p><a rel="noopener noreferrer" t
+ arget="_blank" href="https://www.springstofparkour.com/event-details/">Her
+ e</a> you find the time table and more information regarding the competiti
+ on format.</p><br><p><strong>TICKET PRICING</strong></p><p>One Discipline:
+  €50</p><p>Two Disciplines: €90</p><p>Three Disciplines: €135</p><p>
+ Spectator (2 days\, including community jam on Sunday): €20</p><br><p><s
+ trong>REGISTRATION &amp\; PAYMENT</strong></p><p>Make sure to follow the i
+ nstructions <a rel="noopener noreferrer" target="_blank" href="https://www
+ .springstofparkour.com/event-details/">here</a> to sign up and do the paym
+ ent.</p>
+GEO:50.8832379;4.7221328
+LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
+ our.com/event-details/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Copenhagen Winter Session
+DTSTART;VALUE=DATE:20230303
+DTEND;VALUE=DATE:20230305
+UID:1409322
+DESCRIPTION:<p>Copenhagen Parkour is a non profit NGO\, everyone is volunt
+ eers. All activities is opt-in based. Everyone is welcome. Please find all
+  information on our webpage.</p><br><p>Price: 200dkk / 30 euro</p><p>Food:
+  Breakfast only</p><p>Accomodation: yes\, in the sleeping hall</p>
+GEO:55.7022714;12.5481153
+LOCATION:Tagensvej 85D\, 2200 Copenhagen\, Denmark
+ORGANIZER;CN="Copenhagen Parkour";PHONE=;WEBSITE="https://cphparkour.wordp
+ ress.com/":MAILTO:ilja.olsen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam - Bologna
+DTSTART;VALUE=DATE:20230318
+DTEND;VALUE=DATE:20230319
+UID:1305167
+DESCRIPTION:<p>🇩🇪 Street Jam in Bologna! Pasta Moves lädt nach Bolo
+ gna ein für eine gratis Jam.</p><br><p>Preis: Nix</p><p>Essen: Auch nicht
+ </p><p>Schlafplatz: In einem Gym\, Reservierung über Instagram Privatnach
+ richt (pastamoves)</p><br><p>🇬🇧 Free street jam in Bologna hosted by
+  Pasta Moves</p><br><p>Price: Free</p><p>Food: None</p><p>Accomodation: In
+  the gym\, reservation via instagram direct message. (pastamoves)</p>
+GEO:44.494887;11.3426163
+LOCATION:Bologna\, Metropolitan City of Bologna\, Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE=:MAILTO:pastamovesdivision@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Underground 10
+DTSTART;VALUE=DATE:20230324
+DTEND;VALUE=DATE:20230326
+UID:1328387
+DESCRIPTION:<p>🇩🇪 Project Underground 10 findet im Nova City Gym in 
+ Rotherham statt.Das bedeutet 3 Tage Jam und auch viel Competition!</p><br>
+ <p>Es gibt Speed-\, Skill- und Style-Comps für Männer\, Frauen und Kinde
+ r.&nbsp\;</p><p>Gleiches Preisgeld für Männer und Frauen!</p><br><p>Prei
+ s: Unterschiedliche Preise für Erwachsene und Kinder + je nachdem\, ob ih
+ r an der Competition teilnehmt oder nicht</p><p>- Golden Ticket: 80£ Earl
+ y Bird/ 100£ normaler Preis für 3 Tage Jam\, Competition + Essen</p><p>-
+  Silver Ticket: 65£ für 3 Tage Jam ohne Competition und Essen</p><p>Esse
+ n: nur im Golden Ticket dabei</p><p>Schlafplatz: im Gym</p><br><p>Tickets 
+ gibts <a rel="noopener noreferrer" target="_blank" href="https://www.novac
+ itycentre.com/project-underground-10"><strong>hier</strong></a> ! Es gibt 
+ noch den Early bird preis für das Golden Ticket!&nbsp\;</p><br><p>🇬
+ 🇧 Project underground 10 is happening in the Nova City Gym in Rotherham
+ .</p><br><p>3 days jam + lots of competition happening. There are Speed\, 
+ Skill and Style Competitions for Men\, Women and Kids. Equal prize money f
+ or Men and Women.</p><br><p>Price: Different prices for adults and kids + 
+ depending if your competing or not</p><p>- 80£ Early Bird/ 100£ normal p
+ rice for Competition\, 3 days jam + Food</p><p>- 65£ for 3 days jam witho
+ ut competing and food</p><p>Food: included in the golden ticket</p><p>Acco
+ modation: in the gym</p><br><p>You can buy your tickets <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.novacitycentre.com/project-un
+ derground-10"><strong>here</strong></a>! There's still a early bird price 
+ for the Golden Ticket (Competition and food included)</p>
+GEO:53.442712;-1.3610198
+LOCATION:NovaCity Rotherham\, Mangham Road\, Rotherham\, UK
+ORGANIZER;CN="NovaCity Rotherham";PHONE=;WEBSITE="https://www.novacitycent
+ re.com/project-underground-10":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ape Academy Öpfv Skill Contest
+DTSTART;VALUE=DATE:20230401
+DTEND;VALUE=DATE:20230402
+UID:1370587
+DESCRIPTION:<p>🇬🇧 Skill Contest* in the Ape Academy Gym + Jam. There
+  will be a youth and an adult category &amp\; both male &amp\; female.</p>
+ <br><p>Contest prizes: 1st place 150€\, 2nd place 100€ 3rd place 50€
+  for male &amp\; female in the adult category</p><br><p>Price: approximate
+ ly 30€\, not 100% sure yet.</p><p>Food: not included</p><p>Accomodation:
+  not included</p><br><p>*Competing is only possible for ÖPFV Members (you
+  can sign up easily for free at the event\, that only works if you can't b
+ e involved with FIG/ÖFT/DTB or any similar competitions)</p>
+GEO:48.1355934;16.3145465
+LOCATION:ape academy\, Perfektastraße\, Vienna\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speed & Freestyle Comp Besançon
+DTSTART;VALUE=DATE:20230408
+DTEND;VALUE=DATE:20230409
+UID:1456503
+DESCRIPTION:<p>The jam will be in a big gym with several urban sports ( pa
+ rkour\, skateboard\, dance\, bmx\, rollerblading ) In the same week-end th
+ ere is also a BMX event&nbsp\;</p><p>And if the weather is good\, we will 
+ be able to move outside.</p><br><p>Sign up <a rel="noopener noreferrer" ta
+ rget="_blank" href="https://www.helloasso.com/associations/association-des
+ -traceurs-bisontins/evenements/competition-jam-parkour"><strong>here</stro
+ ng></a>.</p><br><p>Food : Food-truck for the 2 days &nbsp\;(not included)<
+ /p><p>Or there is a supermarket\, 5 minutes walk&nbsp\;</p><p>Accommodatio
+ n : No accommodation\, but we can host some people&nbsp\;</p><p>Price : Co
+ mpetition + jam : 12€ ( Cash price )</p><p>Jam : 8€&nbsp\;</p>
+GEO:47.258686;6.0152006
+LOCATION:Centre des Cultures Urbaines Bisontines - CCUB\, Chemin des Torco
+ ls\, Besançon\, France
+ORGANIZER;CN="association des traceurs bisontins ( ATB ) association of bi
+ sontins tracers";PHONE=;WEBSITE="https://www.helloasso.com/associations/as
+ sociation-des-traceurs-bisontins/evenements/competition-jam-parkour":MAILT
+ O:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashigaru Skillz Comp & Jam - Hal 5
+DTSTART;VALUE=DATE:20230415
+DTEND;VALUE=DATE:20230416
+UID:1440560
+DESCRIPTION:<p>save the date</p>
+GEO:50.8832379;4.7221328
+LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="Team Ashigaru";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rad Jam - Hamburg
+DTSTART;VALUE=DATE:20230415
+DTEND;VALUE=DATE:20230416
+UID:1455599
+DESCRIPTION:<p>The RAD Jam is our first weekend long event to Fuse\, Grow 
+ and Celebrate Communities.</p><p>In collaboration with Sound Kendama\, Rad
+ ical and Die Halle we will be creating a weekend designed to bring togethe
+ r people from Parkour and Kendama and promote reflection on what it means 
+ to be 'A community' by doing what we do best\, Jam.</p><br><p><strong>The 
+ RAD Jam will consist of:</strong></p><p><strong>Day 1:</strong></p><p>A La
+ rge Community Spot Tour -&nbsp\; share some of Hamburgs best PK and KDMA s
+ pots</p><p>Workshops &amp\; Group Activities - Coaches from Die Halle and 
+ Players from Sound Kendama will be putting on Parkour and Kendama Workshop
+ s.</p><p>Party Jam - Over 18 ab 19.30</p><p>We will be turning Die Halle i
+ nto a Night Club with Djs and Jam together in the main Hall. Sleeping Spot
+  - In the school next to the Gym there will be a designated spot to sleep 
+ in between Days.</p><br><p><strong>Day 2:&nbsp\;</strong></p><p>Community 
+ Egg Game -</p><p>To bring people from both communities together\, we will 
+ be playing ‘The Egg Game’\, a game with elements of Tag and Capture th
+ e Flag. It is a fun challenge for both people with and without experience.
+ </p><p>Parkour Community Skill &amp\; Style Comp - Prizes to Be Won</p><p>
+ Kendama Comp - Prizes to be Won</p><br><p><strong>Food:</strong></p><p>We 
+ will also be providing Dinner at the end of Day 1 and Breakfast in the mor
+ ning of Day 2.</p><br><p><strong>Tickets\, Cost:</strong></p><p><strong>- 
+ 2 Day Tickets (Adult - 35 Euro // DH Member - 30 // Youth (10 -17) - 25 Eu
+ ro</strong></p><p><em>Includes:</em></p><p>Activities and Food on both Day
+ s\,</p><p>Entrance into Party Jam and Competitions (Voluntary)\,</p><p>Sle
+ eping Spot</p><br><p><strong>- 1 Day Ticket - 20 Euro</strong></p><p><em>I
+ ncludes:</em></p><p>Activities and food for <em>ONLY 1 DAY.</em></p><br><p
+ >Sign up and all infos <a rel="noopener noreferrer" target="_blank" href="
+ https://goteamup.com/p/4317504-parkour-creation-ev/courses/83727/">here</a
+ >.</p>
+GEO:53.5428972;10.0092951
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Sound Kendama, Die Halle Hamburg, Radical";PHONE=;WEBSITE="h
+ ttps://goteamup.com/p/4317504-parkour-creation-ev/courses/83727/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gizmo Style Battles - Hamburg
+DTSTART;VALUE=DATE:20230422
+DTEND;VALUE=DATE:20230423
+UID:1428411
+DESCRIPTION:<p>Gizmo style battles is a first of its kind parkour tourname
+ nt where athletes go head to head on a unique set of obstacles\, showcasin
+ g their individual style in a winner takes all battle format. Ten of the w
+ orld's leading pioneers in creative movement will join together with four 
+ competitors who make it through the onsite qualification round to put on a
+  show like never before. Expect the unexpected!</p><br><p>The theme of the
+  event will be ‘cosmic disco’ so we will be transforming the gym area 
+ into a theatre space\, with galaxies\, disco balls and all that jazz!</p><
+ br><p>There will be a total of 14 participants: 9 invited athletes\, 4 fro
+ m onsite qualifiers\, 1 from online qualifiers.</p><br><p>Online qualifier
+  is happening now\, you can still submit clips until April 1st!! Check the
+  Instagram @funky_techniques for all the information.</p><br><p>Timetable:
+ </p><p>Saturday:</p><p>Onsite qualifiers 12:00 - 14:00</p><p>Practice time
+  for main event 14:30 - 18:30</p><p>Main event 19:00 - 21:00</p><p>After p
+ arty</p><br><p>Sunday:</p><p>Street Jam 13:00 - 18:00</p><p>Chill evening 
+ in Die Halle 18:00 - 21:00</p><br><p>Price: 20€ per day or 30€ for bot
+ h days including accomodation</p><p>Accomodation: included in the weekend 
+ ticket</p><p>Food: none</p><br><p>Sign up <a rel="noopener noreferrer" tar
+ get="_blank" href="https://goteamup.com/p/4317504-parkour-creation-ev/cour
+ ses/83988/?fbclid=PAAabk7G62Eef8JaGhCp7n2MHZUwd1endTZBM_GNtQeCQ8xctO6CU3Qk
+ ziwew"><strong>here</strong></a>.</p>
+GEO:53.5428972;10.0092951
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Matt McCreary";PHONE=;WEBSITE="https://www.instagram.com/fun
+ ky_techniques/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Mur Jam - Graz
+DTSTART;VALUE=DATE:20230429
+DTEND;VALUE=DATE:20230429
+UID:1418864
+DESCRIPTION:<p>Outdoor Jam in Graz!!!</p><p>The jam starts at 11:00 am at 
+ the Fröbelpark Spot (<a rel="noopener noreferrer" target="_blank" href="h
+ ttps://www.google.com/maps/place/Hirtengasse+11\,+8020+Graz\,+%C3%96sterre
+ ich/data=!4m2!3m1!1s0x476e35a4b81a4ec9:0xdb3081793ac8f24e?sa=X&ved=2ahUKEw
+ jqjYibg6D9AhUJRvEDHUdZAtcQ8gF6BAgSEAI"><strong>here</strong></a>) then mor
+ e spots & food.</p><p>From 19:00 pm on there is a jam in the <a rel="noope
+ ner noreferrer" target="_blank" href="https://www.ninjabox.at/">Ninjabox</
+ a>\, afterwards cooking at Kili's Place.</p><br><p>More information in the
+  <a rel="noopener noreferrer" target="_blank" href="https://chat.whatsapp.
+ com/E3YJ1iSXBauBNRFGvVrmc7">Whatsapp group</a>!</p><br><p>Price: Free</p><
+ p>Accomodation: For hosting possibilities just ask into the whatsappgroup!
+ </p><p>Food: not included</p>
+GEO:47.0838546;15.4172171
+LOCATION:Hirtengasse 11\, Graz\, Austria
+ORGANIZER;CN="Urban Playground Graz";PHONE=;WEBSITE=:MAILTO:parkour@urban-
+ playground.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goodby Vltavska Jam - Prague
+DTSTART;VALUE=DATE:20230505
+DTEND;VALUE=DATE:20230507
+UID:1378645
+DESCRIPTION:<p>SAVE THE DATE</p>
+GEO:50.0993552;14.4385135
+LOCATION:Vltavská\, Holešovice\, Prague 7\, Czechia
+ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cerow X Stuntwerk Jam
+DTSTART;VALUE=DATE:20230506
+DTEND;VALUE=DATE:20230507
+UID:1436345
+DESCRIPTION:<p>At the beginning of May the Cerow Crew will host their firs
+ t Parkour Jam at the Stuntwerk Krefeld!</p><p>The action will take place o
+ n our super cool jam strip\, with 2 parkour spots (indoor &amp\; outdoor)\
+ , a ninja area\, some parkoury bouldering and a fat mat area for tricking 
+ (check out our Insta for a map).</p><p>Besides the usual good jam vibes\, 
+ we're planning a little spot tour on the grounds\, 2 cool chill competitio
+ ns and a "clothes pimping" workshop\, so bring some old clothes you want t
+ o capture our epic event on your clothes (otherwise you can also buy somet
+ hing in our merch shop).</p><p>If you want to stay up to date\, check out 
+ our jam highlight on Insta (@cerow.crew ). There we'll show you the map\, 
+ which obstacles we'll get\, more details about the programme and how we're
+  getting on. If you have any questions or suggestions\, slide into our DMs
+ !</p><p>Food:Breakfast included in the epic weekend savings package!There 
+ will be a bistro where you can grab food and drinks otherwise.</p><p>Overn
+ ight stay:On a mat with sleeping bag or hammock\, included in the epic wee
+ kend savings package! </p><p>Price: Standard price (Normal Stuntwerk entra
+ nce fee)Reduced: 11.50€ per dayNormal: 13.90€ per dayWith Stuntwerk su
+ bscription: Free!</p><p>Epic weekend savings package! (Only with registrat
+ ion\, limited to 30 people)2 days including bed &amp\; breakfast:Reduced: 
+ 25€Normal: 30€With Stuntwerk subscription: 5€</p><p>Registration: on
+  <a rel="noopener noreferrer" target="_blank" href="https://cdn.boomte.ch/
+ calendar/dashboard/www.stuntwerk-krefeld.de">stuntwerk-krefeld.de</a> just
+  scroll down to "MORE INFO" there is the "Parkour Jam".</p>
+GEO:51.3448005;6.543943899999999
+LOCATION:Stuntwerk Krefeld GmbH\, Weyerhofstraße\, Krefeld\, Germany
+ORGANIZER;CN="@cerow.crew & @stuntwerk_krefeld";PHONE=;WEBSITE=stuntwerk-k
+ refeld.de:MAILTO:m.nehrig@stuntwerk-krefeld.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eden Prototype X
+DTSTART;VALUE=DATE:20230513
+DTEND;VALUE=DATE:20230514
+UID:1500966
+DESCRIPTION:<p>More information coming soon!</p>
+GEO:44.476416;11.4129206
+LOCATION:Eden Park San Lazzaro\, Via Commenda\, San Lazzaro di Savena\, Me
+ tropolitan City of Bologna\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wiesenjam 2023 - Erlangen
+DTSTART;VALUE=DATE:20230513
+DTEND;VALUE=DATE:20230514
+UID:1418860
+DESCRIPTION:<p>The Wiesenjam in Erlangen will take place again! We jam in 
+ nature at a creative setup. There will be a program with various workshops
+ \, film screenings\, discussions and other activities. There will also be 
+ trips into the city to different spots. There will be no food at the site 
+ itself\, so please stock up in advance. It is possible to camp at the site
+ \, but please register in advance as there is only a certain amount of spa
+ ce available.</p><br><p>Price: Free</p><p>Accomodation: possible in your o
+ wn tent - register in advance</p><p>Food: Not included\, bring your own st
+ uff</p>
+GEO:49.6082326;11.0341523
+LOCATION:Spardorfer Str. 82\, Erlangen\, Germany
+ORGANIZER;CN="Parkour Erlangen + CrapMovements";PHONE=;WEBSITE="wiesenjam.
+ de (die Webseite startet am 15.02.)":MAILTO:info@wiesenjam.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wipw London
+DTSTART;VALUE=DATE:20230513
+DTEND;VALUE=DATE:20230514
+UID:1370595
+DESCRIPTION:<p>🇬🇧 The awesome Women’s International Parkour Weeken
+ d is back\, 13-14 May 2023 in London!</p><p>A whole weekend of workshops\,
+  training\, community and fun with some of the best women movers from arou
+ nd the world.&nbsp\;</p><br><p>Where? London - Archway + East India</p><p>
+ When? From 09:00 till 18:00</p><p>Who? Women and non-binary people (16+ ye
+ ars)</p><p>Price: EARLY BIRD Weekend Tickets – <strong>£69.00</strong><
+ /p><p>EARLY BIRD Saturday Tickets – <strong>£38.50</strong></p><p>EARLY
+  BIRD Sunday Tickets – <strong>£38.50</strong></p><br><p>More informati
+ on &amp\; Sign up <a rel="noopener noreferrer" target="_blank" href="https
+ ://parkourgenerationslondon.com/wipw2023/">here</a></p>
+LOCATION:
+ORGANIZER;CN="Parkour Generations London";PHONE=;WEBSITE="https://parkourg
+ enerationslondon.com/wipw2023/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movelicious Meetup - Cologne
+DTSTART;VALUE=DATE:20230520
+DTEND;VALUE=DATE:20230520
+UID:1383952
+DESCRIPTION:<p>Cologne outdoor jam for everyone above 16!</p><p>Start at 1
+ 2:00 at Pariser Platz (Köln-Chorweiler)</p><br><p>Price: free</p><p>Food:
+  not included</p><p>Accomodation: not included</p>
+GEO:51.0222702;6.8982433
+LOCATION:Pariser Platz\, Chorweiler Köln\, Germany
+ORGANIZER;CN="Parkour Movement eV.";PHONE=;WEBSITE="http://parkour-movemen
+ t.com/":MAILTO:info@parkour-movement.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A3Rojam #2
+DTSTART;VALUE=DATE:20230520
+DTEND;VALUE=DATE:20230521
+UID:1521724
+DESCRIPTION:<p>Speedrun and Freestyle competition\, and Jam session during
+  all the weekend</p><br><p>The event is in a gym\, for everyone.&nbsp\;</p
+ ><p>Two categories for each competition: under 16 years old and over 16 ye
+ ars old</p><br><p>Price: 5-15€ per person</p><br><p>We can definitively 
+ host people\, but you'll have to notify us early enough !</p>
+GEO:48.2973451;4.0744009
+LOCATION:Troyes\, France
+ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=@aerocrew.pk:MAILTO:aerocrew.pk@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streetmedia Social V1
+DTSTART;VALUE=DATE:20230520
+DTEND;VALUE=DATE:20230521
+UID:1418841
+DESCRIPTION:<p>A two day event with cash prizes to be won\, and a day in t
+ he UK's biggest Parkour centre with an independent shopping expo and after
+ party.&nbsp\;</p><br><p>Price: Early Bird £15 (available now <a rel="noop
+ ener noreferrer" target="_blank" href="https://streetmedia.store/products/
+ streetmedia-social-v1-sheffield">here</a>) and later £20 for both days.</
+ p><p>Accomodation: ???</p><p>Food: no</p><br><p>Ticket grants you entry to
+  the street competition on SATURDAY where you can win cash prizes for mult
+ iple competition categories.&nbsp\;</p><p>The ticket also grants you entry
+  to the expo day on SUNDAY in Novacity Rotherham\, which will host multipl
+ e independent pop up stores from select brands from within and outside of 
+ the Parkour community. You also gain entry to the afterparty within Novaci
+ ty\, featuring 3 DJ's\, a full sound system\, a bar\, food\, and more...</
+ p><br><p>FULL EVENT BREAKDOWN:</p><p>SATURDAY MAY 20TH - Street Jam and Co
+ mpetitions&nbsp\;</p><p>12pm - Meet up at ODEON\, Sheffield</p><p>1pm - In
+ troduction and Competition formats&nbsp\;</p><p>3pm - Move to Police stati
+ on\, Sheffield</p><p>5pm - Move to Davinci\, Sheffield&nbsp\;</p><br><p>SU
+ NDAY MAY 21ST - Expo day\, jam\, competition announcements\, and afterpart
+ y&nbsp\;</p><p>12pm - Meet up at NOVACITY Rotherham</p><p>12:30 pm - Jam a
+ nd Shopping all day</p><p>6pm - Competition announcements&nbsp\;</p><p>7pm
+  - Afterparty (18+ only)</p><p>10:30pm - Finish and clear out!</p><br><p>P
+ rizes:</p><p>Best male £100</p><p>Best female £100</p><p>Best "NBD" £10
+ 0</p><p>Best Yout £50</p><p>Best Dressed £50</p><p>Best Bail - Trophy</p
+ >
+GEO:53.38112899999999;-1.470085
+LOCATION:Sheffield\, UK
+ORGANIZER;CN="Street Media";PHONE=;WEBSITE="https://streetmedia.store/prod
+ ucts/streetmedia-social-v1-sheffield":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Stuttgart Jam
+DTSTART;VALUE=DATE:20230526
+DTEND;VALUE=DATE:20230528
+UID:1456502
+DESCRIPTION:<p>The Parkour Stuttgart Jam goes into the second round. You c
+ an expect an oldschool jam with great spots\, equally great people and del
+ icious vegan food (nice!). The jam will take place in the Parkour Park at 
+ the Waldau and the sports hall next door\, where you can also stay overnig
+ ht. So bring a sleeping mat\, sleeping bag or hammock. Of course you can a
+ lso train at any of the other spots in Stuttgart city. See you there!&nbsp
+ \;</p><p>Food: all inclusive (vegan &amp\; very tasty)</p><p>Price: 15€<
+ /p><p>Accomodation: in the gym</p><br><p>Sign up <a rel="noopener noreferr
+ er" target="_blank" href="https://parkour-stuttgart.de/events/parkour-stut
+ tgart-jam-2023/"><strong>here</strong></a>!</p>
+GEO:48.7510693;9.187171099999999
+LOCATION:Sporthalle Waldau\, Georgiiweg 5\, 70597 Stuttgart\, Germany
+ORGANIZER;CN="Parkour Stuttgart";PHONE=;WEBSITE="https://parkour-stuttgart
+ .de/events/parkour-stuttgart-jam-2023/":MAILTO:sebi@parkour-stuttgart.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Copenhagen (Woman & Non Binary) Parkour Gathering
+DTSTART;VALUE=DATE:20230526
+DTEND;VALUE=DATE:20230528
+UID:1455598
+DESCRIPTION:<p>The Copenhagen Parkour Gathering for Women and Non-Binary
+ ⁠Sign up and get your tickets <a rel="noopener noreferrer" target="_blan
+ k" href="https://docs.google.com/forms/d/e/1FAIpQLSch3eddqw-WgGGj4x4pn_1C6
+ ZQXA6_0X4QXB4oWKGSlPJzB5w/viewform"><strong>here</strong></a><strong> </st
+ rong>(early bird tickets end 15th March!)⁠</p><p>More information in thi
+ s <a rel="noopener noreferrer" target="_blank" href="https://www.facebook.
+ com/events/546792773528875/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_h
+ istory%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22
+ mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C
+ %22invite_link_id%5C%22%3A591832756081573%7D%7D%5D%22%7D">Facebook event</
+ a>.</p><br><p>Price: 250 DKK / 34 EURO (Early bird)</p><p>DKK 350\,- / 47 
+ EURO (normal price)</p><p>Accomodation: ?</p><p>Food: ?</p>
+GEO:55.6760968;12.5683371
+LOCATION:Copenhagen\, Denmark
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.facebook.com/events/546792773528
+ 875/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22%5B%7B%5
+ C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%2
+ 2share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22
+ %3A591832756081573%7D%7D%5D%22%7D":MAILTO:cphparkourgathering@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Move On Mars
+DTSTART;VALUE=DATE:20230527
+DTEND;VALUE=DATE:20230528
+UID:1398600
+DESCRIPTION:<p>The biggest Parkour Gathering in the South of France!</p><b
+ r><p>This year again\, we will privatize a part of the Prado beaches\, whi
+ ch we will decorate with as many modules as possible to create a Giant Par
+ kour Park by the sea !</p><br><p>- 2 days pack at special rates\, or the p
+ ossibility to come only for the day !!!</p><p>- Challenges\, Battles and g
+ reat moments will be there!</p><p>- And the possibility to sleep on site u
+ nder the stars for those who want to (Conditions to come...)</p><p>Accomod
+ ation: maybe outdoor at the beach?! more information coming</p><p>Price: B
+ etween 20€ and 50€ depending on how many days\, accomodation and so on
+  (partly including MOM 2023 T-shirt and bracelet)</p><br><p>Sign up &amp\;
+  get tickets <a rel="noopener noreferrer" target="_blank" href="https://my
+ .weezevent.com/move-on-mars-2023">here</a>!</p>
+GEO:43.255059;5.373461
+LOCATION:Plages du Prado\, Marseille\, France
+ORGANIZER;CN="PK 13";PHONE=;WEBSITE="https://pk13.fr/move-on-mars/":MAILTO
+ :
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D Town Jam - Darmstadt
+DTSTART;VALUE=DATE:20230603
+DTEND;VALUE=DATE:20230603
+UID:1521710
+DESCRIPTION:<p>"Outdoor street jam mit einem Game of Stick könntest an di
+ versen darmstädter Sopts" - Zitat Ruben Machill</p><br><p>Spaß.</p><br><
+ p>Outdoor street jam with game of stick in Darmstadt!&nbsp\;</p><br><p>Pri
+ ce: free</p><p>Food: none</p><p>Accomodation: Contact Ruben :)</p>
+GEO:49.8728253;8.6511929
+LOCATION:Darmstadt\, Germany
+ORGANIZER;CN="Ruben Machill";PHONE=;WEBSITE=:MAILTO:rubenmachill@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runnin Berlin
+DTSTART;VALUE=DATE:20230603
+DTEND;VALUE=DATE:20230604
+UID:1521722
+DESCRIPTION:<p>We invite you to start the summer season with us in Berlin.
+  More Infos coming soon.</p><p>This event is organised by the non-profit o
+ rganisation "Parkour Berlin e.V.</p><br><p>Price: free</p>
+GEO:52.52000659999999;13.404954
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Parkour Berlin e.V.";PHONE=;WEBSITE=www.parkourberlin.de:MAI
+ LTO:martin@parkourberlin.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linz Öpfv Style Contest & Jam
+DTSTART;VALUE=DATE:20230603
+DTEND;VALUE=DATE:20230604
+UID:1418892
+DESCRIPTION:<p>Style Contest* at the outdoor parkour park in Linz &amp\; J
+ am afterwards. There will be a youth and adult category &amp\; both male a
+ nd female.</p><br><p>Contest prizes: 1st place 150€\, 2nd place 100€ 3
+ rd place 50€ for male &amp\; female in the adult category.</p><br><p>*Co
+ mpeting is only possible for ÖPFV Members (you can sign up easily for fre
+ e at the event\, that only works if you can't be involved with FIG/ÖFT/DT
+ B or any similar competitions)</p><br><p>Price/Sleeping place/Food: to be 
+ announced</p>
+GEO:48.2684338;14.2816505
+LOCATION:Wieningerstraße 11\, 4020 Linz\, Österreich
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Airfurt 2023
+DTSTART;VALUE=DATE:20230609
+DTEND;VALUE=DATE:20230611
+UID:1409321
+DESCRIPTION:<p>A whole weekend jam in Erfurt. There will be a set up up in
+  the woods\, where we will also camp and training in the streets of Erfurt
+ .&nbsp\;</p><p>Also there will be a creative workshop with Elena\, Lockpic
+ king with Tuki and Yoga in the morning with Ben.&nbsp\;</p><p>This time th
+ ere will be a shuttle from the city to the campsite\, so no more hiking \;
+ )</p><br><p>price: you can decide how much you want to pay\, but minimum 8
+ €</p><p>accomodation: enough space for tents/hammocks or indoor with own
+  mattress (limited)</p><p>food: saturday breakfast and dinner\, sunday bre
+ akfast and all day long fruit and water</p><br><p>more infos <a rel="noope
+ ner noreferrer" target="_blank" href="https://www.parkour-erfurt.de/pages/
+ open_airfurt.html"><strong>here</strong></a>!</p>
+GEO:50.9493997;11.0420179
+LOCATION:Am Tannenwäldchen 26\, 99096 Erfurt\, Germany
+ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://www.parkour-erf
+ urt.de/pages/open_airfurt.html":MAILTO:jam@parkour-erfurt.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oslo Movement Festival Gathering Omfg
+DTSTART;VALUE=DATE:20230614
+DTEND;VALUE=DATE:20230618
+UID:1193575
+DESCRIPTION:<p>🇩🇪 Großes Parkour / Tricking / Skate / Breaking / De
+ athdiving / Musik Festival nähe Oslo!</p><p>Ticketverkauf startet am 1.1.
+ 23</p><p>Mehr Infos kommen bald!</p><p>SAVE THE DATE</p><br><p>🇬🇧 Bi
+ g Parkour / Tricking / Skate / Breaking / Deathdiving / Music Festival nea
+ r Oslo!</p><p>Ticket sales start on 1.1.23</p><p>More info coming soon!</p
+ ><p>SAVE THE DATE</p>
+GEO:60.8811602;10.9386217
+LOCATION:Fønix Brumunddal\, Nygata\, Brumunddal\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://instagram.com/oslomov
+ ement?igshid=YmMyMTA2M2Y=":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kipa Street Jam
+DTSTART;VALUE=DATE:20230623
+DTEND;VALUE=DATE:20230625
+UID:1455595
+DESCRIPTION:<p>KIPA Street Jam is returning to the streets of Stockholm th
+ e 23-25th of June!&nbsp\;</p><p>Last year was an absolute blast and everyo
+ ne who showed up\, threw down hard! This year we’re hoping to have even 
+ more friends join us\, training and creating memories on the streets of ou
+ r hometown.</p><p>We are offering a LIMITED amount of tickets to an accomm
+ odation hall near central Stockholm. You can find more info\, and tickets\
+ , on our <a rel="noopener noreferrer" target="_blank" href="https://kipama
+ gazine.com/blogs/kipa-street-jam-2023/info"><strong>website</strong></a>!L
+ et’s make some unforgettable memories together! Bring da vibes! 23-25th 
+ of June\, Stockholm\, SwedenMuch Love - KIPA ❤️</p><br><p>Price: free 
+ jam</p><p>Accomodation: 25€ for 3 nights (22.-25.)</p><p>Food: not inclu
+ ded</p>
+GEO:59.32932349999999;18.0685808
+LOCATION:Stockholm\, Sweden
+ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/blogs/kipa-stre
+ et-jam-2023/info":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xjam Summer 23
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230702
+UID:1571199
+DESCRIPTION:<p>Both outdoor training on great spots\, guided by Elis Torha
+ ll and Markus Nilsson and indoor training at xFlow.</p><br><p>Price: from 
+ 750SEK</p><p>Food: only breakfast</p><p>Accomodation: Yes. In the gym</p><
+ p>Here is the link for the registration and all the information and prices
+ : <a rel="noopener noreferrer" target="_blank" href="https://cdn.boomte.ch
+ /calendar/dashboard/xflow.se/xjam">xflow.se/xjam</a></p>
+GEO:57.7454373;14.1708718
+LOCATION:xFlow\, Herkulesvägen\, Jönköping\, Sweden
+ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=:MAILTO:erik@xflow.se
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hel Jam
+DTSTART;VALUE=DATE:20230630
+DTEND;VALUE=DATE:20230702
+UID:1397007
+DESCRIPTION:<p>Outdoors event on street spots around the Helsinki area. Tr
+ aining\, mini comps and sunny summer evenings. More details TBD</p><br><p>
+ Price: free&nbsp\;</p><p>Food: Not included</p><p>Accomodation: 5€ for s
+ leeping in the gym (no shower :D)</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=HelJamFinland;PHONE=;WEBSITE="https://www.instagram.com/p/CoP
+ qATsNzgJ/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Session Miramas
+DTSTART;VALUE=DATE:20230707
+DTEND;VALUE=DATE:20230709
+UID:1581319
+DESCRIPTION:<p>A big Festival where we build obstacles and structures with
+  pallets and scaffolding. Participants can move on this structures or move
+  in the city. It's absolutely free and there is no competition. &nbsp\;Dur
+ ing this event we plan to hold debates about some subjects. Two of them wi
+ ll be the institutionalization of Parkour (federation\, association\, comp
+ etition\, shows\, etc...) and the inclusivity in parkour.</p><br><p>Price:
+  free</p><p>Accomodation: yes</p><p>Food: not included</p>
+GEO:43.5857743;5.0134832
+LOCATION:Chemin de Saint-Suspy\, 13140 Miramas\, France
+ORGANIZER;CN="Anthony Denis";PHONE=;WEBSITE="https://www.parkour-miramas.c
+ om/":MAILTO:parkour-miramas@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revo Cult Jam - Vienna
+DTSTART;VALUE=DATE:20230707
+DTEND;VALUE=DATE:20230709
+UID:1476181
+DESCRIPTION:<p>save the date!</p><p>big street jam in Vienna!</p>
+GEO:48.2081743;16.3738189
+LOCATION:Vienna\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Munich Is Burning Jam
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230716
+UID:1444636
+DESCRIPTION:<p>Big Munich Street Jam with the one and only chill competiti
+ on and water jumps!</p><br><p>Meanwhile watch the <a rel="noopener norefer
+ rer" target="_blank" href="https://www.youtube.com/watch?v=K-qyI6_vcKs&amp
+ \;t=206s"><strong>Aftermovie from 2021</strong></a>\, since we didn't fini
+ sh last years edit yet :D</p><br><p>Price of the jam: Free</p><p>Accomodat
+ ion: from Saturday to Sunday in the Gym (3-5€ per person for sleeping)</
+ p><p>Food: bring your own</p><br><p>Also: it's a private meeting\, 18 year
+ s + (send us an email if you're under 18)</p>
+GEO:48.1351253;11.5819806
+LOCATION:Munich\, Germany
+ORGANIZER;CN="UNORGA TEAM";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Vibes Amsterdam
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230716
+UID:1521728
+DESCRIPTION:<p>more infos soon!</p><br><p>Price &amp\; Food: tba</p><p>Acc
+ omodation: Munki Motion Zaandam</p>
+GEO:52.3675734;4.9041389
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;CN="Munki Motion Parkour";PHONE=;WEBSITE=@munkimotionparkour:MAI
+ LTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Playground Festival - Klagenfurt
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230715
+UID:1436346
+DESCRIPTION:<p>Urban Playground Festival!</p><p>- Parkour Jam und Skillcom
+ p&nbsp\;</p><p>- Skate Jam&nbsp\;</p><p>- Graffiti Jam&nbsp\;</p><p>- Cali
+ sthenics&nbsp\;</p><p>- Live Musik&nbsp\;</p><p>- Breaking Battle&nbsp\;</
+ p><p>- DJ Sets&nbsp\;</p><p>- Love</p><br><p>Price: free</p><p>Food: none<
+ /p><p>Accomodation: Ask for local hosts :)</p>
+GEO:46.6206319;14.2599849
+LOCATION:Europapark\, Klagenfurt am Wörthersee\, Austria
+ORGANIZER;CN="Urban Playground";PHONE=;WEBSITE=www.urban-playground.at:MAI
+ LTO:peter@urban-playground.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ulm Jam
+DTSTART;VALUE=DATE:20230721
+DTEND;VALUE=DATE:20230723
+UID:1444638
+DESCRIPTION:<p>Official jam: 21-23.07.2023 State-sponsored bathing & boozi
+ ng at the Nabada: 24.07.2023</p><p>A week of continuous sporting party :DM
+ ark it in your calendar\, write it on your forearm or the neighbour's dog\
+ , the main thing is that you'll be there!</p><p>You can expect:- Bar Set u
+ p + trampoline- Overnight OVERCOVERED and INCLUDING BED for the first 20 p
+ articipants (for all other people there is space for tents and sleeping ba
+ gs on the site).- FUNCTIONING SANITARY FACILITIES- Breakfast and dinner- G
+ rill&Chill- Spot tour and spot map- Holy legal garden grass</p><p>We can't
+  tell you yet how much the fun will cost\, it depends on our negotiating s
+ kills with sponsors and scaffolding suppliers.You will get this and furthe
+ r information in time in our <a rel="noopener noreferrer" target="_blank" 
+ href="https://chat.whatsapp.com/CjPiX1o3W7UEPDnzQmK5mj"><strong>WhatsApp g
+ roup</strong></a>!</p><p>See you then :D!</p>
+GEO:48.4010822;9.987607599999999
+LOCATION:Ulm\, Germany
+ORGANIZER;CN="Streets Ev.";PHONE=;WEBSITE="https://www.streets-ev.de/parko
+ ur-jam-ulm/":MAILTO:streets.ev@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield Takeover
+DTSTART;VALUE=DATE:20230722
+DTEND;VALUE=DATE:20230723
+UID:1370599
+DESCRIPTION:<p>SAVE THE DATE</p>
+GEO:53.38112899999999;-1.470085
+LOCATION:Sheffield\, UK
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gerlev International Gathering
+DTSTART;VALUE=DATE:20230723
+DTEND;VALUE=DATE:20230729
+UID:1475810
+DESCRIPTION:<p>Come join the International Gathering at Gerlev if you are 
+ interested in innovative and artistic ways of moving your body? Movement p
+ eople from the four different genres\; PARKOUR\, MOVE\, DANCE and BEACHVOL
+ LEY get a unique chance to live\, socialize and do some amazing training i
+ n a great community for one week this summer.</p><br><p>You can find all t
+ he information <a rel="noopener noreferrer" target="_blank" href="https://
+ cdn.boomte.ch/calendar/Come%20join%20the%20International%20Gathering%20at%
+ 20Gerlev%20if%20you%20are%20interested%20in%20innovative%20and%20artistic%
+ 20ways%20of%20moving%20your%20body?%20Movement%20people%20from%20the%20fou
+ r%20different%20genres\;%20PARKOUR\,%20MOVE\,%20DANCE%20and%20BEACHVOLLEY%
+ 20get%20a%20unique%20chance%20to%20live\,%20socialize%20and%20do%20some%20
+ amazing%20training%20in%20a%20great%20community%20for%20one%20week%20this%
+ 20summer."><strong>here</strong></a>.</p>
+GEO:55.3536923;11.326476
+LOCATION:Skælskør Landevej 28\, Slagelse\, Denmark
+ORGANIZER;CN=;PHONE=;WEBSITE="https://gerlev.dk/kortkursus/international-g
+ athering-2023/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 The Love Of Movement
+DTSTART;VALUE=DATE:20230728
+DTEND;VALUE=DATE:20230730
+UID:1383950
+DESCRIPTION:<p>4TLOM in Amsterdam!</p><p>- 3 days exclusive acces to our c
+ ustom-build and enormous trainining areas.&nbsp\;</p><p>- Official event t
+ -shirt and wristband</p><p>- Access to the official 4TLOM party</p><br><p>
+ Price: Early Bird 100€&nbsp\;</p><p>Regular 115€</p><p>Food: Not inclu
+ ded</p><p>Accomodation: Sleepover in a comfortable army tent for 2 nights 
+ (with fieldbed)</p><br><p>You can buy your tickets <a rel="noopener norefe
+ rrer" target="_blank" href="https://www.nowonlinetickets.nl/Shop/EventDeta
+ ils/6EF9C9C0D78CE56FD20BC42F445DF004">here</a>!</p>
+GEO:52.3675734;4.9041389
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;CN="Jump Freerun";PHONE=;WEBSITE="https://jumpfreerun.nl/4tlom/"
+ :MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravity Sucks Jam - Hamburg
+DTSTART;VALUE=DATE:20230804
+DTEND;VALUE=DATE:20230806
+UID:1466775
+DESCRIPTION:<p>The Gravity Sucks Jam is Back!!! It's that time again\, Cor
+ ona is over and we want to host a dope event together with you again. &nbs
+ p\;</p><br><p>And we have a lot to offer: &nbsp\;&nbsp\;</p><p>- Sleeping 
+ accommodations for all jam participants. &nbsp\;</p><p>- dinner Friday\, b
+ reakfast Saturday\, dinner Saturday\, breakfast Sunday &nbsp\;</p><p>- cov
+ ered outside railspot and set-up in DieHalle &nbsp\;</p><p>- exciting work
+ shops &amp\; discussions\, details TBA &nbsp\;</p><p>- invited Athlethes f
+ rom all over Europe\, TBA &nbsp\;</p><p>- Afterparty with DJs on Saturday 
+ &nbsp\;</p><p>- minimum age: 14+</p><br><p>Food: Included (2x Breakfast &a
+ mp\; 2x Dinner)</p><p>Accomodation: yes!</p><p>Price: 45€</p><br><p>Get 
+ your ticket <a rel="noopener noreferrer" target="_blank" href="https://got
+ eamup.com/p/4317504-parkour-creation-ev/courses/84322/"><strong>here</stro
+ ng></a>!</p>
+GEO:53.5428972;10.0092951
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehalle.hambu
+ rg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frbodensee Festival
+DTSTART;VALUE=DATE:20230810
+DTEND;VALUE=DATE:20230813
+UID:1274406
+DESCRIPTION:<p>SAVE THE DATE AND WATCH OUR VIDEO ABOUT LAST YEARS JAM <a r
+ el="noopener noreferrer" target="_blank" href="https://www.youtube.com/wat
+ ch?v=kFhYaj3IiOQ&t=529s"><u><strong>HERE</strong></u></a></p>
+GEO:47.8275552;9.2612319
+LOCATION:Naturatelier\, Golpenweiler Straße\, Frickingen\, Germany
+ORGANIZER;CN="FRB FREERUN";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Own The Spot
+DTSTART;VALUE=DATE:20230811
+DTEND;VALUE=DATE:20230813
+UID:1143432
+DESCRIPTION:<p>SAVE THE DATE&nbsp\;</p>
+GEO:51.4376604;5.4805452
+LOCATION:Dynamo\, Catharinaplein\, Eindhoven\, Netherlands
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE=info@commitfreerun.nl:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spl 2 Vancouver
+DTSTART;VALUE=DATE:20230817
+DTEND;VALUE=DATE:20230820
+UID:1370584
+DESCRIPTION:<p>🇬🇧 SPL 2 In Vancouver\, BC - Skill\, Speed & Style Co
+ mpetition</p><p>world's #1 parkour championships</p><br><p>SAVE THE DATE</
+ p>
+GEO:nan;nan
+LOCATION:
+ORGANIZER;CN="Sport Parkour League";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Htown Summer Jam
+DTSTART;VALUE=DATE:20230818
+DTEND;VALUE=DATE:20230820
+UID:1394454
+DESCRIPTION:<p>SAVE THE DATE</p><br><p>Accomodation: hammock or tent</p><p
+ >Food: Breakfast only</p><p>Price: announced soon</p>
+GEO:52.38752969999999;9.7548465
+LOCATION:Wakitu Spielplatz\, Hohenzollernstraße\, Hannover\, Germany
+ORGANIZER;CN="H Town";PHONE=;WEBSITE=:MAILTO:htown.pk.official@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Parkour Festival (Mfp)
+DTSTART;VALUE=DATE:20230825
+DTEND;VALUE=DATE:20230827
+UID:1394452
+DESCRIPTION:<p>SAVE THE DATE! &nbsp\;</p><p>- Parkour festval in Gdańsk\,
+  Poland for the 11th time!&nbsp\;</p><p>- JAM in Movement Arena (Parkour g
+ ym) in the city and on the beach&nbsp\;</p><p>- SKILL comp&nbsp\;</p><p>- 
+ SCREENING of parkour/freerun videos</p><p>- AFTERPARTY</p><br><p>Price: 40
+ -70€</p><p>Food: not included</p><p>Accomodation: optional</p>
+GEO:54.3900786;18.6392969
+LOCATION:Pokoleń Lechii Gdańsk 1\, Gdańsk\, Poland
+ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://www.youtube.com/watc
+ h?v=9xo8KsaR8OU":MAILTO:mfp@ksmovement.pl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uga - Berlin
+DTSTART;VALUE=DATE:20230825
+DTEND;VALUE=DATE:20230827
+UID:1475807
+DESCRIPTION:<p>The Urban Gathering (UGA) is an event which is organised by
+  the non-profit parkour organisation "Parkour Berlin e.V.".</p><p>The aim 
+ of the event is to create a connecting experience with parkour education b
+ y offering multiple workshops as well as bringing together the community b
+ y offering collective training/jam sessions.</p><br><p>More information to
+  be announced soon!</p>
+GEO:52.52000659999999;13.404954
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Parkour Berlin e.V.";PHONE=;WEBSITE="https://www.urban-gathe
+ ring.com/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twio X Jam - Leipzig
+DTSTART;VALUE=DATE:20230825
+DTEND;VALUE=DATE:20230827
+UID:1471722
+DESCRIPTION:<p>SAVE THE DATE</p>
+GEO:51.3396955;12.3730747
+LOCATION:Leipzig\, Germany
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Next Gen Premiere + Jam - London
+DTSTART;VALUE=DATE:20230826
+DTEND;VALUE=DATE:20230827
+UID:1510155
+DESCRIPTION:<p>This is the Cinema Premiere and Jam for Project Nextgen\; a
+  feature length parkour documentary and action piece shot with 60 top leve
+ l parkour athletes in Bilbao Spain. It features parkour teams: Team Phat\,
+  Wizzy Gang\, Freerunning Schlappen\, Street Media\, Fifthunit\, Scruffy b
+ oys\, Avanti Garda\, Street Sharks\, Blent and Pasta Moves. &nbsp\;Followi
+ ng the screening there will be a big two day Jam with various competitions
+  and prizes to be announced. More information and link to the tickets comi
+ ng soon!</p><p>Price: Premiere ticket £10</p><p>Food: Not included</p><p>
+ Accomodation: There will be a number of people hosting in exchange for a f
+ ree ticket to the film.</p>
+GEO:51.5211404;-0.05112200000000001
+LOCATION:Genesis Cinema\, Mile End Road\, London\, UK
+ORGANIZER;CN="Max Ward";PHONE=;WEBSITE=:MAILTO:bmaxforlife@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Djammið
+DTSTART;VALUE=DATE:20230826
+DTEND;VALUE=DATE:20230827
+UID:1586370
+DESCRIPTION:<p>Parkour Djammið is the national gathering of the parkour c
+ ommunity in Iceland. This year the event will be held in Akranes\, a short
+  drive from Reykjavík. There is dinner included in the prize and an event
+  t-shirt as well as access to the gym and cliff-diving platforms. There is
+  no accommodation included since the age limit is 10+ but you can check wi
+ th the local community on the Parkour Iceland facebook group for accommoda
+ tion or send a request to parkourdjammid@gmail.com. For any further querie
+ s contact parkourdjammid@gmail.com</p><br><p>Price: 8.000 kr.</p><p>Accomo
+ dation: not included\, but the locals might be able to hostFood: not inclu
+ ded</p>
+GEO:64.3219244;-22.0702847
+LOCATION:Akranes\, Iceland
+ORGANIZER;CN="Parkour Iceland";PHONE=;WEBSITE=:MAILTO:parkourdjammid@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things
+DTSTART;VALUE=DATE:20230902
+DTEND;VALUE=DATE:20230903
+UID:1310399
+DESCRIPTION:<p>🇬🇧 &nbsp\;SAVE THE DATE</p>
+GEO:50.8829498;4.7223114
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="SPRINGSTOF Parkour";PHONE=;WEBSITE="https://www.springstofpa
+ rkour.com/events":MAILTO:springstofparkour@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gefam X Kipa Jam - Hamburg
+DTSTART;VALUE=DATE:20230908
+DTEND;VALUE=DATE:20230910
+UID:1466767
+DESCRIPTION:<p>SAVE THE DATE</p>
+GEO:53.5428972;10.0092951
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="GEFAM, KIPA";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Og Jam 23
+DTSTART;VALUE=DATE:20230915
+DTEND;VALUE=DATE:20230917
+UID:1396254
+DESCRIPTION:<p>OG Street Jam Infos Soon...</p><br>
+GEO:49.4521018;11.0766654
+LOCATION:Nürnberg\, Germany
+ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:ograsshoppers
+ @gmail.com
+END:VEVENT
+END:VCALENDAR
