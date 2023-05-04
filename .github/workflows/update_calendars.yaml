@@ -8,9 +8,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  environment: Matttma
-
   build:
+    environment: Matttma
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
