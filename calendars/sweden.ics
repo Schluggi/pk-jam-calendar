@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:Kipa Jam - Stockholm
 DTSTART;VALUE=DATE:20220617
-DTEND;VALUE=DATE:20220619
+DTEND;VALUE=DATE:20220620
 UID:1016162
 DESCRIPTION:<p>🇩🇪 KIPA Street Jam in Stockholm\, Schweden</p><p>Prei
  s der Jam: 0€</p><p>Preis fürs Übernachten im Gym: 25€ (AUSVERKAUFT)
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Air Wipp Battles
 DTSTART;VALUE=DATE:20220909
-DTEND;VALUE=DATE:20220911
+DTEND;VALUE=DATE:20220912
 UID:1144689
 DESCRIPTION:<p>🇩🇪 3 Tage Jam im Air Wipp Gym in Helsingborg</p><p>- 
  Skill Competition & Style Competition\, 3000€ Preisgeld insgesamt</p><p>
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kipa Street Jam
 DTSTART;VALUE=DATE:20230623
-DTEND;VALUE=DATE:20230625
+DTEND;VALUE=DATE:20230626
 UID:1455595
 DESCRIPTION:<p>KIPA Street Jam is returning to the streets of Stockholm th
  e 23-25th of June!&nbsp\;</p><p>Last year was an absolute blast and everyo
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xjam Summer 23
 DTSTART;VALUE=DATE:20230629
-DTEND;VALUE=DATE:20230702
+DTEND;VALUE=DATE:20230703
 UID:1571199
 DESCRIPTION:<p>Both outdoor training on great spots\, guided by Elis Torha
  ll and Markus Nilsson and indoor training at xFlow.</p><br><p>Price: from 

@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:Nordic Pk Jampionships
 DTSTART;VALUE=DATE:20220901
-DTEND;VALUE=DATE:20220904
+DTEND;VALUE=DATE:20220905
 UID:1105434
 DESCRIPTION:<p>&nbsp\;🇩🇪 Jam &amp\; Wettbewerb mit Geldpreisen von 5
  000 DKK für den Gewinner jeder Kategorie (Speed\, Style und Bester Clip).
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rest In Ollerup Jam
 DTSTART;VALUE=DATE:20221104
-DTEND;VALUE=DATE:20221106
+DTEND;VALUE=DATE:20221107
 UID:1188968
 DESCRIPTION:<p>🇩🇪 Ollerup hat sich entschieden den Parkourbereich zu
   halbieren\, daher findet nun vorerst die letzte große Ollerup Jam statt!
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Copenhagen Winter Session
 DTSTART;VALUE=DATE:20230303
-DTEND;VALUE=DATE:20230305
+DTEND;VALUE=DATE:20230306
 UID:1409322
 DESCRIPTION:<p>Copenhagen Parkour is a non profit NGO\, everyone is volunt
  eers. All activities is opt-in based. Everyone is welcome. Please find all
@@ -64,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Copenhagen (Woman & Non Binary) Parkour Gathering
 DTSTART;VALUE=DATE:20230526
-DTEND;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230529
 UID:1455598
 DESCRIPTION:<p>The Copenhagen Parkour Gathering for Women and Non-Binary
  ⁠Sign up and get your tickets <a rel="noopener noreferrer" target="_blan
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gerlev International Gathering
 DTSTART;VALUE=DATE:20230723
-DTEND;VALUE=DATE:20230729
+DTEND;VALUE=DATE:20230730
 UID:1475810
 DESCRIPTION:<p>Come join the International Gathering at Gerlev if you are 
  interested in innovative and artistic ways of moving your body? Movement p

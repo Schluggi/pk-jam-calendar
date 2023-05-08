@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:4 The Love Of Movement - Amsterdam
 DTSTART;VALUE=DATE:20220819
-DTEND;VALUE=DATE:20220821
+DTEND;VALUE=DATE:20220822
 UID:1016164
 DESCRIPTION:<p>🇩🇪 Festival-Version der bekannten 4TLOM Jam\, diesmal
   in Amsterdam.</p><p>Es wird ein riesiges Parkour Set-up & eine offizielle
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Own The Spot - Eindhoven
 DTSTART;VALUE=DATE:20220826
-DTEND;VALUE=DATE:20220828
+DTEND;VALUE=DATE:20220829
 UID:1012615
 DESCRIPTION:<p>🇩🇪 Street Jam in Eindhoven\, Niederlande mit Competit
  ion</p><p>"Own the Spot" - Competition - das bedeutet\, 5 Spots werden ang
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Street Vibes Amsterdam
 DTSTART;VALUE=DATE:20230715
-DTEND;VALUE=DATE:20230716
+DTEND;VALUE=DATE:20230717
 UID:1521728
 DESCRIPTION:<p>more infos soon!</p><br><p>Price &amp\; Food: tba</p><p>Acc
  omodation: Munki Motion Zaandam</p>
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 The Love Of Movement
 DTSTART;VALUE=DATE:20230728
-DTEND;VALUE=DATE:20230730
+DTEND;VALUE=DATE:20230731
 UID:1383950
 DESCRIPTION:<p>4TLOM in Amsterdam!</p><p>- 3 days exclusive acces to our c
  ustom-build and enormous trainining areas.&nbsp\;</p><p>- Official event t
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Own The Spot
 DTSTART;VALUE=DATE:20230811
-DTEND;VALUE=DATE:20230813
+DTEND;VALUE=DATE:20230814
 UID:1143432
 DESCRIPTION:<p>SAVE THE DATE&nbsp\;</p>
 GEO:51.4376604;5.4805452

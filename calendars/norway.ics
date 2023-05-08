@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:Oslo Movement Gathering
 DTSTART;VALUE=DATE:20221007
-DTEND;VALUE=DATE:20221009
+DTEND;VALUE=DATE:20221010
 UID:1016161
 DESCRIPTION:<p>🇩🇪 Parkour &amp\; Tricking - Event in Oslo</p><p>Das 
  Event wird in einer großen Halle mit 2 Tricking-Böden\, einem Parkour Se
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omw - Oslo Movement Women’S & Non-Binary Jam
 DTSTART;VALUE=DATE:20221217
-DTEND;VALUE=DATE:20221218
+DTEND;VALUE=DATE:20221219
 UID:1305203
 DESCRIPTION:<p>🇩🇪 Oslo Movement lädt ein zur Women's and Non-Binary
   Jam.</p><p>Es wird viele Sessions\, geleitete Workshops für Anfänger un
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oslo Movement Festival Gathering Omfg
 DTSTART;VALUE=DATE:20230614
-DTEND;VALUE=DATE:20230618
+DTEND;VALUE=DATE:20230619
 UID:1193575
 DESCRIPTION:<p>🇩🇪 Großes Parkour / Tricking / Skate / Breaking / De
  athdiving / Musik Festival nähe Oslo!</p><p>Ticketverkauf startet am 1.1.

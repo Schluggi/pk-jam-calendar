@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:Krap Invaders
 DTSTART;VALUE=DATE:20221001
-DTEND;VALUE=DATE:20221002
+DTEND;VALUE=DATE:20221003
 UID:1143442
 DESCRIPTION:<p>🇩🇪 KRAP INVADERS COMEBACK</p><p>- 2 Tage Parkour Jam<
  /p><p>- KRAP Parkour pants included (im 2 Tages-Preis)</p><p>- Samstag und
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pasta Jam - Bologna
 DTSTART;VALUE=DATE:20230318
-DTEND;VALUE=DATE:20230319
+DTEND;VALUE=DATE:20230320
 UID:1305167
 DESCRIPTION:<p>🇩🇪 Street Jam in Bologna! Pasta Moves lädt nach Bolo
  gna ein für eine gratis Jam.</p><br><p>Preis: Nix</p><p>Essen: Auch nicht
@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eden Prototype X
 DTSTART;VALUE=DATE:20230513
-DTEND;VALUE=DATE:20230514
+DTEND;VALUE=DATE:20230515
 UID:1500966
 DESCRIPTION:<p>More information coming soon!</p>
 GEO:44.476416;11.4129206

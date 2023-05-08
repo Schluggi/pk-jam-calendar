@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:Supreme Parkour Armageddon
 DTSTART;VALUE=DATE:20221216
-DTEND;VALUE=DATE:20221218
+DTEND;VALUE=DATE:20221219
 UID:1216756
 DESCRIPTION:<p>🇩🇪 Das 16. jährliche und epische Supreme Parkour Arm
  ageddon: Die Veranstaltung findet im Parkour Gym von Parkour Akatemia Turk
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herttua Family Jam
 DTSTART;VALUE=DATE:20230114
-DTEND;VALUE=DATE:20230115
+DTEND;VALUE=DATE:20230116
 UID:1328385
 DESCRIPTION:<p>&nbsp\;🇩🇪 Die Herttua Family Jam beginnt Samstag um 1
  3:00 und endet Sonntag um 17:00.</p><p>Es gibt eine Sauna!</p><br><p>Preis

@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:In Motion Summer Jam - Pilsen
 DTSTART;VALUE=DATE:20220715
-DTEND;VALUE=DATE:20220717
+DTEND;VALUE=DATE:20220718
 UID:1016163
 DESCRIPTION:<p>🇩🇪 Große Sommer Jam in der "In Motion Academy" in Pi
  lsen &amp\; den besten Outdoorspots der Stadt (auch dem größten Parkourp
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Imacon - In Motion Brno
 DTSTART;VALUE=DATE:20220924
-DTEND;VALUE=DATE:20220925
+DTEND;VALUE=DATE:20220926
 UID:1016169
 DESCRIPTION:<p>🇩🇪 Das größte Event der "In Motion"-Jamserie und da
  s Finale der In Motion Competitions 2022. Es wird sowohl eine Skill-\, Spe
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In Motion Winter Jam - Brno
 DTSTART;VALUE=DATE:20230120
-DTEND;VALUE=DATE:20230122
+DTEND;VALUE=DATE:20230123
 UID:1283557
 DESCRIPTION:<p>🇩🇪 3 Tage Jam in der größten Parkourhalle in Tschec
  hien\, der In Motion Academy Brno. 600m2 Parkour-Park + Riesentramp\, Foam
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goodby Vltavska Jam - Prague
 DTSTART;VALUE=DATE:20230505
-DTEND;VALUE=DATE:20230507
+DTEND;VALUE=DATE:20230508
 UID:1378645
 DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:50.0993552;14.4385135

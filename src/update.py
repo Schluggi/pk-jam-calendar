@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from sys import argv, exit
 
 from icalendar import Calendar, Event, vCalAddress, vText
@@ -34,11 +34,17 @@ for event_data in data['events']:
     event.add('description', event_data['desc'])
 
     if event_data['all_day'] == 1:
-        event.add('dtstart', datetime.strptime(event_data['start'], '%Y-%m-%d').date())
-        event.add('dtend', datetime.strptime(event_data['end'], '%Y-%m-%d').date())
+        start = datetime.strptime(event_data['start'], '%Y-%m-%d').date()
+        end = datetime.strptime(event_data['end'], '%Y-%m-%d').date()
     else:
-        event.add('dtstart', datetime.strptime(event_data['start'], '%Y-%m-%dT%H:%M'))
-        event.add('dtend', datetime.strptime(event_data['end'], '%Y-%m-%dT%H:%M'))
+        start = datetime.strptime(event_data['start'], '%Y-%m-%dT%H:%M')
+        end = datetime.strptime(event_data['end'], '%Y-%m-%dT%H:%M')
+
+    if event_data['start'] != event_data['end']:
+        end += timedelta(days=1)
+
+    event.add('dtstart', start)
+    event.add('dtend', end)
 
     organizer = vCalAddress(f'MAILTO:{event_data["organizer"]["email"]}')
     organizer.params['cn'] = vText(event_data['organizer']['name'])

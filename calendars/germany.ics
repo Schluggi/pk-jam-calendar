@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:Munich Mash
 DTSTART;VALUE=DATE:20220624
-DTEND;VALUE=DATE:20220626
+DTEND;VALUE=DATE:20220627
 UID:1012611
 DESCRIPTION:<p>🇩🇪 fettes Stangen-Setup im Olympiapark München im Zu
  ge des MASH Festivals</p><p>Das Olympiadorf ist direkt daneben (Rote Stadt
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regensburg Jam
 DTSTART:20220702T000000
-DTEND:20220703T010000
+DTEND:20220704T010000
 UID:1016145
 DESCRIPTION:<p>🇩🇪 Parkour Jam mit Skill Competition am Samstag</p><p
  >Renovierte Parkourhalle\, outdoor zusätzlich ein Stangen-Setup\, mobile 
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mannheim Jam
 DTSTART;VALUE=DATE:20220709
-DTEND;VALUE=DATE:20220710
+DTEND;VALUE=DATE:20220711
 UID:1039024
 DESCRIPTION:<p>🇩🇪 Dennis Korra feiert seinen Geburtstag mit einer fe
  tten Street Jam in Mannheim!</p><p>12:00 Treffpunkt an der Uni Mensa\, Bis
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Munich Is Burning Jam
 DTSTART;VALUE=DATE:20220716
-DTEND;VALUE=DATE:20220717
+DTEND;VALUE=DATE:20220718
 UID:1012604
 DESCRIPTION:<p>🇩🇪 Street Jam in München mit CHILL COMPETITION!</p><
  p>Outdoorspots\, Wasseraction (Eisbach usw.)\, es gibt eine Chill Competit
@@ -99,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münster Jam
 DTSTART;VALUE=DATE:20220723
-DTEND;VALUE=DATE:20220724
+DTEND;VALUE=DATE:20220725
 UID:1056779
 DESCRIPTION:<p>🇩🇪 &nbsp\;Parkour Münster lädt zur Jam ein!</p><p>I
  m Vordergrund steht das gemeinsam jammen\, wer will kann bei der Skill Com
@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Htown Jam - Hannover
 DTSTART;VALUE=DATE:20220723
-DTEND;VALUE=DATE:20220724
+DTEND;VALUE=DATE:20220725
 UID:1028561
 DESCRIPTION:<p>🇩🇪 Jam in Hannover! Es wird sowohl am Jamgelände WAK
  ITU\, als auch an den Outdoor-Spots gejamt. Es wird auch eine Competition 
@@ -247,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
 DTSTART;VALUE=DATE:20220811
-DTEND;VALUE=DATE:20220814
+DTEND;VALUE=DATE:20220815
 UID:1012620
 DESCRIPTION:<p>🇩🇪 &nbsp\;AUSVERKAUFT</p><p>Das Naturatelier in Althe
  im (Baden) in der wunderschönen Bodenseeregion wird wiedereinmal von ner 
@@ -300,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:X-Dream Leipzig
 DTSTART;VALUE=DATE:20220819
-DTEND;VALUE=DATE:20220821
+DTEND;VALUE=DATE:20220822
 UID:1029160
 DESCRIPTION:<p>🇩🇪 Wir vom Twio X laden euch ganz herzlich zu unserer
   3. Parkourjam X Dream ein. Wie auch in den vorherigen Jams\, wollen wir e
@@ -328,7 +328,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Urban Gathering Berlin
 DTSTART;VALUE=DATE:20220827
-DTEND;VALUE=DATE:20220828
+DTEND;VALUE=DATE:20220829
 UID:1051528
 DESCRIPTION:<p>&nbsp\;🇩🇪 Das Urban Gathering (UGA) wird vom Parkour 
  Berlin e.V. und dem Fußgänger e.V. organisiert. Die Berliner Parkour Sze
@@ -364,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gefam Jam
 DTSTART;VALUE=DATE:20220903
-DTEND;VALUE=DATE:20220904
+DTEND;VALUE=DATE:20220905
 UID:1072480
 DESCRIPTION:<p>🇩🇪 Jam\, Party\, Spaß\, Jumps\, Snacks in Die Halle 
  Hamburg (indoor &amp\; outdoor)</p><p>Preis: Jamticket 35€\, Tagespass 2
@@ -406,7 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aachen Chill Skill
 DTSTART;VALUE=DATE:20220903
-DTEND;VALUE=DATE:20220904
+DTEND;VALUE=DATE:20220905
 UID:1109145
 DESCRIPTION:<p>&nbsp\;🇩🇪 Moin moin\, wir hosten am 03.09. eine klein
  e Jam in Aachen. Wir legen un 13:00 Uhr an der Zollernstraße 10 am ehemal
@@ -444,7 +444,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Journey To The End Of The Night 22
 DTSTART;VALUE=DATE:20220910
-DTEND;VALUE=DATE:20220911
+DTEND;VALUE=DATE:20220912
 UID:1117229
 DESCRIPTION:<p>&nbsp\;🇩🇪 Eine Journey to the End of the Night ist "d
  ie etwas andere Parkourveranstaltung. Es handelt es sich um eine überdime
@@ -530,7 +530,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Förde Jam 22 - Kiel
 DTSTART;VALUE=DATE:20221001
-DTEND;VALUE=DATE:20221002
+DTEND;VALUE=DATE:20221003
 UID:1143436
 DESCRIPTION:<p>&nbsp\;🇩🇪 Eine spontane Jam in den Hallen des KMTV mi
  t den üblichen Parkour Obstacles\, Slackline\, Airtrack\, Boulder. Bei pa
@@ -578,7 +578,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rad Jam - Hamburg
 DTSTART;VALUE=DATE:20230415
-DTEND;VALUE=DATE:20230416
+DTEND;VALUE=DATE:20230417
 UID:1455599
 DESCRIPTION:<p>The RAD Jam is our first weekend long event to Fuse\, Grow 
  and Celebrate Communities.</p><p>In collaboration with Sound Kendama\, Rad
@@ -616,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gizmo Style Battles - Hamburg
 DTSTART;VALUE=DATE:20230422
-DTEND;VALUE=DATE:20230423
+DTEND;VALUE=DATE:20230424
 UID:1428411
 DESCRIPTION:<p>Gizmo style battles is a first of its kind parkour tourname
  nt where athletes go head to head on a unique set of obstacles\, showcasin
@@ -647,7 +647,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cerow X Stuntwerk Jam
 DTSTART;VALUE=DATE:20230506
-DTEND;VALUE=DATE:20230507
+DTEND;VALUE=DATE:20230508
 UID:1436345
 DESCRIPTION:<p>At the beginning of May the Cerow Crew will host their firs
  t Parkour Jam at the Stuntwerk Krefeld!</p><p>The action will take place o
@@ -680,7 +680,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wiesenjam 2023 - Erlangen
 DTSTART;VALUE=DATE:20230513
-DTEND;VALUE=DATE:20230514
+DTEND;VALUE=DATE:20230515
 UID:1418860
 DESCRIPTION:<p>The Wiesenjam in Erlangen will take place again! We jam in 
  nature at a creative setup. There will be a program with various workshops
@@ -712,7 +712,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
 DTSTART;VALUE=DATE:20230526
-DTEND;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230529
 UID:1456502
 DESCRIPTION:<p>The Parkour Stuttgart Jam goes into the second round. You c
  an expect an oldschool jam with great spots\, equally great people and del
@@ -745,7 +745,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Runnin Berlin
 DTSTART;VALUE=DATE:20230603
-DTEND;VALUE=DATE:20230604
+DTEND;VALUE=DATE:20230605
 UID:1521722
 DESCRIPTION:<p>We invite you to start the summer season with us in Berlin.
   More Infos coming soon.</p><p>This event is organised by the non-profit o
@@ -758,7 +758,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Airfurt 2023
 DTSTART;VALUE=DATE:20230609
-DTEND;VALUE=DATE:20230611
+DTEND;VALUE=DATE:20230612
 UID:1409321
 DESCRIPTION:<p>A whole weekend jam in Erfurt. There will be a set up up in
   the woods\, where we will also camp and training in the streets of Erfurt
@@ -779,7 +779,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Munich Is Burning Jam
 DTSTART;VALUE=DATE:20230715
-DTEND;VALUE=DATE:20230716
+DTEND;VALUE=DATE:20230717
 UID:1444636
 DESCRIPTION:<p>Big Munich Street Jam with the one and only chill competiti
  on and water jumps!</p><br><p>Meanwhile watch the <a rel="noopener norefer
@@ -796,7 +796,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulm Jam
 DTSTART;VALUE=DATE:20230721
-DTEND;VALUE=DATE:20230723
+DTEND;VALUE=DATE:20230724
 UID:1444638
 DESCRIPTION:<p>Official jam: 21-23.07.2023 State-sponsored bathing & boozi
  ng at the Nabada: 24.07.2023</p><p>A week of continuous sporting party :DM
@@ -819,7 +819,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gravity Sucks Jam - Hamburg
 DTSTART;VALUE=DATE:20230804
-DTEND;VALUE=DATE:20230806
+DTEND;VALUE=DATE:20230807
 UID:1466775
 DESCRIPTION:<p>The Gravity Sucks Jam is Back!!! It's that time again\, Cor
  ona is over and we want to host a dope event together with you again. &nbs
@@ -842,7 +842,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
 DTSTART;VALUE=DATE:20230810
-DTEND;VALUE=DATE:20230813
+DTEND;VALUE=DATE:20230814
 UID:1274406
 DESCRIPTION:<p>SAVE THE DATE AND WATCH OUR VIDEO ABOUT LAST YEARS JAM <a r
  el="noopener noreferrer" target="_blank" href="https://www.youtube.com/wat
@@ -854,7 +854,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Htown Summer Jam
 DTSTART;VALUE=DATE:20230818
-DTEND;VALUE=DATE:20230820
+DTEND;VALUE=DATE:20230821
 UID:1394454
 DESCRIPTION:<p>SAVE THE DATE</p><br><p>Accomodation: hammock or tent</p><p
  >Food: Breakfast only</p><p>Price: announced soon</p>
@@ -865,7 +865,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uga - Berlin
 DTSTART;VALUE=DATE:20230825
-DTEND;VALUE=DATE:20230827
+DTEND;VALUE=DATE:20230828
 UID:1475807
 DESCRIPTION:<p>The Urban Gathering (UGA) is an event which is organised by
   the non-profit parkour organisation "Parkour Berlin e.V.".</p><p>The aim 
@@ -881,7 +881,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twio X Jam - Leipzig
 DTSTART;VALUE=DATE:20230825
-DTEND;VALUE=DATE:20230827
+DTEND;VALUE=DATE:20230828
 UID:1471722
 DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:51.3396955;12.3730747
@@ -891,7 +891,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gefam X Kipa Jam - Hamburg
 DTSTART;VALUE=DATE:20230908
-DTEND;VALUE=DATE:20230910
+DTEND;VALUE=DATE:20230911
 UID:1466767
 DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:53.5428972;10.0092951
@@ -901,7 +901,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Og Jam 23
 DTSTART;VALUE=DATE:20230915
-DTEND;VALUE=DATE:20230917
+DTEND;VALUE=DATE:20230918
 UID:1396254
 DESCRIPTION:<p>OG Street Jam Infos Soon...</p><br>
 GEO:49.4521018;11.0766654

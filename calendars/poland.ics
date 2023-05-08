@@ -4,7 +4,7 @@ PRODID:https://github.com/Schluggi/pk-jam-calendar
 BEGIN:VEVENT
 SUMMARY:Bialystok Jam By Swl
 DTSTART;VALUE=DATE:20220716
-DTEND;VALUE=DATE:20220717
+DTEND;VALUE=DATE:20220718
 UID:1062083
 DESCRIPTION:<p><strong>Come join us in North East Poland for 2 days of bes
  t training with best Polsih Freeruners. We are organizing speed\, flow\, A
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mfp 2022 - Gdansk
 DTSTART;VALUE=DATE:20220826
-DTEND;VALUE=DATE:20220828
+DTEND;VALUE=DATE:20220829
 UID:1030240
 DESCRIPTION:<p>🇩🇪 Details kommen bald!</p><p>🇬🇧 Details coming
   soon!</p>
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Parkour Festival (Mfp)
 DTSTART;VALUE=DATE:20230825
-DTEND;VALUE=DATE:20230827
+DTEND;VALUE=DATE:20230828
 UID:1394452
 DESCRIPTION:<p>SAVE THE DATE! &nbsp\;</p><p>- Parkour festval in Gdańsk\,
   Poland for the 11th time!&nbsp\;</p><p>- JAM in Movement Arena (Parkour g

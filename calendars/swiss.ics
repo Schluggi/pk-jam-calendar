@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wpf Pocket Camp 2022
 DTSTART;VALUE=DATE:20220729
-DTEND;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20220802
 UID:1051526
 DESCRIPTION:<p>🇩🇪 Das WPF "Pocket" Camp 2022 findet statt! Das Camp 
  wird von Overground in Basel veranstaltet. Es wird 4 Tage lang Training an
