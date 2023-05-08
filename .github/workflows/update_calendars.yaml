@@ -36,7 +36,7 @@ jobs:
           URL_MATTTMA: ${{ secrets.URL_MATTTMA }}
         run: python update.py ../calendars/ $PROD_ID $URL_MATTTMA
 
-      - name: Commit and push
+      - name: commit and push
         run: |
           git config --global user.name 'Calendar Bot'
           git config --global user.email 'calendar-bot@users.noreply.github.com'
