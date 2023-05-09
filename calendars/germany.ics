@@ -697,6 +697,25 @@ ORGANIZER;CN="Parkour Erlangen + CrapMovements";PHONE=;WEBSITE="wiesenjam.
  de (die Webseite startet am 15.02.)":MAILTO:info@wiesenjam.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:North Nature Jam
+DTSTART;VALUE=DATE:20230519
+DTEND;VALUE=DATE:20230522
+UID:1603300
+DESCRIPTION:<p>The NATURE JAM is for the friends of versatile movement.For
+  you\, who practice sport sustainably but also expand your physical and me
+ ntal limits (or would like to learn to do so).Nature experience\, discover
+ y and pure movement.The Parkour Jam in nature.</p><p>Traceur Discount Code
+ s:NORTH TRACEUR --&gt\; 65€</p><p>Full price 80€(We would be very happ
+ y about the support!)</p><br><p>We are looking forward to seeing you!</p><
+ br><p>Sign up <a rel="noopener noreferrer" target="_blank" href="https://w
+ ww.motionlife.space/event-details/north-nature-jam-2023"><strong>here</str
+ ong></a><strong>.</strong></p>
+GEO:54.0662094;9.4388586
+LOCATION:Aasbüttel\, Schleswig-Holstein\, Germany
+ORGANIZER;CN="L[IF]E in motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/event-details/north-nature-jam-2023":MAILTO:info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Movelicious Meetup - Cologne
 DTSTART;VALUE=DATE:20230520
 DTEND;VALUE=DATE:20230520
