@@ -2086,6 +2086,21 @@ LOCATION:Vienna\, Austria
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beam Me Up Spotty 2023
+DTSTART;VALUE=DATE:20230707
+DTEND;VALUE=DATE:20230710
+UID:1617112
+DESCRIPTION:<p>Wolfsburg Streetjam. We will visit the best parkour spots i
+ n the City of Wolfsburg.</p><br><p>Price: free jam</p><p>Accomodation: lim
+ ited\, 10€ per night</p><p>Food: not included</p><br><p>Join the whatsap
+ p group for more information and "booking" your sleeping spot: <a rel="noo
+ pener noreferrer" target="_blank" href="https://chat.whatsapp.com/Fx9V2oJU
+ q3R2Uei6q1Enyt">https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt</a></p>
+GEO:52.4226503;10.7865461
+LOCATION:Wolfsburg\, Germany
+ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE=:MAILTO:orbitfreerun@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Munich Is Burning Jam
 DTSTART;VALUE=DATE:20230715
 DTEND;VALUE=DATE:20230717
