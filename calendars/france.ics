@@ -117,6 +117,20 @@ ORGANIZER;CN="PK 13";PHONE=;WEBSITE="https://pk13.fr/move-on-mars/":MAILTO
  :
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bab Jam
+DTSTART;VALUE=DATE:20230610
+DTEND;VALUE=DATE:20230612
+UID:1626726
+DESCRIPTION:<p><strong>Saturday - outdoor jam on parkour set up (scaffoldi
+ ng\, air track\, wooden modules..) &nbsp\;Sunday - City Jam in Biarritz</s
+ trong></p><br><p><strong>Price:10€</strong></p><p><strong>Accomodation: 
+ camping at @bricepoule garden</strong></p><p><strong>Food: not included</s
+ trong></p>
+GEO:43.481402;-1.514699
+LOCATION:Anglet\, France
+ORGANIZER;CN="@acro'feel";PHONE=;WEBSITE=:MAILTO:gabriel.bahtit@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Session Miramas
 DTSTART;VALUE=DATE:20230707
 DTEND;VALUE=DATE:20230710

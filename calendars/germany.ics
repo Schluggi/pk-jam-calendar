@@ -796,6 +796,25 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://www.parkour-erf
  urt.de/pages/open_airfurt.html":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:East Nature Jam
+DTSTART;VALUE=DATE:20230609
+DTEND;VALUE=DATE:20230612
+UID:1626724
+DESCRIPTION:<p>We're meeting near Chemnitz. On the grounds of the Walden e
+ .V. will be stationary obstacles\, Slacklines. Also Airtracks can't be mis
+ sing! &nbsp\;We will have bonfires and music. To change things up a bit\, 
+ we'll go climbing in the nearby mountains aswell! &amp\; don't forget your
+  bathing clothes \;) &nbsp\;Please take any of your arts with you\, we'll 
+ be glad to share any skills possible together! May it be music\, artistics
+  or acrobatics &nbsp\;we'll be happy to see you soon!</p><br><p>Food: all 
+ included</p><p>Price: 80€\, with discount code EAST TRACEUR it's 65€</
+ p><p>Accomodation: bring hammock/tents</p>
+GEO:50.8282222;12.9208547
+LOCATION:Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/nature-jam":MAILTO:info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beam Me Up Spotty 2023
 DTSTART;VALUE=DATE:20230707
 DTEND;VALUE=DATE:20230710

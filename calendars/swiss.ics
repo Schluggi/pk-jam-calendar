@@ -59,4 +59,16 @@ LOCATION:Overground Basel\, Elsässerstrasse\, Basel\, Switzerland
 ORGANIZER;CN="World's Parkour Family";PHONE=;WEBSITE="https://worldsparkou
  rfamily.ch/wpf-camp/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Camp 2023
+DTSTART;VALUE=DATE:20230728
+DTEND;VALUE=DATE:20230802
+UID:1626728
+DESCRIPTION:<p>More Info will follow soon</p><br><p>Price: 150 CHF</p><p>F
+ ood: Breakfast only</p><p>Accomodation: included</p>
+GEO:47.5741527;7.573705599999999
+LOCATION:Overground Basel\, Elsässerstrasse\, Basel\, Switzerland
+ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE=:MAILTO:simon.brenn
+ er01@gmail.com
+END:VEVENT
 END:VCALENDAR

@@ -1992,6 +1992,39 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://www.parkour-erf
  urt.de/pages/open_airfurt.html":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:East Nature Jam
+DTSTART;VALUE=DATE:20230609
+DTEND;VALUE=DATE:20230612
+UID:1626724
+DESCRIPTION:<p>We're meeting near Chemnitz. On the grounds of the Walden e
+ .V. will be stationary obstacles\, Slacklines. Also Airtracks can't be mis
+ sing! &nbsp\;We will have bonfires and music. To change things up a bit\, 
+ we'll go climbing in the nearby mountains aswell! &amp\; don't forget your
+  bathing clothes \;) &nbsp\;Please take any of your arts with you\, we'll 
+ be glad to share any skills possible together! May it be music\, artistics
+  or acrobatics &nbsp\;we'll be happy to see you soon!</p><br><p>Food: all 
+ included</p><p>Price: 80€\, with discount code EAST TRACEUR it's 65€</
+ p><p>Accomodation: bring hammock/tents</p>
+GEO:50.8282222;12.9208547
+LOCATION:Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/nature-jam":MAILTO:info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bab Jam
+DTSTART;VALUE=DATE:20230610
+DTEND;VALUE=DATE:20230612
+UID:1626726
+DESCRIPTION:<p><strong>Saturday - outdoor jam on parkour set up (scaffoldi
+ ng\, air track\, wooden modules..) &nbsp\;Sunday - City Jam in Biarritz</s
+ trong></p><br><p><strong>Price:10€</strong></p><p><strong>Accomodation: 
+ camping at @bricepoule garden</strong></p><p><strong>Food: not included</s
+ trong></p>
+GEO:43.481402;-1.514699
+LOCATION:Anglet\, France
+ORGANIZER;CN="@acro'feel";PHONE=;WEBSITE=:MAILTO:gabriel.bahtit@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oslo Movement Festival Gathering Omfg
 DTSTART;VALUE=DATE:20230614
 DTEND;VALUE=DATE:20230619
@@ -2217,6 +2250,18 @@ GEO:52.3675734;4.9041389
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;CN="Jump Freerun";PHONE=;WEBSITE="https://jumpfreerun.nl/4tlom/"
  :MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Camp 2023
+DTSTART;VALUE=DATE:20230728
+DTEND;VALUE=DATE:20230802
+UID:1626728
+DESCRIPTION:<p>More Info will follow soon</p><br><p>Price: 150 CHF</p><p>F
+ ood: Breakfast only</p><p>Accomodation: included</p>
+GEO:47.5741527;7.573705599999999
+LOCATION:Overground Basel\, Elsässerstrasse\, Basel\, Switzerland
+ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE=:MAILTO:simon.brenn
+ er01@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gravity Sucks Jam - Hamburg
