@@ -2168,21 +2168,6 @@ ORGANIZER;CN="Munki Motion Parkour";PHONE=;WEBSITE=@munkimotionparkour:MAI
  LTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Urban Playground Festival - Klagenfurt
-DTSTART;VALUE=DATE:20230715
-DTEND;VALUE=DATE:20230715
-UID:1436346
-DESCRIPTION:<p>Urban Playground Festival!</p><p>- Parkour Jam und Skillcom
- p&nbsp\;</p><p>- Skate Jam&nbsp\;</p><p>- Graffiti Jam&nbsp\;</p><p>- Cali
- sthenics&nbsp\;</p><p>- Live Musik&nbsp\;</p><p>- Breaking Battle&nbsp\;</
- p><p>- DJ Sets&nbsp\;</p><p>- Love</p><br><p>Price: free</p><p>Food: none<
- /p><p>Accomodation: Ask for local hosts :)</p>
-GEO:46.6206319;14.2599849
-LOCATION:Europapark\, Klagenfurt am Wörthersee\, Austria
-ORGANIZER;CN="Urban Playground";PHONE=;WEBSITE=www.urban-playground.at:MAI
- LTO:peter@urban-playground.at
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ulm Jam
 DTSTART;VALUE=DATE:20230721
 DTEND;VALUE=DATE:20230724
