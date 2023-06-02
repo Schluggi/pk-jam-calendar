@@ -820,6 +820,19 @@ ORGANIZER;CN="L[IF]E in motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/nature-jam":MAILTO:info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nandu Jam 2023
+DTSTART;VALUE=DATE:20230617
+DTEND;VALUE=DATE:20230619
+UID:1656303
+DESCRIPTION:<p>Parkour Jam with Airtrack\, Barsetup and outdoor spots arou
+ nd. Feel free to sleep in the Gym. We provide lunch for saturday evening\,
+  breakfast and lunch for sunday.</p><br><p>Food: Breakfast only</p><p>Pric
+ e: 20€</p><p>Accomodation: yes\, in the gym</p>
+LOCATION:Rudolf-Breitscheid-Straße 28a\, 22880 Wedel
+ORGANIZER;CN="Nandu e.V.";PHONE=;WEBSITE="https://www.nandu.run/jam":MAILT
+ O:lukas@nandu.run
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beam Me Up Spotty 2023
 DTSTART;VALUE=DATE:20230707
 DTEND;VALUE=DATE:20230710
@@ -902,12 +915,39 @@ SUMMARY:Frbodensee Festival
 DTSTART;VALUE=DATE:20230810
 DTEND;VALUE=DATE:20230814
 UID:1274406
-DESCRIPTION:<p>SAVE THE DATE AND WATCH OUR VIDEO ABOUT LAST YEARS JAM <a r
- el="noopener noreferrer" target="_blank" href="https://www.youtube.com/wat
- ch?v=kFhYaj3IiOQ&t=529s"><u><strong>HERE</strong></u></a></p>
+DESCRIPTION:<p>Once again\, we invite you to the FRBodensee Festival.&nbsp
+ \;</p><p>Throughout the entire weekend\, there will be everything that thi
+ s great parkour community has to offer. In addition to awesome PK sessions
+ \, there will be an open stage evening and cool workshops (screen printing
+ \, zine-making\, Graffiti\, etc.)</p><br><p>During the festival\, there wi
+ ll be delicious food and a big party to close it out.</p><p>In short\, it'
+ s a parkour jam with a festival character. Awesome vibes\, great people\, 
+ good food. All that\, for 4 Days straight.</p><br><p>Sleeping: On the fest
+ ival grounds\, camping and sleeping in hammocks is possible. Additionally\
+ , there is the option to sleep in your car/Van. Otherwise\, there are a fe
+ w covered sleeping spots available.</p><br><p>Food: As a matter of princip
+ le\, only vegetarian and vegan food will be served.</p><p>In the morning\,
+  there will be a Schnansch breakfast and there is Waffles or crêpes and o
+ ther Snacks for lunch. The main meal is planned for the evening\, and Malc
+ om will support us with his cooking skills (more information on www.parasa
+ do.de). He will be preparing vegetarian food for us.</p><br><p>Fresh fruit
+  and cool water will be available all day.</p><br><p>- To avoid waste\, we
+  kindly ask you to bring your own utensils (fork/knife/plate/...) with you
+ .</p><br><p>Arrival: The nearest train stations are Überlingen or Salem. 
+ There is a Flixbus from Munich to Meersburg and occasionally also Flixbus 
+ connections to Überlingen. We will occasionally organize shared taxis fro
+ m Überlingen and Salem to the festival site by arrangement in the Whatsap
+ p group*.</p><br><p>(*Link to the WhatsApp group will be displayed after s
+ ubmitting the registration form.)</p><br><p>4 Tage: 85€</p><p>3 Tage: 70
+ €</p><p>2 Tage: 45€</p><p>1 Tag: 25€</p><br><p>In the price there is
+  included:</p><p>- Daily breakfast and warm dinner</p><p>- Snacks\, fruit\
+ , water and other treats</p><p>- Evening: drinks flat rate (beer/cocktails
+ /soft drinks)</p><p>- Camping on the site</p><p>- Participation in all wor
+ kshops\, open stage evening\, rave\, ...</p><br><p>www.frb-freerun.de</p><
+ p>Tickets soon… (mid June)</p>
 GEO:47.8275552;9.2612319
 LOCATION:Naturatelier\, Golpenweiler Straße\, Frickingen\, Germany
-ORGANIZER;CN="FRB FREERUN";PHONE=;WEBSITE=:MAILTO:
+ORGANIZER;CN="FRB FREERUN";PHONE=;WEBSITE=www.frb-freerun.de:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Htown Summer Jam
