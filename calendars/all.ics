@@ -2030,6 +2030,18 @@ LOCATION:Anglet\, France
 ORGANIZER;CN="@acro'feel";PHONE=;WEBSITE=:MAILTO:gabriel.bahtit@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Abriss Jam
+DTSTART;VALUE=DATE:20230610
+DTEND;VALUE=DATE:20230612
+UID:1673158
+DESCRIPTION:<p>free street jam in Berlin\, find all information on their <
+ a rel="noopener noreferrer" target="_blank" href="https://instagram.com/ab
+ riss.jam?igshid=MzRlODBiNWFlZA==">instagram channel</a>.</p><br>
+GEO:52.5368674;13.4410858
+LOCATION:Anton-Saefkow-Park\, Bötzowstraße\, Berlin\, Germany
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oslo Movement Festival Gathering Omfg
 DTSTART;VALUE=DATE:20230614
 DTEND;VALUE=DATE:20230619
@@ -2110,6 +2122,29 @@ ORGANIZER;CN=HelJamFinland;PHONE=;WEBSITE="https://www.instagram.com/p/CoP
  qATsNzgJ/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Birthday Jam - Mannheim
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230703
+UID:1673159
+DESCRIPTION:<p>Born out of Dennis Korra's innocent idea to have a good tra
+ ining session on his birthday\, the Mannheim Birthday Jam has grown over t
+ he last 3 years.</p><p>No frills\, no frippery - just a lot of training\, 
+ seeing old and new faces and a lot of good humour. An oldschool jam like i
+ t's written in the book!</p><p>The host has already taken care of a lot:Va
+ rious spots have been scouted\, your hotel "Hängematte am Rhein" is alrea
+ dy booked and you can pick up your individually designed menu at the check
+ out of your favourite supermarket! \;)</p><p>If this sounds like a success
+ ful weekend to you\, then feel warmly invited to come to Mannheim. In the 
+ WhatsApp group you can find out everything else and help Dennis keep an ov
+ erview: <a rel="noopener noreferrer" target="_blank" href="https://chat.wh
+ atsapp.com/ErcoURW93JfCJkx3WuhiOY">https://chat.whatsapp.com/ErcoURW93JfCJ
+ kx3WuhiOY</a></p><br><p>Price: free</p><p>Accomodation: sleeping at the ri
+ ver in hammocks (bring your own)</p><p>Food: not included</p>
+GEO:49.4875689;8.4609449
+LOCATION:C5 1\, 68159 Mannheim\, Germany
+ORGANIZER;CN="Dennis Korra";PHONE=;WEBSITE=:MAILTO:info@dennis-korra.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Session Miramas
 DTSTART;VALUE=DATE:20230707
 DTEND;VALUE=DATE:20230710
@@ -2143,10 +2178,16 @@ DTEND;VALUE=DATE:20230710
 UID:1617112
 DESCRIPTION:<p>Wolfsburg Streetjam. We will visit the best parkour spots i
  n the City of Wolfsburg.</p><br><p>Price: free jam</p><p>Accomodation: lim
- ited\, 10€ per night</p><p>Food: not included</p><br><p>Join the whatsap
- p group for more information and "booking" your sleeping spot: <a rel="noo
- pener noreferrer" target="_blank" href="https://chat.whatsapp.com/Fx9V2oJU
- q3R2Uei6q1Enyt">https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt</a></p>
+ ited\, 20€ for both days</p><p>Food: not included</p><br><p>Join the wha
+ tsapp group for more information and "booking" your sleeping spot: <a rel=
+ "noopener noreferrer" target="_blank" href="https://chat.whatsapp.com/Fx9V
+ 2oJUq3R2Uei6q1Enyt">https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt</a></
+ p><br><p>If you want to book your sleeping spot\, pay 20€ either via pay
+ pal or bank transfer:&nbsp\;</p><p>Paypal-e-mail: domdibuss@gmail.com</p><
+ br><p>Bank transfer details:&nbsp\;</p><p>Message for recipient: "Your Nam
+ e Your Surname"&nbsp\;</p><p>IBAN: DE15 2699 1066 1758 9000 00&nbsp\;</p><
+ p>BIC: GENODEF1WOB&nbsp\;</p><p>Name of holder: Dominic Buss</p><p>Adress 
+ of holder: Holzkampe 32\, 38448 Wolfsburg&nbsp\;</p>
 GEO:52.4226503;10.7865461
 LOCATION:Wolfsburg\, Germany
 ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE=:MAILTO:orbitfreerun@gmail.com
@@ -2161,9 +2202,11 @@ DESCRIPTION:<p>Big Munich Street Jam with the one and only chill competiti
  rer" target="_blank" href="https://www.youtube.com/watch?v=K-qyI6_vcKs&amp
  \;t=206s"><strong>Aftermovie from 2021</strong></a>\, since we didn't fini
  sh last years edit yet :D</p><br><p>Price of the jam: Free</p><p>Accomodat
- ion: from Saturday to Sunday in the Gym (3-5€ per person for sleeping)</
- p><p>Food: bring your own</p><br><p>Also: it's a private meeting\, 18 year
- s + (send us an email if you're under 18)</p>
+ ion: from Saturday to Sunday in the Gym (3-5€ per person for sleeping) f
+ rom Friday to saturday either we find you a host\, or if there's many peop
+ le we sleep together outdoors at a parkour park :)</p><p>Food: bring your 
+ own</p><br><p>Also: it's a private meeting\, 18 years + (send us an email 
+ if you're under 18)</p>
 GEO:48.1351253;11.5819806
 LOCATION:Munich\, Germany
 ORGANIZER;CN="UNORGA TEAM";PHONE=;WEBSITE=:MAILTO:
