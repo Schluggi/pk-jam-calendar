@@ -302,9 +302,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Revo Cult Jam - Vienna
 DTSTART;VALUE=DATE:20230707
-DTEND;VALUE=DATE:20230710
+DTEND;VALUE=DATE:20230709
 UID:1476181
-DESCRIPTION:<p>save the date!</p><p>big street jam in Vienna!</p>
+DESCRIPTION:<p>Roughly Timeplan:</p><br><p>*Friday*</p><p>Chill Arrival&nb
+ sp\;</p><p>training at Vienna’s Spots + Chill out in the evening</p><br>
+ <p>*Saturday*</p><p>Main event Day</p><p>Training + after Party/exhibition
+ </p><br><p>*Sunday*</p><p>Training/Swimming+jumps/chillin</p><br><p>There 
+ will be various contests over the weekend as well\, so stay tuned for that
+ &nbsp\;</p><br><p>*Sleeping:*</p><p>You can sleep in the Ape Academy\, Vie
+ nna‘s Parkour Gym</p>
 GEO:48.2081743;16.3738189
 LOCATION:Vienna\, Austria
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:

@@ -109,4 +109,20 @@ LOCATION:Skælskør Landevej 28\, Slagelse\, Denmark
 ORGANIZER;CN=;PHONE=;WEBSITE="https://gerlev.dk/kortkursus/international-g
  athering-2023/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aarhus Parkour Jampionships 2023
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230904
+UID:1713867
+DESCRIPTION:<p>Jampionships is a new yearly event in Aarhus Denmark with 3
+  competitions and lots of time to jam. It is a part of a large event calle
+ d Urban Sports Festival Aarhus. This year we will build a semi-permanent p
+ ark on site for the event that will stay for the next 5 years minimum.</p>
+ <br><p>Price: free</p><p>Food: not included</p><p>Accomodation: Sleeping i
+ n a big common hall</p>
+GEO:nan;nan
+LOCATION:Aarhus Harbour\, Hveensgade 5\, 8000 Aarhus
+ORGANIZER;CN="Aarhus Parkour";PHONE=;WEBSITE=@jampionships.aapk:MAILTO:mag
+ ne.dk@gmail.com
+END:VEVENT
 END:VCALENDAR

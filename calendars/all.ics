@@ -2164,9 +2164,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Revo Cult Jam - Vienna
 DTSTART;VALUE=DATE:20230707
-DTEND;VALUE=DATE:20230710
+DTEND;VALUE=DATE:20230709
 UID:1476181
-DESCRIPTION:<p>save the date!</p><p>big street jam in Vienna!</p>
+DESCRIPTION:<p>Roughly Timeplan:</p><br><p>*Friday*</p><p>Chill Arrival&nb
+ sp\;</p><p>training at Vienna’s Spots + Chill out in the evening</p><br>
+ <p>*Saturday*</p><p>Main event Day</p><p>Training + after Party/exhibition
+ </p><br><p>*Sunday*</p><p>Training/Swimming+jumps/chillin</p><br><p>There 
+ will be various contests over the weekend as well\, so stay tuned for that
+ &nbsp\;</p><br><p>*Sleeping:*</p><p>You can sleep in the Ape Academy\, Vie
+ nna‘s Parkour Gym</p>
 GEO:48.2081743;16.3738189
 LOCATION:Vienna\, Austria
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
@@ -2191,6 +2197,34 @@ DESCRIPTION:<p>Wolfsburg Streetjam. We will visit the best parkour spots i
 GEO:52.4226503;10.7865461
 LOCATION:Wolfsburg\, Germany
 ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE=:MAILTO:orbitfreerun@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Up Ka
+DTSTART;VALUE=DATE:20230708
+DTEND;VALUE=DATE:20230708
+UID:1713866
+DESCRIPTION:<p>General info:</p><p>- just a big\, friendly Jam to wake up 
+ the pk-community of Karlsruhe &nbsp\;</p><p>- many spots throughout Karlsr
+ uhe\, challenges and mini-comps &nbsp\;&nbsp\;</p><br><p>Where and when we
+  meet up: &nbsp\;</p><p>- Bannwaldallee 48\, 76185 Karlsruhe (<a rel="noop
+ ener noreferrer" target="_blank" href="https://goo.gl/maps/5pncevZikpogVrU
+ y5)">https://goo.gl/maps/5pncevZikpogVrUy5)</a> &nbsp\;- 11:00 am &nbsp\;&
+ nbsp\;</p><p>Transportation: &nbsp\;</p><p>- if possible\, come with your 
+ bike for optimal spot changing &nbsp\;</p><p>- most spots are easily reach
+ able with ÖPNV (tram\, car\, bus) &nbsp\;&nbsp\;</p><br><p>Food and drink
+ ing: &nbsp\;</p><p>- bring lots of water and snacks for throughout the day
+  &nbsp\;</p><p>- some spots have supermarkets in the area &nbsp\;&nbsp\;</
+ p><br><p>Accomodation: &nbsp\;</p><p>- you'll have to take care of that yo
+ urself\, because most people will probably live near or even in Karlsruhe 
+ and therefore it doesn't really make sense for us to organize a sleeping p
+ lace for only few people &nbsp\;&nbsp\;</p><br><p>If you'd like to support
+  us\, you can buy some Wake Up KA-Stickers at the jam &nbsp\;Please be res
+ pectful to your fellow athletes\, the environment and the people around yo
+ u</p>
+GEO:49.0068901;8.4036527
+LOCATION:Karlsruhe\, Germany
+ORGANIZER;CN="KA Youth New Gen";PHONE=;WEBSITE="https://www.instagram.com/
+ wake_up_ka/":MAILTO:wakeuPKa@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Munich Is Burning Jam
@@ -2232,6 +2266,22 @@ GEO:52.3675734;4.9041389
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;CN="Munki Motion Parkour";PHONE=;WEBSITE=@munkimotionparkour:MAI
  LTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceci N'Est Pas Un Stick - Ghent Festival Edition
+DTSTART;VALUE=DATE:20230719
+DTEND;VALUE=DATE:20230721
+UID:1713871
+DESCRIPTION:<p>Ceci N'est Pas Un Stick is two days of parkour fun. Over th
+ e course of these two days\, covered in the atmosphere of the Ghent Festiv
+ al\, we organize a skill comp\, a Style comp\, a movie night\, and jam opp
+ ortunities. &nbsp\;Come to Ghent\, and have a good time. Join the events o
+ r just watch\, chill and train!</p><p>Price: 10€</p><p>Food: Not include
+ d</p><p>Accomodation: Contact them per email :)</p>
+GEO:51.0577681;3.7314211
+LOCATION:Koning Willem I-kaai 8\, 9000 Gent\, Belgium
+ORGANIZER;CN="Flow De Gand";PHONE=;WEBSITE="https://www.flowdegand.be/even
+ ts/ceci-nest-pas-un-stick-gentse-feesten-editie":MAILTO:info@flowdegand.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulm Jam
@@ -2341,6 +2391,21 @@ GEO:53.5428972;10.0092951
 LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, 20457 Hamburg\, Germany
 ORGANIZER;CN="Die Halle";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehalle.hambu
  rg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porto Takeover
+DTSTART;VALUE=DATE:20230805
+DTEND;VALUE=DATE:20230807
+UID:1713874
+DESCRIPTION:<p>Street Jam with Challenges in Porto.</p><br><p>Sign up <a r
+ el="noopener noreferrer" target="_blank" href="https://www.genericparkour.
+ com/porto/"><strong>here</strong></a> !</p><p>More information on the inst
+ agram account: @genericparkour &amp\; @marcio.filipe</p><br><p>Price: 15
+ €</p>
+GEO:41.1579438;-8.629105299999999
+LOCATION:Porto\, Portugal
+ORGANIZER;CN="Marcio Filipe";PHONE=;WEBSITE=www.genericparkour.com/porto/:
+ MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
@@ -2495,6 +2560,22 @@ GEO:64.3219244;-22.0702847
 LOCATION:Akranes\, Iceland
 ORGANIZER;CN="Parkour Iceland";PHONE=;WEBSITE=:MAILTO:parkourdjammid@gmail
  .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aarhus Parkour Jampionships 2023
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230904
+UID:1713867
+DESCRIPTION:<p>Jampionships is a new yearly event in Aarhus Denmark with 3
+  competitions and lots of time to jam. It is a part of a large event calle
+ d Urban Sports Festival Aarhus. This year we will build a semi-permanent p
+ ark on site for the event that will stay for the next 5 years minimum.</p>
+ <br><p>Price: free</p><p>Food: not included</p><p>Accomodation: Sleeping i
+ n a big common hall</p>
+GEO:nan;nan
+LOCATION:Aarhus Harbour\, Hveensgade 5\, 8000 Aarhus
+ORGANIZER;CN="Aarhus Parkour";PHONE=;WEBSITE=@jampionships.aapk:MAILTO:mag
+ ne.dk@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swings 'N Other Things

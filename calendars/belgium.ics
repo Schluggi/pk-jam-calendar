@@ -100,6 +100,22 @@ LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
 ORGANIZER;CN="Team Ashigaru";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ceci N'Est Pas Un Stick - Ghent Festival Edition
+DTSTART;VALUE=DATE:20230719
+DTEND;VALUE=DATE:20230721
+UID:1713871
+DESCRIPTION:<p>Ceci N'est Pas Un Stick is two days of parkour fun. Over th
+ e course of these two days\, covered in the atmosphere of the Ghent Festiv
+ al\, we organize a skill comp\, a Style comp\, a movie night\, and jam opp
+ ortunities. &nbsp\;Come to Ghent\, and have a good time. Join the events o
+ r just watch\, chill and train!</p><p>Price: 10€</p><p>Food: Not include
+ d</p><p>Accomodation: Contact them per email :)</p>
+GEO:51.0577681;3.7314211
+LOCATION:Koning Willem I-kaai 8\, 9000 Gent\, Belgium
+ORGANIZER;CN="Flow De Gand";PHONE=;WEBSITE="https://www.flowdegand.be/even
+ ts/ceci-nest-pas-un-stick-gentse-feesten-editie":MAILTO:info@flowdegand.be
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Swings 'N Other Things
 DTSTART;VALUE=DATE:20230902
 DTEND;VALUE=DATE:20230904
