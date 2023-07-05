@@ -2270,7 +2270,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ceci N'Est Pas Un Stick - Ghent Festival Edition
 DTSTART;VALUE=DATE:20230719
-DTEND;VALUE=DATE:20230721
+DTEND;VALUE=DATE:20230719
 UID:1713871
 DESCRIPTION:<p>Ceci N'est Pas Un Stick is two days of parkour fun. Over th
  e course of these two days\, covered in the atmosphere of the Ghent Festiv
@@ -2315,6 +2315,20 @@ DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:53.38112899999999;-1.470085
 LOCATION:Sheffield\, UK
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spefezt
+DTSTART;VALUE=DATE:20230722
+DTEND;VALUE=DATE:20230724
+UID:1714935
+DESCRIPTION:<p>@slovenskaparkourscenaexistuje (SPE) and @feztmind (FZT) or
+ ganise a jam with a new competition format!</p><br><p>Price: - 25€ for c
+ amping in the pk park and no breakfast and gym entry</p><p>- 30€ is slee
+ ping in the gym with breakfast</p>
+GEO:48.3159272;18.1141748
+LOCATION:Skill Lab\, Levická\, Nitra-Chrenová\, Slovakia
+ORGANIZER;CN="@slovenskaparkourscenaexistuje & @feztmind";PHONE=;WEBSITE=:
+ MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gerlev International Gathering
@@ -2515,7 +2529,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twio X Jam - Leipzig
 DTSTART;VALUE=DATE:20230825
-DTEND;VALUE=DATE:20230828
+DTEND;VALUE=DATE:20230827
 UID:1471722
 DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:51.3396955;12.3730747

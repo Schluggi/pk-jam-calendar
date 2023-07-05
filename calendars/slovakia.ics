@@ -18,4 +18,18 @@ LOCATION:Skill Lab\, Levická\, Nitra-Chrenová\, Slovakia
 ORGANIZER;CN=;PHONE=;WEBSITE="https://www.parkourscenaexistuje.sk/":MAILTO
  :info@parkourscenaexistuje.sk
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spefezt
+DTSTART;VALUE=DATE:20230722
+DTEND;VALUE=DATE:20230724
+UID:1714935
+DESCRIPTION:<p>@slovenskaparkourscenaexistuje (SPE) and @feztmind (FZT) or
+ ganise a jam with a new competition format!</p><br><p>Price: - 25€ for c
+ amping in the pk park and no breakfast and gym entry</p><p>- 30€ is slee
+ ping in the gym with breakfast</p>
+GEO:48.3159272;18.1141748
+LOCATION:Skill Lab\, Levická\, Nitra-Chrenová\, Slovakia
+ORGANIZER;CN="@slovenskaparkourscenaexistuje & @feztmind";PHONE=;WEBSITE=:
+ MAILTO:
+END:VEVENT
 END:VCALENDAR
