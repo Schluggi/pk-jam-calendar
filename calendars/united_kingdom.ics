@@ -121,6 +121,27 @@ ORGANIZER;CN="Street Media";PHONE=;WEBSITE="https://streetmedia.store/prod
  ucts/streetmedia-social-v1-sheffield":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grim Jam
+DTSTART;VALUE=DATE:20230819
+DTEND;VALUE=DATE:20230821
+UID:1750175
+DESCRIPTION:<p>GRIM JAM IS BACK FOR 2023.</p><p>This year we are spicing t
+ hings up with a street takeover for our skill round 1. &nbsp\;Numerous loc
+ ation in Grimsby will set the stage and guide you to the &nbsp\;parkour pa
+ rk where the top qualified athletes will battle it out to see &nbsp\;who q
+ ualifies to sunday finals.</p><p>All paying competitors are welcome to sle
+ ep in the gym over the &nbsp\;weekend. We are also opening the gym Friday 
+ so anyone travelling from further away may arrive Friday so they are bette
+ r prepared for the 11:00 am start on Saturday.</p><br><p>Get your tickets 
+ <a rel="noopener noreferrer" target="_blank" href="https://teamreality.big
+ cartel.com/product/grim-jam-2023">here</a>!</p><br><p>Price: 30 £</p><p>F
+ ood: not included I think</p><p>Accomodation: in the gym</p>
+GEO:53.567471;-0.080784
+LOCATION:Grimsby\, UK
+ORGANIZER;CN="Team Reality Ltd";PHONE=;WEBSITE="https://teamreality.bigcar
+ tel.com/product/grim-jam-2023":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project Next Gen Premiere + Jam - London
 DTSTART;VALUE=DATE:20230826
 DTEND;VALUE=DATE:20230828

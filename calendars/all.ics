@@ -2495,6 +2495,27 @@ LOCATION:Wakitu Spielplatz\, Hohenzollernstraße\, Hannover\, Germany
 ORGANIZER;CN="H Town";PHONE=;WEBSITE=:MAILTO:htown.pk.official@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grim Jam
+DTSTART;VALUE=DATE:20230819
+DTEND;VALUE=DATE:20230821
+UID:1750175
+DESCRIPTION:<p>GRIM JAM IS BACK FOR 2023.</p><p>This year we are spicing t
+ hings up with a street takeover for our skill round 1. &nbsp\;Numerous loc
+ ation in Grimsby will set the stage and guide you to the &nbsp\;parkour pa
+ rk where the top qualified athletes will battle it out to see &nbsp\;who q
+ ualifies to sunday finals.</p><p>All paying competitors are welcome to sle
+ ep in the gym over the &nbsp\;weekend. We are also opening the gym Friday 
+ so anyone travelling from further away may arrive Friday so they are bette
+ r prepared for the 11:00 am start on Saturday.</p><br><p>Get your tickets 
+ <a rel="noopener noreferrer" target="_blank" href="https://teamreality.big
+ cartel.com/product/grim-jam-2023">here</a>!</p><br><p>Price: 30 £</p><p>F
+ ood: not included I think</p><p>Accomodation: in the gym</p>
+GEO:53.567471;-0.080784
+LOCATION:Grimsby\, UK
+ORGANIZER;CN="Team Reality Ltd";PHONE=;WEBSITE="https://teamreality.bigcar
+ tel.com/product/grim-jam-2023":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:International Parkour Festival (Mfp)
 DTSTART;VALUE=DATE:20230825
 DTEND;VALUE=DATE:20230828
@@ -2577,6 +2598,29 @@ ORGANIZER;CN="Parkour Iceland";PHONE=;WEBSITE=:MAILTO:parkourdjammid@gmail
  .com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Förde Jam 2023
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230904
+UID:1750169
+DESCRIPTION:<p>Hello!   For the second time\, the Parkour Kiel Communi
+ ty in cooperation with KMTV invites you to the Förde Jam in Kiel!   P
+ ack your swimwear\, because besides a spot tour with a water challenge or 
+ two\, beach and swim sessions are planned.</p><p>All Ü40/50 are invited t
+ o a special workshop for beginners into the Parkour world.  In case th
+ e weather doesn't cooperate\, we will again have a variety of obstacles\, 
+ a pole park and airtrack available in the KMTV halls.   Overnight acco
+ mmodation in the hall is also possible.   You are responsible for your
+  own catering\, but there are plenty of shopping facilities near the hall.
+ On Saturday evening we will provide a barbecue for all those who want it. 
+   </p><p>Further information will be communicated shortly via Whatsapp
+ : https://chat.whatsapp.com/LpUu4nzvRoY1DqXLwUUC3f   </p>
+GEO:54.3306479;10.1268463
+LOCATION:KMTV von 1844 e.V. - Standort Schrevenpark\, Jahnstraße\, Kiel\,
+  Germany
+ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE="https://widgets.yolawo.de/w/64
+ b7c8f8db09284906f968b2":MAILTO:Parkourkiel@gmx.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aarhus Parkour Jampionships 2023
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230904
@@ -2623,5 +2667,26 @@ GEO:49.4521018;11.0766654
 LOCATION:Nürnberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:ograsshoppers
  @gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Jam Gütersloh
+DTSTART;VALUE=DATE:20231003
+DTEND;VALUE=DATE:20231003
+UID:1750167
+DESCRIPTION:<p>*Parkour Jam Gütersloh* After Corona\, we were finally bac
+ k with passion\, planning this year's Parkour Camp! But unfortunately\, we
+  couldn't start yet due to the final construction work. That's why we are 
+ even more excited to celebrate the Parkour Jam Gütersloh together with yo
+ u - as a warm-up for the next camp :-)&nbsp\;</p><p>One day at the Parkour
+  Park Gütersloh and the new premises of the 3rd comprehensive school:&nbs
+ p\;</p><p>+ new Calisthenics facility&nbsp\;</p><p>+ sports hall with new 
+ parkour elements&nbsp\;</p><p>+ new playground&nbsp\;</p><p>+ workshops&nb
+ sp\;</p><p>+ fruit and water flat rate&nbsp\;</p><p>+ you? (100 participan
+ ts)&nbsp\;</p><p>Are you in? October 3 - Day of German Unity</p><br><p>Pri
+ ce: 20€</p><p>Accomodation: none</p><p>Food: included</p><br>
+GEO:51.92722999999999;8.39182
+LOCATION:3. Gesamtschule Gütersloh\, Ahornallee\, Gütersloh\, Germany
+ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de/":M
+ AILTO:info@parkourcamp.de
 END:VEVENT
 END:VCALENDAR
