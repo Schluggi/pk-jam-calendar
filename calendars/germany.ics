@@ -1059,14 +1059,30 @@ ORGANIZER;CN="Parkour Berlin e.V.";PHONE=;WEBSITE="https://www.urban-gathe
  ring.com/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Twio X Jam - Leipzig
+SUMMARY:X-Dream - Leipzig
 DTSTART;VALUE=DATE:20230825
 DTEND;VALUE=DATE:20230827
 UID:1471722
-DESCRIPTION:<p>SAVE THE DATE</p>
+DESCRIPTION:<p>START PARKOUR AND GET RICH?</p><p>Now that we have your att
+ ention\, we trust that you’re curious enough to know why we want it and 
+ will read this text until the end\, no matter how long the introduction.&n
+ bsp\;</p><br><p>Now\, let’s get to the facts:&nbsp\;</p><p>From August 2
+ 5\, 2023\, to August 27\, 2023\, the fifth Leipzig Parkour Jam (XDream) wi
+ ll take place. Are you interested in the sport and happen to have free tim
+ e on that weekend? Are you of legal age or do you have a cool mom who will
+  fill out a permission sheet for anything?&nbsp\;</p><p>Then simply sign u
+ p <a rel="noopener noreferrer" target="_blank" href="https://twio-x.de/int
+ eressierte/events/x-dream-2023/">here</a>! For €15\, we offer you a vege
+ tarian/vegan jam\, including (almost) unlimited water and fruit supply\, p
+ lenty of sports\, an evening campfire\, open-air showers\, various animals
+  in your tent?</p><br><p>To relax before and/or after training\, there is 
+ a little surprise this year. So\, if you like surprises\, come by\, it’s
+  worth it... especially for people who enjoy sauna sessions.</p><br><p>Pri
+ ce: 15€</p><p>Accomodation: outdoor</p><p>Food: included</p>
 GEO:51.3396955;12.3730747
 LOCATION:Leipzig\, Germany
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+ORGANIZER;CN=;PHONE=;WEBSITE="https://twio-x.de/interessierte/events/x-dre
+ am-2023/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Förde Jam 2023
