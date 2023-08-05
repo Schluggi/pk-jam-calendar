@@ -2685,6 +2685,26 @@ ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:ograsshoppers
  @gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shaka Jam - Münster
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20231002
+UID:1762837
+DESCRIPTION:<p>We are thrilled to invite you to the grand opening of our b
+ rand new Parkourgym in Münster! The moment we've all been waiting for has
+  finally arrived\, and we want to celebrate it with each and every one of 
+ you.</p><br><p>What to expect:</p><p>- Exciting and big Parkour courses fo
+ r all levels</p><p>- Tricking-Floor and Foampit</p><p>- Skill-competition 
+ with a little surprise for the winners</p><p>- Groovy music and great vibe
+ s</p><p>- Vegan barbecue</p><p>- And\, of course\, loads of fun and action
+ !</p><br><p>You will find more information soon on our website.</p><p>Foll
+ ow us on social media for updates and event news.</p><p>See you soon! Park
+ ourhalle Lani Team</p>
+GEO:51.9904;7.66672
+LOCATION:Rudolf-Diesel-Straße 18\, 48157 Münster\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=www.parkourhalle-lani.de:M
+ AILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Jam Gütersloh
 DTSTART;VALUE=DATE:20231003
 DTEND;VALUE=DATE:20231003
