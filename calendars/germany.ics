@@ -1108,6 +1108,27 @@ ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE="https://widgets.yolawo.de/w/64
  b7c8f8db09284906f968b2":MAILTO:Parkourkiel@gmx.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leap 2023
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230904
+UID:1783740
+DESCRIPTION:<p>‚LEAP‘ is Parkour Movement’s very own parkour event. 
+ It is focussed on exchange\, gaining new experiences\, collecting knowledg
+ e provided by experts and to have an overall great time. &nbsp\;</p><br><p
+ >As a result\, we make an effort to not only create a welcoming environmen
+ t for everyone to feel at home and safe\, but also do our best to offer gr
+ eat workshops and an engaging program for our guests: you!</p><br><p>You c
+ an find all information about prices\, coaches and so on <a rel="noopener 
+ noreferrer" target="_blank" href="https://parkour-movement.com/leap/">here
+ </a>.</p><br><p>Accomodation: included</p><p>Food: all included</p><p>Pric
+ e: varies\, depending on how much you want to give between 20-60€ for a 
+ day or 40-100€ for the weekend</p>
+GEO:50.9299675;7.005192
+LOCATION:Odenwaldstraße 98\, 51105 Köln\, Germany
+ORGANIZER;CN="Parkour Movement e.V.";PHONE=;WEBSITE="https://parkour-movem
+ ent.com/leap/":MAILTO:info@parkour-movement.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gefam X Kipa Jam - Hamburg
 DTSTART;VALUE=DATE:20230908
 DTEND;VALUE=DATE:20230911
@@ -1168,5 +1189,22 @@ GEO:51.92722999999999;8.39182
 LOCATION:3. Gesamtschule Gütersloh\, Ahornallee\, Gütersloh\, Germany
 ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de/":M
  AILTO:info@parkourcamp.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruhrjam
+DTSTART;VALUE=DATE:20231013
+DTEND;VALUE=DATE:20231016
+UID:1783742
+DESCRIPTION:<p>Ruhrjam is back!</p><br><p>More information soon on their i
+ nstagram page: <a rel="noopener noreferrer" target="_blank" href="https://
+ instagram.com/mhpkg?igshid=MzRlODBiNWFlZA==">MHPKG</a></p><br><p>Meanwhile
+  watch the <a rel="noopener noreferrer" target="_blank" href="https://m.yo
+ utube.com/watch?fbclid=PAAaZdDzk7Xkm0A_zuHof4wL09sjvW-xQDwFG0jrjcIzNPOSf_j
+ XFQmVItPCk_aem_Adf8ox911ijRBEDvNEAlyyT0sBA3RsmlwQQ-y4E1IZu3a7PVrFprEZq7VBA
+ 4_ar6Cxs&amp\;v=M0qFhbBEPXU&amp\;feature=youtu.be">aftermovie</a> from 202
+ 1!</p>
+GEO:51.4185682;6.884522599999999
+LOCATION:Mülheim an der Ruhr\, Germany
+ORGANIZER;CN=MHPKG;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 END:VCALENDAR
