@@ -1139,6 +1139,23 @@ LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="GEFAM, KIPA";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Journey To The End Of The Night
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230909
+UID:1796966
+DESCRIPTION:<p>The Journey isn´t a jam\, but a big hide and seek paired w
+ ith a scavenger hunt. You use the whole city and play at night. If you do 
+ parkour\, this is the perfect opportunity to put your skills to the test \
+ ;) All further information can be found on the website <a rel="noopener no
+ referrer" target="_blank" href="http://www.journey-erfurt.de/">www.journey
+ -erfurt.de</a>\, registration are open now!</p><br><p>Price: 8€</p><p>Ac
+ comodation: Ask the locals</p><p>Food: Not included</p>
+GEO:51.0112769;10.9896516
+LOCATION:Europaplatz\, Erfurt\, Germany
+ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=www.journey-erfurt.de:MA
+ ILTO:run@journey-erfurt.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Og Jam 23
 DTSTART;VALUE=DATE:20230915
 DTEND;VALUE=DATE:20230918

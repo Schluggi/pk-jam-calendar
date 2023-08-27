@@ -2695,6 +2695,23 @@ LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="GEFAM, KIPA";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Journey To The End Of The Night
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230909
+UID:1796966
+DESCRIPTION:<p>The Journey isn´t a jam\, but a big hide and seek paired w
+ ith a scavenger hunt. You use the whole city and play at night. If you do 
+ parkour\, this is the perfect opportunity to put your skills to the test \
+ ;) All further information can be found on the website <a rel="noopener no
+ referrer" target="_blank" href="http://www.journey-erfurt.de/">www.journey
+ -erfurt.de</a>\, registration are open now!</p><br><p>Price: 8€</p><p>Ac
+ comodation: Ask the locals</p><p>Food: Not included</p>
+GEO:51.0112769;10.9896516
+LOCATION:Europaplatz\, Erfurt\, Germany
+ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=www.journey-erfurt.de:MA
+ ILTO:run@journey-erfurt.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Og Jam 23
 DTSTART;VALUE=DATE:20230915
 DTEND;VALUE=DATE:20230918
@@ -2704,6 +2721,24 @@ GEO:49.4521018;11.0766654
 LOCATION:Nürnberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:ograsshoppers
  @gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women In Motion Jam
+DTSTART;VALUE=DATE:20230915
+DTEND;VALUE=DATE:20230918
+UID:1796964
+DESCRIPTION:<p>Women and all other genders only - excluding cis male 🌈F
+ rom beginners to experienced in Parkour 🤸🏽‍♀️Self-sufficient p
+ lace 🌿</p><p>Join us for a fun weekend outdoors\, to move and exchange 
+ with people from various cities.</p><p>More information and tickets <a rel
+ ="noopener noreferrer" target="_blank" href="https://www.helloasso.com/ass
+ ociations/pink-parkour/evenements/wim-2023">here</a>.</p><p>Price: 2 days 
+ 30€\, 3 days 35€</p><p>Food: included</p><p>Accomodation: Hammock or T
+ ents</p>
+GEO:43.588896;5.002136
+LOCATION:Miramas\, France
+ORGANIZER;CN="Pink Parkour";PHONE=;WEBSITE="https://www.helloasso.com/asso
+ ciations/pink-parkour/evenements/wim-2023":MAILTO:pinkparkour@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shaka Jam - Münster

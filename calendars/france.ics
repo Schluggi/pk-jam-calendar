@@ -147,4 +147,22 @@ LOCATION:Chemin de Saint-Suspy\, 13140 Miramas\, France
 ORGANIZER;CN="Anthony Denis";PHONE=;WEBSITE="https://www.parkour-miramas.c
  om/":MAILTO:parkour-miramas@hotmail.fr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women In Motion Jam
+DTSTART;VALUE=DATE:20230915
+DTEND;VALUE=DATE:20230918
+UID:1796964
+DESCRIPTION:<p>Women and all other genders only - excluding cis male 🌈F
+ rom beginners to experienced in Parkour 🤸🏽‍♀️Self-sufficient p
+ lace 🌿</p><p>Join us for a fun weekend outdoors\, to move and exchange 
+ with people from various cities.</p><p>More information and tickets <a rel
+ ="noopener noreferrer" target="_blank" href="https://www.helloasso.com/ass
+ ociations/pink-parkour/evenements/wim-2023">here</a>.</p><p>Price: 2 days 
+ 30€\, 3 days 35€</p><p>Food: included</p><p>Accomodation: Hammock or T
+ ents</p>
+GEO:43.588896;5.002136
+LOCATION:Miramas\, France
+ORGANIZER;CN="Pink Parkour";PHONE=;WEBSITE="https://www.helloasso.com/asso
+ ciations/pink-parkour/evenements/wim-2023":MAILTO:pinkparkour@gmail.com
+END:VEVENT
 END:VCALENDAR
