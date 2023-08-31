@@ -2695,6 +2695,23 @@ LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="GEFAM, KIPA";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sofia Jam
+DTSTART;VALUE=DATE:20230908
+DTEND;VALUE=DATE:20230911
+UID:1803702
+DESCRIPTION:<p>For a third year in a row\, Bulgaria is hosting the Parkour
+  World Cup!&nbsp\;</p><p>We are welcoming you for another insane jam-gathe
+ ring organized by us\, Recreate Sofia\, which is going to happen alongside
+  the FIG competition.</p><p>Come to train with us and athletes from the wh
+ ole globe to the best parkour spots Sofia has to offer.</p><p>Get to know 
+ the beauty of the capital of Bulgaria and create some amazing memories wit
+ h us.</p><br><p>Check the facebook event for updates and locations.</p>
+GEO:42.6977082;23.3218675
+LOCATION:Sofia\, Bulgaria
+ORGANIZER;CN="Recreate Sofia";PHONE=;WEBSITE="https://fb.me/e/1uvcEXt5o":M
+ AILTO:recreatesofia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Journey To The End Of The Night
 DTSTART;VALUE=DATE:20230909
 DTEND;VALUE=DATE:20230909

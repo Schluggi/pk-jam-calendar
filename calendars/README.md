@@ -20,6 +20,7 @@ Copy the target link via right click.
 - [Sweden](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/sweden.ics)
 - [Swiss](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/swiss.ics)
 - [United Kingdom](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/united_kingdom.ics)
+- [others](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/others.ics)
 
 
 Use [this link](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/all.ics) for a combined
