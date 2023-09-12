@@ -165,4 +165,14 @@ LOCATION:Miramas\, France
 ORGANIZER;CN="Pink Parkour";PHONE=;WEBSITE="https://www.helloasso.com/asso
  ciations/pink-parkour/evenements/wim-2023":MAILTO:pinkparkour@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grejam 2023
+DTSTART;VALUE=DATE:20231007
+DTEND;VALUE=DATE:20231009
+UID:1832078
+DESCRIPTION:<p>more information soon!</p>
+GEO:45.188529;5.724524
+LOCATION:Grenoble\, France
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR

@@ -1156,11 +1156,30 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=www.journey-erfurt.de:MA
  ILTO:run@journey-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ghetto Baller Sesh Schwandorf
+DTSTART;VALUE=DATE:20230911
+DTEND;VALUE=DATE:20230911
+UID:1832071
+DESCRIPTION:<p>just an intense random day jam in the middle of nowhere\, h
+ ell yeah!!!</p><br><p>Enter the Whatsapp chat <a rel="noopener noreferrer"
+  target="_blank" href="https://chat.whatsapp.com/JkaBFBu4pdd5oRoWkZnrDi">h
+ ere.</a></p>
+GEO:49.3308876;12.1068067
+LOCATION:Schwandorf\, Germany
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Og Jam 23
 DTSTART;VALUE=DATE:20230915
 DTEND;VALUE=DATE:20230918
 UID:1396254
-DESCRIPTION:<p>OG Street Jam Infos Soon...</p><br>
+DESCRIPTION:<p>4th round of the OG Jam in Nuremberg</p><br><p>- Training/B
+ allern</p><p>- Film premiere / ZODIAC</p><p>- Rave / Turn-up</p><p>- Compe
+ tition / Prices (Special Streetcomp\, first of it's kind)</p><p>- OG Store
+ </p><br><p>Price: 5-10€ for sleeping\, jam is free</p><p>Accomodation: s
+ omewhere inside :D</p><p>Food: not included</p><br><p>Join The Whatsapp gr
+ oup for more information <a rel="noopener noreferrer" target="_blank" href
+ ="https://chat.whatsapp.com/FdQt42oZb0OCf74Ze6TwXY">here</a>.</p>
 GEO:49.4521018;11.0766654
 LOCATION:Nürnberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:ograsshoppers
@@ -1212,16 +1231,24 @@ SUMMARY:Ruhrjam
 DTSTART;VALUE=DATE:20231013
 DTEND;VALUE=DATE:20231016
 UID:1783742
-DESCRIPTION:<p>Ruhrjam is back!</p><br><p>More information soon on their i
- nstagram page: <a rel="noopener noreferrer" target="_blank" href="https://
- instagram.com/mhpkg?igshid=MzRlODBiNWFlZA==">MHPKG</a></p><br><p>Meanwhile
-  watch the <a rel="noopener noreferrer" target="_blank" href="https://m.yo
- utube.com/watch?fbclid=PAAaZdDzk7Xkm0A_zuHof4wL09sjvW-xQDwFG0jrjcIzNPOSf_j
- XFQmVItPCk_aem_Adf8ox911ijRBEDvNEAlyyT0sBA3RsmlwQQ-y4E1IZu3a7PVrFprEZq7VBA
- 4_ar6Cxs&amp\;v=M0qFhbBEPXU&amp\;feature=youtu.be">aftermovie</a> from 202
- 1!</p>
-GEO:51.4185682;6.884522599999999
-LOCATION:Mülheim an der Ruhr\, Germany
-ORGANIZER;CN=MHPKG;PHONE=;WEBSITE=:MAILTO:
+DESCRIPTION:<p>It's going into the 8th round and we want to run it togethe
+ r - with three days of JAM\, movement program and parkour community. &nbsp
+ \;</p><p>Included in the 40€ ticket\, diverse jam setup at sports park s
+ tyrum\, three days of food - breakfast\, dinner &amp\; snacks\, gym sleepo
+ ver - don't forget your sleeping bag/iso 😴 neighborhood industry spot e
+ xpedition\, late hour - campfire music\, workshops\, shirt\, live DJ.. &nb
+ sp\;</p><br><p>.. you want to offer or add something to the jam program\, 
+ by and for the community? Need a pre-jam sleeping spot?&nbsp\;</p><br><p>J
+ ust send us an PN &nbsp\;</p><br><p>Registration // Tickets: <a rel="noope
+ ner noreferrer" target="_blank" href="https://partner.venuzle.de/muelheime
+ r-sportservice/courses/62/">https://partner.venuzle.de/muelheimer-sportser
+ vice/courses/62/</a> &nbsp\;</p><br><p>Info // Instagram: <a rel="noopener
+  noreferrer" target="_blank" href="https://instagram.com/mhpkg?igshid=MzRl
+ ODBiNWFlZA==">https://instagram.com/mhpkg?igshid=MzRlODBiNWFlZA==</a> &nbs
+ p\;</p><br><p>See you in almost 5 weeks!</p><br><p>Food: all inclusive</p>
+ <p>Accomodation: in the gym</p><p>Price: 40€</p>
+GEO:51.4545302;6.8640102
+LOCATION:Sportpark Styrum\, Mülheim an der Ruhr\, Germany
+ORGANIZER;CN=MHPKG;PHONE=;WEBSITE=:MAILTO:mhpkg.verwaltung@gmail.com
 END:VEVENT
 END:VCALENDAR

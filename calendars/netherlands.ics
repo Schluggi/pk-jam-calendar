@@ -84,4 +84,18 @@ GEO:51.4376604;5.4805452
 LOCATION:Dynamo\, Catharinaplein\, Eindhoven\, Netherlands
 ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE=info@commitfreerun.nl:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Own The Spot
+DTSTART;VALUE=DATE:20240809
+DTEND;VALUE=DATE:20240812
+UID:1832056
+DESCRIPTION:<p>Fifth edition of Own the Spot in Eindhoven. Jam with 2 comp
+ etition styles\, Owning a spot and speedcomp (maybe more to come this year
+ !). This will be the biggest edition yet\, so dont miss out!</p><br><p>Pri
+ ce: 75€</p><p>Accomodation: Dynamo Eindhoven</p><p>Food: included</p>
+GEO:51.42314229999999;5.462289699999999
+LOCATION:Eindhoven\, Netherlands
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="Commitfreerun instagram":MAI
+ LTO:info@commitfreerun.nl
+END:VEVENT
 END:VCALENDAR
