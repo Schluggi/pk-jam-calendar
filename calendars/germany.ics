@@ -1156,19 +1156,6 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=www.journey-erfurt.de:MA
  ILTO:run@journey-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghetto Baller Sesh Schwandorf
-DTSTART;VALUE=DATE:20230911
-DTEND;VALUE=DATE:20230911
-UID:1832071
-DESCRIPTION:<p>just an intense random day jam in the middle of nowhere\, h
- ell yeah!!!</p><br><p>Enter the Whatsapp chat <a rel="noopener noreferrer"
-  target="_blank" href="https://chat.whatsapp.com/JkaBFBu4pdd5oRoWkZnrDi">h
- ere.</a></p>
-GEO:49.3308876;12.1068067
-LOCATION:Schwandorf\, Germany
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Og Jam 23
 DTSTART;VALUE=DATE:20230915
 DTEND;VALUE=DATE:20230918
@@ -1184,6 +1171,23 @@ GEO:49.4521018;11.0766654
 LOCATION:Nürnberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:ograsshoppers
  @gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghetto Baller Sesh Schwandorf
+DTSTART;VALUE=DATE:20230923
+DTEND;VALUE=DATE:20230923
+UID:1832071
+DESCRIPTION:<p>Die wichtigste Baller- und Meme-Sesh im Jahr. Einmal im Jah
+ r wird in Schwandorf richtig grindig geballert. Einfach kommen joinen und 
+ abliefern Motto diese Jahr "Yo Bro was machen wir"</p><br><p>Startin at 13
+ :30 at Hauptbahnhof.&nbsp\;</p><br><p>Enter the Whatsapp chat <a rel="noop
+ ener noreferrer" target="_blank" href="https://chat.whatsapp.com/JkaBFBu4p
+ dd5oRoWkZnrDi">here.</a></p><br><p>Price: free</p><p>Food: not included</p
+ ><p>Accomodation: ask locals</p>
+GEO:49.3308876;12.1068067
+LOCATION:Schwandorf\, Germany
+ORGANIZER;CN=Ghettoballerseshcomittee;PHONE=;WEBSITE=:MAILTO:w.grabinger@g
+ mx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shaka Jam - Münster

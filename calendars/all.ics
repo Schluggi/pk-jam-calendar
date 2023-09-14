@@ -2729,19 +2729,6 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=www.journey-erfurt.de:MA
  ILTO:run@journey-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghetto Baller Sesh Schwandorf
-DTSTART;VALUE=DATE:20230911
-DTEND;VALUE=DATE:20230911
-UID:1832071
-DESCRIPTION:<p>just an intense random day jam in the middle of nowhere\, h
- ell yeah!!!</p><br><p>Enter the Whatsapp chat <a rel="noopener noreferrer"
-  target="_blank" href="https://chat.whatsapp.com/JkaBFBu4pdd5oRoWkZnrDi">h
- ere.</a></p>
-GEO:49.3308876;12.1068067
-LOCATION:Schwandorf\, Germany
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Og Jam 23
 DTSTART;VALUE=DATE:20230915
 DTEND;VALUE=DATE:20230918
@@ -2775,6 +2762,42 @@ GEO:43.588896;5.002136
 LOCATION:Miramas\, France
 ORGANIZER;CN="Pink Parkour";PHONE=;WEBSITE="https://www.helloasso.com/asso
  ciations/pink-parkour/evenements/wim-2023":MAILTO:pinkparkour@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Parkour Week Summer Edition
+DTSTART;VALUE=DATE:20230920
+DTEND;VALUE=DATE:20230925
+UID:1836198
+DESCRIPTION:<p>The International Parkour Week Summer edition is an event i
+ n Cagliari\, in Sardinia Italy. It's 5 days of parkour around the so calle
+ d city of the sun. Day 1/2/3: 2 Workshops per day\, all in the morning\, i
+ n the evening there are the jams. Day 4: beach excursion @Costa Rei\, one 
+ of the best seashores in Sardinia. Day 5: special secret training. You can
+  choose between 3 different tickets: gold (event+ accomodation+ breakfast 
+ + dinner)\; silver (event+ dinner)\; basic (only event + wellcom party + g
+ oodbye party).</p><br><p>Price: 650</p><p>Food: depends on the ticket you 
+ buy</p><p>Accomodation: also depends on the ticket</p>
+GEO:39.2238411;9.1216613
+LOCATION:Cagliari\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=www.parkourweek.com:MAILTO:internationalparko
+ urweek@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghetto Baller Sesh Schwandorf
+DTSTART;VALUE=DATE:20230923
+DTEND;VALUE=DATE:20230923
+UID:1832071
+DESCRIPTION:<p>Die wichtigste Baller- und Meme-Sesh im Jahr. Einmal im Jah
+ r wird in Schwandorf richtig grindig geballert. Einfach kommen joinen und 
+ abliefern Motto diese Jahr "Yo Bro was machen wir"</p><br><p>Startin at 13
+ :30 at Hauptbahnhof.&nbsp\;</p><br><p>Enter the Whatsapp chat <a rel="noop
+ ener noreferrer" target="_blank" href="https://chat.whatsapp.com/JkaBFBu4p
+ dd5oRoWkZnrDi">here.</a></p><br><p>Price: free</p><p>Food: not included</p
+ ><p>Accomodation: ask locals</p>
+GEO:49.3308876;12.1068067
+LOCATION:Schwandorf\, Germany
+ORGANIZER;CN=Ghettoballerseshcomittee;PHONE=;WEBSITE=:MAILTO:w.grabinger@g
+ mx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shaka Jam - Münster
@@ -2834,10 +2857,21 @@ SUMMARY:Grejam 2023
 DTSTART;VALUE=DATE:20231007
 DTEND;VALUE=DATE:20231009
 UID:1832078
-DESCRIPTION:<p>more information soon!</p>
+DESCRIPTION:<p>The jam will be starting at 9:30 am on saturday 7 (more inf
+ o on the spot coming soon) and will be ending at 17 pm\, then we will go a
+ nd eat as a group somewhere in Grenoble.</p><br><p>Sunday morning there wi
+ ll be a skills comp from 9:30 to 12 with little gifts.</p><br><p>This is a
+  small community jam that will not be declared to the city hall\, so every
+ one is responsible for himself and we wont be responsible for any injury h
+ appening in the jam. (However it's obvious that we will bring you to the h
+ ospital if thats needed)</p><p>For any questions you may ask @socialkickmo
+ vement or @thomas_y_bentho</p><p>We can host a lot of people for free in G
+ renoble thanks to the community so if you need to crash for a night\, tell
+  us in advance so that we can organise ourselves!</p><p>Let's go!</p><br><
+ p>Price: free</p><p>Accomodation: locals</p><p>Food: not included</p>
 GEO:45.188529;5.724524
 LOCATION:Grenoble\, France
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:@socialkickmovement
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruhrjam

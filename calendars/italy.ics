@@ -54,4 +54,23 @@ LOCATION:Eden Park San Lazzaro\, Via Commenda\, San Lazzaro di Savena\, Me
  tropolitan City of Bologna\, Italy
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Parkour Week Summer Edition
+DTSTART;VALUE=DATE:20230920
+DTEND;VALUE=DATE:20230925
+UID:1836198
+DESCRIPTION:<p>The International Parkour Week Summer edition is an event i
+ n Cagliari\, in Sardinia Italy. It's 5 days of parkour around the so calle
+ d city of the sun. Day 1/2/3: 2 Workshops per day\, all in the morning\, i
+ n the evening there are the jams. Day 4: beach excursion @Costa Rei\, one 
+ of the best seashores in Sardinia. Day 5: special secret training. You can
+  choose between 3 different tickets: gold (event+ accomodation+ breakfast 
+ + dinner)\; silver (event+ dinner)\; basic (only event + wellcom party + g
+ oodbye party).</p><br><p>Price: 650</p><p>Food: depends on the ticket you 
+ buy</p><p>Accomodation: also depends on the ticket</p>
+GEO:39.2238411;9.1216613
+LOCATION:Cagliari\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=www.parkourweek.com:MAILTO:internationalparko
+ urweek@gmail.com
+END:VEVENT
 END:VCALENDAR
