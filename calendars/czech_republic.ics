@@ -104,4 +104,54 @@ GEO:50.0993552;14.4385135
 LOCATION:Vltavská\, Holešovice\, Prague 7\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brno Street Jam
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20231002
+UID:1839548
+DESCRIPTION:<p>Another Brno jam is here. This time we'll visit some less k
+ nown spots!Saturday 10:00 Běloruská (meet up at the tram stop)11:00 near
+ by spots (bloky u školy\, hřiště Vyhlídalova)13:00 Lunch 14:00 Oblá1
+ 6:00 Spot u školy17:00 Kaskády/ park20:00 In Motion Academy Sunday 10:00
+  Žabovřesky podchod 13:00 Lunch14:00 Bílé zdi16:00 LesnáThe schedule 
+ is not strict. The times may change. Updates on @jakubnovotny28 instagram 
+ stories.Overnight &nbsp\;stay will be possible in In Motion Academy (it's 
+ possible to stay on Friday night as well). In the evening there will be an
+  opportunity to &nbsp\;barbecue. It's necessary to leave the gym before 9:
+ 30 am.Spot map link <a rel="noopener noreferrer" target="_blank" href="htt
+ ps://www.google.com/maps/d/edit?hl=cs&amp\;mid=11q3c4rxa4dWXVWQT3RM8RnxbXo
+ nMisM&amp\;ll=49.18824454705003%2C16.588509639456994&amp\;z=12"><strong>he
+ re</strong></a>.🔴 Saturday 🔵 Sunday&nbsp\;</p><br><p>Price: free</p>
+ <p>Accomodation: gym</p><p>Food: not included</p>
+GEO:49.1950602;16.6068371
+LOCATION:Brno\, Czechia
+ORGANIZER;CN="Jakub Novotny";PHONE=;WEBSITE="Instagram @jakubnovotny28":MA
+ ILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imacon
+DTSTART;VALUE=DATE:20231013
+DTEND;VALUE=DATE:20231016
+UID:1839524
+DESCRIPTION:<p>7th annual biggest indoor parkour event in Czech Republic.<
+ /p><br><p>IMACON is a two-day event focused on 3 competitions in front of 
+ the spectators - SKILL\, SPEED AND STYLE Contest (50000 kr prize money)</p
+ ><p>All contests are divided into adults and girls.&nbsp\;</p><br><p>For t
+ he SYLE contest you need to do a online qualification (video qualification
+ \, send a montage from 2023. Video max. 1.5 minutes long with the title IM
+ ACON 2023 + Upload name to youtube/fb/IG and send link to cibulka@imacadem
+ y.cz + to text your age\, and send by September 17\, 2023)</p><br><p>Accom
+ modation is directly in the In Motion Academy. Sleeping on mattresses and 
+ mats\, so sleeping bags with you. There is a possibility to take a shower 
+ in the lobby.The entrance fee for IMACON is 45 EUR\, including a t-shirt.<
+ /p><br><p>Price: 45€</p><p>Food: not included</p><p>Accomodation: in the
+  gym</p><br><p>Sign up and more information<a rel="noopener noreferrer" ta
+ rget="_blank" href="https://imacademy.cz/event/IMACON2023?lang=en"><strong
+ > here</strong></a>.</p>
+GEO:49.1731419;16.5992372
+LOCATION:In Motion Academy - parkourová hala\, Vídeňská\, Brno-střed\
+ , Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/even
+ t/IMACON2023?lang=en":MAILTO:
+END:VEVENT
 END:VCALENDAR
