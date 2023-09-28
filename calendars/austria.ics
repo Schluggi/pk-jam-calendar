@@ -327,4 +327,20 @@ GEO:48.30694;14.28583
 LOCATION:Linz\, Austria
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4Elements Öpfv Contest
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231111
+UID:1858304
+DESCRIPTION:<p>Skill Speed and Style Contest in the 4element academy.</p><
+ br><p>Time table&nbsp\;</p><p>9 -12 Skill Comp</p><p>14 -16 Speed Comp</p>
+ <p>17 -19:30 Style Comp</p><br><p>all comps for under 16 and over 16 years
+  old</p><br><p>Price: 19€</p><p>Food: not included</p><p>Accomodation: n
+ ot included</p><br><p>Sign up via e-mail at office@4elementsacademy.at</p>
+GEO:47.27984319999999;11.4914754
+LOCATION:4 Elements Academy Urban Fitness Studio\, Alte Landstraße\, Hall
+  in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE=:MAILTO:office@4elementsa
+ cademy.at
+END:VEVENT
 END:VCALENDAR

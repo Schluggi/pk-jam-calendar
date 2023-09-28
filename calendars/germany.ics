@@ -1255,4 +1255,27 @@ GEO:51.4545302;6.8640102
 LOCATION:Sportpark Styrum\, Mülheim an der Ruhr\, Germany
 ORGANIZER;CN=MHPKG;PHONE=;WEBSITE=:MAILTO:mhpkg.verwaltung@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Convention 2023 Dortmund
+DTSTART;VALUE=DATE:20231202
+DTEND;VALUE=DATE:20231202
+UID:1858282
+DESCRIPTION:<p>When winter is coming... our jam is coming\, too! &nbsp\;</
+ p><p>Parkour Convention 2023 Sa.\, Dec. 02\, 11 am til 7 pm&nbsp\;</p><br>
+ <p>As every year we got a big 8 hours event totally for free - every one i
+ s welcome from the age of 12+. &nbsp\;</p><br><p>We offer you:&nbsp\;</p><
+ p>- the great skatehall with our selfmade obstacles and a large extra set 
+ of cubes&nbsp\;</p><p>- free training and many workshops&nbsp\;</p><p>- 2 
+ special coaches: Lisa Eckert and Matt McCreary&nbsp\;</p><p>- live DJ Yogi
+ -Wan&nbsp\;</p><p>- a camera workshop about how to film parkour&nbsp\;</p>
+ <p>- eventshirts for free&nbsp\;</p><p>- and for the first time: a creativ
+ ity competition &nbsp\;</p><br><p>More infos you will get here soon:&nbsp\
+ ;</p><p>Instagram: @parkourdortmund &nbsp\;</p><p>See you there!</p><br><p
+ >Price: free</p><p>Accomodation: not included</p><p>Food: not included</p>
+GEO:51.522049;7.460355
+LOCATION:Skatehalle Dortmund\, Leopoldstraße 50-58\, 44147 Dortmund\, Ger
+ many
+ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
+ :MAILTO:info@parkourdortmund.de
+END:VEVENT
 END:VCALENDAR

@@ -2951,6 +2951,45 @@ LOCATION:Sportpark Styrum\, Mülheim an der Ruhr\, Germany
 ORGANIZER;CN=MHPKG;PHONE=;WEBSITE=:MAILTO:mhpkg.verwaltung@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:4Elements Öpfv Contest
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231111
+UID:1858304
+DESCRIPTION:<p>Skill Speed and Style Contest in the 4element academy.</p><
+ br><p>Time table&nbsp\;</p><p>9 -12 Skill Comp</p><p>14 -16 Speed Comp</p>
+ <p>17 -19:30 Style Comp</p><br><p>all comps for under 16 and over 16 years
+  old</p><br><p>Price: 19€</p><p>Food: not included</p><p>Accomodation: n
+ ot included</p><br><p>Sign up via e-mail at office@4elementsacademy.at</p>
+GEO:47.27984319999999;11.4914754
+LOCATION:4 Elements Academy Urban Fitness Studio\, Alte Landstraße\, Hall
+  in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE=:MAILTO:office@4elementsa
+ cademy.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Convention 2023 Dortmund
+DTSTART;VALUE=DATE:20231202
+DTEND;VALUE=DATE:20231202
+UID:1858282
+DESCRIPTION:<p>When winter is coming... our jam is coming\, too! &nbsp\;</
+ p><p>Parkour Convention 2023 Sa.\, Dec. 02\, 11 am til 7 pm&nbsp\;</p><br>
+ <p>As every year we got a big 8 hours event totally for free - every one i
+ s welcome from the age of 12+. &nbsp\;</p><br><p>We offer you:&nbsp\;</p><
+ p>- the great skatehall with our selfmade obstacles and a large extra set 
+ of cubes&nbsp\;</p><p>- free training and many workshops&nbsp\;</p><p>- 2 
+ special coaches: Lisa Eckert and Matt McCreary&nbsp\;</p><p>- live DJ Yogi
+ -Wan&nbsp\;</p><p>- a camera workshop about how to film parkour&nbsp\;</p>
+ <p>- eventshirts for free&nbsp\;</p><p>- and for the first time: a creativ
+ ity competition &nbsp\;</p><br><p>More infos you will get here soon:&nbsp\
+ ;</p><p>Instagram: @parkourdortmund &nbsp\;</p><p>See you there!</p><br><p
+ >Price: free</p><p>Accomodation: not included</p><p>Food: not included</p>
+GEO:51.522049;7.460355
+LOCATION:Skatehalle Dortmund\, Leopoldstraße 50-58\, 44147 Dortmund\, Ger
+ many
+ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
+ :MAILTO:info@parkourdortmund.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
 DTSTART;VALUE=DATE:20240807
 DTEND;VALUE=DATE:20240812
