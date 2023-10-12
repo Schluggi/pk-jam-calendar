@@ -2951,6 +2951,47 @@ LOCATION:Sportpark Styrum\, Mülheim an der Ruhr\, Germany
 ORGANIZER;CN=MHPKG;PHONE=;WEBSITE=:MAILTO:mhpkg.verwaltung@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Krap Invaders Fall 23
+DTSTART;VALUE=DATE:20231021
+DTEND;VALUE=DATE:20231023
+UID:1880981
+DESCRIPTION:<p>A new edition of the KRAP INVADERS is behind the corner! 
+ 👾On &nbsp\;the 21-22 October 2023 the KRAPANNONE will open its doors fo
+ r 2 days of &nbsp\;training and fun together with national and internation
+ al guests that &nbsp\;we will soon announce! 🇮🇹🌍We will keep you 
+ updated with &nbsp\;informations regarding the event here on our IG accoun
+ t\, you can already &nbsp\;find all the information that you need to parti
+ cipate on Facebook\, on &nbsp\;the event’s page and on the website www.k
+ rapinvaders.com !&nbsp\;</p><br><p>Sign up <a rel="noopener noreferrer" ta
+ rget="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSet9Fw9tgN3YV
+ lJBzGm75tC8PM2MvslTJfZxGCZG6XOgm3JgQ/viewform"><strong>here</strong></a>.<
+ /p><br><p>Price: 50€ for 2 days\, 35€ for 1 day</p><p>Accomodation: in
+  the gym</p><p>Food: not included</p>
+GEO:45.7149521;11.3424326
+LOCATION:KRAPANNONE Indoor Parkourpark\, Via Pietro Riboli\, Schio\, Provi
+ nce of Vicenza\, Italy
+ORGANIZER;CN=KRAP;PHONE=;WEBSITE="https://www.krapinvaders.com/":MAILTO:in
+ fo@krapinvaders.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hal 5 Skill Comp 2023
+DTSTART;VALUE=DATE:20231105
+DTEND;VALUE=DATE:20231105
+UID:1880987
+DESCRIPTION:<p>The next Skill Comp in HAL 5 is happening.</p><br><p>from 9
+ :45 to 11:30 - competition for 13-15 year olds</p><p>from 12:00 to 17:30 -
+  competition for 16+</p><p>from 17:30 to 20:00 jam!</p><br><p>Check <a rel
+ ="noopener noreferrer" target="_blank" href="https://www.springstofparkour
+ .com/hal-5-skill-competition">this link</a> to stay updated &amp\; sign up
+  and also check their instagram page @springstofparkour.</p><br><p>Price: 
+ 5€ for 13-15 year olds\, 10€ for 16+\, jam 5€\, spectators free!</p>
+ <p>Accomodation: not included</p><p>Food: not included</p><br>
+GEO:50.882951;4.722328399999999
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ events":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:4Elements Öpfv Contest
 DTSTART;VALUE=DATE:20231111
 DTEND;VALUE=DATE:20231111

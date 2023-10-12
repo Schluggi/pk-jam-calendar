@@ -75,4 +75,27 @@ LOCATION:Cagliari\, Italy
 ORGANIZER;CN=;PHONE=;WEBSITE=www.parkourweek.com:MAILTO:internationalparko
  urweek@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krap Invaders Fall 23
+DTSTART;VALUE=DATE:20231021
+DTEND;VALUE=DATE:20231023
+UID:1880981
+DESCRIPTION:<p>A new edition of the KRAP INVADERS is behind the corner! 
+ 👾On &nbsp\;the 21-22 October 2023 the KRAPANNONE will open its doors fo
+ r 2 days of &nbsp\;training and fun together with national and internation
+ al guests that &nbsp\;we will soon announce! 🇮🇹🌍We will keep you 
+ updated with &nbsp\;informations regarding the event here on our IG accoun
+ t\, you can already &nbsp\;find all the information that you need to parti
+ cipate on Facebook\, on &nbsp\;the event’s page and on the website www.k
+ rapinvaders.com !&nbsp\;</p><br><p>Sign up <a rel="noopener noreferrer" ta
+ rget="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSet9Fw9tgN3YV
+ lJBzGm75tC8PM2MvslTJfZxGCZG6XOgm3JgQ/viewform"><strong>here</strong></a>.<
+ /p><br><p>Price: 50€ for 2 days\, 35€ for 1 day</p><p>Accomodation: in
+  the gym</p><p>Food: not included</p>
+GEO:45.7149521;11.3424326
+LOCATION:KRAPANNONE Indoor Parkourpark\, Via Pietro Riboli\, Schio\, Provi
+ nce of Vicenza\, Italy
+ORGANIZER;CN=KRAP;PHONE=;WEBSITE="https://www.krapinvaders.com/":MAILTO:in
+ fo@krapinvaders.com
+END:VEVENT
 END:VCALENDAR
