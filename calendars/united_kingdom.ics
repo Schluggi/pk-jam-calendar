@@ -160,4 +160,17 @@ GEO:51.5211404;-0.05112200000000001
 LOCATION:Genesis Cinema\, Mile End Road\, London\, UK
 ORGANIZER;CN="Max Ward";PHONE=;WEBSITE=:MAILTO:bmaxforlife@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds Halloween Jam
+DTSTART;VALUE=DATE:20231029
+DTEND;VALUE=DATE:20231029
+UID:1881449
+DESCRIPTION:<p>Halloween jam. Meeting at Leeds art gallery at 11am and mov
+ ing to different spots. Prizes for best dressed.</p><br><p>Price: free</p>
+ <p>Accomodation: not included</p><p>Food: not included</p>
+GEO:53.7999507;-1.5482525
+LOCATION:Leeds Art Gallery\, The Headrow\, Leeds\, UK
+ORGANIZER;CN=Wypk;PHONE=;WEBSITE="https://instagram.com/wyparkour?igshid=N
+ jIwNzIyMDk2Mg==":MAILTO:s-k-wood@hotmail.com
+END:VEVENT
 END:VCALENDAR
