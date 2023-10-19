@@ -125,4 +125,20 @@ LOCATION:Aarhus Harbour\, Hveensgade 5\, 8000 Aarhus
 ORGANIZER;CN="Aarhus Parkour";PHONE=;WEBSITE=@jampionships.aapk:MAILTO:mag
  ne.dk@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ollerup Undead Jam
+DTSTART;VALUE=DATE:20231124
+DTEND;VALUE=DATE:20231126
+UID:1889294
+DESCRIPTION:<p>more information soon!</p><br><p>meanwhile\, sign up <a rel
+ ="noopener noreferrer" target="_blank" href="https://tilmelding.ollerup.dk
+ /da/public/courses/signupshort?courseid=1379">here</a> and check the insta
+ gram account <a rel="noopener noreferrer" target="_blank" href="https://ww
+ w.instagram.com/p/Cyc9G6XNJdr/?igshid=MzRlODBiNWFlZA%3D%3D">here</a>.</p><
+ br><p>Price: 495 DKK</p>
+GEO:55.07097;10.511618
+LOCATION:Gymnastikhøjskolen i Ollerup (Selvejende Institution)\, Svendbor
+ gvej\, Vester Skerninge\, Denmark
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR
