@@ -1256,6 +1256,33 @@ LOCATION:Sportpark Styrum\, Mülheim an der Ruhr\, Germany
 ORGANIZER;CN=MHPKG;PHONE=;WEBSITE=:MAILTO:mhpkg.verwaltung@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween Jam - Parkourhalle Lani
+DTSTART;VALUE=DATE:20231031
+DTEND;VALUE=DATE:20231031
+UID:1895456
+DESCRIPTION:<p>Boo! Things are getting spooky at the Lani Parkour Hall\, a
+ nd you're warmly invited to join our Halloween Jam on October 31\, 2023\, 
+ starting at 7:00 PM!</p><br><p>Dress up in your best Halloween costumes an
+ d bring the eerie vibes to the hall! 🧟‍♂️👽 The most creative c
+ ostume will be rewarded\, so come up with something brilliant! 🏆</p><p>
+ 🚫 No makeup\, please – we wouldn't want your artwork sticking to the 
+ obstacles and mats!</p><p>After the jam\, we'll gather around a cozy bonfi
+ re with delicious marshmallow treats. 🔥 And for all you night owls\, th
+ e Parkour Hall will transform into a spooky disco – we'll dance until th
+ e ghosts get tired! 🎉👻</p><p>🕛 Minors\, please note: The fun stop
+ s at midnight for you – for everyone else\, the party continues until we
+  run out of steam.</p><br><p>No need to RSVP\, just drop by. For minors\, 
+ please bring a consent form.&nbsp\;</p><p>The fun costs 10 euros for kids 
+ up to 12 years old\, and 15 euros for everyone else\, but it's free for al
+ l monthly pass holders.</p><br><p>Let's have a spooktacular time together!
+  Tag your friends\, share the invitation\, and come in large numbers!</p><
+ br><p>We look forward to an unforgettable Halloween Jam at the Lani Parkou
+ r Hall! 🎃👟🌌</p>
+GEO:51.9904;7.66672
+LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Münster\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Convention 2023 Dortmund
 DTSTART;VALUE=DATE:20231202
 DTEND;VALUE=DATE:20231202
