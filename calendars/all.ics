@@ -3087,6 +3087,30 @@ ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
  :MAILTO:info@parkourdortmund.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:X-Mas Jam Linz
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231218
+UID:1915221
+DESCRIPTION:<p>XMAS JAM!&nbsp\;</p><p>When? 16.12.2023 from 10 am - 17.12.
+ 2023 at 4 pm</p><p>Where? "Zero Limits" Trendsporthalle (Julius-Raabstraß
+ e 10\, 4040 Linz) + Julius-Raabheim Gymnasium</p><br><p>- Saturday finals 
+ of the 2023 ÖPFV Competition Series!&nbsp\;</p><p>- Special! Action in tw
+ o gyms\, Parkour &amp\; freerunning gym "Zero-Limits" + a Tricking &amp\; 
+ acrobatics gym right next to it (Tricking floor - Airtrick - 2 giant tramp
+ olines - 2 minitramps)</p><br><p>Price: 70€ (on site)\, 60€ (Earlybird
+  until 30.11.23)\, 45€ day ticket Saturday\, 30€ day ticket&nbsp\;</p>
+ <p>Food: Saturday Snacks &amp\; dinner\, Sunday Breakfast and snacks</p><p
+ >Accomodation: NOT included! You can book a hotel right next to it for a c
+ heaper price (45€ per person in a double room\, discount only applies un
+ til 15.11. to the email hotelstudentenwerk.at\, after that normal price (5
+ 2€ per person)</p><br><p>SIGN UP <a rel="noopener noreferrer" target="_b
+ lank" href="https://www.teamobsession.at/jam-info.html"><strong>HERE</stro
+ ng></a>.</p>
+LOCATION:Zero Limits Trendsporthalle
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
 DTSTART;VALUE=DATE:20240807
 DTEND;VALUE=DATE:20240812
