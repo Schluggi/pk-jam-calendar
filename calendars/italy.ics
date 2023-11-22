@@ -98,4 +98,24 @@ LOCATION:KRAPANNONE Indoor Parkourpark\, Via Pietro Riboli\, Schio\, Provi
 ORGANIZER;CN=KRAP;PHONE=;WEBSITE="https://www.krapinvaders.com/":MAILTO:in
  fo@krapinvaders.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Higher Skill Comp
+DTSTART;VALUE=DATE:20231125
+DTEND;VALUE=DATE:20231127
+UID:1942866
+DESCRIPTION:<p>Program:</p><p>November 25th</p><p>8:30/10:00 Entrance\, wa
+ rm-up and free training</p><p>10:00/10:30 Introduction contest and categor
+ y division</p><p>10:30/12:30 Qualifications</p><p>12:30/13:30 Lunch break<
+ /p><p>13:30/15:30 Qualifications</p><p>15:30/16:30 End of training&amp\;Ch
+ illing</p><br><p>November 26th</p><p>8:30/10:00 Entrance\, warm-up and fre
+ e training</p><p>10:00/12:30 contest and finals</p><p>12:30/13:30 Lunch br
+ eak</p><p>13:30/15:30 contest and finals</p><p>15:30/16:00 Award ceremony<
+ /p><br><p>Price: 30€</p><p>Accomodation: ?</p><p>Food: ?</p>
+GEO:45.0061702;7.6265596
+LOCATION:HIGHER\, Via dei Cacciatori\, Nichelino\, Metropolitan City of Tu
+ rin\, Italy
+ORGANIZER;CN="Higher Italy / Parkour Torino";PHONE=;WEBSITE="https://docs.
+ google.com/forms/d/e/1FAIpQLSe4fZcDCsjuBKRRvveFpvAMAqvmOOoXPxR8kCmPdSA7UVL
+ TwQ/viewform":MAILTO:
+END:VEVENT
 END:VCALENDAR

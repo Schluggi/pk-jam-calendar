@@ -85,6 +85,22 @@ LOCATION:Dynamo\, Catharinaplein\, Eindhoven\, Netherlands
 ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE=info@commitfreerun.nl:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nk Style
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240722
+UID:1942861
+DESCRIPTION:<p>Munki is proud to announce that they will be hosting the Du
+ tch Style Championships in 2024. Get ready for an action-packed weekend wh
+ ere we will celebrate the top of Dutch freerunning! There will also be a g
+ reat community event for all you street rats! More info will follow soon.<
+ /p><br><p>There will be male/female/youth categories.</p><br><p>Ticket sal
+ e starts in January!</p><br><br>
+GEO:52.3873878;4.6462194
+LOCATION:Haarlem\, Netherlands
+ORGANIZER;CN="Munki Motion";PHONE=;WEBSITE="https://www.instagram.com/munk
+ imotionparkour/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Own The Spot
 DTSTART;VALUE=DATE:20240809
 DTEND;VALUE=DATE:20240812

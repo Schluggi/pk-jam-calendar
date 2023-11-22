@@ -3064,6 +3064,26 @@ LOCATION:Gymnastikhøjskolen i Ollerup (Selvejende Institution)\, Svendbor
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Higher Skill Comp
+DTSTART;VALUE=DATE:20231125
+DTEND;VALUE=DATE:20231127
+UID:1942866
+DESCRIPTION:<p>Program:</p><p>November 25th</p><p>8:30/10:00 Entrance\, wa
+ rm-up and free training</p><p>10:00/10:30 Introduction contest and categor
+ y division</p><p>10:30/12:30 Qualifications</p><p>12:30/13:30 Lunch break<
+ /p><p>13:30/15:30 Qualifications</p><p>15:30/16:30 End of training&amp\;Ch
+ illing</p><br><p>November 26th</p><p>8:30/10:00 Entrance\, warm-up and fre
+ e training</p><p>10:00/12:30 contest and finals</p><p>12:30/13:30 Lunch br
+ eak</p><p>13:30/15:30 contest and finals</p><p>15:30/16:00 Award ceremony<
+ /p><br><p>Price: 30€</p><p>Accomodation: ?</p><p>Food: ?</p>
+GEO:45.0061702;7.6265596
+LOCATION:HIGHER\, Via dei Cacciatori\, Nichelino\, Metropolitan City of Tu
+ rin\, Italy
+ORGANIZER;CN="Higher Italy / Parkour Torino";PHONE=;WEBSITE="https://docs.
+ google.com/forms/d/e/1FAIpQLSe4fZcDCsjuBKRRvveFpvAMAqvmOOoXPxR8kCmPdSA7UVL
+ TwQ/viewform":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Convention 2023 Dortmund
 DTSTART;VALUE=DATE:20231202
 DTEND;VALUE=DATE:20231202
@@ -3109,6 +3129,22 @@ DESCRIPTION:<p>XMAS JAM!&nbsp\;</p><p>When? 16.12.2023 from 10 am - 17.12.
 LOCATION:Zero Limits Trendsporthalle
 ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nk Style
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240722
+UID:1942861
+DESCRIPTION:<p>Munki is proud to announce that they will be hosting the Du
+ tch Style Championships in 2024. Get ready for an action-packed weekend wh
+ ere we will celebrate the top of Dutch freerunning! There will also be a g
+ reat community event for all you street rats! More info will follow soon.<
+ /p><br><p>There will be male/female/youth categories.</p><br><p>Ticket sal
+ e starts in January!</p><br><br>
+GEO:52.3873878;4.6462194
+LOCATION:Haarlem\, Netherlands
+ORGANIZER;CN="Munki Motion";PHONE=;WEBSITE="https://www.instagram.com/munk
+ imotionparkour/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Own The Spot
