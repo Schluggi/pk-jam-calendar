@@ -1306,6 +1306,20 @@ ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
  :MAILTO:info@parkourdortmund.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:H-Town-Jam
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240106
+UID:1946825
+DESCRIPTION:<p>Next H-TOWN JAM!</p><p>It's a one day jam - starts at 12:00
+ </p><p>Price. 12\,50€</p><p>Accomodation: none\, ask locals</p><p>Food: 
+ not included</p><br><p>Sign up <a rel="noopener noreferrer" target="_blank
+ " href="https://lets-meet.org/reg/c40b92ff5ed0e99e71"><strong>here</strong
+ ></a>.</p>
+GEO:52.4497013;9.7824562
+LOCATION:NatsWerk Isernhagen\, Dieselstraße\, Isernhagen\, Germany
+ORGANIZER;CN=H-TOWN;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
 DTSTART;VALUE=DATE:20240814
 DTEND;VALUE=DATE:20240819

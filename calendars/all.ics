@@ -3131,6 +3131,30 @@ ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:H-Town-Jam
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240106
+UID:1946825
+DESCRIPTION:<p>Next H-TOWN JAM!</p><p>It's a one day jam - starts at 12:00
+ </p><p>Price. 12\,50€</p><p>Accomodation: none\, ask locals</p><p>Food: 
+ not included</p><br><p>Sign up <a rel="noopener noreferrer" target="_blank
+ " href="https://lets-meet.org/reg/c40b92ff5ed0e99e71"><strong>here</strong
+ ></a>.</p>
+GEO:52.4497013;9.7824562
+LOCATION:NatsWerk Isernhagen\, Dieselstraße\, Isernhagen\, Germany
+ORGANIZER;CN=H-TOWN;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supreme Parkour Armageddon
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240226
+UID:1946828
+DESCRIPTION:<p>SAVE THE DATE</p>
+GEO:60.4518126;22.2666303
+LOCATION:Turku\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Avanti Garda Jam
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240422
