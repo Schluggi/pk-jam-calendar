@@ -22,4 +22,19 @@ LOCATION:In Extremis Club Academy\, Ronda de Santa Maria\, Barberà del Va
 ORGANIZER;CN=;PHONE=;WEBSITE="https://inextremisclub.com/":MAILTO:https://
  instagram.com/inextremisclub?igshid=YmMyMTA2M2Y=
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Extremis Fam Winter
+DTSTART;VALUE=DATE:20231208
+DTEND;VALUE=DATE:20231211
+UID:1951346
+DESCRIPTION:<p>3 days jam in the In Extremis gym!</p><br><p>Price: 95€</
+ p><p>Food: Breakfast\, Lunch and Dinner included</p><p>Accomodation: in th
+ e gym</p><br><p>Sign up <a rel="noopener noreferrer" target="_blank" href=
+ "https://inextremisclub.com/tienda-de-inextremis-club/">here</a>.</p>
+GEO:41.5246241;2.1292487
+LOCATION:In Extremis Club Academy\, Carrer de la Circumval·lació\, Barbe
+ rà del Vallès\, Spain
+ORGANIZER;CN="In Extremis Club";PHONE=;WEBSITE="https://inextremisclub.com
+ /tienda-de-inextremis-club/":MAILTO:
+END:VEVENT
 END:VCALENDAR

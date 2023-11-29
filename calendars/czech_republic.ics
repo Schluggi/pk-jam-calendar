@@ -155,6 +155,27 @@ ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/even
  t/IMACON2023?lang=en":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:In Motion Winter Jam
+DTSTART;VALUE=DATE:20240209
+DTEND;VALUE=DATE:20240212
+UID:1951337
+DESCRIPTION:<p>A three-day event held in a parkour hall in the capital of 
+ the Czech &nbsp\;Republic - In Motion Academy Prague. 500 m2 of parkour ob
+ stacles is like the city itself in a hall\, a foam pit and a new tube stru
+ cture. This &nbsp\;community event\, where people from abroad also come\, 
+ has its tradition since 2015.&nbsp\;</p><p>This year\, the Winter Jam will
+  once again feature the Skill Contest. First places from both &nbsp\;categ
+ ories win advancement to IMACON 2023!&nbsp\;</p><br><p>Price: 1200&nbsp\;K
+ č</p><p>Food: not included</p><p>Accomodation: in the gym</p><br><p>Sign 
+ up <a rel="noopener noreferrer" target="_blank" href="https://imacademy.cz
+ /praha/event/winterjam-2024?lang=en"><strong>here</strong></a>!</p>
+GEO:50.0882689;14.4905574
+LOCATION:In Motion Academy - parkourová hala\, Na Jarově\, Prague 3-Ži
+ žkov\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/prah
+ a/event/winterjam-2024":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Avanti Garda Jam
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240422
