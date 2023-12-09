@@ -173,4 +173,39 @@ LOCATION:Leeds Art Gallery\, The Headrow\, Leeds\, UK
 ORGANIZER;CN=Wypk;PHONE=;WEBSITE="https://instagram.com/wyparkour?igshid=N
  jIwNzIyMDk2Mg==":MAILTO:s-k-wood@hotmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Underground 11
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240325
+UID:1972786
+DESCRIPTION:<p>UK PARKOUR STYLE\, SKILL &amp\; SPEED COMPETITION</p><p>The
+  event is the largest of its kind in the UK and brings together people fro
+ m all over the world. NovaCity contributes to the growth of parkour practi
+ ce across the country. Encouraging and promoting events that introduce you
+ ng people to the art. Purchasing tickets to the event contributes directly
+  to this aim.</p><br><p>Event info</p><p>The event is held over 3 days and
+  is designed to be attractive to all parkour practitioners as it offers th
+ e opportunity to train\, compete or spectate. The competition itself is di
+ vided into 3 discipline categories and 3 age categories and for the first 
+ time in a UK parkour competition separate women's competition with equal p
+ rizes.</p><br><p>SPEED</p><p>This competition is a timed race around a set
+  course through our parkour park. Athletes have time to practise the cours
+ e and have one attempt against the clock. The fastest time wins.</p><br><p
+ >SKILL</p><p>This competition is designed to test athletes against increas
+ ingly difficult challenges in the gym. The challenges are performed in iso
+ lation with a limited number of attempts and a running clock. Whoever mast
+ ers the most challenges in the shortest time wins.</p><br><p>FREESTYLE</p>
+ <p>In this event\, athletes compete against each other in front of 3 judge
+ s. They are judged on creativity\, flow\, difficulty and execution.</p><p>
+ The winner is determined by the highest total score.</p><br><p>Price:&nbsp
+ \;</p><p>3 day competitor: 100 Pounds</p><p>3 day training: 65 Pounds</p><
+ p>Accomodation: in the gym</p><p>Food: bookable for 10 Pounds a day</p><br
+ ><p>Buy tickets <a rel="noopener noreferrer" target="_blank" href="https:/
+ /www.novacitycentre.com/de/projectunderground"><strong>here</strong></a>!<
+ /p>
+GEO:53.4427124;-1.36102
+LOCATION:NovaCity Rotherham\, Mangham Road\, Rotherham\, UK
+ORGANIZER;CN="Nova City Centre";PHONE=;WEBSITE="https://www.novacitycentre
+ .com/de/projectunderground":MAILTO:
+END:VEVENT
 END:VCALENDAR
