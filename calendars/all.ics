@@ -3236,6 +3236,46 @@ LOCATION:Prague\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gizmo Battles - Hamburg
+DTSTART;VALUE=DATE:20240427
+DTEND;VALUE=DATE:20240429
+UID:2051027
+DESCRIPTION:<p>SAVE THE DATE</p>
+GEO:53.5488282;9.987170299999999
+LOCATION:Hamburg\, Germany
+ORGANIZER;CN="Matt McCreary";PHONE=;WEBSITE="https://www.instagram.com/giz
+ mo_battles?igsh=MXdvdWMzb3JpdWtmbQ==":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cpg - For Women And Nonbinary
+DTSTART;VALUE=DATE:20240518
+DTEND;VALUE=DATE:20240520
+UID:2051030
+DESCRIPTION:<p>CPG is inviting women and non-binary parkour practitioners 
+ from all over the world to take part in an amazing weekend of fun and trai
+ ning. The event consists of various workshops and jams at locations around
+  Copenhagen\, and again this year the event will be led by the local commu
+ nity and experienced coaches. Beside the parkour training we have a contin
+ uous focus on building a community where the social aspects are equally im
+ portant\, where we are getting to know each other and where we can share a
+ lso what is around the training.&nbsp\;</p><br><p>WHO CAN JOIN? This event
+  is for all women (cis and trans)\, transmasculine and transfeminin and no
+ n-binary people. All levels are welcome - we aim to challenge experienced 
+ practitioners in mind and body and for the non-experienced to get a feelin
+ g of parkour and movement in urban spaces. Age: 16+.&nbsp\;</p><br><p>We e
+ xpect that you are cabable of managing your own stay in Copenhagen during 
+ the event.&nbsp\;</p><br><p>SIGN UP Link yet to come. Check out: <a rel="n
+ oopener noreferrer" target="_blank" href="https://www.facebook.com/events/
+ 1420759925175860">https://www.facebook.com/events/1420759925175860</a>&nbs
+ p\;</p><br><p>Prices: Early bird: DKK 300 \,-/ 40 EURO (Deadline 15th of M
+ arch)\, Normal price: DKK 400\,- / 54 EURO</p><p>Accomodation: not include
+ d</p><p>Food: not included</p>
+GEO:55.6760968;12.5683371
+LOCATION:Copenhagen\, Denmark
+ORGANIZER;CN="Parkour DK";PHONE=;WEBSITE="https://www.facebook.com/events/
+ 1420759925175860":MAILTO:cphparkourgathering@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Omfg - Oslo Movement Festival Gathering
 DTSTART;VALUE=DATE:20240612
 DTEND;VALUE=DATE:20240617
@@ -3253,6 +3293,42 @@ GEO:60.8809476;10.9394781
 LOCATION:Brumunddal\, Norway
 ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/omfg
  -2/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kipa Jam
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240624
+UID:2051028
+DESCRIPTION:<p>Save the date!</p>
+GEO:59.32932349999999;18.0685808
+LOCATION:Stockholm\, Sweden
+ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xjam Summer 24
+DTSTART;VALUE=DATE:20240704
+DTEND;VALUE=DATE:20240708
+UID:2051029
+DESCRIPTION:<p>xJam Summer- 24 now FOUR days and still the same cheap pric
+ e!&nbsp\;</p><br><p>A jam that will bring the community together and creat
+ e memories for life!</p><p>You get the chance to meet\, hang out with and 
+ train with the Swedish parkour community and parkour lovers from all over 
+ Europe!&nbsp\;</p><p>There will be competitions\, such as "skillchallenge"
+ \, "wallchallenge"\, "boxchallenge"\, "trickingbattle"\, etc.&nbsp\;</p><p
+ >You will all sleep at a hard surface on xFlows OCR-course. So bring somet
+ hing soft to sleep on and a sleeping bag. &nbsp\;</p><p>Experience xFlows 
+ parkourpark\, trampolin\, foampit\, springfloor and obstacle course. If th
+ e weather is fine we will train at different spots outside in Jönköping 
+ and Nässjö.&nbsp\;</p><p>We also hope to go to a lake with a jumping tow
+ er! &nbsp\;</p><p>Swedish delicious breakfast is included in the price.&nb
+ sp\;</p><p>We will sell pan pizza\, bars\, shakes\, fruit\, etc. at xFlow.
+ &nbsp\;</p><p>The nearest grocery store and restaurant is about 2km from x
+ Flow. &nbsp\;</p><p>Please bring indoor shoes for traning at xFlow.</p><br
+ ><p>Price: 950 SEK</p><p>Food: Only Breakfast</p><p>Accomodation: Yes</p>
+GEO:57.7454373;14.170872
+LOCATION:xFlow\, Herkulesvägen\, Jönköping\, Sweden
+ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=xflow.se/xjamsummer:MAILTO:eri
+ k@xflow.se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nk Style

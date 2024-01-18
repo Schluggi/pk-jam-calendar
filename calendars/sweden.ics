@@ -74,4 +74,40 @@ GEO:57.7454373;14.1708718
 LOCATION:xFlow\, Herkulesvägen\, Jönköping\, Sweden
 ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=:MAILTO:erik@xflow.se
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kipa Jam
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240624
+UID:2051028
+DESCRIPTION:<p>Save the date!</p>
+GEO:59.32932349999999;18.0685808
+LOCATION:Stockholm\, Sweden
+ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xjam Summer 24
+DTSTART;VALUE=DATE:20240704
+DTEND;VALUE=DATE:20240708
+UID:2051029
+DESCRIPTION:<p>xJam Summer- 24 now FOUR days and still the same cheap pric
+ e!&nbsp\;</p><br><p>A jam that will bring the community together and creat
+ e memories for life!</p><p>You get the chance to meet\, hang out with and 
+ train with the Swedish parkour community and parkour lovers from all over 
+ Europe!&nbsp\;</p><p>There will be competitions\, such as "skillchallenge"
+ \, "wallchallenge"\, "boxchallenge"\, "trickingbattle"\, etc.&nbsp\;</p><p
+ >You will all sleep at a hard surface on xFlows OCR-course. So bring somet
+ hing soft to sleep on and a sleeping bag. &nbsp\;</p><p>Experience xFlows 
+ parkourpark\, trampolin\, foampit\, springfloor and obstacle course. If th
+ e weather is fine we will train at different spots outside in Jönköping 
+ and Nässjö.&nbsp\;</p><p>We also hope to go to a lake with a jumping tow
+ er! &nbsp\;</p><p>Swedish delicious breakfast is included in the price.&nb
+ sp\;</p><p>We will sell pan pizza\, bars\, shakes\, fruit\, etc. at xFlow.
+ &nbsp\;</p><p>The nearest grocery store and restaurant is about 2km from x
+ Flow. &nbsp\;</p><p>Please bring indoor shoes for traning at xFlow.</p><br
+ ><p>Price: 950 SEK</p><p>Food: Only Breakfast</p><p>Accomodation: Yes</p>
+GEO:57.7454373;14.170872
+LOCATION:xFlow\, Herkulesvägen\, Jönköping\, Sweden
+ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=xflow.se/xjamsummer:MAILTO:eri
+ k@xflow.se
+END:VEVENT
 END:VCALENDAR

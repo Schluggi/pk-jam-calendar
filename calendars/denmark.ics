@@ -141,4 +141,33 @@ LOCATION:Gymnastikhøjskolen i Ollerup (Selvejende Institution)\, Svendbor
  gvej\, Vester Skerninge\, Denmark
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cpg - For Women And Nonbinary
+DTSTART;VALUE=DATE:20240518
+DTEND;VALUE=DATE:20240520
+UID:2051030
+DESCRIPTION:<p>CPG is inviting women and non-binary parkour practitioners 
+ from all over the world to take part in an amazing weekend of fun and trai
+ ning. The event consists of various workshops and jams at locations around
+  Copenhagen\, and again this year the event will be led by the local commu
+ nity and experienced coaches. Beside the parkour training we have a contin
+ uous focus on building a community where the social aspects are equally im
+ portant\, where we are getting to know each other and where we can share a
+ lso what is around the training.&nbsp\;</p><br><p>WHO CAN JOIN? This event
+  is for all women (cis and trans)\, transmasculine and transfeminin and no
+ n-binary people. All levels are welcome - we aim to challenge experienced 
+ practitioners in mind and body and for the non-experienced to get a feelin
+ g of parkour and movement in urban spaces. Age: 16+.&nbsp\;</p><br><p>We e
+ xpect that you are cabable of managing your own stay in Copenhagen during 
+ the event.&nbsp\;</p><br><p>SIGN UP Link yet to come. Check out: <a rel="n
+ oopener noreferrer" target="_blank" href="https://www.facebook.com/events/
+ 1420759925175860">https://www.facebook.com/events/1420759925175860</a>&nbs
+ p\;</p><br><p>Prices: Early bird: DKK 300 \,-/ 40 EURO (Deadline 15th of M
+ arch)\, Normal price: DKK 400\,- / 54 EURO</p><p>Accomodation: not include
+ d</p><p>Food: not included</p>
+GEO:55.6760968;12.5683371
+LOCATION:Copenhagen\, Denmark
+ORGANIZER;CN="Parkour DK";PHONE=;WEBSITE="https://www.facebook.com/events/
+ 1420759925175860":MAILTO:cphparkourgathering@gmail.com
+END:VEVENT
 END:VCALENDAR
