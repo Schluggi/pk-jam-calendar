@@ -32,4 +32,16 @@ LOCATION:Skill Lab\, Levická\, Nitra-Chrenová\, Slovakia
 ORGANIZER;CN="@slovenskaparkourscenaexistuje & @feztmind";PHONE=;WEBSITE=:
  MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spe Fzt
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240826
+UID:2060953
+DESCRIPTION:<p>Street jam with a unique competition format.</p><p>This tim
+ e in Bratislava city!</p><br><p>more infos soon</p>
+GEO:48.1485965;17.1077477
+LOCATION:Bratislava\, Slovakia
+ORGANIZER;CN=FEZTMIND;PHONE=;WEBSITE="@feztmind @slovenskaparkourscenaexis
+ tuje":MAILTO:
+END:VEVENT
 END:VCALENDAR
