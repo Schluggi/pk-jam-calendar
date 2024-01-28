@@ -1320,6 +1320,27 @@ LOCATION:NatsWerk Isernhagen\, Dieselstraße\, Isernhagen\, Germany
 ORGANIZER;CN=H-TOWN;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spring Jam - Parkourhalle Lani
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240415
+UID:2071371
+DESCRIPTION:<p>We want to welcome spring at our Spring Jam.</p><br><p>What
+  to expect:</p><p>&nbsp\;- Two-day Parkour jam with international top athl
+ etes</p><p>- Skill and Speed competition\, a different kind of Catch (stay
+  tuned for surprises)</p><p>- 4 meals (2 x lunch\, barbecue\, breakfast)&n
+ bsp\;</p><p>- Evening gathering with a campfire</p><p>- Overnight stay dir
+ ectly in the gym&nbsp\;</p><p>- Basic supply of fruits and water</p><br><p
+ >Price: €48</p><p>Food: included</p><p>Accomodation: in the gym</p><br><
+ p>More detailed information will be available shortly at <a rel="noopener 
+ noreferrer" target="_blank" href="https://cdn.boomte.ch/calendar/dashboard
+ /www.parkourhalle-lani.de">www.parkourhalle-lani.de</a> or on Instagram at
+  @parkourhalle_lani.</p>
+GEO:51.9904;7.66672
+LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=www.parkourhalle-lani.de:M
+ AILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gizmo Battles
 DTSTART;VALUE=DATE:20240427
 DTEND;VALUE=DATE:20240429
@@ -1329,6 +1350,32 @@ GEO:53.5488282;9.987170299999999
 LOCATION:Hamburg\, Germany
 ORGANIZER;CN="Matt McCreary";PHONE=;WEBSITE="https://www.instagram.com/giz
  mo_battles?igsh=MXdvdWMzb3JpdWtmbQ==":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Airfurt
+DTSTART;VALUE=DATE:20240607
+DTEND;VALUE=DATE:20240609
+UID:2071376
+DESCRIPTION:<p>Save the date!&nbsp\;</p><p>Big setup at the venue and city
+  sessions!</p>
+GEO:50.98476789999999;11.0298799
+LOCATION:Erfurt\, Germany
+ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=:MAILTO:jam@parkour-erfu
+ rt.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laatzener Parkour Camp (Lpc)
+DTSTART;VALUE=DATE:20240810
+DTEND;VALUE=DATE:20240812
+UID:2071372
+DESCRIPTION:<p>This year comes the LPC revival. We will organize the LPC o
+ n the pump track Laatzen with camping. Since the planning is still imminen
+ t\, there is no further information yet.</p>
+GEO:52.3134682;9.8051041
+LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
+ ny
+ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
+ o.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frbodensee Festival

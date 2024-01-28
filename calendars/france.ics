@@ -186,4 +186,22 @@ GEO:45.188529;5.724524
 LOCATION:Grenoble\, France
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:@socialkickmovement
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aerojam
+DTSTART;VALUE=DATE:20240518
+DTEND;VALUE=DATE:20240520
+UID:2071380
+DESCRIPTION:<p>AEROJAM\, Troyes' first Parkour competition\, is an event t
+ hat we want to repeat every year\, so that we can continue to pursue our g
+ oal of offering projects for the community. It will include JAM\, Speedrun
+ \, Freestyle and Skills competitions.&nbsp\;</p><br><p>This competition is
+  open to everyone\, with different categories and age groups. For the seco
+ nd edition\, we were lucky enough to welcome a large number of foreign par
+ ticipants from the UK\, Switzerland and Belgium. And of course a lot of Fr
+ ench people.</p><br><p>More infos soon!</p><br>
+GEO:48.2973451;4.0744009
+LOCATION:Troyes\, France
+ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE="https://boutique.aerocrew-pk.com/con
+ tent/11-aerojam":MAILTO:
+END:VEVENT
 END:VCALENDAR
