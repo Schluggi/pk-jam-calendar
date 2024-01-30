@@ -3181,6 +3181,26 @@ ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/prah
  a/event/winterjam-2024":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Öpfv Contest - 4 Elements Academy
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240225
+UID:2073761
+DESCRIPTION:<p>Friday\, 23.2.24: Open Jam 16-22</p><p>Saturday\, 24.2.24:<
+ /p><p>Start: 09:00 Uhr</p><p>Briefing: 09:30 Uhr</p><p>Skills Competition:
+  10-12 Uhr</p><p>Briefing: 13:15 Uhr</p><p>Style Competition: 14-16:00 Uhr
+ </p><p>Winner's announcement: 17:00 Uhr</p><p>Open Jam: 18 - 21 Uhr</p><p>
+ End 21:00</p><br><p>Food: not included</p><p>Accomodation: not included (n
+ ot possible in the gym)</p><p>Price: 20€ for the jam 23.2. and another 2
+ 0€ for the contest 24.2.</p><br><p>Sign up and buy your ticket <a rel="n
+ oopener noreferrer" target="_blank" href="https://www.4elementsacademy.at/
+ preise-infos--76027981-de.html"><strong>here</strong></a><strong> </strong
+ >and send an email to participate to office@4elementsacademy.at</p>
+GEO:47.27984319999999;11.4914754
+LOCATION:4 Elements Academy\, Alte Landstraße\, Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at/events--82920674-de.html":MAILTO:office@4elementsacademy.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Supreme Parkour Armageddon
 DTSTART;VALUE=DATE:20240223
 DTEND;VALUE=DATE:20240226
@@ -3243,6 +3263,43 @@ GEO:53.4427124;-1.36102
 LOCATION:NovaCity Rotherham\, Mangham Road\, Rotherham\, UK
 ORGANIZER;CN="Nova City Centre";PHONE=;WEBSITE="https://www.novacitycentre
  .com/de/projectunderground":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Odense Gathering Jam
+DTSTART;VALUE=DATE:20240405
+DTEND;VALUE=DATE:20240408
+UID:2073766
+DESCRIPTION:<p>Free jam in Odense!</p><br><p>FRIDAY16.00 Street House open
+ 16.00 - 19.00 Jam open practice19.00 - 21.00 Storms Pakhus. We take a fres
+ h walk\, if you have car21.00 - taking the bus to Youth Club - chill\, gam
+ e\, practice\, play\, eat.24.00 Goodnight</p><br><p>SATURDAY7.30 Wake up a
+ nd eat breakfast (Free)8.30 we take the bus9.00 Early swimming and shower 
+ at Odense Havnebad10.30 We are done. Streethouse will be open(11.00 Storms
+  Pakhus is open if you want some food)11.00 Possible to practice for runs 
+ and battle16.00\, We will be selling food this year for a cheap price17.30
+  Preparing for Best Run Vol.1218.00 - 19.00 Best Run19.30 Preparing for Br
+ eakbattle20.00 Prelims20.00 - 22.30 Break battle 2 vs 223.30 taking the la
+ test bus and light rail to sleeping spot</p><br><p>SUNDAY9.00 breakfast (F
+ ree)9.00 - 12.00 Chill in the youth Club12.00 Thanks and goodbye <img alt=
+ "❤" height="16" src="https://static.xx.fbcdn.net/images/emoji.php/v9/ted
+ /2/16/2764.png" width="16"></p><br><p>COMPETITION 2 vs 2Prizes for breakFi
+ rst place for break 3500 dkk</p><br><p>COMPETITION - BEST RUN VOL.12Prizes
+  for parkourFirst place 1000 dkk and the famous cupSecond Place 500 dkkThi
+ rd place 300 dkk</p><br><p>WHAT TO BRING- Bring sleeping mats\, or you can
+  use a little bit of the couches over there\, tho' there aint that many fo
+ r all of you- There will be a sale of sandwiches\, cheap which also goes a
+ round and back to the event this time- Smoothies sale- Toothbrush- There s
+ hould be shower opportunities- Money\, cash\, mobilepay</p><p>Event will b
+ e sponsored by Peter\, UngOdense and a secret supporter.&nbsp\;</p><p>You 
+ can contact me through DM to @Odensegatheringjam on Instagram &nbsp\;</p><
+ br><p>Food: only breakfast</p><p>Accomodation: Free sleeping spots at the 
+ youth club</p><p>Price: free</p><br><p>All infos <a rel="noopener noreferr
+ er" target="_blank" href="https://www.facebook.com/events/s/odense-gatheri
+ ng-jam-vol12/216542738201532/"><strong>here</strong></a>.</p><br>
+GEO:55.39568430000001;10.3650911
+LOCATION:Grønløkkevej 8B\, 5000 Odense\, Denmark
+ORGANIZER;CN="Bboy.sapa / Vinh Quang Nguyen";PHONE=;WEBSITE="https://www.f
+ acebook.com/share/72P2vDAjZknsrtvM/":MAILTO:v-loki@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring Jam - Parkourhalle Lani

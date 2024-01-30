@@ -367,4 +367,24 @@ LOCATION:Zero Limits Trendsporthalle
 ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Contest - 4 Elements Academy
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240225
+UID:2073761
+DESCRIPTION:<p>Friday\, 23.2.24: Open Jam 16-22</p><p>Saturday\, 24.2.24:<
+ /p><p>Start: 09:00 Uhr</p><p>Briefing: 09:30 Uhr</p><p>Skills Competition:
+  10-12 Uhr</p><p>Briefing: 13:15 Uhr</p><p>Style Competition: 14-16:00 Uhr
+ </p><p>Winner's announcement: 17:00 Uhr</p><p>Open Jam: 18 - 21 Uhr</p><p>
+ End 21:00</p><br><p>Food: not included</p><p>Accomodation: not included (n
+ ot possible in the gym)</p><p>Price: 20€ for the jam 23.2. and another 2
+ 0€ for the contest 24.2.</p><br><p>Sign up and buy your ticket <a rel="n
+ oopener noreferrer" target="_blank" href="https://www.4elementsacademy.at/
+ preise-infos--76027981-de.html"><strong>here</strong></a><strong> </strong
+ >and send an email to participate to office@4elementsacademy.at</p>
+GEO:47.27984319999999;11.4914754
+LOCATION:4 Elements Academy\, Alte Landstraße\, Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at/events--82920674-de.html":MAILTO:office@4elementsacademy.at
+END:VEVENT
 END:VCALENDAR
