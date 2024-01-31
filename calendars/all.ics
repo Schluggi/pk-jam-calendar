@@ -3393,7 +3393,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Airfurt
 DTSTART;VALUE=DATE:20240607
-DTEND;VALUE=DATE:20240609
+DTEND;VALUE=DATE:20240610
 UID:2071376
 DESCRIPTION:<p>Save the date!&nbsp\;</p><p>Big setup at the venue and city
   sessions!</p>
@@ -3430,6 +3430,18 @@ DESCRIPTION:<p>Save the date!</p>
 GEO:59.32932349999999;18.0685808
 LOCATION:Stockholm\, Sweden
 ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heljam
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240701
+UID:2077694
+DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
+ el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
+ eljamfinland/"><strong>instagram channel</strong></a>.</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xjam Summer 24
