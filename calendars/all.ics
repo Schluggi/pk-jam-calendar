@@ -3546,4 +3546,20 @@ LOCATION:Bratislava\, Slovakia
 ORGANIZER;CN=FEZTMIND;PHONE=;WEBSITE="@feztmind @slovenskaparkourscenaexis
  tuje":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uga Berlin
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240902
+UID:2090044
+DESCRIPTION:<p>The Urban Gathering (UGA) is an event which is organised by
+  the non-profit parkour organisation "Parkour Berlin e.V:".</p><p>The aim 
+ of the event is to create a connecting experience with parkour education b
+ y offering multiple workshops as well as bringing together the community b
+ y offering collective training/jam sessions.Price/Accomodation/Food: Infos
+  coming soonm</p>
+GEO:52.52000659999999;13.404954
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Parkour Berlin e.V:";PHONE=;WEBSITE="https://www.urban-gathe
+ ring.com/":MAILTO:
+END:VEVENT
 END:VCALENDAR
