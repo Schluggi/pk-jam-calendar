@@ -3323,7 +3323,7 @@ ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=www.parkourhalle-lani.de:M
  AILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Avanti Garda Jam
+SUMMARY:Holding Hands - Prague
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240422
 UID:1945247
@@ -3342,6 +3342,19 @@ GEO:53.5488282;9.987170299999999
 LOCATION:Hamburg\, Germany
 ORGANIZER;CN="Matt McCreary";PHONE=;WEBSITE="https://www.instagram.com/giz
  mo_battles?igsh=MXdvdWMzb3JpdWtmbQ==":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fé Amsterdam
+DTSTART;VALUE=DATE:20240511
+DTEND;VALUE=DATE:20240511
+UID:2092821
+DESCRIPTION:<p>Fé Amsterdam's debut event and the premiere of the biggest
+  parkour video project to ever come out of the Netherlands.</p><br><p>Save
+  the date.</p>
+GEO:52.3675734;4.9041389
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;CN="Fé Amsterdam";PHONE=;WEBSITE="https://www.instagram.com/fea
+ msterdam?igsh=b2lqZWR0amNjM2V3":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aerojam
