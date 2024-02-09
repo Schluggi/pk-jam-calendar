@@ -44,4 +44,19 @@ LOCATION:Pokoleń Lechii Gdańsk 1\, Gdańsk\, Poland
 ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://www.youtube.com/watc
  h?v=9xo8KsaR8OU":MAILTO:mfp@ksmovement.pl
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keep Flowin - Wroclaw
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240701
+UID:2103276
+DESCRIPTION:<p>Second edition of Keep Flowin’ Wrocław!</p><p>- Parkour 
+ jam in Poland with innovative competition format connecting skill and styl
+ e\, cash prizes\, lovely spots and great vibes!&nbsp\;</p><br><p>Save the 
+ date 28-30 June and join us on Keep Flowin’24!</p><p>More info coming so
+ on!</p>
+GEO:51.1078852;17.0385376
+LOCATION:Wrocław\, Poland
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/keep.flowin/":MAIL
+ TO:
+END:VEVENT
 END:VCALENDAR

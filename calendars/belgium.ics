@@ -144,4 +144,18 @@ LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
 ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
  events":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louvain-La-Neuve Jam
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240527
+UID:2103282
+DESCRIPTION:<p>Two day outdoor jam in Louvain-la-Neuve organised by Commit
+  Freerun. If you’re thinking of joining\, send us your phone number in D
+ M (Instagram @commitfreerun\, they`ll add you to the group chat!</p><br><p
+ >more infos soon!</p>
+GEO:50.66808100000001;4.6118324
+LOCATION:Louvain-la-Neuve\, Ottignies-Louvain-la-Neuve\, Belgium
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="https://www.instagram.com/co
+ mmitfreerun/":MAILTO:
+END:VEVENT
 END:VCALENDAR
