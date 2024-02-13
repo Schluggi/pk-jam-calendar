@@ -145,6 +145,78 @@ ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
  events":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gravity Defiers - Style
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240304
+UID:2109348
+DESCRIPTION:<p>Gravity Defiers - Flanders Parkour Masters Tour</p><br><p>S
+ AVE THE DATES</p><p>- 02/03-03/03 @Blikfabriek\, Antwerpen</p><p>- 14/04 @
+ HAl 5\, Leuven</p><p>- 21/04 @Tranzit\, Kortrijk</p><br><p>3 Locations\, 3
+  Jams\, 3 Competitions\, 1 Ranking</p><br><p>Gravity Defiers pushes the bo
+ undaries of Parkour/Freerunning events by providing the most complete and 
+ quality experience possible!</p><br><p>We do this by providing a cadre of 
+ experts\, world-class athletes and top organisations.</p><p>On each gravit
+ y defiers\, different activities are provided for everyone!</p><br><p>- PR
+ O competition (+16j)</p><p>- Recrea/youth competition with world class ath
+ lete guidance (+12y)</p><p>- Workshops by experts</p><p>- Jam (-12y zone a
+ nd +12y zone).</p><br><p>More info coming soon!</p><br><p>Price: 10€ eac
+ h\, 30€ for the whole tour.</p><p>You can buy the tickets <a rel="noopen
+ er noreferrer" target="_blank" href="https://parkouruni.be/collections/eve
+ nementen">here</a>.</p>
+GEO:51.1868414;4.3661337
+LOCATION:Blikfabriek\, Krugerstraat\, Antwerp\, Belgium
+ORGANIZER;CN="Parkour Uni";PHONE=;WEBSITE="https://parkouruni.be/collectio
+ ns/evenementen":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravity Defiers - Skill
+DTSTART;VALUE=DATE:20240414
+DTEND;VALUE=DATE:20240414
+UID:2109349
+DESCRIPTION:<p>Gravity Defiers - Flanders Parkour Masters Tour</p><br><p>S
+ AVE THE DATES</p><p>- 02/03-03/03 @Blikfabriek\, Antwerpen</p><p>- 14/04 @
+ HAl 5\, Leuven</p><p>- 21/04 @Tranzit\, Kortrijk</p><br><p>3 Locations\, 3
+  Jams\, 3 Competitions\, 1 Ranking</p><br><p>Gravity Defiers pushes the bo
+ undaries of Parkour/Freerunning events by providing the most complete and 
+ quality experience possible!</p><br><p>We do this by providing a cadre of 
+ experts\, world-class athletes and top organisations.</p><p>On each gravit
+ y defiers\, different activities are provided for everyone!</p><br><p>- PR
+ O competition (+16j)</p><p>- Recrea/youth competition with world class ath
+ lete guidance (+12y)</p><p>- Workshops by experts</p><p>- Jam (-12y zone a
+ nd +12y zone).</p><br><p>More info coming soon!</p><br><p>Price: 10€ eac
+ h\, 30€ for the whole tour.</p><p>You can buy the tickets <a rel="noopen
+ er noreferrer" target="_blank" href="https://parkouruni.be/collections/eve
+ nementen">here</a>.</p>
+GEO:50.882951;4.722328399999999
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="Parkour Uni";PHONE=;WEBSITE="https://parkouruni.be/collectio
+ ns/evenementen":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravity Defiers - Speed
+DTSTART;VALUE=DATE:20240421
+DTEND;VALUE=DATE:20240421
+UID:2109350
+DESCRIPTION:<p>Gravity Defiers - Flanders Parkour Masters Tour</p><br><p>S
+ AVE THE DATES</p><p>- 02/03-03/03 @Blikfabriek\, Antwerpen</p><p>- 14/04 @
+ HAl 5\, Leuven</p><p>- 21/04 @Tranzit\, Kortrijk</p><br><p>3 Locations\, 3
+  Jams\, 3 Competitions\, 1 Ranking</p><br><p>Gravity Defiers pushes the bo
+ undaries of Parkour/Freerunning events by providing the most complete and 
+ quality experience possible!</p><br><p>We do this by providing a cadre of 
+ experts\, world-class athletes and top organisations.</p><p>On each gravit
+ y defiers\, different activities are provided for everyone!</p><br><p>- PR
+ O competition (+16j)</p><p>- Recrea/youth competition with world class ath
+ lete guidance (+12y)</p><p>- Workshops by experts</p><p>- Jam (-12y zone a
+ nd +12y zone).</p><br><p>More info coming soon!</p><br><p>Price: 10€ eac
+ h\, 30€ for the whole tour.</p><p>You can buy the tickets <a rel="noopen
+ er noreferrer" target="_blank" href="https://parkouruni.be/collections/eve
+ nementen">here</a>.</p>
+GEO:50.826806;3.2543899
+LOCATION:Kortrijk\, Belgium
+ORGANIZER;CN="Parkour Uni";PHONE=;WEBSITE="https://parkouruni.be/collectio
+ ns/evenementen":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Louvain-La-Neuve Jam
 DTSTART;VALUE=DATE:20240525
 DTEND;VALUE=DATE:20240527
