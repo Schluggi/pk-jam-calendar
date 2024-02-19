@@ -37,4 +37,19 @@ LOCATION:In Extremis Club Academy\, Carrer de la Circumval·lació\, Barbe
 ORGANIZER;CN="In Extremis Club";PHONE=;WEBSITE="https://inextremisclub.com
  /tienda-de-inextremis-club/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rtgrana 2024 - Granada
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240331
+UID:2122205
+DESCRIPTION:<p>2 day jam in Granada\, first day street spots\, second day 
+ in the local gym\, with competition\, prizes and so on!</p><br><p>You can 
+ get all information from <a rel="noopener noreferrer" target="_blank" href
+ ="https://www.instagram.com/p/C3NsjVwoOwP/?img_index=1"><strong>this insta
+ gram post</strong></a>.</p>
+GEO:37.1774605;-3.5984368
+LOCATION:Granada\, Spain
+ORGANIZER;CN="@almemndra0___ @balanspk";PHONE=;WEBSITE="https://www.instag
+ ram.com/p/C3NsjVwoOwP/?img_index=1":MAILTO:
+END:VEVENT
 END:VCALENDAR
