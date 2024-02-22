@@ -1320,6 +1320,20 @@ LOCATION:NatsWerk Isernhagen\, Dieselstraße\, Isernhagen\, Germany
 ORGANIZER;CN=H-TOWN;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Abriss Jam (Kraftwerk)
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240408
+UID:2128459
+DESCRIPTION:<p>Last jam in this gym! It will be taken down the week after.
+ </p><br><p>Starts Saturday 6.4. at 17:00 - open end\, accomodation include
+ d + Sunday full day jam!</p><br><p>More information soon.</p>
+GEO:48.1231623;11.6087162
+LOCATION:Free Arts of Movement - ErlebnisKraftwerk\, Piusstraße\, Munich\
+ , Germany
+ORGANIZER;CN="Free Arts of Movement";PHONE=;WEBSITE="https://www.freeartso
+ fmovement.com/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring Jam - Parkourhalle Lani
 DTSTART;VALUE=DATE:20240413
 DTEND;VALUE=DATE:20240415
@@ -1402,5 +1416,18 @@ GEO:52.52000659999999;13.404954
 LOCATION:Berlin\, Germany
 ORGANIZER;CN="Parkour Berlin e.V:";PHONE=;WEBSITE="https://www.urban-gathe
  ring.com/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Förde Jam 2024
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240909
+UID:2128454
+DESCRIPTION:<p>Summer\, sun\, beach and harbour jam. More info will follow
+  soon!</p><br><p>Price: 15€</p><p>Food: Not included</p><p>Accomodation:
+  yessss</p>
+GEO:54.3232927;10.1227652
+LOCATION:Kiel\, Germany
+ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=Parkour-Kiel.de:MAILTO:ParkourK
+ iel@gmx.de
 END:VEVENT
 END:VCALENDAR
