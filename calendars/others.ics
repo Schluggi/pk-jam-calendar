@@ -18,4 +18,17 @@ LOCATION:Sofia\, Bulgaria
 ORGANIZER;CN="Recreate Sofia";PHONE=;WEBSITE="https://fb.me/e/1uvcEXt5o":M
  AILTO:recreatesofia@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Rats - Lisboa
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240603
+UID:2139391
+DESCRIPTION:<p>Save the date! The Summer season will start with a banger O
+ utdoor Parkour Skills and Speed Challenges in sunny Lisbon! Stay tuned!</p
+ >
+GEO:38.7222524;-9.1393366
+LOCATION:Lisbon\, Portugal
+ORGANIZER;CN="Luis Alkmim and Pedro Salgado";PHONE=;WEBSITE="https://www.i
+ nstagram.com/p/C3inEs6rxa0/?igsh=MWltd2p0Z2dpdTlkcQ%3D%3D":MAILTO:
+END:VEVENT
 END:VCALENDAR

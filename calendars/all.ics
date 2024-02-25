@@ -3347,12 +3347,16 @@ DTEND;VALUE=DATE:20240408
 UID:2128459
 DESCRIPTION:<p>Last jam in this gym! It will be taken down the week after.
  </p><br><p>Starts Saturday 6.4. at 17:00 - open end\, accomodation include
- d + Sunday full day jam!</p><br><p>More information soon.</p>
+ d + Sunday full day jam!</p><br><p>More information soon.</p><br><p>Sign u
+ p <a rel="noopener noreferrer" target="_blank" href="https://docs.google.c
+ om/forms/d/e/1FAIpQLSfdJ5PTmQ-rpftVfKd3yTEMzXfTtP8hr5txt7_zxtvC4weMxg/view
+ form"><strong>here</strong></a>.</p>
 GEO:48.1231623;11.6087162
 LOCATION:Free Arts of Movement - ErlebnisKraftwerk\, Piusstraße\, Munich\
  , Germany
-ORGANIZER;CN="Free Arts of Movement";PHONE=;WEBSITE="https://www.freeartso
- fmovement.com/":MAILTO:
+ORGANIZER;CN="Free Arts of Movement";PHONE=;WEBSITE="https://docs.google.c
+ om/forms/d/e/1FAIpQLSfdJ5PTmQ-rpftVfKd3yTEMzXfTtP8hr5txt7_zxtvC4weMxg/view
+ form":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring Jam - Parkourhalle Lani
@@ -3528,6 +3532,19 @@ GEO:50.66808100000001;4.6118324
 LOCATION:Louvain-la-Neuve\, Ottignies-Louvain-la-Neuve\, Belgium
 ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="https://www.instagram.com/co
  mmitfreerun/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Rats - Lisboa
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240603
+UID:2139391
+DESCRIPTION:<p>Save the date! The Summer season will start with a banger O
+ utdoor Parkour Skills and Speed Challenges in sunny Lisbon! Stay tuned!</p
+ >
+GEO:38.7222524;-9.1393366
+LOCATION:Lisbon\, Portugal
+ORGANIZER;CN="Luis Alkmim and Pedro Salgado";PHONE=;WEBSITE="https://www.i
+ nstagram.com/p/C3inEs6rxa0/?igsh=MWltd2p0Z2dpdTlkcQ%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Airfurt
