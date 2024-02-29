@@ -3641,6 +3641,22 @@ ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=xflow.se/xjamsummer:MAILTO:eri
  k@xflow.se
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beam Me Up Spotty Jam
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240715
+UID:2150609
+DESCRIPTION:<p>BEAM ME UP SPOTTY enters it's third round. We will enjoy th
+ e best Parkour Spots in Wolfsburg and will also have a gymnastics gym sess
+ ion afterwards\, next to where we will sleep. We hope to see new faces and
+  have this year an even greater jam than last year. More infos you will re
+ ceive on instagram: @orbitfreerun. See you soon!</p><br><p>Price: 10€ pe
+ r night</p><p>Food: not included</p><p>Accomodation: We have a lot of spac
+ e</p>
+GEO:52.4226503;10.7865461
+LOCATION:Wolfsburg\, Germany
+ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE=:MAILTO:orbitfreerun@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nk Style
 DTSTART;VALUE=DATE:20240720
 DTEND;VALUE=DATE:20240722
