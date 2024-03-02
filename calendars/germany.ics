@@ -1320,6 +1320,25 @@ LOCATION:NatsWerk Isernhagen\, Dieselstraße\, Isernhagen\, Germany
 ORGANIZER;CN=H-TOWN;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Female Parkour Jam Dortmund 2024
+DTSTART;VALUE=DATE:20240316
+DTEND;VALUE=DATE:20240316
+UID:2157853
+DESCRIPTION:<p>16. march 2024\, 11 am til 4 pm at the Skatehall Dortmund</
+ p><br><p>This parkour event is only for girls and women off 12 years. The 
+ entry is for free\, but every person need a letter of agreement: <a rel="n
+ oopener noreferrer" target="_blank" href="https://shorturl.at/biZ25">https
+ ://shorturl.at/biZ25</a> . There will be a five ours free training session
+ \, a workshop for beginners\, advanced challenges and at least a community
+  talk.&nbsp\;</p><br><p>Come over and enjoy the vibe!</p><br><p>Price: fre
+ e</p><p>Food: not included</p><p>Accomodation: not included</p>
+GEO:51.522049;7.460355
+LOCATION:Skatehalle Dortmund\, Leopoldstraße 50-58\, 44147 Dortmund\, Ger
+ many
+ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE="https://www.instagram
+ .com/parkourdortmund/":MAILTO:info@parkourdortmund.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Abriss Jam (Kraftwerk)
 DTSTART;VALUE=DATE:20240406
 DTEND;VALUE=DATE:20240408
@@ -1390,9 +1409,11 @@ DESCRIPTION:<p>BEAM ME UP SPOTTY enters it's third round. We will enjoy th
  e best Parkour Spots in Wolfsburg and will also have a gymnastics gym sess
  ion afterwards\, next to where we will sleep. We hope to see new faces and
   have this year an even greater jam than last year. More infos you will re
- ceive on instagram: @orbitfreerun. See you soon!</p><br><p>Price: 10€ pe
- r night</p><p>Food: not included</p><p>Accomodation: We have a lot of spac
- e</p>
+ ceive on instagram: @orbitfreerun. See you soon!</p><br><p>Join the whatsa
+ pp group for all information <a rel="noopener noreferrer" target="_blank" 
+ href="https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt"><strong>here</stro
+ ng></a>.</p><br><p>Price: 10€ per night</p><p>Food: not included</p><p>A
+ ccomodation: We have a lot of space</p>
 GEO:52.4226503;10.7865461
 LOCATION:Wolfsburg\, Germany
 ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE=:MAILTO:orbitfreerun@gmail.com

@@ -204,4 +204,18 @@ LOCATION:Troyes\, France
 ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE="https://boutique.aerocrew-pk.com/con
  tent/11-aerojam":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babjam 2024
+DTSTART;VALUE=DATE:20240608
+DTEND;VALUE=DATE:20240610
+UID:2157856
+DESCRIPTION:<p>3th edition of the BABJAM in biarritz in France</p><br><p>B
+ y the ocean\, discover the famous of La Barre in Anglet\, and other spot d
+ uring the next day in biarritz. Really cool guest will come. Join us on IG
+  @acrofeel for more info to come. ✌️</p><br><p>Price: 10€</p><p>Acco
+ modation: not sure</p><p>Food: not included</p>
+GEO:43.5259422;-1.5228617
+LOCATION:La Barre\, Anglet\, France
+ORGANIZER;CN="Acro’Feel";PHONE=;WEBSITE=:MAILTO:acrofeel@live.fr
+END:VEVENT
 END:VCALENDAR

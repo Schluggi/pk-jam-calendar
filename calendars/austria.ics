@@ -387,4 +387,15 @@ LOCATION:4 Elements Academy\, Alte Landstraße\, Hall in Tirol\, Austria
 ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
  demy.at/events--82920674-de.html":MAILTO:office@4elementsacademy.at
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Contest & Jam - Vienna
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240408
+UID:2158059
+DESCRIPTION:<p>ÖPFV Skill Contest in Vienna!</p><br><p>more information c
+ oming soon.</p>
+GEO:48.1355458;16.3143955
+LOCATION:ape academy\, Perfektastraße\, Vienna\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR

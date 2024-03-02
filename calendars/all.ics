@@ -3254,6 +3254,25 @@ ORGANIZER;CN="Parkour Uni";PHONE=;WEBSITE="https://parkouruni.be/collectio
  ns/evenementen":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Female Parkour Jam Dortmund 2024
+DTSTART;VALUE=DATE:20240316
+DTEND;VALUE=DATE:20240316
+UID:2157853
+DESCRIPTION:<p>16. march 2024\, 11 am til 4 pm at the Skatehall Dortmund</
+ p><br><p>This parkour event is only for girls and women off 12 years. The 
+ entry is for free\, but every person need a letter of agreement: <a rel="n
+ oopener noreferrer" target="_blank" href="https://shorturl.at/biZ25">https
+ ://shorturl.at/biZ25</a> . There will be a five ours free training session
+ \, a workshop for beginners\, advanced challenges and at least a community
+  talk.&nbsp\;</p><br><p>Come over and enjoy the vibe!</p><br><p>Price: fre
+ e</p><p>Food: not included</p><p>Accomodation: not included</p>
+GEO:51.522049;7.460355
+LOCATION:Skatehalle Dortmund\, Leopoldstraße 50-58\, 44147 Dortmund\, Ger
+ many
+ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE="https://www.instagram
+ .com/parkourdortmund/":MAILTO:info@parkourdortmund.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project Underground 11
 DTSTART;VALUE=DATE:20240322
 DTEND;VALUE=DATE:20240325
@@ -3357,6 +3376,17 @@ LOCATION:Free Arts of Movement - ErlebnisKraftwerk\, Piusstraße\, Munich\
 ORGANIZER;CN="Free Arts of Movement";PHONE=;WEBSITE="https://docs.google.c
  om/forms/d/e/1FAIpQLSfdJ5PTmQ-rpftVfKd3yTEMzXfTtP8hr5txt7_zxtvC4weMxg/view
  form":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Contest & Jam - Vienna
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240408
+UID:2158059
+DESCRIPTION:<p>ÖPFV Skill Contest in Vienna!</p><br><p>more information c
+ oming soon.</p>
+GEO:48.1355458;16.3143955
+LOCATION:ape academy\, Perfektastraße\, Vienna\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring Jam - Parkourhalle Lani
@@ -3559,6 +3589,20 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=:MAILTO:jam@parkour-erfu
  rt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Babjam 2024
+DTSTART;VALUE=DATE:20240608
+DTEND;VALUE=DATE:20240610
+UID:2157856
+DESCRIPTION:<p>3th edition of the BABJAM in biarritz in France</p><br><p>B
+ y the ocean\, discover the famous of La Barre in Anglet\, and other spot d
+ uring the next day in biarritz. Really cool guest will come. Join us on IG
+  @acrofeel for more info to come. ✌️</p><br><p>Price: 10€</p><p>Acco
+ modation: not sure</p><p>Food: not included</p>
+GEO:43.5259422;-1.5228617
+LOCATION:La Barre\, Anglet\, France
+ORGANIZER;CN="Acro’Feel";PHONE=;WEBSITE=:MAILTO:acrofeel@live.fr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Omfg - Oslo Movement Festival Gathering
 DTSTART;VALUE=DATE:20240612
 DTEND;VALUE=DATE:20240617
@@ -3649,9 +3693,11 @@ DESCRIPTION:<p>BEAM ME UP SPOTTY enters it's third round. We will enjoy th
  e best Parkour Spots in Wolfsburg and will also have a gymnastics gym sess
  ion afterwards\, next to where we will sleep. We hope to see new faces and
   have this year an even greater jam than last year. More infos you will re
- ceive on instagram: @orbitfreerun. See you soon!</p><br><p>Price: 10€ pe
- r night</p><p>Food: not included</p><p>Accomodation: We have a lot of spac
- e</p>
+ ceive on instagram: @orbitfreerun. See you soon!</p><br><p>Join the whatsa
+ pp group for all information <a rel="noopener noreferrer" target="_blank" 
+ href="https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt"><strong>here</stro
+ ng></a>.</p><br><p>Price: 10€ per night</p><p>Food: not included</p><p>A
+ ccomodation: We have a lot of space</p>
 GEO:52.4226503;10.7865461
 LOCATION:Wolfsburg\, Germany
 ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE=:MAILTO:orbitfreerun@gmail.com
