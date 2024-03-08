@@ -71,4 +71,28 @@ LOCATION:Overground Basel\, Elsässerstrasse\, Basel\, Switzerland
 ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE=:MAILTO:simon.brenn
  er01@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swiss Jam 2024
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240527
+UID:2169830
+DESCRIPTION:<p>The Swiss Jam 2024 invites the whole Parkour community to Z
+ urich.</p><p>The main event area is located at the Irchel Campus Area. Dif
+ ferent workshops for all skill levels can be joined. A big spot with major
+  extensions gives enough room for all kind of movements and inspirations. 
+ Join the event to jam\, to learn\, to get inspired and inspire!</p><br><p>
+ Price: 10 - 60 CHF</p><p>Accomodation: Accomodation is not included in the
+  ticket price. Yet\, we are working with 2 accomodation providers that can
+  ensure you great stay in Zurich.The Options will soon be updated. Stay tu
+ ned!</p><p>Food: included</p><br><p>Buy tickets <a rel="noopener noreferre
+ r" target="_blank" href="https://eventfrog.ch/de/p/sport-fitness/sonstige-
+ veranstaltungen/swiss-jam-2024-7170135753355119413.html"><strong>here</str
+ ong></a>.</p>
+GEO:47.3978672;8.5483563
+LOCATION:University of Zurich Irchel\, Winterthurerstrasse\, Zürich\, Swi
+ tzerland
+ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://eventfrog
+ .ch/de/p/sport-fitness/sonstige-veranstaltungen/swiss-jam-2024-71701357533
+ 55119413.html":MAILTO:
+END:VEVENT
 END:VCALENDAR

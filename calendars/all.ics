@@ -3364,12 +3364,15 @@ SUMMARY:Abriss Jam (Kraftwerk)
 DTSTART;VALUE=DATE:20240406
 DTEND;VALUE=DATE:20240408
 UID:2128459
-DESCRIPTION:<p>Last jam in this gym! It will be taken down the week after.
- </p><br><p>Starts Saturday 6.4. at 17:00 - open end\, accomodation include
- d + Sunday full day jam!</p><br><p>More information soon.</p><br><p>Sign u
- p <a rel="noopener noreferrer" target="_blank" href="https://docs.google.c
- om/forms/d/e/1FAIpQLSfdJ5PTmQ-rpftVfKd3yTEMzXfTtP8hr5txt7_zxtvC4weMxg/view
- form"><strong>here</strong></a>.</p>
+DESCRIPTION:<p>Last jam in this gym as it is now! The whole building will 
+ get a major refurbishment\, means the whole set up will be taken down and 
+ will be build new and totally different. This whole process will take 18 m
+ onths so better come and say good bye for now!</p><br><p>Starts Saturday 6
+ .4. at 17:00 - open end\, accomodation included + Sunday full day jam!</p>
+ <br><p>More information soon.</p><br><p>Sign up <a rel="noopener noreferre
+ r" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfdJ5PTm
+ Q-rpftVfKd3yTEMzXfTtP8hr5txt7_zxtvC4weMxg/viewform"><strong>here</strong><
+ /a>.</p>
 GEO:48.1231623;11.6087162
 LOCATION:Free Arts of Movement - ErlebnisKraftwerk\, Piusstraße\, Munich\
  , Germany
@@ -3548,6 +3551,30 @@ GEO:41.9027835;12.4963655
 LOCATION:Rome\, Italy
 ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
  0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swiss Jam 2024
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240527
+UID:2169830
+DESCRIPTION:<p>The Swiss Jam 2024 invites the whole Parkour community to Z
+ urich.</p><p>The main event area is located at the Irchel Campus Area. Dif
+ ferent workshops for all skill levels can be joined. A big spot with major
+  extensions gives enough room for all kind of movements and inspirations. 
+ Join the event to jam\, to learn\, to get inspired and inspire!</p><br><p>
+ Price: 10 - 60 CHF</p><p>Accomodation: Accomodation is not included in the
+  ticket price. Yet\, we are working with 2 accomodation providers that can
+  ensure you great stay in Zurich.The Options will soon be updated. Stay tu
+ ned!</p><p>Food: included</p><br><p>Buy tickets <a rel="noopener noreferre
+ r" target="_blank" href="https://eventfrog.ch/de/p/sport-fitness/sonstige-
+ veranstaltungen/swiss-jam-2024-7170135753355119413.html"><strong>here</str
+ ong></a>.</p>
+GEO:47.3978672;8.5483563
+LOCATION:University of Zurich Irchel\, Winterthurerstrasse\, Zürich\, Swi
+ tzerland
+ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://eventfrog
+ .ch/de/p/sport-fitness/sonstige-veranstaltungen/swiss-jam-2024-71701357533
+ 55119413.html":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Louvain-La-Neuve Jam
