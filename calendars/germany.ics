@@ -1381,6 +1381,35 @@ ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=www.parkourhalle-lani.de:M
  AILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:North Nature Jam
+DTSTART;VALUE=DATE:20240419
+DTEND;VALUE=DATE:20240422
+UID:2190656
+DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village 
+ in Schleswig-Holstein (about 1 hour from Hamburg). Attached to a property 
+ and surrounded by evergreen forest\, you will find the perfect place to im
+ merse yourself in nature. &nbsp\;</p><p>A parkour park in the garden\, cli
+ mbing and slackline spots offer lots of incentives to always discover and 
+ try out something. &nbsp\;</p><p>Airtrack and high ropes experiences provi
+ de the real thrill\, as does a visit to a sand pit. &nbsp\;Several campfir
+ e spots are waiting for you for those times when there is not enough light
+  to jump. &nbsp\;</p><p>Here you sleep in a hammock\, tent or under the op
+ en sky and cook and make music around the campfire with a hang drum\, guit
+ ar and whatever instrument you bring with you! &nbsp\;</p><p>You are welco
+ me to bring your hobbies with you! &nbsp\;</p><p>Be it art\, acrobatics or
+  artistry. We want to get to know everything! &nbsp\;</p><br><p>What can y
+ ou find on site: &nbsp\;</p><p>- Parkour park made of wood&nbsp\;</p><p>- 
+ Pole Park&nbsp\;</p><p>- Slackline 10m and 25m&nbsp\;</p><p>- Highline 15m
+  (with safety)&nbsp\;</p><p>- Airtrack with mats&nbsp\;</p><p>- Climbing t
+ ower 8m high (with safety)&nbsp\;</p><p>- Ropeswing in the trees (giant sw
+ ing)</p><br><p>Price: 80€</p><p>Food: all inclusive</p><p>Accomodation: 
+ outdoor on the venue</p>
+GEO:54.0662094;9.4388586
+LOCATION:Aasbüttel\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/event-details/north-nature-jam-2024":MAILTO:info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gizmo Battles
 DTSTART;VALUE=DATE:20240427
 DTEND;VALUE=DATE:20240429
@@ -1390,6 +1419,57 @@ GEO:53.5488282;9.987170299999999
 LOCATION:Hamburg\, Germany
 ORGANIZER;CN="Matt McCreary";PHONE=;WEBSITE="https://www.instagram.com/giz
  mo_battles?igsh=MXdvdWMzb3JpdWtmbQ==":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Nature Jam
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240513
+UID:2190657
+DESCRIPTION:<p>For the East Nature Jam\, we will meet in Chemnitz. On the 
+ premises of Walden e.V.\, stationary parkour spots and slacklines will be 
+ set up. Of course\, the AirTrack will also be available! &nbsp\;</p><p>As 
+ always\, there will be a campfire and music\, providing a great atmosphere
+  for everyone. &nbsp\;Additionally\, we'll venture into the mountains for 
+ some climbing adventures. &nbsp\;</p><p>Don't forget to bring your swimwea
+ r \;) &nbsp\;</p><p>We'll gather at a central area\, where all sorts of ga
+ mes\, instruments\, or arts are welcome! &nbsp\;</p><p>All details can be 
+ found in the program schedule! &nbsp\;</p><p>You will receive a packing li
+ st before the event! &nbsp\;</p><br><p>What you'll find on the premises: &
+ nbsp\;</p><p>- Parkour Park&nbsp\;</p><p>- Pole park&nbsp\;</p><p>- Airtra
+ ck&nbsp\;</p><p>- 3x Slacklines (10-20m)&nbsp\;</p><p>- 1x Longline (50m)&
+ nbsp\;</p><p>- Climbing wall (6m high)&nbsp\;</p><p>- Skate and BMX park (
+ right in front of the premises)&nbsp\;</p><p>- 4x Toilets&nbsp\;</p><p>- 2
+ x Showers with washing area&nbsp\;</p><p>- 2x Domes (event rooms in case o
+ f rain)&nbsp\;</p><p>- 1x Restroom for meditation or breaks</p><br><p>Pric
+ e: 80€</p><p>Food: all inclusive</p><p>Accomodation: outdoor on the venu
+ e (tents\, hammocks)</p>
+GEO:50.8334866;13.0211865
+LOCATION:Chemnitz\, Euba\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/nature-jam":MAILTO:info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Stuttgart Jam
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240520
+UID:2190655
+DESCRIPTION:<p>Here we go again!!!! For the third year in a row we are hos
+ ting the Parkour Stuttgart Jam. Good food\, good friends\, good training a
+ nd did we mention good food!!!! You will be sleeping in a gym so bring you
+ r sleeping bag and all the good stuff. The Jam is not overloaded with anyt
+ hing (well mabe food\, but thats a good thing\, right?!?!)\, still we offe
+ r small workshops for beginners and intermediates. There will be an indoor
+  and outdoor setup for you to enjoy and the city's best spots are allways 
+ just a subway ride away. See you there!!! Ballorium sei mit euch !!! &nbsp
+ \;&nbsp\;</p><br><p>PS: The online registration will be up by the end of m
+ arch. Please be aware that this is the only way to sign up for the jam. Th
+ ere will be no on-site registration . Registration will be closing 10 days
+  before the jam.</p><br><p>Price: 25€</p><p>Food: all inklusive</p><p>Ac
+ comodation: in the gym</p>
+GEO:48.7518184;9.1894977
+LOCATION:Georgiiweg 770597\, Stuttgart\, Germany
+ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
+ tgart.de":MAILTO:kontakt@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Airfurt
@@ -1446,6 +1526,30 @@ LOCATION:Bodensee
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:West Nature Jam
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240826
+UID:2190658
+DESCRIPTION:<p>Heading towards western Germany\, near Bad Kreuznach\, we f
+ ind a castle ruin nestled in the hilly surroundings. &nbsp\;</p><p>With a 
+ ~20-minute walk from the parking lot\, we reach a top-notch spot of ruins!
+  &nbsp\;Endless opportunities for climbing and jumping await to be discove
+ red. &nbsp\;</p><p>This is probably the only Nature Jam where you'll find 
+ walls! &nbsp\;</p><p>And all of this with a breathtaking view over the cit
+ y and the surrounding valley. &nbsp\;</p><p>As we'll be staying a bit more
+  secluded here in a cave of the castle\, it's recommended to bring a sleep
+ ing pad rather than a hammock (although there might be a spot for it).&nbs
+ p\;</p><p>Only bring as much as you can carry yourself! &nbsp\;</p><p>We'l
+ l be swimming in the nearby river at the foot of the mountain. So be prepa
+ red for both cold\, wonderfully refreshing water and beautiful sunrises an
+ d sunsets!</p><br><p>Price: 40€</p><p>Food: only breakfast</p><p>Accomod
+ ation: outdoor on the venue (hammock...)</p>
+GEO:49.8440162;7.873134599999999
+LOCATION:Bad Kreuznach\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/nature-jam":MAILTO:info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Uga Berlin
 DTSTART;VALUE=DATE:20240830
 DTEND;VALUE=DATE:20240902
@@ -1473,5 +1577,33 @@ GEO:54.3232927;10.1227652
 LOCATION:Kiel\, Germany
 ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=Parkour-Kiel.de:MAILTO:ParkourK
  iel@gmx.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Nature Jam
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240923
+UID:2190659
+DESCRIPTION:<p>For the South Nature Jam\, we're heading to the south. &nbs
+ p\;</p><p>We'll be venturing into the mountains of Austria. &nbsp\;</p><p>
+ This tour is only suitable for familiar and experienced faces\, as it invo
+ lves a 3-day ascent of approximately 1500 meters.&nbsp\;</p><p>You'll emba
+ rk on a hike to a crystal-clear waterfall before a breathtaking\, yet stun
+ ningly beautiful climb to a mountain hut! &nbsp\;</p><p>Up here\, the view
+ s are magnificent both during the day and at night! &nbsp\;We'll be able t
+ o frolic in a riverbed with huge boulders (rocks and stones) stretching fo
+ r about a kilometer\, to burn off any remaining energy reserves. &nbsp\;He
+ re\, too\, the mountains offer seemingly endless opportunities for enthusi
+ astic nature explorers! &nbsp\;It will be challenging\, yes. &nbsp\;But it
+  will also be a unique experience! &nbsp\;</p><p>If you're arriving by tra
+ in\, the main train station in Innsbruck is your destination. &nbsp\;</p><
+ p>Additionally\, this year we're offering the option to join us on a tour 
+ parallel to the Jam. The tour will last 8-9 days and will take you through
+  water canyons and caves\, as well as offering you the most beautiful view
+ s along the way.</p><br><p>Price: 100€</p><p>Food: all inclusive</p><p>A
+ ccomodation: hammock or tents outside</p>
+GEO:47.2692124;11.4041024
+LOCATION:Innsbruck\, Austria
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/nature-jam":MAILTO:info@if-urbansports.de
 END:VEVENT
 END:VCALENDAR
