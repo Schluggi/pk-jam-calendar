@@ -3511,6 +3511,27 @@ ORGANIZER;CN="Matt McCreary";PHONE=;WEBSITE="https://www.instagram.com/giz
  mo_battles?igsh=MXdvdWMzb3JpdWtmbQ==":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One Mur Jam
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240506
+UID:2207922
+DESCRIPTION:<p>&nbsp\;We have prepared 100 challenge for you all around Gr
+ az. You have two days to complete as many challenge as possible and film t
+ hem. There will be prices for the first 3 places in the categories: male\,
+  female and kids</p><br><p>There are also going to be special prices for N
+ BDs. The comp is just additional to the jam and you dont have to compete\,
+  if you dont want to.</p><br><p>What else?: On Saturday evening we are goi
+ ng into the Ninjabox and train there. There are going to be 10 extra chall
+ enges to win some additional stuff\, but they dont count towards the outdo
+ or challenges.</p><p>&nbsp\;</p><p>If you wanna join and need a place to s
+ leep\, just join the group and ask there:</p><p><a rel="noopener noreferre
+ r" target="_blank" href="https://chat.whatsapp.com/E3YJ1iSXBauBNRFGvVrmc7"
+ >https://chat.whatsapp.com/E3YJ1iSXBauBNRFGvVrmc7</a></p>
+GEO:47.070714;15.439504
+LOCATION:Graz\, Austria
+ORGANIZER;CN="Urban Playground Graz";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:East Nature Jam
 DTSTART;VALUE=DATE:20240510
 DTEND;VALUE=DATE:20240513
@@ -3928,6 +3949,17 @@ GEO:54.3232927;10.1227652
 LOCATION:Kiel\, Germany
 ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=Parkour-Kiel.de:MAILTO:ParkourK
  iel@gmx.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gefam X Kipa Jam
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240916
+UID:2207916
+DESCRIPTION:<p>save the date</p>
+GEO:53.5424593;10.0086303
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="GEFAM, KIPA";PHONE=;WEBSITE="https://www.instagram.com/p/C48
+ r94JNdN4/?igsh=b2hrdXU5Ymkxdmc5&img_index=4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:South Nature Jam
