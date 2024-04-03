@@ -208,4 +208,53 @@ LOCATION:NovaCity Rotherham\, Mangham Road\, Rotherham\, UK
 ORGANIZER;CN="Nova City Centre";PHONE=;WEBSITE="https://www.novacitycentre
  .com/de/projectunderground":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shecantrace Women'S Jam
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240406
+UID:2229540
+DESCRIPTION:<p>Shecantrace\, an initiative by Parkour Generations London\,
+  strives to engage more women\, raise awareness\, and form a women parkour
+  community. We've hosted women's jams in various outdoor spots across Lond
+ on and even one in India! Stay tuned on our Instagram @shecantrace for loc
+ ation updates based on weather conditions. Come and join us for a day of p
+ arkour! #Shecantrace</p><br><p>Price: free</p><p>Accomodation: not include
+ d</p><p>Food: not included</p>
+GEO:51.5072178;-0.1275862
+LOCATION:London\, UK
+ORGANIZER;CN="Shecantrace, Parkour Generations";PHONE=;WEBSITE=:MAILTO:con
+ tact@parkourgenerations.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streetmedia Social V2
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240708
+UID:2229535
+DESCRIPTION:<p>The STREETMEDIA SOCIAL is a grassroots Parkour gathering to
+  train\, network\, and celebrate the incredible talent from communities bo
+ th inside and outside the world of Parkour. We hope you can join us for ro
+ und two of what is sure to be one to remember! &nbsp\;</p><br><p>SATURDAY 
+ 6th JULY: &nbsp\;</p><p>11:30 am - Meet up at the first location\, Auditor
+ ium. &nbsp\;</p><p>2:00pm - Move to second location\, Chains. &nbsp\;</p><
+ p>4:00 pm - Move to third and final location\, Forest. &nbsp\;</p><p>6:45p
+ m - Finish the Street Jam. &nbsp\;</p><p>7:00pm - Travel by train (around 
+ 1hr)\, or car (around 45min)\, to Novacity\, Rotherham. (Train ticket is a
+ round £10\, including a 10 minute walk from Rotherham station to Novacity
+ ) &nbsp\;</p><p>9:30pm - Afterparty at Novacity with our select DJ's and s
+ oundsystem provided by Resonant SoundSytems (Anyone under the age of 18 mu
+ st be out of the premesis by 9pm) &nbsp\;</p><p>12:30am - Finish afterpart
+ y and tidy up. &nbsp\;</p><p>1:00am - Lights out\, if you are sleeping at 
+ Novacity please respect the gym and help ensure the security of the buildi
+ ng at all times. &nbsp\;&nbsp\;&nbsp\;</p><br><p>SUNDAY 7th JULY: &nbsp\;<
+ /p><p>11am - Set up &nbsp\;</p><p>12pm - Jam at Novacity\, Rotherham begin
+ s. &nbsp\;</p><p>12:30pm - Opening of pop up shops from our selected brand
+ s and artists. &nbsp\;</p><p>1:30pm - Food is served (Menu TBA) &nbsp\;</p
+ ><p>6:30pm - Giveaways to winners &nbsp\;</p><p>7:30pm Event finishing</p>
+ <br><p>Price: 25€</p><p>Accomodation: in the Nova City gym</p><p>Food. n
+ ot included</p>
+GEO:52.9540223;-1.1549892
+LOCATION:Nottingham\, UK
+ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://streetmedia.store/product
+ s/sm-social-v2-entry-ticket":MAILTO:HQ@streetmedia.store
+END:VEVENT
 END:VCALENDAR
