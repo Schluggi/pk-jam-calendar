@@ -187,6 +187,30 @@ LOCATION:Grenoble\, France
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:@socialkickmovement
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Share Your Moves
+DTSTART;VALUE=DATE:20240427
+DTEND;VALUE=DATE:20240429
+UID:2230683
+DESCRIPTION:<p>Share Your Moves is an annual event organised by the West C
+ oast Academy in Cholet. It's a weekend of competition\, training and meeti
+ ngs where the true spirit of Parkour reigns: sharing\, respect and kindnes
+ s.</p><br><p>There will be cash prizes for podium finishes in the over-16s
+  category\, as well as lots of prizes for other categories\, challenges an
+ d raffles!</p><br><p>There will be a women's prize for 6 or more participa
+ nts.</p><p>Special prize for best move of the weekend and best real insta 
+ (organised by @lepetitorvelin)</p><br><p>Competitors pay €10 registratio
+ n fee and €5 for each competition chosen. For non-racing spectators\, ac
+ companying persons and plotters wishing to train during the dedicated time
+ s\, the rate is €5 for one day\, €8 for two days and €3 for under-12
+ s.&nbsp\;</p><br><p>Buy tickets <a rel="noopener noreferrer" target="_blan
+ k" href="https://www.wcacholet.fr/share-your-moves">here</a>.</p>
+GEO:47.021806;-0.9221225999999999
+LOCATION:WEST COAST ACADEMY\, Rue Pierre Gilles de Gennes\, Cholet\, Franc
+ e
+ORGANIZER;CN="WEST COAST ACADEMY CHOLET";PHONE=;WEBSITE="https://www.wcach
+ olet.fr/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aerojam
 DTSTART;VALUE=DATE:20240518
 DTEND;VALUE=DATE:20240520

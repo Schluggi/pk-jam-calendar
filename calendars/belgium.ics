@@ -217,6 +217,27 @@ ORGANIZER;CN="Parkour Uni";PHONE=;WEBSITE="https://parkouruni.be/collectio
  ns/evenementen":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Freerun Wild Belgium
+DTSTART;VALUE=DATE:20240511
+DTEND;VALUE=DATE:20240511
+UID:2230648
+DESCRIPTION:<p>Discover your inner adventurer and get ready for an unforge
+ ttable experience at our GO WILD Freerun Event!&nbsp\;</p><p>Learn new ski
+ lls\, push your limits and meet plenty of freerunners on 11 MAY 2024.</p><
+ br><p>Don't miss this chance to discover your passion for freerunning and 
+ enjoy the special registration offers to explore next season.</p><br><p>&g
+ t\;&gt\; Buy your tickets now on our website <a rel="noopener noreferrer" 
+ target="_blank" href="https://cdn.boomte.ch/calendar/dashboard/freerunwild
+ .be/gowild">freerunwild.be/gowild</a> and GO WILD with Freerun Wild! &lt\;
+ &lt\;</p><br><p>Price: 12\,50€ for each workshop\, or 11€ if you buy t
+ he tickets before the event</p><p>Accomodation: not included</p><p>Food: n
+ ot included</p>
+GEO:50.9835715;5.5113226
+LOCATION:Emiel Van Dorenlaan 144\, 3600 Genk\, Belgium
+ORGANIZER;CN="Freerun Wild Belgium";PHONE=;WEBSITE="https://freerunwild.be
+ /gowild/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Louvain-La-Neuve Jam
 DTSTART;VALUE=DATE:20240525
 DTEND;VALUE=DATE:20240527
