@@ -3602,6 +3602,18 @@ ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/nature-jam":MAILTO:info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Prototype 11
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240513
+UID:2241254
+DESCRIPTION:<p>more information soon!</p>
+GEO:44.47637830000001;11.412993
+LOCATION:Via Commenda\, 13\, San Lazzaro di Savena\, Metropolitan City of 
+ Bologna\, Italy
+ORGANIZER;CN="Eden Park Zone";PHONE=;WEBSITE="https://www.instagram.com/re
+ el/C4fhR79sUYc/?igsh=ZjVzMWFqOHlzaWt5":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fé Amsterdam
 DTSTART;VALUE=DATE:20240511
 DTEND;VALUE=DATE:20240511
@@ -3978,6 +3990,25 @@ GEO:52.3873878;4.6462194
 LOCATION:Haarlem\, Netherlands
 ORGANIZER;CN="Munki Motion";PHONE=;WEBSITE="https://www.instagram.com/munk
  imotionparkour/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mfp Movement Festival
+DTSTART;VALUE=DATE:20240802
+DTEND;VALUE=DATE:20240805
+UID:2241263
+DESCRIPTION:<p>We warmly &nbsp\;invite all parkour enthusiasts to the next
+  International Parkour &nbsp\;Festival in Gdańsk (Poland)\, overlooking t
+ he picturesque Baltic Sea\, &nbsp\;happening on August 2-4\, 2024! Event h
+ appenig every year since 2008Get ready for three days filled with parkour 
+ excitement:- Beach &nbsp\;and city Jam- Indoor session in <a rel="noopener
+  noreferrer" target="_blank" href="https://www.instagram.com/movementarena
+ /">@movementarena</a>- Parkour Movie Screening- Skill ChallengesThis &nbsp
+ \;is a unique opportunity to meet with parkour enthusiasts from Poland &nb
+ sp\;and abroad\, share experiences\, and learn from the best!</p>
+GEO:54.35202520000001;18.6466384
+LOCATION:Gdańsk\, Poland
+ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://www.instagram.com/mo
+ vementarena/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Own The Spot

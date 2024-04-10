@@ -119,6 +119,18 @@ ORGANIZER;CN="Higher Italy / Parkour Torino";PHONE=;WEBSITE="https://docs.
  TwQ/viewform":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Prototype 11
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240513
+UID:2241254
+DESCRIPTION:<p>more information soon!</p>
+GEO:44.47637830000001;11.412993
+LOCATION:Via Commenda\, 13\, San Lazzaro di Savena\, Metropolitan City of 
+ Bologna\, Italy
+ORGANIZER;CN="Eden Park Zone";PHONE=;WEBSITE="https://www.instagram.com/re
+ el/C4fhR79sUYc/?igsh=ZjVzMWFqOHlzaWt5":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pasta Jam
 DTSTART;VALUE=DATE:20240525
 DTEND;VALUE=DATE:20240527
