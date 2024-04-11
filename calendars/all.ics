@@ -3976,6 +3976,29 @@ ORGANIZER;CN="Flow De Gand";PHONE=;WEBSITE="https://www.flowdegand.be/ceci
  -n-est-pas-un-stick":MAILTO:niels@flowdegand.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Streets Jam Ulm
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240722
+UID:2243295
+DESCRIPTION:<p>Official jam: 19-21.07.2023&nbsp\;</p><br><p>State-sponsore
+ d bathing &amp\; boozing at the Nabada: 24.07.2023</p><br><p>A weekend of 
+ continuous sporting party :D&nbsp\;</p><p>Mark it in your calendar\, write
+  it on your forearm or the neighbour's dog\, the main thing is that you'll
+  be there! &nbsp\;</p><br><p>You can expect: A beautiful garden with Bar S
+ et up + trampoline&nbsp\;</p><p>- Overnight OVERCOVERED and INCLUDING BED 
+ for 20 participants (for all other people there is enough space for tents 
+ and sleeping bags on the site)</p><p>- FUNCTIONING SANITARY FACILITIES</p>
+ <p>- Breakfast and snacks&nbsp\;</p><p>- Grill&amp\;Chill&nbsp\;</p><p>- S
+ pot tour Ulm &nbsp\;</p><p>- Holy legal garden grass</p><br><p>We can't te
+ ll you yet how much the fun will cost\, it depends on our negotiating skil
+ ls with sponsors and scaffolding suppliers.You will get this and further i
+ nformation in time in our official WhatsApp group! &nbsp\;See you then :D!
+ </p>
+GEO:48.38696969999999;9.9592634
+LOCATION:Kuhberg\, Neunkirchenweg\, Ulm\, Germany
+ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE=:MAILTO:streets.ev@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nk Style
 DTSTART;VALUE=DATE:20240720
 DTEND;VALUE=DATE:20240722
