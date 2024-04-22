@@ -1414,11 +1414,21 @@ SUMMARY:Gizmo Battles
 DTSTART;VALUE=DATE:20240427
 DTEND;VALUE=DATE:20240429
 UID:2051027
-DESCRIPTION:<p>SAVE THE DATE</p>
+DESCRIPTION:<p>Gizmo Style Battles is a 1 V 1 style battle that is highlig
+ hting the unorthodox and the flavoursome sides of Parkour.</p><p>There wil
+ l be A total of 16 artists\, 9 invites\, 6 from on-site qualifiers and 1 f
+ rom the online submissions.&nbsp\;</p><p>We are presenting the battles in 
+ a new venue @gleishalle_oberhafen\, located across the street from @diehal
+ lehamburg.</p><br><p>Schedule:</p><p>27th - Onsite qualifiers\, main event
+ \, after party</p><p>28th - exhibitions and open session in @diehallehambu
+ rg + street jam + Lectures &amp\; Talks</p><br><p>Price: 25€ day ticket 
+ for spectators and athletes35€ weekend ticket for spectators &amp\; athl
+ etes (without accommodation)40€ weekend ticket for spectators &amp\; ath
+ letes (with accommodation)</p><p>Food: not included</p>
 GEO:53.5488282;9.987170299999999
 LOCATION:Hamburg\, Germany
-ORGANIZER;CN="Matt McCreary";PHONE=;WEBSITE="https://www.instagram.com/giz
- mo_battles?igsh=MXdvdWMzb3JpdWtmbQ==":MAILTO:
+ORGANIZER;CN="Matt McCreary";PHONE=;WEBSITE="https://www.diehalle.hamburg/
+ events/gizmo-style-battles":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:East Nature Jam
@@ -1470,6 +1480,23 @@ GEO:48.7518184;9.1894977
 LOCATION:Georgiiweg 770597\, Stuttgart\, Germany
 ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de":MAILTO:kontakt@parkour-stuttgart.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osna Jam
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240601
+UID:2266564
+DESCRIPTION:<p>Everything will be outside (if it rains we're in the gym)&n
+ bsp\;</p><br><p>It starts from 11 to 18 o'clock&nbsp\;</p><p>We will have 
+ to big rail set-ups\, boxes\, airtrack and other things to train on&nbsp\;
+ </p><p>There will be 3 different Workshops for starters and advanced and a
+  little fun Skill Comp with prices.</p><br><p>Price: free</p><p>Accomodati
+ on: not included</p><p>Food: not included</p>
+GEO:52.267747;8.1118799
+LOCATION:Helmut-Stockmeier-Straße 3\, 49086 Osnabrück\, Germany
+ORGANIZER;CN="TSG 07 Burg Gretesch e.V";PHONE=;WEBSITE="https://www.burg-g
+ retesch.de/klub/tsg-07-burg-gretesch-e-v/hold/parkour-14":MAILTO:zoe.kern1
+ 0@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Airfurt
