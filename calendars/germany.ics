@@ -1482,6 +1482,19 @@ ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de":MAILTO:kontakt@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:#Hardchorweiler 2.0
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240601
+UID:2270009
+DESCRIPTION:<p>&nbsp\;#HardChorweiler 2.0 ist die zweite Edition der Parko
+ ur Köln Community Jam. Hard\, wild and oldschool street culture Jam. More
+  info: https://parkour-movement.com/workshops-und-events/</p>
+GEO:51.0256588;6.8963301
+LOCATION:Köln\, Chorweiler\, Germany
+ORGANIZER;CN="Parkour Movement e.V.";PHONE=;WEBSITE="https://parkour-movem
+ ent.com/workshops-und-events/":MAILTO:info@parkour-movement.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Osna Jam
 DTSTART;VALUE=DATE:20240601
 DTEND;VALUE=DATE:20240601
@@ -1672,5 +1685,21 @@ GEO:47.2692124;11.4041024
 LOCATION:Innsbruck\, Austria
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/nature-jam":MAILTO:info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leap - Cologne
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240930
+UID:2270008
+DESCRIPTION:<p>&nbsp\;LEAP is the annual Parkour Workshop event by Parkour
+  Movement featuring finest international guest Coaches. It takes place in 
+ Cologne on the 27th to 29th of september.&nbsp\;</p><br><p>More infos and 
+ early-bird registration <a rel="noopener noreferrer" target="_blank" href=
+ "https://parkour-movement.com/LEAP/"><strong>here</strong></a>:</p><br><br
+ >
+GEO:50.937531;6.9602786
+LOCATION:Cologne\, Germany
+ORGANIZER;CN="Parkour Movement e.V.";PHONE=;WEBSITE="https://parkour-movem
+ ent.com/LEAP/":MAILTO:info@parkour-movement.com
 END:VEVENT
 END:VCALENDAR
