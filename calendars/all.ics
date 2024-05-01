@@ -3887,15 +3887,26 @@ LOCATION:Stockholm\, Sweden
 ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Keep Flowin - Wroclaw
+SUMMARY:Keep Flowin' 24
 DTSTART;VALUE=DATE:20240628
 DTEND;VALUE=DATE:20240701
-UID:2103276
-DESCRIPTION:<p>Second edition of Keep Flowin’ Wrocław!</p><p>- Parkour 
- jam in Poland with innovative competition format connecting skill and styl
- e\, cash prizes\, lovely spots and great vibes!&nbsp\;</p><br><p>Save the 
- date 28-30 June and join us on Keep Flowin’24!</p><p>More info coming so
- on!</p>
+UID:2284096
+DESCRIPTION:<p>The countdown is on 🥳</p><br><p>&nbsp\;In 2 months we go
+ nna enjoy touching walls at the biggest parkour event in Poland! During th
+ e event I have prepared for you 6 spots - 6 challenges.&nbsp\;</p><p>Let m
+ e explain!</p><p>On &nbsp\;every spot we are going to visit there will be 
+ 1 challenge set for you &nbsp\;to try.&nbsp\;</p><p>Sometimes a flip\, som
+ etimes a parkour move. Your mission is to &nbsp\;put that challenge in you
+ r line. Could be at the start\, at the end or in &nbsp\;the middle!</p><br
+ ><p>TLDR:1. Figure out your line with spot challenge in it</p><p>2. Film i
+ t and upload on the google drive (link available close to the event)</p><p
+ >3. Move to the next spot and film another line!*one person can send max 6
+  clips. 1 clip per challenge.</p><br><p>Saturday evening at the sleeping p
+ lace we are gonna watch all the clips together and vote for the people who
+  did the best lines!</p><br><p>For each spot winner there is a money prize
+  of 500PLN*money&nbsp\;</p><br><p>prize might change depending on how many
+  people attend the eventIn the near future I’ll start showing the challe
+ nges. Save the date and come over!</p>
 GEO:51.1078852;17.0385376
 LOCATION:Wrocław\, Poland
 ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/keep.flowin/":MAIL
@@ -4071,6 +4082,22 @@ GEO:54.35202520000001;18.6466384
 LOCATION:Gdańsk\, Poland
 ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://www.instagram.com/mo
  vementarena/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disorganized Mob Jam
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240805
+UID:2284095
+DESCRIPTION:<p>Keeping it disorganized&nbsp\;</p><br><p>Just a big family 
+ gathering\, including Streetsessions\, hang arounds\, sleeping at one of t
+ he many lakes (in the best case -&gt\; therefore bring hammock and tents o
+ r whatever) &nbsp\;</p><br><p>(Reach out for us via Insta (@disorganizedmo
+ b) so you can join the what’s app group)</p><br><p>Price: free</p><p>Acc
+ omodation: outside in hammocks/tents</p><p>Food: not included</p>
+GEO:51.3396955;12.3730747
+LOCATION:Leipzig\, Germany
+ORGANIZER;CN="Disorganized Mob";PHONE=;WEBSITE=:MAILTO:niklas-mariss@gmx.d
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Own The Spot

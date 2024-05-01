@@ -1564,6 +1564,22 @@ LOCATION:Kuhberg\, Neunkirchenweg\, Ulm\, Germany
 ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE=:MAILTO:streets.ev@yahoo.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Disorganized Mob Jam
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240805
+UID:2284095
+DESCRIPTION:<p>Keeping it disorganized&nbsp\;</p><br><p>Just a big family 
+ gathering\, including Streetsessions\, hang arounds\, sleeping at one of t
+ he many lakes (in the best case -&gt\; therefore bring hammock and tents o
+ r whatever) &nbsp\;</p><br><p>(Reach out for us via Insta (@disorganizedmo
+ b) so you can join the what’s app group)</p><br><p>Price: free</p><p>Acc
+ omodation: outside in hammocks/tents</p><p>Food: not included</p>
+GEO:51.3396955;12.3730747
+LOCATION:Leipzig\, Germany
+ORGANIZER;CN="Disorganized Mob";PHONE=;WEBSITE=:MAILTO:niklas-mariss@gmx.d
+ e
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20240810
 DTEND;VALUE=DATE:20240812
