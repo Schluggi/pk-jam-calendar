@@ -3836,12 +3836,17 @@ SUMMARY:Open Airfurt
 DTSTART;VALUE=DATE:20240607
 DTEND;VALUE=DATE:20240610
 UID:2071376
-DESCRIPTION:<p>Save the date!&nbsp\;</p><p>Big setup at the venue and city
-  sessions!</p>
+DESCRIPTION:<p>Big setup at the venue and city sessions! There will be a l
+ ot of training and Sauna\, PK Movie night\, Spill Comp (New Comp format 
+ 👀) and more...</p><br><p>Price: 20€ for the weekend</p><p>Food: break
+ fast\, dinner\, snacks\, water\, smoothies included</p><p>Accomodation: in
+ door (real beds!) and outdoor (hammocks/tents) possible</p><br><p>Sign up 
+ <a rel="noopener noreferrer" target="_blank" href="https://www.parkour-erf
+ urt.de/jams/open-airfurt-2024"><strong>here</strong></a>.</p>
 GEO:50.98476789999999;11.0298799
 LOCATION:Erfurt\, Germany
-ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=:MAILTO:jam@parkour-erfu
- rt.de
+ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://www.parkour-erf
+ urt.de/jams/open-airfurt-2024":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babjam 2024
