@@ -7,7 +7,7 @@
   "dependencyDashboard": false,
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch"],
+      "matchUpdateTypes": ["minor", "patch", "major"],
       "matchCurrentVersion": "!/^0/",
       "automerge": true
     }
