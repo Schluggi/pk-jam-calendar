@@ -1529,6 +1529,22 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://www.parkour-erf
  urt.de/jams/open-airfurt-2024":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Camp 2024
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240715
+UID:2334213
+DESCRIPTION:<p>On Friday\, 12 July\, the Parkour Camp will take place for 
+ the 12th time in Gütersloh. We look forward to welcoming you in person! W
+ e want to spend a day together\, inspire each other\, exchange ideas and l
+ earn from each other.</p></br>\n<p>Price: 40€</p>\n<p>Accomodation: yes 
+ in tents</p>\n<p>Food: Breakfast included</p></br>\n<p>Sign up <a rel="noo
+ pener noreferrer" target="_blank" href="https://parkourcamp.de/registratio
+ n"><strong>here</strong></a>.</p>
+LOCATION:Ahornallee 46\, 33330 Gütersloh\, Germany
+ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de/reg
+ istration":MAILTO:info@parkourcamp.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beam Me Up Spotty Jam
 DTSTART;VALUE=DATE:20240712
 DTEND;VALUE=DATE:20240715
@@ -1567,6 +1583,30 @@ DESCRIPTION:<p>Official jam: 19-21.07.2023&nbsp\;</p><br><p>State-sponsore
 GEO:48.38696969999999;9.9592634
 LOCATION:Kuhberg\, Neunkirchenweg\, Ulm\, Germany
 ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE=:MAILTO:streets.ev@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rad Jam 2
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240729
+UID:2327817
+DESCRIPTION:<p>Round 2 of the Street Culture Festival ‘RAD JAM’ will b
+ e happening this year on the 27 &amp\; 28 of July.</p>\n<p>Just like last 
+ year there will be Parkour and Kendama Games and comps to win Prizes\, A J
+ am to have fun\, Graffiti Workshops and Tattoo artists as well as many oth
+ er extras that are yet to be announced.</p></br>\n<p>So keep an eye out an
+ d we hope to see you there!</p></br>\n<p>Price:&nbsp\;</p>\n<p>2 days 18 y
+ ears+ 35€</p>\n<p>2 days under 18 years 25€</p>\n<p>1 day &nbsp\;20€
+ </p>\n<p>Food: not included:</p>\n<p>Accomodation: not included (ask local
+ s for hosting)</p></br>\n<p>Book your spot <a rel="noopener noreferrer" ta
+ rget="_blank" href="https://www.diehalle.hamburg/events/rad-jam?fbclid=IwZ
+ Xh0bgNhZW0CMTAAAR2HJuIwWDguxdZAA6g0Eozn6oeXpkWxFEjz9MVZ520kMjQ2bxmeqb20wNY
+ _aem_AaSeU3777uTdkcdaEkH0Xhd4KKzcvaQOeJ8R_EkcRNNUimjYGqNdjJQP7jcQY2fxwpiS-
+ 2ovlA0n0Vk56nVcGuyt"><strong>here</strong></a>.</p>
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://www.diehalle.hamb
+ urg/events/rad-jam?fbclid=IwZXh0bgNhZW0CMTAAAR2HJuIwWDguxdZAA6g0Eozn6oeXpk
+ WxFEjz9MVZ520kMjQ2bxmeqb20wNY_aem_AaSeU3777uTdkcdaEkH0Xhd4KKzcvaQOeJ8R_Ekc
+ RNNUimjYGqNdjJQP7jcQY2fxwpiS-2ovlA0n0Vk56nVcGuyt":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disorganized Mob Jam

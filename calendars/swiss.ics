@@ -95,4 +95,21 @@ ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://eventfrog
  .ch/de/p/sport-fitness/sonstige-veranstaltungen/swiss-jam-2024-71701357533
  55119413.html":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Camp - Basel
+DTSTART;VALUE=DATE:20240731
+DTEND;VALUE=DATE:20240805
+UID:2318633
+DESCRIPTION:<p>Switzerland's most legendary camp is back.</p>\n<p></p>\n<p
+ >The WPF Camp has taken place every year since the World's Parkour Family 
+ was founded. Camping and PK for 5 days in Basel\, Switzerland. &nbsp\;Trai
+ ning takes place every day at different spots.&nbsp\; Immerse yourself in 
+ a unique experience.</p>\n<p>Register directly\, find more information or 
+ get inspired:</p>\n<p></p>\n<p><a rel="noopener noreferrer" target="_blank
+ " href="https://worldsparkourfamily.ch/wpfcamp_en"><strong>https://worldsp
+ arkourfamily.ch/wpfcamp_en</strong></a></p>
+LOCATION:Bahnhof SBB\, 4051 Basel\, Switzerland
+ORGANIZER;CN=WPF;PHONE=;WEBSITE="https://worldsparkourfamily.ch/wpfcamp_en
+ ":MAILTO:
+END:VEVENT
 END:VCALENDAR

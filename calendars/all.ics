@@ -3988,6 +3988,35 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://streetmedia.store/product
  s/sm-social-v2-entry-ticket":MAILTO:HQ@streetmedia.store
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Htown Jam S3
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240708
+UID:2334229
+DESCRIPTION:<p>This year we are going back to basics and happily inviting 
+ you to spend a weekend with us and our community in Hanover.</p>\n<p>This 
+ year everyone will be responsible for their own food and accommodation.</p
+ >\n<p>We will be jamming\, jumping from bridges and building a rope swing.
+ </p></br>\n<p>Join the Whatsappgroup here.</p>
+LOCATION:Ernst-August-Platz 1\, 30159 Hannover\, Germany
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Camp 2024
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240715
+UID:2334213
+DESCRIPTION:<p>On Friday\, 12 July\, the Parkour Camp will take place for 
+ the 12th time in Gütersloh. We look forward to welcoming you in person! W
+ e want to spend a day together\, inspire each other\, exchange ideas and l
+ earn from each other.</p></br>\n<p>Price: 40€</p>\n<p>Accomodation: yes 
+ in tents</p>\n<p>Food: Breakfast included</p></br>\n<p>Sign up <a rel="noo
+ pener noreferrer" target="_blank" href="https://parkourcamp.de/registratio
+ n"><strong>here</strong></a>.</p>
+LOCATION:Ahornallee 46\, 33330 Gütersloh\, Germany
+ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de/reg
+ istration":MAILTO:info@parkourcamp.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beam Me Up Spotty Jam
 DTSTART;VALUE=DATE:20240712
 DTEND;VALUE=DATE:20240715
@@ -4068,6 +4097,56 @@ GEO:52.3873878;4.6462194
 LOCATION:Haarlem\, Netherlands
 ORGANIZER;CN="Munki Motion";PHONE=;WEBSITE="https://www.instagram.com/munk
  imotionparkour/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rad Jam 2
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240729
+UID:2327817
+DESCRIPTION:<p>Round 2 of the Street Culture Festival ‘RAD JAM’ will b
+ e happening this year on the 27 &amp\; 28 of July.</p>\n<p>Just like last 
+ year there will be Parkour and Kendama Games and comps to win Prizes\, A J
+ am to have fun\, Graffiti Workshops and Tattoo artists as well as many oth
+ er extras that are yet to be announced.</p></br>\n<p>So keep an eye out an
+ d we hope to see you there!</p></br>\n<p>Price:&nbsp\;</p>\n<p>2 days 18 y
+ ears+ 35€</p>\n<p>2 days under 18 years 25€</p>\n<p>1 day &nbsp\;20€
+ </p>\n<p>Food: not included:</p>\n<p>Accomodation: not included (ask local
+ s for hosting)</p></br>\n<p>Book your spot <a rel="noopener noreferrer" ta
+ rget="_blank" href="https://www.diehalle.hamburg/events/rad-jam?fbclid=IwZ
+ Xh0bgNhZW0CMTAAAR2HJuIwWDguxdZAA6g0Eozn6oeXpkWxFEjz9MVZ520kMjQ2bxmeqb20wNY
+ _aem_AaSeU3777uTdkcdaEkH0Xhd4KKzcvaQOeJ8R_EkcRNNUimjYGqNdjJQP7jcQY2fxwpiS-
+ 2ovlA0n0Vk56nVcGuyt"><strong>here</strong></a>.</p>
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://www.diehalle.hamb
+ urg/events/rad-jam?fbclid=IwZXh0bgNhZW0CMTAAAR2HJuIwWDguxdZAA6g0Eozn6oeXpk
+ WxFEjz9MVZ520kMjQ2bxmeqb20wNY_aem_AaSeU3777uTdkcdaEkH0Xhd4KKzcvaQOeJ8R_Ekc
+ RNNUimjYGqNdjJQP7jcQY2fxwpiS-2ovlA0n0Vk56nVcGuyt":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Axis Jam - Birmingham
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240727
+UID:2318642
+DESCRIPTION:<p>save the date</p>
+LOCATION:1801 Morris Ave\, Birmingham\, AL 35203\, USA
+ORGANIZER;CN="Axis Freerunning";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Camp - Basel
+DTSTART;VALUE=DATE:20240731
+DTEND;VALUE=DATE:20240805
+UID:2318633
+DESCRIPTION:<p>Switzerland's most legendary camp is back.</p>\n<p></p>\n<p
+ >The WPF Camp has taken place every year since the World's Parkour Family 
+ was founded. Camping and PK for 5 days in Basel\, Switzerland. &nbsp\;Trai
+ ning takes place every day at different spots.&nbsp\; Immerse yourself in 
+ a unique experience.</p>\n<p>Register directly\, find more information or 
+ get inspired:</p>\n<p></p>\n<p><a rel="noopener noreferrer" target="_blank
+ " href="https://worldsparkourfamily.ch/wpfcamp_en"><strong>https://worldsp
+ arkourfamily.ch/wpfcamp_en</strong></a></p>
+LOCATION:Bahnhof SBB\, 4051 Basel\, Switzerland
+ORGANIZER;CN=WPF;PHONE=;WEBSITE="https://worldsparkourfamily.ch/wpfcamp_en
+ ":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mfp Movement Festival
