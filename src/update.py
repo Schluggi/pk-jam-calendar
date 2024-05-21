@@ -54,7 +54,8 @@ for event_data in data['events']:
 
     event['location'] = vText(event_data['venue']['address'])
 
-    if 'lat' in event_data['venue'] and 'long' in event_data['venue']:
+    if 'lat' in event_data['venue'] and 'long' in event_data['venue'] \
+            and event_data['venue']['lat'] and event_data['venue']['long']:
         event.add('geo', (event_data["venue"]["lat"], event_data["venue"]["long"]))
 
     for cat in event_data['categories']:
