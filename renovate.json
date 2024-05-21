@@ -5,9 +5,25 @@
     ":dependencyDashboard"
   ],
   "dependencyDashboard": false,
+  "pip-compile": {
+    "fileMatch": [
+      "(^|/)requirements\\.txt$"
+    ],
+    "automerge": true,
+    "lockFileMaintenance": {
+      "schedule": [
+        "at any time"
+      ],
+      "commitMessageAction": "Update pip requirements using pip-compile"
+    }
+  },
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch", "major"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch",
+        "major"
+      ],
       "matchCurrentVersion": "!/^0/",
       "automerge": true
     }
