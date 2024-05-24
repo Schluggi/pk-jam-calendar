@@ -266,4 +266,29 @@ DESCRIPTION:<p>save the date</p>
 LOCATION:1801 Morris Ave\, Birmingham\, AL 35203\, USA
 ORGANIZER;CN="Axis Freerunning";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fifth Unit Jam
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240826
+UID:2343398
+DESCRIPTION:<p>Yo!<br>\nWe’re throwing this years Fifthunit Jam from the
+  23rd to the 25th of August in Btown! <br>\nPrepare for big vibes 🦅\,bi
+ g rays 🌞and big prizes 🎁 xx<br>\nLook forward to seeing u there \;)<
+ /p>
+LOCATION:Madeira Dr\, Brighton BN2 1TW\, UK
+ORGANIZER;CN="Fifth Unit";PHONE=;WEBSITE="https://www.instagram.com/p/C7Rt
+ PhRNbvy/?igsh=MXU5enAybDhuYnM0aw%3D%3D":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scruffy Jam
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240827
+UID:2343399
+DESCRIPTION:<p>SCRUFFY JAM in Brighton this August‼️<br>\nWe got compe
+ titions\, we got hacky sacks\, we got prizes. Come hang out with all the h
+ omies and slap some walls!</p>
+LOCATION:Madeira Dr\, Brighton BN2 1TW\, UK
+ORGANIZER;CN="Scruffy Boys";PHONE=;WEBSITE="https://www.instagram.com/p/C7
+ RtPvCteDb/?igsh=MTJiZHE2ajV0c2prMg%3D%3D":MAILTO:
+END:VEVENT
 END:VCALENDAR
