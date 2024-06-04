@@ -1529,7 +1529,22 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://www.parkour-erf
  urt.de/jams/open-airfurt-2024":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Parkour Camp 2024
+SUMMARY:Htown Jam S3
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240708
+UID:2334229
+DESCRIPTION:<p>This year we are going back to basics and happily inviting 
+ you to spend a weekend with us and our community in Hanover.</p>\n<p>This 
+ year everyone will be responsible for their own food and accommodation.</p
+ >\n<p>We will be jamming\, jumping from bridges and building a rope swing.
+ </p></br>\n<p>Join the Whatsappgroup <a rel="noopener noreferrer" target="
+ _blank" href="http://chat.whatsapp.com/EOlsau7AtDj9tuFR9drCtD"><strong>her
+ e</strong></a>.</p>
+LOCATION:Ernst-August-Platz 1\, 30159 Hannover\, Germany
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Camp Gütersloh 2024
 DTSTART;VALUE=DATE:20240712
 DTEND;VALUE=DATE:20240715
 UID:2334213
@@ -1543,6 +1558,25 @@ DESCRIPTION:<p>On Friday\, 12 July\, the Parkour Camp will take place for
 LOCATION:Ahornallee 46\, 33330 Gütersloh\, Germany
 ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de/reg
  istration":MAILTO:info@parkourcamp.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravity Sucks Jam 2024
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240715
+UID:2369643
+DESCRIPTION:<p>Another Year Gravity is happening:) &nbsp\;</p></br>\n<p>Th
+ is time we got for you sleeping places for Friday and Saturday as well as 
+ two breakfasts and dinner. There will be two setups in total\, one in Die 
+ Halle and a setup specially designed by Ben Carmody in the Gleishalle. &nb
+ sp\;We will also have PK-Chats to exchange ideas and values\, Parkour Work
+ shops from our invited athletes \,massages from physios and a Afterparty i
+ n the Gleishalle</p></br>\n<p>Price: 50€</p>\n<p>Accomodation: included<
+ /p>\n<p>Food: all inclusive</p></br>\n<p>Sing up <a rel="noopener noreferr
+ er" target="_blank" href="https://www.diehalle.hamburg/events/gravity-suck
+ s"><strong>here</strong></a>.</p>
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://www.diehalle.hamb
+ urg/events/gravity-sucks":MAILTO:biko.ruland@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beam Me Up Spotty Jam
