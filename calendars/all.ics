@@ -3930,6 +3930,43 @@ LOCATION:Helsinki\, Finland
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adapt
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240701
+UID:2383990
+DESCRIPTION:<p>ADAPT - FREERUN Get ready to ADAPT yourself to the obstacle
+ s of Enschede! Join us on the 29th and 30th of June 2024 in Enschede for a
+  weekend packed with parkour challenges and street culture. The exact loca
+ tion of the competition will be announced later! It will be in Enschede.&n
+ bsp\;</p></br>\n<p>IMPORTANT INFORMATION: The event mainly takes place out
+ doors! Consequently\, we have decided to set the minimum age to 14 years o
+ ld. The weekend consists out of a skill competition and a style competitio
+ n. You will be provided with a map with a hundred different skill challeng
+ es\, ranging in difficulty from Easy\, Intermediate\, Advanced and NBD (Ne
+ ver Been Done). Additionaly some water challenges may be included in this 
+ event\, so be sure to bring an extra pair of shoes! You will have eight ho
+ urs to complete as many challenges as you'd like. The details of the sched
+ ule can be found below\, keep in mind\, these are subject to change. The s
+ tyle comp will take place all over Enschede. We chose for a different form
+ at than usual for our style competition. You can either decide to tackle t
+ his competition alone or in a team. You will have Sunday to film a parkour
+  video. The format of this video is free\, it can be filmed anywhere withi
+ n our set out competition area. You will have to edit and submit your vide
+ o before 3 PM\, where we will watch and judge it together in the Elevation
+  Academy. More information on this later! The full weekend tickets include
+  a spot to sleep\, however\, you will need to bring your own sleeping supp
+ lies\, there is limited space for hammocks\, and plenty of space for airma
+ trasses. Food is not included\, however\, both the event terrain and the s
+ leeping spot has supermarkets within walking distance. Both places are rea
+ chable with public transport. The event includes access to the Elevation F
+ reerun Academy\, check the schedule to see when it is opened for athletes.
+ </p></br>\n<p>Price: 35€</p>\n<p>Accomodation: Yes\, but bring own sleep
+ ing bag or hammock</p>\n<p>Food: not included</p>
+LOCATION:Hoge Bothofstraat 49\, 7511 ZA Enschede\, Netherlands
+ORGANIZER;CN="Elevation Freerun";PHONE=;WEBSITE="https://elevationacademy.
+ nl/adaptxelevation/":MAILTO:Larsdamink@outlook.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Xjam Summer 24
 DTSTART;VALUE=DATE:20240704
 DTEND;VALUE=DATE:20240708
@@ -4193,12 +4230,17 @@ SUMMARY:Disorganized Mob Jam
 DTSTART;VALUE=DATE:20240803
 DTEND;VALUE=DATE:20240805
 UID:2284095
-DESCRIPTION:<p>Keeping it disorganized&nbsp\;</p><br><p>Just a big family 
- gathering\, including Streetsessions\, hang arounds\, sleeping at one of t
- he many lakes (in the best case -&gt\; therefore bring hammock and tents o
- r whatever) &nbsp\;</p><br><p>(Reach out for us via Insta (@disorganizedmo
- b) so you can join the what’s app group)</p><br><p>Price: free</p><p>Acc
- omodation: outside in hammocks/tents</p><p>Food: not included</p>
+DESCRIPTION:<p>We're delivering the finest street ballet.</p></br>\n<p>Be 
+ ready for some mad jam vibes in the parkour mecca Leipzig.</p>\n<p>You'll 
+ find big street spots with endless possibilities\, cliffs to jump from\, a
+ nd wildcamping you'll want to share on Pinterest afterward.</p>\n<p>You're
+  in good hands.</p>\n<p>The main goal is to create a balanced session vibe
+ \, that deliberately goes without challenges or competitions. You are what
+  matters to us. The jam will thrive because we'll all look out for each ot
+ her. When everyone thinks of everyone\, everyone gets a lot of thoughts.</
+ p></br>\n<p>(Reach out for us via Insta (@disorganizedmob) so you can join
+  the what’s app group)</p></br>\n<p>Price: free</p>\n<p>Accomodation: ou
+ tside in hammocks/tents</p>\n<p>Food: not included</p>
 GEO:51.3396955;12.3730747
 LOCATION:Leipzig\, Germany
 ORGANIZER;CN="Disorganized Mob";PHONE=;WEBSITE=:MAILTO:niklas-mariss@gmx.d
