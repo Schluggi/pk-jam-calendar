@@ -185,4 +185,22 @@ GEO:50.0755381;14.4378005
 LOCATION:Prague\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brno Takeover 2024
+DTSTART;VALUE=DATE:20240713
+DTEND;VALUE=DATE:20240715
+UID:2385609
+DESCRIPTION:<p>For this year Jakub decided to do a takeover instead of reg
+ ular jam. There will be 100 challenges around the city. Participation is v
+ oluntary and it's free\, so it's up to you how much you want to compete. S
+ leeping will be possible in the In Motion Academy. You have to manage your
+  food on your own but you can put something on the grill in the evening. F
+ or more info check the event on Instagram. To stay updated join the WhatsA
+ pp group<a rel="noopener noreferrer" target="_blank" href="https://chat.wh
+ atsapp.com/BbThAQb3LeuCpaEph9SHOS"> here</a>.</p></br>\n<p>Price: free</p>
+ \n<p>Food: not included</p>\n<p>Accomodation: In Motion Academy</p>
+LOCATION:Brno\, Czechia
+ORGANIZER;CN="Jakub Novotný";PHONE=;WEBSITE="https://www.instagram.com/p/
+ C8AYqNMtqoY/?igsh=MW53bXQ3MjlpcnY4Yg==":MAILTO:jacobenovotny@seznam.cz
+END:VEVENT
 END:VCALENDAR

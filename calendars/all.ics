@@ -4083,14 +4083,17 @@ DESCRIPTION:<p>BEAM ME UP SPOTTY enters it's third round. We will enjoy th
  e best Parkour Spots in Wolfsburg and will also have a gymnastics gym sess
  ion afterwards\, next to where we will sleep. We hope to see new faces and
   have this year an even greater jam than last year. More infos you will re
- ceive on instagram: @orbitfreerun. See you soon!</p><br><p>Join the whatsa
- pp group for all information <a rel="noopener noreferrer" target="_blank" 
- href="https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt"><strong>here</stro
- ng></a>.</p><br><p>Price: 10€ per night</p><p>Food: not included</p><p>A
- ccomodation: We have a lot of space</p>
+ ceive on instagram: @orbitfreerun. See you soon!</p></br>\n<p>Join the wha
+ tsapp group for all information <a rel="noopener noreferrer" target="_blan
+ k" href="https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt"><strong>here</s
+ trong></a>.</p></br>\n<p>And here's the <a rel="noopener noreferrer" targe
+ t="_blank" href="https://forms.gle/aVyeKCUcWvAaVWNm8"><strong>sign up form
+ </strong></a>.</p></br>\n<p>Price: 10€ per night</p>\n<p>Food: not inclu
+ ded</p>\n<p>Accomodation: We have a lot of space</p>
 GEO:52.4226503;10.7865461
 LOCATION:Wolfsburg\, Germany
-ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE=:MAILTO:orbitfreerun@gmail.com
+ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE="https://forms.gle/aVyeKCUcWvA
+ aVWNm8":MAILTO:orbitfreerun@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ceci N'Est Pas Un Stick
@@ -4117,6 +4120,24 @@ GEO:51.0500182;3.7303351
 LOCATION:Ghent\, Belgium
 ORGANIZER;CN="Flow De Gand";PHONE=;WEBSITE="https://www.flowdegand.be/ceci
  -n-est-pas-un-stick":MAILTO:niels@flowdegand.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brno Takeover 2024
+DTSTART;VALUE=DATE:20240713
+DTEND;VALUE=DATE:20240715
+UID:2385609
+DESCRIPTION:<p>For this year Jakub decided to do a takeover instead of reg
+ ular jam. There will be 100 challenges around the city. Participation is v
+ oluntary and it's free\, so it's up to you how much you want to compete. S
+ leeping will be possible in the In Motion Academy. You have to manage your
+  food on your own but you can put something on the grill in the evening. F
+ or more info check the event on Instagram. To stay updated join the WhatsA
+ pp group<a rel="noopener noreferrer" target="_blank" href="https://chat.wh
+ atsapp.com/BbThAQb3LeuCpaEph9SHOS"> here</a>.</p></br>\n<p>Price: free</p>
+ \n<p>Food: not included</p>\n<p>Accomodation: In Motion Academy</p>
+LOCATION:Brno\, Czechia
+ORGANIZER;CN="Jakub Novotný";PHONE=;WEBSITE="https://www.instagram.com/p/
+ C8AYqNMtqoY/?igsh=MW53bXQ3MjlpcnY4Yg==":MAILTO:jacobenovotny@seznam.cz
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Streets Jam Ulm
