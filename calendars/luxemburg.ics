@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Speedrun Luxemburg (Lxsr)
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240720
+UID:2400854
+DESCRIPTION:<p>Join us for the first Parkour Speedrun Competition in Luxem
+ burg!💪 Parkour\, Games\, Food\, Drinks\, Music &amp\; more! &nbsp\;You 
+ can participate with your friends as a team or solo and win great prizes! 
+ Over the day there will be the Speedrun Competition\, a Volleyball match\,
+  Youthgames(Parkour meets Drinks🫣) and in the evening join us for the b
+ ig afterparty! Bring your tent or hammock to camp the nights before and af
+ ter the event at the place! (19.07-21.07) &nbsp\;Come and enjoy a Weekend 
+ with the parkour community of Luxemburg!</p></br>\n<p>Price: 10€</p>\n<p
+ >Accomodation: Camping the nights before and after the event possible (for
+  free\, bring your own tent/hammock)</p>\n<p>Food: not included</p></br>\n
+ <p>Sign up <a rel="noopener noreferrer" target="_blank" href="https://www.
+ lxparkourevents.lu/lxsr-speedrun/"><strong>here</strong></a>.</p>
+LOCATION:1 Am Hafen\, 5447 Schwebsange Schengen\, Luxembourg
+ORGANIZER;CN="LXPE & Kaizen Parkour Academy a.s.b.l.";PHONE=;WEBSITE="http
+ s://www.lxparkourevents.lu/lxsr-speedrun/":MAILTO:lxpe@kpa.lu
+END:VEVENT
+END:VCALENDAR

@@ -152,4 +152,20 @@ LOCATION:Rome\, Italy
 ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
  0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Parkour Week Summer Edition
+DTSTART;VALUE=DATE:20240918
+DTEND;VALUE=DATE:20240923
+UID:2400856
+DESCRIPTION:<p>International Parkour Week Summer edition is a 5 days event
+ \, 3 days of workshops held by Yasmine Ouadi and Oliver Thorpe\, jams\, 1 
+ day of beach excursion and 1 special day. The event take place in Cagliari
+ \, which is a city in the Mediterranean\, so you can train and then easily
+  go to the beach. Visite out ig page and our website to know more. (we als
+ o have discounts for groups!)</p></br>\n<p>Price: 650€</p>\n<p>Accomodat
+ ion: included</p>\n<p>Food: all inclusive</p>
+LOCATION:Metropolitan City of Cagliari\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=www.parkourweek.com:MAILTO:internationalparko
+ urweek@gmail.com
+END:VEVENT
 END:VCALENDAR
