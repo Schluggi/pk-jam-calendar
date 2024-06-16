@@ -242,4 +242,25 @@ GEO:43.5259422;-1.5228617
 LOCATION:La Barre\, Anglet\, France
 ORGANIZER;CN="Acro’Feel";PHONE=;WEBSITE=:MAILTO:acrofeel@live.fr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Session Miramas
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240708
+UID:2403532
+DESCRIPTION:<p>It's a big Festival where we build obstacles and structures
+  with pallets and scaffolding. Participants can move on this structures or
+  move in the city. It's absolutely free and there is no competition. &nbsp
+ \;There will be initiations\, concerts\, parkour games\, challenges. Sever
+ al accommodations are available\, including a gym and the "Traceur camp". 
+ All free. A dining area has been designed\, offering food and drinks for a
+  small price. Including vegetarian and vegan options. &nbsp\;During this e
+ vent we plan to hold debates about some subjects. Last year\, wwo of them 
+ was the institutionalization of Parkour (federation\, association\, compet
+ ition\, shows\, etc...) and the inclusivity in parkour. Come and discover 
+ those of this year!</p></br>\n<p>Price: free</p>\n<p>Accomodation: gym or 
+ camping</p>\n<p>Food: not included</p>
+LOCATION:8 Av. Daniel Paul\, 13140 Miramas\, France
+ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
+ .com/":MAILTO:parkour-miramas@hotmail.fr
+END:VEVENT
 END:VCALENDAR

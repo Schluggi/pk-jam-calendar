@@ -4025,6 +4025,27 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://streetmedia.store/product
  s/sm-social-v2-entry-ticket":MAILTO:HQ@streetmedia.store
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Session Miramas
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240708
+UID:2403532
+DESCRIPTION:<p>It's a big Festival where we build obstacles and structures
+  with pallets and scaffolding. Participants can move on this structures or
+  move in the city. It's absolutely free and there is no competition. &nbsp
+ \;There will be initiations\, concerts\, parkour games\, challenges. Sever
+ al accommodations are available\, including a gym and the "Traceur camp". 
+ All free. A dining area has been designed\, offering food and drinks for a
+  small price. Including vegetarian and vegan options. &nbsp\;During this e
+ vent we plan to hold debates about some subjects. Last year\, wwo of them 
+ was the institutionalization of Parkour (federation\, association\, compet
+ ition\, shows\, etc...) and the inclusivity in parkour. Come and discover 
+ those of this year!</p></br>\n<p>Price: free</p>\n<p>Accomodation: gym or 
+ camping</p>\n<p>Food: not included</p>
+LOCATION:8 Av. Daniel Paul\, 13140 Miramas\, France
+ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
+ .com/":MAILTO:parkour-miramas@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Htown Jam S3
 DTSTART;VALUE=DATE:20240706
 DTEND;VALUE=DATE:20240708
@@ -4385,7 +4406,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scruffy Jam
 DTSTART;VALUE=DATE:20240823
-DTEND;VALUE=DATE:20240827
+DTEND;VALUE=DATE:20240826
 UID:2343399
 DESCRIPTION:<p>SCRUFFY JAM in Brighton this August‼️<br>\nWe got compe
  titions\, we got hacky sacks\, we got prizes. Come hang out with all the h
