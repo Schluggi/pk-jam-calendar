@@ -1529,6 +1529,27 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://www.parkour-erf
  urt.de/jams/open-airfurt-2024":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Birthday Jam - Mannheim
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240701
+UID:2419856
+DESCRIPTION:<p>Born out of Dennis Korra's idea to have a good training ses
+ sion on his birthday\, the Mannheim Birthday Jam has grown over the last 4
+  years. No frills\, no frippery - just a lot of training\, exploring the a
+ mazing spots of Mannheim\, seeing old and new faces and sharing a lot of g
+ ood vibes. An oldschool jam like it's written in the book! &nbsp\;If this 
+ sounds like a successful weekend to you\, then feel warmly invited to come
+  to Mannheim. In the WhatsApp group you can find out everything else and h
+ elp Dennis keep an overview:&nbsp\;</p></br>\n<p><a rel="noopener noreferr
+ er" target="_blank" href="https://chat.whatsapp.com/ErcoURW93JfCJkx3WuhiOY
+ ">https://chat.whatsapp.com/ErcoURW93JfCJkx3WuhiOY</a></p></br>\n<p>Price:
+  free</p>\n<p>Accomodation: sleeping at the river in hammocks (bring your 
+ own)</p>\n<p>Food: not included</p>
+LOCATION:C5 1\, 68159 Mannheim\, Germany
+ORGANIZER;CN="Dennis Korra";PHONE=;WEBSITE="https://chat.whatsapp.com/Erco
+ URW93JfCJkx3WuhiOY":MAILTO:info@dennis-korra.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Htown Jam S3
 DTSTART;VALUE=DATE:20240706
 DTEND;VALUE=DATE:20240708
