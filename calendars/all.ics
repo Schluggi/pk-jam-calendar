@@ -4241,6 +4241,34 @@ ORGANIZER;CN="LXPE & Kaizen Parkour Academy a.s.b.l.";PHONE=;WEBSITE="http
  s://www.lxparkourevents.lu/lxsr-speedrun/":MAILTO:lxpe@kpa.lu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Munich Is Burning Jam
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240729
+UID:2435105
+DESCRIPTION:<p><strong>MUNICH IS BURNING JAM* IS BACK!</strong></p></br>\n
+ <p>We found a new sleeping spot (RIP Kraftigarden) so we’re very happy t
+ o finally announce this years MIB Jam + Chill comp!</p></br>\n<p>Happening
+  from 26.-28. July\, we hope to see many familiar and new faces!</p></br>\
+ n<p>This time we’ll have 3 days of jam and many new spots planned\, as a
+ lways we’ll have plenty of water jumps and rope swing action and of cour
+ se our Chill Comp\, where we combine tiny and big parkour challenges with 
+ some tekky and fun non parkour challenges to entertain everyone!</p></br>\
+ n<p>We have a circus tent as sleeping spot and evening chill out space!</p
+ ></br>\n<p>The jam is free\, just the sleeping spot costs 5€ per night!<
+ /p></br>\n<p>Reach out to us if you have any questions! :)</p>\n<p>Aftermo
+ vie from the last years are up on our youtube channel!</p></br>\n<p>Join t
+ he Whatsappgroup <a rel="noopener noreferrer" target="_blank" href="https:
+ //chat.whatsapp.com/E7QevCzDxrC3pGO8ftwtgt"><strong>here</strong></a>.</p>
+ </br>\n<p>Hope to see you soon\, your matttma unorganisation team! ❤️<
+ /p></br>\n<p>Price: free jam\, sleeping place 5€ per night</p>\n<p>Accom
+ odation: in a circus tent\, bring mattresses and sleeping bags!</p>\n<p>Fo
+ od: not included</p></br>\n<p>(*It’s a private meeting\, 18+ years\, mes
+ sage us if you’re younger than that)</p>
+LOCATION:Munich\, Germany
+ORGANIZER;CN="Lisa & Mat";PHONE=;WEBSITE=www.matttma.de:MAILTO:matttma@gmx
+ .de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rad Jam 2
 DTSTART;VALUE=DATE:20240727
 DTEND;VALUE=DATE:20240729
