@@ -258,6 +258,21 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://streetmedia.store/product
  s/sm-social-v2-entry-ticket":MAILTO:HQ@streetmedia.store
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sheffield Takeover
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240722
+UID:2438570
+DESCRIPTION:<p>The original Parkour Takeover Event\, back in Sheffield.</p
+ ></br>\n<p>Full event details coming soon on their instagram page @parkour
+ takeoverleague</p></br>\n<p>Price: 30£\, 5£ discount using code IBOOKAHE
+ AD</p></br>\n<p>Buy your tickets <a rel="noopener noreferrer" target="_bla
+ nk" href="https://www.parkourtakeoverleague.com"><strong>here</strong></a>
+ .</p>
+LOCATION:Sheffield\, UK
+ORGANIZER;CN="Parkour Takeover League";PHONE=;WEBSITE="https://www.parkour
+ takeoverleague.com":MAILTO:pktoleague@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Axis Jam - Birmingham
 DTSTART;VALUE=DATE:20240727
 DTEND;VALUE=DATE:20240727
