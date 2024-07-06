@@ -1625,22 +1625,27 @@ SUMMARY:Streets Jam Ulm
 DTSTART;VALUE=DATE:20240719
 DTEND;VALUE=DATE:20240722
 UID:2243295
-DESCRIPTION:<p>Official jam: 19-21.07.2023&nbsp\;</p><br><p>State-sponsore
- d bathing & boozing at the Nabada: 24.07.2023</p><br><p>A weekend of conti
- nuous sporting party :D&nbsp\;</p><p>Mark it in your calendar\, write it o
- n your forearm or the neighbour's dog\, the main thing is that you'll be t
- here! &nbsp\;</p><br><p>You can expect: A beautiful garden with Bar Set up
-  + trampoline&nbsp\;</p><p>- Overnight OVERCOVERED and INCLUDING BED for 2
- 0 participants (for all other people there is enough space for tents and s
- leeping bags on the site)</p><p>- FUNCTIONING SANITARY FACILITIES</p><p>- 
- Breakfast and snacks&nbsp\;</p><p>- Grill&Chill&nbsp\;</p><p>- Spot tour U
- lm &nbsp\;</p><p>- Holy legal garden grass</p><br><p>We can't tell you yet
-  how much the fun will cost\, it depends on our negotiating skills with sp
- onsors and scaffolding suppliers.You will get this and further information
-  in time in our official WhatsApp group! &nbsp\;See you then :D!</p>
+DESCRIPTION:<p>Official jam: 19-21.07.2023&nbsp\;</p></br>\n<p>State-spons
+ ored bathing &amp\; boozing at the Nabada: 24.07.2023</p></br>\n<p>A weeke
+ nd of continuous sporting party :D&nbsp\;</p>\n<p>Mark it in your calendar
+ \, write it on your forearm or the neighbour's dog\, the main thing is tha
+ t you'll be there! &nbsp\;</p></br>\n<p>You can expect: A beautiful garden
+  with Bar Set up + trampoline&nbsp\;</p>\n<p>- Overnight OVERCOVERED and I
+ NCLUDING BED for 20 participants (for all other people there is enough spa
+ ce for tents and sleeping bags on the site)</p>\n<p>- FUNCTIONING SANITARY
+  FACILITIES</p>\n<p>- Breakfast and snacks&nbsp\;</p>\n<p>- Grill&amp\;Chi
+ ll&nbsp\;</p>\n<p>- Spot tour Ulm &nbsp\;</p>\n<p>- Holy legal garden gras
+ s</p></br>\n<p>Hey jo\, Könntest du im Jamkalender bei der Ulmjam die Tic
+ ket-Infos noch reinpacken:</p></br>\n<p>Price normal Jam-Ticket:</p>\n<p>1
+  day – 10€</p>\n<p>2 days – 20€</p>\n<p>3 days – 25€</p></br>\
+ n<p>Upgrade PREMIUM Jam-Ticket (inkl. Jam-T-Shirt\; only available until 0
+ 7.07.2024):</p>\n<p>Jam-Ticket price + 29\,99€</p></br>\n<p>Get your tic
+ ket <a rel="noopener noreferrer" target="_blank" href="https://www.streets
+ -ev.de/parkour-jam-ulm/">here</a>.</p>
 GEO:48.38696969999999;9.9592634
 LOCATION:Kuhberg\, Neunkirchenweg\, Ulm\, Germany
-ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE=:MAILTO:streets.ev@yahoo.com
+ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/park
+ our-jam-ulm/":MAILTO:streets.ev@yahoo.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Munich Is Burning Jam
@@ -1693,6 +1698,20 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://www.diehalle.hamb
  urg/events/rad-jam?fbclid=IwZXh0bgNhZW0CMTAAAR2HJuIwWDguxdZAA6g0Eozn6oeXpk
  WxFEjz9MVZ520kMjQ2bxmeqb20wNY_aem_AaSeU3777uTdkcdaEkH0Xhd4KKzcvaQOeJ8R_Ekc
  RNNUimjYGqNdjJQP7jcQY2fxwpiS-2ovlA0n0Vk56nVcGuyt":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Jam Coburg
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240729
+UID:2449141
+DESCRIPTION:<p>First Jam in Coburg\, fresh opened Parkour-Park\, sweet lit
+ tle City Spots\, Gym with Airtrack. Small live Rock Conzert on Saturday an
+ d Garden-Party. Space for around 30 people to sleep. Bring your own food\,
+  Breakfast for Sunday can be preordered.</p></br>\n<p>Price: free</p>\n<p>
+ Accomodation: ask us</p>\n<p>Food: not included</p>
+LOCATION:Benno-Benz-Anlage\, Karchestraße 2\, 96450 Coburg\, Germany
+ORGANIZER;CN="Coburger Turnerschaft 1861 e.V.";PHONE=;WEBSITE=:MAILTO:park
+ ourcoburg@outlook.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disorganized Mob Jam
