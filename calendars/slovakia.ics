@@ -33,6 +33,31 @@ ORGANIZER;CN="@slovenskaparkourscenaexistuje & @feztmind";PHONE=;WEBSITE=:
  MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Big Street Session
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240719
+UID:2473775
+DESCRIPTION:<p>We invite &nbsp\;you to this EVENT of ours! Take your crew\
+ , team\, family\, acquaintances &nbsp\;and friends to a well-known place a
+ t the Sunny Lakes and experience the &nbsp\;atmosphere of the parkour comp
+ etition in our city - Senec. As usual\, you &nbsp\;can look forward to spe
+ cial guests who will decide for the best PKFR &nbsp\;STYLE in Slovakia 
+ 😎<br>\n<br>\n3.8. 2024 is the day when we will meet again &nbsp\;at Gar
+ denka after a year and compete together in a very strong\, &nbsp\;energeti
+ c atmosphere.<br>\n<br>\nWe will compete in two categories (younger &nbsp\
+ ;up to 14 years\, older than 15 years men and women) and in two &nbsp\;dis
+ ciplines (SPEED RUN and STYLE). The draw of this year will be main &nbsp\;
+ prizes in the form of PRIZE MONEY 🤑<br>\n<br>\nYou can find more inform
+ ation about the event along with the registration in the link (limited spo
+ ts).<br>\n<br>\n👉 <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://bigstreetproject.sk/big-street-session/ ">https://bigstreetproject.s
+ k/big-street-session/ </a>👈</p></br>\n<p>Price: 30€</p>\n<p>Accomodat
+ ion: with sign up yes\, limited space</p>
+LOCATION:Slnečné jazerá - sever\, 903 01 Senec\, Slovakia
+ORGANIZER;CN="Big street project";PHONE=;WEBSITE="https://bigstreetproject
+ .sk/big-street-session/":MAILTO:tomas@bigstreetproject.sk
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spe Fzt
 DTSTART;VALUE=DATE:20240823
 DTEND;VALUE=DATE:20240826

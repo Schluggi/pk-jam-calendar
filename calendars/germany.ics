@@ -1819,6 +1819,41 @@ ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=Parkour-Kiel.de:MAILTO:ParkourK
  iel@gmx.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Die Schøne Jam
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240909
+UID:2473772
+DESCRIPTION:<p>GERMAN &nbsp\;</p>\n<p>&gt\;&gt\; "Schon gehört? Die Schø
+ nen sind zurück und veranstalten eine eigene Jam?" &nbsp\;</p>\n<p>&lt\;&
+ lt\; "Da brat mir doch einer nen Frosch\, das glaub ich ja nicht. Nach all
+  den Jahren ist es endlich so weit!" &nbsp\;</p>\n<p>&gt\;&gt\; "Ja\, und 
+ das beste daran\, das wird richtig süße\, kleine Jam\, mit vielen Jumps 
+ in der City\, immakulären Vibes und Übernachtung am See!" &nbsp\;</p>\n<
+ p>&lt\;&lt\; "Oha\, na da kostet das Ticket bestimmt über 100 Tacken\, od
+ er?" &nbsp\;</p>\n<p>&gt\;&gt\; "Nein nein mein Freund\, die Jam ist koste
+ nlos\, komm einfach in die WhatsApp Gruppe und hol dir da alle Infos ab!" 
+ &nbsp\;</p>\n<p>&lt\;&lt\; "Na da kannst du dich drauf verlassen! Und ich 
+ lad direkt alle meine Freunde und Familie ein\, das sollte niemand verpass
+ en." &nbsp\;</p></br>\n<p>ENGLISH &nbsp\;&gt\;&gt\; "Hey\, did you hear ab
+ out Die Schønen? They're back and this time with their own jam!" &nbsp\;<
+ /p>\n<p>&lt\;&lt\; "Well someone fry me a frog\, I can't believe it! After
+  all this time?" &nbsp\;</p>\n<p>&gt\;&gt\; "Heck yeah\, and the best thin
+ g is that this will be a cute\, little jam\, with a lot of jumps in the ci
+ ty\, immaculate vibes and sleeping at a lake!" &nbsp\;</p>\n<p>&lt\;&lt\; 
+ "Gosh that sounds too good to be true\, the tickets must be 100 Euros at l
+ east?" &nbsp\;</p>\n<p>&gt\;&gt\; "You are wrong my friend\, the jam is fr
+ ee\, just join the WhatsApp group and get all the infos there!" &nbsp\;</p
+ >\n<p>&lt\;&lt\; "You better believe that I'll do that right away\, and I'
+ ll tell all my friends and family about it so they all can join this aweso
+ me event as well!"</p></br>\n<p>Price: free</p>\n<p>Accomodation: Hammocks
+ /tents at the lake</p>\n<p>Food: not included</p></br>\n<p>Join the Whatsa
+ pp Group <a rel="noopener noreferrer" target="_blank" href="https://chat.w
+ hatsapp.com/Gc02QQRbw2PDGN9JPPerXs">here</a>.</p>
+LOCATION:01 Dresden\, Germany
+ORGANIZER;CN="Die Schønen";PHONE=;WEBSITE="https://chat.whatsapp.com/Gc02
+ QQRbw2PDGN9JPPerXs":MAILTO:email@aegerter.tech
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gefam X Kipa Jam
 DTSTART;VALUE=DATE:20240913
 DTEND;VALUE=DATE:20240916
