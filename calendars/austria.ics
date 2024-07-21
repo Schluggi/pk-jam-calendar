@@ -420,4 +420,19 @@ GEO:47.070714;15.439504
 LOCATION:Graz\, Austria
 ORGANIZER;CN="Urban Playground Graz";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20240824
+DTEND;VALUE=DATE:20240826
+UID:2475872
+DESCRIPTION:<p>Parkour Jam &amp\; Contest at the parkour park. Scaffolding
+ \, pallet park and airtrack will also be set up. Start is Saturday at 10.0
+ 0am and the style contest starts at 1.00pm. For youth (from 12 years to 16
+  years male and female from 16 years. Jamming until it gets dark. On Sunda
+ y there will be a small skill contest for kids (born 2013 and younger) The
+  jam ends on Sunday at about 15.00h.</p></br>\n<p>Price: free</p>\n<p>Food
+ : not included</p>\n<p>Accomodation: message organizer via email</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
 END:VCALENDAR

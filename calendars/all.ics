@@ -4524,6 +4524,21 @@ ORGANIZER;CN="Scruffy Boys";PHONE=;WEBSITE="https://www.instagram.com/p/C7
  RtPvCteDb/?igsh=MTJiZHE2ajV0c2prMg%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20240824
+DTEND;VALUE=DATE:20240826
+UID:2475872
+DESCRIPTION:<p>Parkour Jam &amp\; Contest at the parkour park. Scaffolding
+ \, pallet park and airtrack will also be set up. Start is Saturday at 10.0
+ 0am and the style contest starts at 1.00pm. For youth (from 12 years to 16
+  years male and female from 16 years. Jamming until it gets dark. On Sunda
+ y there will be a small skill contest for kids (born 2013 and younger) The
+  jam ends on Sunday at about 15.00h.</p></br>\n<p>Price: free</p>\n<p>Food
+ : not included</p>\n<p>Accomodation: message organizer via email</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Uga Berlin
 DTSTART;VALUE=DATE:20240830
 DTEND;VALUE=DATE:20240902
@@ -4642,6 +4657,59 @@ GEO:47.2692124;11.4041024
 LOCATION:Innsbruck\, Austria
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/nature-jam":MAILTO:info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asfalt Style Competition
+DTSTART;VALUE=DATE:20240921
+DTEND;VALUE=DATE:20240923
+UID:2475874
+DESCRIPTION:<p>On September 21st and 22nd\, Ghent will host an exciting in
+ ternational parkour competition\, featuring some of the world’s best ath
+ letes. Watch as they throw down the sickest lines and tricks against the b
+ eautiful backdrop of Houtdok.</p></br>\n<p><strong>Free Entry:</strong> Op
+ en to everyone over 16\, but you must register in advance.</p></br>\n<p><s
+ trong>Competition Format:</strong></p>\n<ul>\n  <li><strong>Best line\, be
+ st combo\, best trick</strong></li>\n  <li><strong>During the qualifiers t
+ he participants will be judged on both a line and a combo. During the fina
+ l they'll have to perform a different line and a big trick.</strong></li>\
+ n  <li>Max duration of lines: 20 seconds\, aim for 10-15 seconds.</li>\n  
+ <li>Definition of a line: A concatenation of moves. It's up to the partici
+ pant to choose how flip/parkour heavy or experimental he/she wants to make
+  it. The judging criteria are listed below.</li>\n  <li>Definition of comb
+ o: 2 or 3 consecutive moves that are linked together without any steps (ex
+ cept for the start of a move)\, this will be made clear at the start of th
+ e event with a couple of examples.</li>\n  <li>Creativity as main judging 
+ criteria</li>\n</ul>\n<p><strong>Judging Criteria:</strong></p>\n<ul>\n  <
+ li><strong>Creativity:</strong> Innovative and unique movements.</li>\n  <
+ li><strong>Execution:</strong> Precision and control.</li>\n  <li><strong>
+ Flow/Connection:</strong> Seamless transitions between moves.</li>\n  <li>
+ <strong>Spot Interaction:</strong> Effective use of the environment.</li>\
+ n</ul>\n<p><strong>Timetable</strong>:</p>\n<ul>\n  <li>Friday: 18-23h -&g
+ t\; Athletes can explore the set-up</li>\n  <li>Saturday: 9h-13h -&gt\; Pr
+ ep time for preliminaries\, 13h-16h -&gt\; women's preliminaries\, 16h-19h
+  -&gt\; men's preliminaries</li>\n  <li>Sunday: &nbsp\;12h -13h30 -&gt\; P
+ rep time for finals\, 13h30 - 15h -&gt\; women's finals\, 15h- 16h30 -&gt\
+ ; men's finals\, 16h30 -&gt\; award ceremony</li>\n</ul>\n<p><strong>Prize
+ s</strong>:</p>\n<ul>\n  <li>Prize money: First place = 200 euro\, second 
+ place = 150 euro\, third place= 100 euro.</li>\n  <li>Equal for men's and 
+ women's podium</li>\n  <li>Some extras are to be announced :)</li>\n</ul>\
+ n<p>Our esteemed panel of international judges will ensure a fair and thri
+ lling competition. Whether you're a parkour enthusiast or just curious\, t
+ his event promises to be an inspiring experience for all.</p>\n<p>In addit
+ ion to the competition\, enjoy interactive workshops\, live music\, delici
+ ous food\, and a chance to meet your favorite athletes.</p>\n<p>It’s a c
+ elebration of movement\, culture\, and community.</p>\n<p><strong>Partners
+ </strong>:</p>\n<ul>\n  <li>Gymfed (The competition is part of 'Move')</li
+ >\n  <li>Fast Forward</li>\n</ul>\n<p><strong>Judges:</strong></p>\n<ul>\n
+   <li>Kevin Franzen</li>\n  <li>Joe Scandrett</li>\n  <li>Camila Stefaniu 
+ (TBC)</li>\n</ul>\n<p>Be part of an unforgettable event that will leave yo
+ u inspired.</p>\n<p><strong>See you there!</strong></p></br>\n<p><strong>S
+ ign up </strong><a rel="noopener noreferrer" target="_blank" href="https:/
+ /www.flowdegand.be/events/asfalt-style-competition/form">here</a><strong>.
+ </strong></p>
+LOCATION:Ghent\, Belgium
+ORGANIZER;CN="FLOW DE GAND";PHONE=;WEBSITE="https://www.flowdegand.be/even
+ ts/asfalt-style-competition":MAILTO:info@flowdegand.be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leap - Cologne
