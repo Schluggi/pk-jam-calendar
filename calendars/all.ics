@@ -4539,6 +4539,25 @@ LOCATION:Sankt Martin im Innkreis\, Austria
 ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Centuria Vilnius Street Challenge
+DTSTART;VALUE=DATE:20240824
+DTEND;VALUE=DATE:20240826
+UID:2478294
+DESCRIPTION:<p>Parkour street competition in Vilnius\, Lithuania. Particip
+ ants will have 7 hours to find and complete 100 challenges scattered aroun
+ d the city. Event is +18 only. All collected money goes directly to the pr
+ ize fund. More info and updates: <a rel="noopener noreferrer" target="_bla
+ nk" href="https://fb.me/e/gRMSmJScJ">https://fb.me/e/gRMSmJScJ</a></p></br
+ >\n<p>Food: not included</p>\n<p>Price: 3€</p>\n<p>Accomodation: + 10 Eu
+ r\, limited spots\, <a rel="noopener noreferrer" target="_blank" href="htt
+ ps://www.instagram.com/dovydas.ces/"><strong>DM here on instagram</strong>
+ </a> to get one.</p>
+LOCATION:Vilnius\, Vilnius City Municipality\, Lithuania
+ORGANIZER;CN="Dovydas Česnuitis";PHONE=;WEBSITE="https://manage.wix.com/d
+ ashboard/d447cf22-e7ae-460f-a00d-b407aefc3932/app/13b4a028-00fa-7133-242f-
+ 4628106b8c91?referralInfo=sidebar":MAILTO:dovydas.cesnuitis@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Uga Berlin
 DTSTART;VALUE=DATE:20240830
 DTEND;VALUE=DATE:20240902
