@@ -263,4 +263,21 @@ LOCATION:8 Av. Daniel Paul\, 13140 Miramas\, France
 ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
  .com/":MAILTO:parkour-miramas@hotmail.fr
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wim - For Women And Gender Minorities
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241007
+UID:2506047
+DESCRIPTION:<p>It's a street jam for women and gender minorities. All leve
+ ls are welcome ! &nbsp\;</p></br>\n<p>program : street jam in the local ci
+ ty spots\, workshops\, thematic discussions... &nbsp\;</p></br>\n<p>food :
+  only saturday evening and sunday breakfast &amp\; lunch&nbsp\;</p>\n<p>pr
+ ices :&nbsp\;</p>\n<p>- 5€ food + public transport pass&nbsp\;</p>\n<p>-
+  10€ food + pass + event T-shirt&nbsp\;</p>\n<p>- 15€ food + pass + ac
+ comodation&nbsp\;</p>\n<p>- 25€ food + pass + accomodation + T-shirt &nb
+ sp\;</p></br>\n<p>more info coming soon...</p>
+LOCATION:Grenoble\, France
+ORGANIZER;CN="Women In Motion";PHONE=;WEBSITE="https://www.instagram.com/w
+ im_parkour/":MAILTO:womeninmotion.parkour@gmail.com
+END:VEVENT
 END:VCALENDAR

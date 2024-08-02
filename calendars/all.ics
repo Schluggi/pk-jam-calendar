@@ -4579,6 +4579,20 @@ ORGANIZER;CN="Parkour Berlin e.V:";PHONE=;WEBSITE="https://www.urban-gathe
  ring.com/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:D1Strikt Better Together Jam
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240901
+UID:2505843
+DESCRIPTION:<p>FIRST EVER D1STRIKT EVENT IN GOTHENBURG SWEDEN! 2 DAYS STRE
+ ET JAM\, POP UP STORE\, COMPETITIONS AND AFTER PARTY. MUSIC WILL BE PROVID
+ ED BY YOURS TRULY Q1SOUND. THIS IS AN OPPORTUNITY FOR EVERYONE TO COME TO 
+ OUR SIDE OF SWEDEN AND JAM. YOU WILL ALSO BE ABLE TO GET YOUR HANDS THE NE
+ W D1STRIKT CLOTHES.</p></br>\n<p>Price: free</p>\n<p>Accomodation: not inc
+ luded</p>\n<p>Food: not included</p>
+LOCATION:Gothenburg\, Sweden
+ORGANIZER;CN=D1STRIKT;PHONE=;WEBSITE=:MAILTO:johnlilleman5@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Förde Jam 2024
 DTSTART;VALUE=DATE:20240906
 DTEND;VALUE=DATE:20240909
@@ -4760,5 +4774,22 @@ DESCRIPTION:<p>save the date</p>
 GEO:49.4521018;11.0766654
 LOCATION:Nuremberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wim - For Women And Gender Minorities
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241007
+UID:2506047
+DESCRIPTION:<p>It's a street jam for women and gender minorities. All leve
+ ls are welcome ! &nbsp\;</p></br>\n<p>program : street jam in the local ci
+ ty spots\, workshops\, thematic discussions... &nbsp\;</p></br>\n<p>food :
+  only saturday evening and sunday breakfast &amp\; lunch&nbsp\;</p>\n<p>pr
+ ices :&nbsp\;</p>\n<p>- 5€ food + public transport pass&nbsp\;</p>\n<p>-
+  10€ food + pass + event T-shirt&nbsp\;</p>\n<p>- 15€ food + pass + ac
+ comodation&nbsp\;</p>\n<p>- 25€ food + pass + accomodation + T-shirt &nb
+ sp\;</p></br>\n<p>more info coming soon...</p>
+LOCATION:Grenoble\, France
+ORGANIZER;CN="Women In Motion";PHONE=;WEBSITE="https://www.instagram.com/w
+ im_parkour/":MAILTO:womeninmotion.parkour@gmail.com
 END:VEVENT
 END:VCALENDAR
