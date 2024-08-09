@@ -278,6 +278,16 @@ ORGANIZER;CN="Flow De Gand";PHONE=;WEBSITE="https://www.flowdegand.be/ceci
  -n-est-pas-un-stick":MAILTO:niels@flowdegand.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240902
+UID:2519683
+DESCRIPTION:<p>save the date!</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=Springstof;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Asfalt Style Competition
 DTSTART;VALUE=DATE:20240921
 DTEND;VALUE=DATE:20240923
