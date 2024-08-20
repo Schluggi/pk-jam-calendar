@@ -1924,4 +1924,17 @@ GEO:49.4521018;11.0766654
 LOCATION:Nuremberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laatzener Parkour Camp
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241207
+UID:2539696
+DESCRIPTION:<p>one more Laatzener Parkour Camp! &nbsp\;7.12.24 from 11:00 
+ to 18:00&nbsp\;</p></br>\n<p>2 Gym halls\, Bar set up\, Airtrack\, Cubes a
+ nd more Obstacles. &nbsp\;</p></br>\n<p>Price: free</p>\n<p>Food: Only Bre
+ akfast</p>\n<p>Accomodation: not included</p>
+LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
+ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
+ o.de
+END:VEVENT
 END:VCALENDAR
