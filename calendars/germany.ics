@@ -1925,6 +1925,28 @@ LOCATION:Nuremberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Xdream
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241014
+UID:2542451
+DESCRIPTION:<p>It will be spooktacular! Round five of our Leipzig Parkout 
+ jam! 🎃👻</p></br>\n<p>Parkour and Halloween combined: impossible? We 
+ don’t think so👻🎃&nbsp\;</p></br>\n<p>Get ready for a Parkour jam l
+ ike no other - this October!&nbsp\;</p>\n<p>Calling all thrill-seekers and
+  adrenaline junkies to join us for a spooktacular event.&nbsp\;</p>\n<p>At
+  this jam you will get:&nbsp\;</p>\n<p>- Ghost hunt around Leipzig (spot t
+ our)&nbsp\;</p>\n<p>- Exorcism (live band „The Runnings“)&nbsp\;</p>\n
+ <p>- Magic and witchcraft (workshops)&nbsp\;</p>\n<p>- Burning of the witc
+ hes (sauna)&nbsp\;</p>\n<p>- Magic potions (cocktail bar)&nbsp\;</p>\n<p>-
+  Carving Pumpkins (fruit flatrate) and much more.&nbsp\;</p></br>\n<p>Don'
+ t miss out on the thrills and chills - mark your calendars for a Halloween
+  Parkour jam you won't forget!</p></br>\n<p>Price: 25€</p>\n<p>Accomodat
+ ion: Tent outside</p>\n<p>Food: all included</p>
+LOCATION:04 Leipzig\, Germany
+ORGANIZER;CN="Twio X";PHONE=;WEBSITE="https://twio-x.de/interessierte/even
+ ts/x-dream-2024/#nav":MAILTO:xdream@twio-x.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp
 DTSTART;VALUE=DATE:20241207
 DTEND;VALUE=DATE:20241207
