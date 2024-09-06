@@ -342,8 +342,8 @@ ORGANIZER;CN="FLOW DE GAND";PHONE=;WEBSITE="https://www.flowdegand.be/even
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spotlight 2024
-DTSTART;VALUE=DATE:20240923
-DTEND;VALUE=DATE:20240923
+DTSTART;VALUE=DATE:20240929
+DTEND;VALUE=DATE:20240929
 UID:2565850
 DESCRIPTION:<p>Women focused parkour event with workshops by experienced f
  emale athletes and a connecting jam for women and men.</p></br>\n<p>Accomo
