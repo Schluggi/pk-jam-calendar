@@ -203,4 +203,43 @@ LOCATION:Brno\, Czechia
 ORGANIZER;CN="Jakub Novotný";PHONE=;WEBSITE="https://www.instagram.com/p/
  C8AYqNMtqoY/?igsh=MW53bXQ3MjlpcnY4Yg==":MAILTO:jacobenovotny@seznam.cz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imacon 2024
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241021
+UID:2594795
+DESCRIPTION:<p>IMACON is a three-day event focused on 3 contests before an
+  audience - Skill Contest\, Speed Contest\, and Style Contest. This year\,
+  all contests will be divided into Girls and Adults categories. Judges wil
+ l be announced during September and this year there will be a new judging 
+ technique for the Style Contest\, which records points throughout the comp
+ etition.</p></br>\n<p><strong>SKILL CONTEST</strong></p>\n<p>Qualification
+ s take place on-site by completing challenges. The top 5 competitors advan
+ ce to the finals (including winners from previous years).&nbsp\;Everyone c
+ an participate.</p>\n<p>The finale is divided into <strong>3 setups</stron
+ g>\, where each has several challenges and their execution. Points are col
+ lected for each separately + a bonus for completing in flow.</p></br>\n<p>
+ <strong>SPEED CONTEST</strong></p>\n<p>Qualifications take place on-site w
+ ith one timed run. Anyone can participate.</p>\n<p>In the <strong>final</s
+ trong>\, 6 people in each category run 2 competitive runs.</p></br>\n<p><s
+ trong>STYLE CONTEST</strong></p>\n<p>Qualifications take place through sub
+ mitting an <strong>online video with one flow</strong>. Send the video lin
+ k (Youtube\, Instagram\, or storage link) to the email <strong>produkcija@
+ imacademy.cz by the end of September.</strong> Include your age and full n
+ ame in the video\, and put "IMACON 2024" in the subject of the email.</p>\
+ n<p>On-site we will select one more person\, the so-called "<strong>Wild C
+ ard</strong>".</p>\n<p>In the final\, <strong>6 finalists</strong> for eac
+ h category will each showcase their <strong>one run</strong> to selected m
+ usic.</p>\n<h2><strong>PRICE</strong></h2>\n<p>The entry fee for IMACON is
+  <strong>1\,100 CZK including a T-shirt</strong>.</p>\n<h2><strong>ACCOMMO
+ DATION AND FOOD</strong></h2>\n<p>Accommodation is of course directly at t
+ he In Motion Academy. Overnight stays are on mats and gym mats\, so bring 
+ sleeping bags. There is a possibility to shower in the hall.</p>\n<p>On Sa
+ turday evening\, there will be an opportunity to use the grill in front of
+  the hall. Food is provided by the participants themselves. Supermarkets a
+ nd convenience stores are nearby.</p>
+LOCATION:2\, Na Jarově 2424\, Žižkov\, 130 00 Praha-Praha 3\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/e
+ vent/imacon":MAILTO:
+END:VEVENT
 END:VCALENDAR
