@@ -34,7 +34,7 @@ pyproject-hooks==1.1.0
     #   pip-tools
 python-dateutil==2.9.0.post0
     # via icalendar
-pytz==2024.1
+pytz==2024.2
     # via icalendar
 requests==2.32.3
     # via -r src\requirements.in
