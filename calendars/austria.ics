@@ -435,4 +435,25 @@ DESCRIPTION:<p>Parkour Jam &amp\; Contest at the parkour park. Scaffolding
 LOCATION:Sankt Martin im Innkreis\, Austria
 ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Contest - 4Elements Academy
+DTSTART;VALUE=DATE:20240921
+DTEND;VALUE=DATE:20240921
+UID:2604076
+DESCRIPTION:<p>ÖPFV CONTEST - 21.09.24 in the 4 Elements Acdemy</p></br>\
+ n<p>PROGRAM</p>\n<p>09:00: Induction</p>\n<p>09:30: Briefing</p>\n<p>10:00
+ : Skills competition women\, men and kids</p>\n<p>12:30 -14:00: Lunch brea
+ k</p>\n<p>14:00: Speed competition women\, men and kids</p>\n<p>17:00: Ope
+ n Practice</p>\n<p>18:00: Style competition women\, men and kids</p>\n<p>2
+ 0:30: Award ceremony</p></br>\n<p>SPECIALS</p>\n<p>V AthletX Soft Screenin
+ g for all participants for data collection\, check-up and quality improvem
+ ent in the training process and competitions. Your opportunity to get star
+ ted with a qualitative and professional training concept for parkour.</p><
+ /br>\n<p>If you have any questions\, please contact us at office@lukasstei
+ ner.at</p></br>\n<p>Price: 40€</p>\n<p>Accomodation: not included</p>\n<
+ p>Food: not included (i think)</p>
+LOCATION:Alte Landstraße 21\, 6060 Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at/skills-contest.html":MAILTO:
+END:VEVENT
 END:VCALENDAR
