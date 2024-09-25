@@ -4938,6 +4938,29 @@ ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/e
  vent/imacon":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Convention 2024
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241203
+UID:2637977
+DESCRIPTION:<p>Winter is coming... and our convention\, too! &nbsp\;</p>\n
+ <p>Parkour Convention 2024 30.11.24\, 11-19 Uhr\, free entry Skatehalle Do
+ rtmund no entry for children under 12 years &nbsp\;</p></br>\n<p>This year
+  we got two special coaches: Renae Dambly &amp\; Pedro "Phosky" León Góm
+ ez&nbsp\;</p></br>\n<p>Each one will do two similar workshops for one hour
+  with only 15 participants. &nbsp\;You can join their workshops or do your
+  own free training. Also\, we got a beginner workshop\, when you just star
+ ted with parkour. &nbsp\;</p></br>\n<p>If you want to learn how to film pa
+ rkour\, you can join the camera workshop by Max Vogdt from mvo_productions
+ . &nbsp\;</p></br>\n<p>Surprising new thing this year: we got vegan meal a
+ nd coffee/tea for you\, just for a little donation. &nbsp\;</p>\n<p>Save t
+ he date and see you there!</p></br>\n<p>Price: free</p>\n<p>Accomodation: 
+ not included</p>\n<p>Food: vegan meal + coffee and tea for a little donati
+ on</p>
+LOCATION:Leopoldstraße 50-58\, 44147 Dortmund\, Germany
+ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
+ :MAILTO:info@parkourdortmund.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp
 DTSTART;VALUE=DATE:20241207
 DTEND;VALUE=DATE:20241207
