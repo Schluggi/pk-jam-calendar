@@ -16,7 +16,7 @@ colorama==0.4.6
     # via
     #   build
     #   click
-icalendar==5.0.13
+icalendar==6.0.0
     # via -r src\requirements.in
 idna==3.10
     # via requests
