@@ -4938,6 +4938,23 @@ ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/e
  vent/imacon":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dutch Invasion Jam - Berlin
+DTSTART;VALUE=DATE:20241027
+DTEND;VALUE=DATE:20241027
+UID:2660451
+DESCRIPTION:<p>Sunday\, October 27\, dutch invasion jam in Berlin.&nbsp\;<
+ /p></br>\n<p>With a large group of Dutch freerunners and the Berlin commun
+ ity we will jam that day. &nbsp\;Join the invasion jam\, starting at 12 at
+  Potsdamer Platz or come train with the dutch group the days around the ja
+ m in Berlin.&nbsp\;</p></br>\n<p>So pull up to Berlin for some great vibes
+  and sessions and we‘ll see you there!&nbsp\;</p></br>\n<p>For questions
+  you can contact</p>\n<p>@parkoendama @mirthe_ehtrim</p>\n<p>@phil_neiss</
+ p></br>\n<p>Price: free</p>\n<p>Accomodation: ask locals</p>\n<p>Food: not
+  included</p>
+LOCATION:Potsdamer Platz\, 10785 Berlin\, Germany
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Convention 2024
 DTSTART;VALUE=DATE:20241130
 DTEND;VALUE=DATE:20241130
