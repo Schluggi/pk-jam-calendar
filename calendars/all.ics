@@ -4955,6 +4955,17 @@ LOCATION:Potsdamer Platz\, 10785 Berlin\, Germany
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hal 5 Skill Comp
+DTSTART;VALUE=DATE:20241103
+DTEND;VALUE=DATE:20241103
+UID:2667742
+DESCRIPTION:<p>More info very soon\, check out their website or instagram 
+ (@springstofparkour) to be up to date.</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ event-details/hal-5-skill-competition":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Convention 2024
 DTSTART;VALUE=DATE:20241130
 DTEND;VALUE=DATE:20241130
@@ -4989,5 +5000,45 @@ DESCRIPTION:<p>one more Laatzener Parkour Camp! &nbsp\;7.12.24 from 11:00
 LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
 ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
  o.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ladies In Leuven
+DTSTART;VALUE=DATE:20250112
+DTEND;VALUE=DATE:20250112
+UID:2667741
+DESCRIPTION:<p>Ladies in Leuven is a day full of workshops by female athle
+ tes\, open training sessions and good times.</p>\n<p>​</p>\n<p>We bring 
+ women and non-binary together in an encouraging environment. Take your fir
+ st strides in parkour\, or further develop your skills with a group of lik
+ e-minded people.</p></br>\n<p>We start the day with a general warmup and t
+ hen continue to the workshops. These are coached by invited athletes\, and
+  are aimed at both beginners and more experienced practitioners.</p>\n<p>
+ ​</p>\n<p>With a rotation system of smaller groups\, topics are tailored
+  to each experience level.</p></br>\n<p>Join the training session in the a
+ fternoon and learn from each other!</p>\n<p>The jam is a great moment to c
+ ontinue working on the techniques you learned during the workshops\, or ju
+ st get some more training in.</p>\n<p>​</p>\n<p>Alternatively\, you can 
+ also try some of the fun challenges set by the coaches.</p></br>\n<p>End t
+ he day with a joint stretching session (pun not intended) and watch some i
+ nspiring video projects.</p>\n<p>​</p>\n<p>Afterwards\, come hang out at
+  the bar at Hal 5 for some food and drinks\, and look back on what hopeful
+ ly was a successful day of training and fun.</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ladies-in-leuven":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hal 5 Hawaii Jam
+DTSTART;VALUE=DATE:20250209
+DTEND;VALUE=DATE:20250209
+UID:2667743
+DESCRIPTION:<p>Join us on Sunday 9th of January for the 4th edition of our
+  favourite winter jam!</p></br>\n<p>Bring your most colourful hawaiian out
+ fit and enjoy some delicious pineapple.</p>\n<p>From 14h - 18h.</p>\n<p>En
+ trance prices are the same as a regular open gym session.</p>\n<p>See you 
+ there!</p></br>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ event-details/hawaii-jam":MAILTO:
 END:VEVENT
 END:VCALENDAR
