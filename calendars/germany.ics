@@ -579,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:The Rad Jam - Hamburg
 DTSTART;VALUE=DATE:20230415
 DTEND;VALUE=DATE:20230417
-UID:1455599
+UID:2727602
 DESCRIPTION:<p>The RAD Jam is our first weekend long event to Fuse\, Grow 
  and Celebrate Communities.</p><p>In collaboration with Sound Kendama\, Rad
  ical and Die Halle we will be creating a weekend designed to bring togethe
@@ -2033,5 +2033,47 @@ DESCRIPTION:<p>one more Laatzener Parkour Camp! &nbsp\;7.12.24 from 11:00
 LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
 ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
  o.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gizmo
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250519
+UID:2727616
+DESCRIPTION:<p>Gizmo Style Battles is a 1 V 1 style battle that is highlig
+ hting the unorthodox and the flavoursome sides of Parkour. We are presenti
+ ng the battles in the @gleishalle_oberhafen\, located across the street fr
+ om @diehallehamburg.</p></br>\n<p>Accomodation: included</p>\n<p>Food: Bre
+ akfast only</p>\n<p>Price: tba</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
+ le.hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rad Jam 3
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250714
+UID:1455599
+DESCRIPTION:<p>Let's unite Parkour\, Skateboarding\, Kendama and Hip Hop! 
+ This event is an exhibition of the Strength of Street Culture and a develo
+ pment of Community Values. &nbsp\;</p></br>\n<p>Come to experience differe
+ nt kinds of Jams\, Parties\, Competition Formats\, Expressive Styles and A
+ ctivities connected to Street Culture. Help promote your scene and experie
+ nce how other Sub-Cultures engage with and organise their communities. &nb
+ sp\;</p></br>\n<p>The aim of this is to expand the horizons of the Individ
+ ual Street Sub-Cultures to cultivate better internal social engagement and
+  influence on wider society. &nbsp\;</p></br>\n<p>Too many Syllables&nbsp\
+ ;</p>\n<p>In short: Turn up\, Have Fun\, Get Inspired\, Change the World. 
+ &nbsp\;</p></br>\n<p>What to expect:&nbsp\;</p>\n<p>• Parkour Skills Com
+ p &amp\; Workshops&nbsp\;</p>\n<p>• Kendama Freestyle Battles &amp\; Min
+ i-Games&nbsp\;</p>\n<p>' Graffiti Workshops&nbsp\;</p>\n<p>• Skateboardi
+ ng 101 Workshops and Presentations&nbsp\;</p>\n<p>• Community &amp\; Cul
+ ture Discussions&nbsp\;</p>\n<p>* Stand Up Comedy Show and Workshops&nbsp\
+ ;</p>\n<p>• Mini Gizmo Battles ' and more to be announced</p></br>\n<p>F
+ ood: all inclusive</p>\n<p>Accomodation: included</p>\n<p>Price: tba</p>
+GEO:53.5428972;10.0092951
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
+ le.hamburg
 END:VEVENT
 END:VCALENDAR
