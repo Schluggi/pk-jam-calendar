@@ -306,4 +306,22 @@ LOCATION:Madeira Dr\, Brighton BN2 1TW\, UK
 ORGANIZER;CN="Scruffy Boys";PHONE=;WEBSITE="https://www.instagram.com/p/C7
  RtPvCteDb/?igsh=MTJiZHE2ajV0c2prMg%3D%3D":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ptl End Of Season Jam
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241201
+UID:2735224
+DESCRIPTION:<p>SAVE THE DATE. <br>\n<br>\nTo cap off the very first PTL se
+ ason we are partnering with <a rel="noopener noreferrer" target="_blank" h
+ ref="https://www.instagram.com/teamrealityltd/">@teamrealityltd</a> to giv
+ e you an end of year event. <br>\n<br>\nFree &nbsp\;to everyone to come an
+ d celebrate parkour and all events that have &nbsp\;taken place in 2024. A
+  great opportunity to come check out the <a rel="noopener noreferrer" targ
+ et="_blank" href="https://www.instagram.com/teamrealityltd/">@teamrealityl
+ td</a> gym before they have their annual rebuild. <br>\n<br>\nEnd of seaso
+ n awards will be done at this event along with announcements for the 2025 
+ season.</p>
+LOCATION:24 Prince Albert Gardens\, Grimsby DN31 3AG\, UK
+ORGANIZER;CN="Team Reality";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR

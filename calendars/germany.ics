@@ -2035,6 +2035,40 @@ ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
  o.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stk Winter Jam
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241216
+UID:2735255
+DESCRIPTION:<p>We at STK are a small parkour collective that has been host
+ ing monthly jams in Mannheim for a year now\, and now we want to celebrate
+  our anniversary - together with you in Der Halle Hamburg!&nbsp\;</p></br>
+ \n<p>Get ready for a weekend full of challenges\, sticks\, partying and th
+ e best vibes. You can expect the world's first Game of Stick Competition (
+ STKomp)\, where you can win cool prizes\, an old school jam and a screen p
+ rinting station. You can also buy our latest merch. At the afterparty on S
+ aturday you can round off the evening with the finest beats.&nbsp\;</p></b
+ r>\n<p>The jam officially starts on Saturday. But if you want\, you can al
+ so arrive on Friday. Sleeping places are organised. Please remember to bri
+ ng a sleeping mat and sleeping bag. Snacks (gingerbread\, fruit etc.) will
+  be provided. Otherwise you are responsible for your own food and drink. W
+ e look forward to seeing you!</p>
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="STK, Die Halle Hamburg";PHONE=;WEBSITE=@we_are_stk:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Jam Eschbach
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250106
+UID:2735218
+DESCRIPTION:<p>A weekend of indoor sessions with bar setup\, airtrack\, ai
+ rbag tramps and lots of fun</p></br>\n<p>Price: 30€</p>\n<p>Accomodation
+ : yes\, bring sleepingbag + mattress</p>\n<p>Food: all inclusive</p>
+LOCATION:Am Sommerberg 9\, 79252 Stegen\, Germany
+ORGANIZER;CN="SVE abt. Parkour";PHONE=;WEBSITE="https://eventfrog.de/de/p/
+ sport-fitness/sonstige-veranstaltungen/parkour-jam-03-05-01-2025-725373656
+ 7243487253.html":MAILTO:akrobatik@sve67.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gizmo
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250519

@@ -4989,6 +4989,75 @@ ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
  :MAILTO:info@parkourdortmund.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ptl End Of Season Jam
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241201
+UID:2735224
+DESCRIPTION:<p>SAVE THE DATE. <br>\n<br>\nTo cap off the very first PTL se
+ ason we are partnering with <a rel="noopener noreferrer" target="_blank" h
+ ref="https://www.instagram.com/teamrealityltd/">@teamrealityltd</a> to giv
+ e you an end of year event. <br>\n<br>\nFree &nbsp\;to everyone to come an
+ d celebrate parkour and all events that have &nbsp\;taken place in 2024. A
+  great opportunity to come check out the <a rel="noopener noreferrer" targ
+ et="_blank" href="https://www.instagram.com/teamrealityltd/">@teamrealityl
+ td</a> gym before they have their annual rebuild. <br>\n<br>\nEnd of seaso
+ n awards will be done at this event along with announcements for the 2025 
+ season.</p>
+LOCATION:24 Prince Albert Gardens\, Grimsby DN31 3AG\, UK
+ORGANIZER;CN="Team Reality";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fimbulwinterjam Ix
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241209
+UID:2735240
+DESCRIPTION:<h1><br></h1>\n<p>Welcome to <strong>Fimbul Winter Jam IX: Ass
+ ailance of Angrboda</strong>! This year’s event marks the first time we
+ ’re hosting in our brand new gym\, <strong>Parkourhall1</strong>\, locat
+ ed in Järfälla. Prepare yourself for an exhilarating weekend of parkour\
+ , movement\, and community!</p>\n<p>This year’s jam will take place from
+  <strong>December 6th-8th</strong>. We’re kicking things off with a spec
+ ial VIP day on Friday\, followed by two full days of workshops\, open trai
+ ning sessions\, and jam-packed activities. Whether you’re new to parkour
+  or a seasoned practitioner\, you’ll find something to challenge and ins
+ pire you.</p>\n<p>Age requirements: <strong>13+</strong></p>\n<h3><strong>
+ Highlights of this year’s event:</strong></h3>\n<ul>\n  <li><strong>Two 
+ international guest coaches</strong> bringing fresh perspectives and exper
+ tise.</li>\n  <li><strong>Full access to our new state-of-the-art indoor g
+ ym\, Parkourhall1.</strong></li>\n  <li>A variety of workshops tailored fo
+ r all skill levels\, including strength and agility training.</li>\n  <li>
+ Social events including a movie night and a sauna session for the ultimate
+  wind-down.</li>\n</ul>\n<h3><br></h3>\n<h3><strong>Event Packages &amp\; 
+ Pricing:</strong></h3>\n<p><strong>Base Price:</strong> 350 SEK (General A
+ dmission for weekend)<br>\nBelow follows the different addons you can add 
+ on to the experience to make it even more rewarding and memorable!</p>\n<u
+ l>\n  <li><strong>Workshops:</strong> +450 SEK (all 4 workshops on saturda
+ y included)(150 sek per workshop on site)<br>\n</li>\n  <li><strong>Sauna 
+ Session:</strong> +120 SEK</li>\n  <li><strong>Event T-shirt:</strong> +25
+ 0 SEK (Preorder to get your size right\, 350 SEK on site)</li>\n  <li><str
+ ong>Sleeping Space:</strong> +300 SEK (both nights in the gym)</li>\n</ul>
+ \n<p><strong>Weekend Package:</strong> 950 SEK<br>\nIncludes access to all
+  Saturday and Sunday events\, workshops\, and sessions\, t-shirt &amp\; a 
+ sleeping spot.</p>\n<p><strong>VIP Package:</strong> 1250 SEK<br>\nInclude
+ s everything in the Weekend Package plus the exclusive VIP day on Friday\,
+  December 6th.</p>\n<h3><br></h3>\n<h3><strong>Schedule Overview:</strong>
+ </h3>\n<ul>\n  <li><strong>Friday\, December 6th</strong> (VIP Day)VIP wor
+ kshops with guest coaches.<br>\nEvening social events\, including a film n
+ ight.<br>\n</li>\n  <li><strong>Saturday\, December 7th</strong>Full day o
+ f workshops\, open training\, and agility sessions.<br>\nSauna and social 
+ evening.<br>\n</li>\n  <li><strong>Sunday\, December 8th</strong>Open trai
+ ning and micro workshops.<br>\nRelaxation and closing activities.<br>\n</l
+ i>\n</ul>\n<p>Join us in celebrating the agility\, strength\, and resilien
+ ce inspired by Angrboda in Norse mythology as we welcome the winter season
+  together. Secure your spot and become part of the Fimbulwinter community!
+ </p>
+LOCATION:Gjutmästare Rosbergs väg 7\, 176 69 Järfälla\, Sweden
+ORGANIZER;CN="Quality Movement";PHONE=;WEBSITE="https://qualitymovement.se
+ /produkt/fimbulwinterjam-ix/?fbclid=PAZXh0bgNhZW0CMTEAAabWyxUx_UF0jw9c5pUy
+ N0XjmmNy-dMh3I3kYIRD0HwuXJ6nnvzNHzwRfec_aem_uENAT0WNa2bdHGXozWiNUA":MAILTO
+ :
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp
 DTSTART;VALUE=DATE:20241207
 DTEND;VALUE=DATE:20241207
@@ -5000,6 +5069,40 @@ DESCRIPTION:<p>one more Laatzener Parkour Camp! &nbsp\;7.12.24 from 11:00
 LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
 ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
  o.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stk Winter Jam
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241216
+UID:2735255
+DESCRIPTION:<p>We at STK are a small parkour collective that has been host
+ ing monthly jams in Mannheim for a year now\, and now we want to celebrate
+  our anniversary - together with you in Der Halle Hamburg!&nbsp\;</p></br>
+ \n<p>Get ready for a weekend full of challenges\, sticks\, partying and th
+ e best vibes. You can expect the world's first Game of Stick Competition (
+ STKomp)\, where you can win cool prizes\, an old school jam and a screen p
+ rinting station. You can also buy our latest merch. At the afterparty on S
+ aturday you can round off the evening with the finest beats.&nbsp\;</p></b
+ r>\n<p>The jam officially starts on Saturday. But if you want\, you can al
+ so arrive on Friday. Sleeping places are organised. Please remember to bri
+ ng a sleeping mat and sleeping bag. Snacks (gingerbread\, fruit etc.) will
+  be provided. Otherwise you are responsible for your own food and drink. W
+ e look forward to seeing you!</p>
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="STK, Die Halle Hamburg";PHONE=;WEBSITE=@we_are_stk:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Jam Eschbach
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250106
+UID:2735218
+DESCRIPTION:<p>A weekend of indoor sessions with bar setup\, airtrack\, ai
+ rbag tramps and lots of fun</p></br>\n<p>Price: 30€</p>\n<p>Accomodation
+ : yes\, bring sleepingbag + mattress</p>\n<p>Food: all inclusive</p>
+LOCATION:Am Sommerberg 9\, 79252 Stegen\, Germany
+ORGANIZER;CN="SVE abt. Parkour";PHONE=;WEBSITE="https://eventfrog.de/de/p/
+ sport-fitness/sonstige-veranstaltungen/parkour-jam-03-05-01-2025-725373656
+ 7243487253.html":MAILTO:akrobatik@sve67.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ladies In Leuven
@@ -5040,6 +5143,16 @@ DESCRIPTION:<p>Join us on Sunday 9th of January for the 4th edition of our
 LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
 ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
  event-details/hawaii-jam":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spka 25
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250217
+UID:2735248
+DESCRIPTION:<p>save the date</p>
+LOCATION:Finland
+ORGANIZER;CN="Suomen Parkouryhdistys";PHONE=;WEBSITE="https://www.parkour.
+ fi":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gizmo
