@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:In Motion Winter Jam
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240212
-UID:1951337
+UID:2741866
 DESCRIPTION:<p>A three-day event held in a parkour hall in the capital of 
  the Czech &nbsp\;Republic - In Motion Academy Prague. 500 m2 of parkour ob
  stacles is like the city itself in a hall\, a foam pit and a new tube stru
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Holding Hands - Prague
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240422
-UID:1945247
+UID:2741865
 DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:50.0755381;14.4378005
 LOCATION:Prague\, Czechia
@@ -241,5 +241,26 @@ DESCRIPTION:<p>IMACON is a three-day event focused on 3 contests before an
 LOCATION:2\, Na Jarově 2424\, Žižkov\, 130 00 Praha-Praha 3\, Czechia
 ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/e
  vent/imacon":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Winter Jam
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250120
+UID:1951337
+DESCRIPTION:<p>SAVE THE DATE!</p>
+GEO:49.1731419;14.4905574
+LOCATION:Vídeňská 297/99\, 639 00 Brno-střed\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/prah
+ a/event/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holding Hands - Prague
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250607
+UID:1945247
+DESCRIPTION:<p>SAVE THE DATE</p>
+GEO:50.0755381;14.4378005
+LOCATION:Prague\, Czechia
+ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 END:VCALENDAR

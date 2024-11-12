@@ -3125,7 +3125,7 @@ BEGIN:VEVENT
 SUMMARY:X-Mas Jam Linz
 DTSTART;VALUE=DATE:20231216
 DTEND;VALUE=DATE:20231218
-UID:1915221
+UID:2741876
 DESCRIPTION:<p>XMAS JAM!&nbsp\;</p><p>When? 16.12.2023 from 10 am - 17.12.
  2023 at 4 pm</p><p>Where? "Zero Limits" Trendsporthalle (Julius-Raabstraß
  e 10\, 4040 Linz) + Julius-Raabheim Gymnasium</p><br><p>- Saturday finals 
@@ -3163,7 +3163,7 @@ BEGIN:VEVENT
 SUMMARY:In Motion Winter Jam
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240212
-UID:1951337
+UID:2741866
 DESCRIPTION:<p>A three-day event held in a parkour hall in the capital of 
  the Czech &nbsp\;Republic - In Motion Academy Prague. 500 m2 of parkour ob
  stacles is like the city itself in a hall\, a foam pit and a new tube stru
@@ -3487,7 +3487,7 @@ BEGIN:VEVENT
 SUMMARY:Holding Hands - Prague
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240422
-UID:1945247
+UID:2741865
 DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:50.0755381;14.4378005
 LOCATION:Prague\, Czechia
@@ -5062,13 +5062,37 @@ SUMMARY:Laatzener Parkour Camp
 DTSTART;VALUE=DATE:20241207
 DTEND;VALUE=DATE:20241207
 UID:2539696
-DESCRIPTION:<p>one more Laatzener Parkour Camp! &nbsp\;7.12.24 from 11:00 
- to 18:00&nbsp\;</p></br>\n<p>2 Gym halls\, Bar set up\, Airtrack\, Cubes a
- nd more Obstacles. &nbsp\;</p></br>\n<p>Price: free</p>\n<p>Food: Only Bre
- akfast</p>\n<p>Accomodation: not included</p>
+DESCRIPTION:<p>one more Laatzener Parkour Camp! &nbsp\;7.12.24 from 13:00 
+ to 18:00&nbsp\;</p></br>\n<p>1 Gym hall\, Bar set up\, Cubes and more Obst
+ acles. &nbsp\;</p></br>\n<p>Price: free</p>\n<p>Food: Only Breakfast</p>\n
+ <p>Accomodation: not included</p>
 LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
 ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
  o.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X-Mas Jam Linz
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241216
+UID:1915221
+DESCRIPTION:<p>XMAS JAM!&nbsp\;</p>\n<p>When? 14.12.2024 from 10 am - 15.1
+ 2.2024 at 4 pm</p>\n<p>Where? "Zero Limits" Trendsporthalle (Julius-Raabst
+ raße 10\, 4040 Linz)</p></br>\n<p>- ÖPFV Skill Comps\, Saturday (male an
+ d female)\, Sunday (kids 8-11 years and teens 12-15 years\, mixed)</p>\n<p
+ >- Special! Action in two gyms\, Parkour &amp\; freerunning gym "Zero-Limi
+ ts" + a Tricking &amp\; acrobatics gym right next to it (Tricking floor - 
+ Airtrick - 2 giant trampolines - 2 minitramps)</p></br>\n<p>Price: 70€ (
+ on site)\, 60€ (Earlybird until 30.11.24)\, 45€ day ticket Saturday\, 
+ 30€ day ticket&nbsp\;</p>\n<p>Food: Saturday Snacks &amp\; dinner\, Sund
+ ay Breakfast</p></br>\n<p>Accomodation: NOT included! You can book a hotel
+  right next to it for a cheaper price (49€ per person in a double room)<
+ /p></br>\n<p>SIGN UP <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://www.teamobsession.at/xmas_jam-info.html"><strong>HERE</strong></a>.<
+ /p>
+GEO:nan;nan
+LOCATION:Zero Limits Trendsporthalle
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /xmas_jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stk Winter Jam
@@ -5087,9 +5111,12 @@ DESCRIPTION:<p>We at STK are a small parkour collective that has been host
  so arrive on Friday. Sleeping places are organised. Please remember to bri
  ng a sleeping mat and sleeping bag. Snacks (gingerbread\, fruit etc.) will
   be provided. Otherwise you are responsible for your own food and drink. W
- e look forward to seeing you!</p>
+ e look forward to seeing you!</p></br>\n<p>Sign up <a rel="noopener norefe
+ rrer" target="_blank" href="http://www.diehalle.hamburg/events/stk-x-mas-j
+ am">here</a>.</p>
 LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
-ORGANIZER;CN="STK, Die Halle Hamburg";PHONE=;WEBSITE=@we_are_stk:MAILTO:
+ORGANIZER;CN="STK, Die Halle Hamburg";PHONE=;WEBSITE=www.diehalle.hamburg/
+ events/stk-x-mas-jam:MAILTO:@we_are_stk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Jam Eschbach
@@ -5131,6 +5158,17 @@ ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
  ladies-in-leuven":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:In Motion Winter Jam
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250120
+UID:1951337
+DESCRIPTION:<p>SAVE THE DATE!</p>
+GEO:49.1731419;14.4905574
+LOCATION:Vídeňská 297/99\, 639 00 Brno-střed\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/prah
+ a/event/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hal 5 Hawaii Jam
 DTSTART;VALUE=DATE:20250209
 DTEND;VALUE=DATE:20250209
@@ -5168,6 +5206,16 @@ GEO:53.5424593;9.987170299999999
 LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
 ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holding Hands - Prague
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250607
+UID:1945247
+DESCRIPTION:<p>SAVE THE DATE</p>
+GEO:50.0755381;14.4378005
+LOCATION:Prague\, Czechia
+ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rad Jam 3

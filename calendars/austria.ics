@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:X-Mas Jam Linz
 DTSTART;VALUE=DATE:20231216
 DTEND;VALUE=DATE:20231218
-UID:1915221
+UID:2741876
 DESCRIPTION:<p>XMAS JAM!&nbsp\;</p><p>When? 16.12.2023 from 10 am - 17.12.
  2023 at 4 pm</p><p>Where? "Zero Limits" Trendsporthalle (Julius-Raabstraß
  e 10\, 4040 Linz) + Julius-Raabheim Gymnasium</p><br><p>- Saturday finals 
@@ -455,5 +455,29 @@ DESCRIPTION:<p>ÖPFV CONTEST - 21.09.24 in the 4 Elements Acdemy</p></br>\
 LOCATION:Alte Landstraße 21\, 6060 Hall in Tirol\, Austria
 ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
  demy.at/skills-contest.html":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X-Mas Jam Linz
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241216
+UID:1915221
+DESCRIPTION:<p>XMAS JAM!&nbsp\;</p>\n<p>When? 14.12.2024 from 10 am - 15.1
+ 2.2024 at 4 pm</p>\n<p>Where? "Zero Limits" Trendsporthalle (Julius-Raabst
+ raße 10\, 4040 Linz)</p></br>\n<p>- ÖPFV Skill Comps\, Saturday (male an
+ d female)\, Sunday (kids 8-11 years and teens 12-15 years\, mixed)</p>\n<p
+ >- Special! Action in two gyms\, Parkour &amp\; freerunning gym "Zero-Limi
+ ts" + a Tricking &amp\; acrobatics gym right next to it (Tricking floor - 
+ Airtrick - 2 giant trampolines - 2 minitramps)</p></br>\n<p>Price: 70€ (
+ on site)\, 60€ (Earlybird until 30.11.24)\, 45€ day ticket Saturday\, 
+ 30€ day ticket&nbsp\;</p>\n<p>Food: Saturday Snacks &amp\; dinner\, Sund
+ ay Breakfast</p></br>\n<p>Accomodation: NOT included! You can book a hotel
+  right next to it for a cheaper price (49€ per person in a double room)<
+ /p></br>\n<p>SIGN UP <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://www.teamobsession.at/xmas_jam-info.html"><strong>HERE</strong></a>.<
+ /p>
+GEO:nan;nan
+LOCATION:Zero Limits Trendsporthalle
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /xmas_jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
 END:VCALENDAR
