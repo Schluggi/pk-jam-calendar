@@ -42,7 +42,7 @@ six==1.16.0
     # via python-dateutil
 urllib3==2.2.3
     # via requests
-wheel==0.43.0
+wheel==0.45.1
     # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
