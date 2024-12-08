@@ -175,4 +175,30 @@ ORGANIZER;CN="Quality Movement";PHONE=;WEBSITE="https://qualitymovement.se
  N0XjmmNy-dMh3I3kYIRD0HwuXJ6nnvzNHzwRfec_aem_uENAT0WNa2bdHGXozWiNUA":MAILTO
  :
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wcpf 2025
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250706
+UID:2793742
+DESCRIPTION:<h2>Time &amp\; Place</h2>\n<p>01 juli 2025 10:00 CEST – 06 
+ juli 2025 03:00 CEST</p>\n<p>Myggenäs\, ALMÖN 50\, 471 61 Myggenäs\, Sv
+ erige</p>\n<h2>About the Festival</h2>\n<p><strong>WestCoast Playground Fe
+ stival is an international 5 days event\, packed with fun activities\, gre
+ at entertainment &amp\; the Best Parkour Competitions you've ever seen!</s
+ trong></p>\n<p>Activities during your visit: <strong>(will update)</strong
+ ></p>\n<ul>\n  <li>Parkour</li>\n  <li>Trampoline</li>\n  <li>Air-bags\, j
+ umpingcastle &amp\; air-tracks</li>\n  <li>Ninja School</li>\n  <li>World 
+ Play Championship</li>\n  <li>Training</li>\n  <li>Kayaks</li>\n  <li>Bicy
+ cles</li>\n  <li>Pool-area</li>\n  <li>Island boat-trip</li>\n  <li>Enjoy 
+ great food &amp\; accommodation</li>\n</ul>\n<p><strong>During this week\,
+  we celebrate the benefits of playfulness in our lives.</strong></p></br>\
+ n<p>Stay tuned for accomodation and food options during your visit.</p></b
+ r>\n<p>Check out the prices of the jam/camp &amp\; sign up <a rel="noopene
+ r noreferrer" target="_blank" href="https://www.westcoastplaygroundfestiva
+ l.com/event-details/westcoast-playground-festival-2025"><strong>here</stro
+ ng></a>.</p>
+LOCATION:471 60 Myggenäs\, Sweden
+ORGANIZER;CN="Hannez Larzzon, Oskar Örn";PHONE=;WEBSITE="https://www.west
+ coastplaygroundfestival.com":MAILTO:oskarorn@alternativaktivitet.se
+END:VEVENT
 END:VCALENDAR

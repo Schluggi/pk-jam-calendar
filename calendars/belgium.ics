@@ -409,4 +409,18 @@ LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
 ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
  event-details/hawaii-jam":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coach Europe 2025 - Parkour\, Freerunning And Add
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250908
+UID:2793743
+DESCRIPTION:<p>Coach Europe 2025&nbsp\;</p>\n<p>The yearly event dedicated
+  to the developers and facilitators of Pk\, Fr and Add. Coaches and busine
+ ss owners are welcome to fuel there passion\, share and get inspired!</p><
+ /br>\n<p>Accomodation: Hostel</p>\n<p>Price: 139€</p>\n<p>Food: all incl
+ usive</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN="Parkour UNI and Exception Movement";PHONE=;WEBSITE="https://
+ exceptionmovement.be/coach_europe":MAILTO:parkouruni.pku@gmail.com
+END:VEVENT
 END:VCALENDAR
