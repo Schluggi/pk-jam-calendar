@@ -2087,6 +2087,20 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Airfurt
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250616
+UID:2811134
+DESCRIPTION:<p>Come visit the heart of germany for a weekend filled with p
+ arkour sessions\, sauna\, a parkour bar setup at the venue\, good food and
+  workshops. &nbsp\;More infos at the website.</p></br>\n<p>Price: 30€</p
+ >\n<p>Accomodation: yes\, indoor or outdoor!</p>\n<p>Food: all inclusive</
+ p>
+LOCATION:Altstadt\, 99084 Erfurt\, Germany
+ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://parkour-erfurt.
+ de/jams/open-airfurt/":MAILTO:kornelius@parkour-erfurt.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rad Jam 3
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250714
