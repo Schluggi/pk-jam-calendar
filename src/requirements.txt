@@ -40,7 +40,7 @@ requests==2.32.3
     # via -r src\requirements.in
 six==1.17.0
     # via python-dateutil
-urllib3==2.2.3
+urllib3==2.3.0
     # via requests
 wheel==0.45.1
     # via pip-tools
