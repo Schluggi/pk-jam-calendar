@@ -89,4 +89,23 @@ LOCATION:Brumunddal\, Norway
 ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/omfg
  -2/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omfg - Oslo Movement Festival Gathering
+DTSTART;VALUE=DATE:20250611
+DTEND;VALUE=DATE:20250616
+UID:2829060
+DESCRIPTION:<p>The huge OMGFestival is happening again!</p><br><p>Ticket s
+ ale starts January 1st <a rel="noopener noreferrer" target="_blank" href="
+ https://oslo-movement.no/omfg-2/"><strong>here</strong></a>.</p><p>Line-Up
+  of invited guests is already insane long!</p><p>Check their Instagram pag
+ e <a rel="noopener noreferrer" target="_blank" href="https://www.instagram
+ .com/oslomovement?igsh=MXkyZzI1ODBpd2Z5aA=="><strong>@oslomovement</strong
+ ></a> for daily updates.</p><br><p>Price: different packages\, see their w
+ ebsite</p><p>Accomodation: Gym\, Hotel\, whatever you choose &amp\; pay</p
+ ><p>Food: also depends on the package</p>
+GEO:60.8809476;10.9394781
+LOCATION:Brumunddal\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/omfg
+ -2/":MAILTO:
+END:VEVENT
 END:VCALENDAR
