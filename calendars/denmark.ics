@@ -207,4 +207,20 @@ LOCATION:Copenhagen\, Denmark
 ORGANIZER;CN="Parkour DK";PHONE=;WEBSITE="https://www.facebook.com/events/
  1420759925175860":MAILTO:cphparkourgathering@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour De Fyn 4
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250730
+UID:2849884
+DESCRIPTION:<p>Tour de Fyn is a jam where we go around Fyn (Funen) in Denm
+ ark and do parkour in different town every day\, for 5 days. We will have 
+ free transport for the most part. Currently we don't have the funding to p
+ rovide food for participants\, but we are working on that. We want it to b
+ e as free as possible\, so everyone can participate. More info on the face
+ book event and more info will come soon.</p></br>\n<p>Price: free</p>\n<p>
+ Accomodation: yes</p>\n<p>Food: not included</p>
+LOCATION:Finlandkaj 8\, 5000 Odense\, Denmark
+ORGANIZER;CN="Movement Odense";PHONE=;WEBSITE="https://facebook.com/events
+ /s/tour-de-fyn-4/977811604172363/":MAILTO:movementodense@gmail.com
+END:VEVENT
 END:VCALENDAR
