@@ -2127,4 +2127,19 @@ LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Camp Gütersloh
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250728
+UID:2857776
+DESCRIPTION:<p>On Friday\, 25 July\, the Parkour Camp will take place for 
+ the 13th time in Gütersloh. We look forward to welcoming you in person! W
+ e want to spend a day together\, inspire each other\, exchange ideas and l
+ earn from each other. Including training\, workshops\, camping\, live musi
+ c &amp\; breakfast.</p></br>\n<p>Price: 40€</p>\n<p>Accomodation: campin
+ g</p>\n<p>Food: only breakfast</p>
+LOCATION:Ahornallee 46\, 33330 Gütersloh\, Germany
+ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de":MA
+ ILTO:info@parkourcamp.de
+END:VEVENT
 END:VCALENDAR
