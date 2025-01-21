@@ -280,4 +280,24 @@ LOCATION:Grenoble\, France
 ORGANIZER;CN="Women In Motion";PHONE=;WEBSITE="https://www.instagram.com/w
  im_parkour/":MAILTO:womeninmotion.parkour@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Share Your Moves #5
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250421
+UID:2869056
+DESCRIPTION:<p>Share Your Moves is an annual event organised by the West C
+ oast Academy in Cholet. It's a weekend of competition\, training and meeti
+ ngs where the true spirit of Parkour reigns: sharing\, respect and kindnes
+ s.</p></br>\n<p>The 2024 event was a complete success. Around a hundred co
+ mpetitors from all over France and abroad\, more than double the number of
+  practitioners who came as companions to move with the community and aroun
+ d 200 local spectators each day came to encourage the competitors and disc
+ over our beautiful discipline.</p></br>\n<p>There were a number of changes
+  this year to improve the event by listening to your suggestions. The main
+  change was the reorganisation of the weekend to dedicate half a day to a 
+ jam\, in keeping with the values of Parkour.</p>
+LOCATION:7 Imp. Thimonnier\, 37300 Joué-lès-Tours\, France
+ORGANIZER;CN="West Coast Academy";PHONE=;WEBSITE="https://www.wcacholet.fr
+ /events":MAILTO:
+END:VEVENT
 END:VCALENDAR

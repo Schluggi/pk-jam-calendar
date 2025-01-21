@@ -480,4 +480,24 @@ LOCATION:Zero Limits Trendsporthalle
 ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /xmas_jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Mur Jam
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250505
+UID:2869786
+DESCRIPTION:<p>&nbsp\;We have prepared 100 challenge for you all around Gr
+ az. You have two days to complete as many challenge as possible and film t
+ hem. There will be prices for the first 3 places in the categories: male\,
+  female and kids</p></br>\n<p>There are also going to be special prices fo
+ r NBDs. The comp is just additional to the jam and you dont have to compet
+ e\, if you dont want to.</p>\n<p>&nbsp\;</p>\n<p>If you wanna join and nee
+ d a place to sleep\, just join the group and ask there:</p>\n<p><a rel="no
+ opener noreferrer" target="_blank" href="https://chat.whatsapp.com/E3YJ1iS
+ XBauBNRFGvVrmc7">https://chat.whatsapp.com/E3YJ1iSXBauBNRFGvVrmc7</a></p><
+ /br>\n<p>Price: free</p>\n<p>Accomodation: VGT - Münzgrabenstraße 160\, 
+ 8010 Graz - donation based</p>\n<p>Food: not included</p></br></br>
+GEO:47.070714;15.439504
+LOCATION:Graz\, Austria
+ORGANIZER;CN="Urban Playground Graz";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR
