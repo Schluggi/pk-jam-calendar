@@ -5242,6 +5242,31 @@ ORGANIZER;CN="Suomen Parkouryhdistys";PHONE=;WEBSITE="https://www.parkour.
  fi/tapahtumat/spka-en/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ostrava Winter Jam 2025
+DTSTART;VALUE=DATE:20250215
+DTEND;VALUE=DATE:20250217
+UID:2881122
+DESCRIPTION:<p>- LAST BIG EVENT IN OUR OLD HALL UM PARKOUR PARK! ❄️</p
+ ></br>\n<p>We would like to invite you to the last big event in our curren
+ t hall\, which will be the Winter Jam 2025. As you know\, we are moving to
+  a bigger and more modern space soon\, and this event will be a unique opp
+ ortunity to say goodbye to the old hall in style! Come and jump with us on
+ e last time and create unforgettable memories of the place where we had so
+  many great moments together!</p></br>\n<p>🔹 What awaits you?</p>\n<p>
+ ✅ Tricking battle - show what you can do and compare your skills - win p
+ rize money and valuable prizes!</p>\n<p>✅ Workshops from our special gue
+ sts - learn from the pros!</p>\n<p>✅ Free training - share your energy a
+ nd inspiration with others.</p>\n<p>✅ Friendly atmosphere - meet new peo
+ ple\, improve your skills and have the time of your life!</p></br>\n<p>
+ 🎯 Join us and experience a weekend full of exercise\, competition and s
+ hared energy!</p></br>\n<p>📍 Where: UM Parkour Park</p>\n<p>When.</p>\n
+ <p>⏳ We start at 10:00am\, follow us for more info!</p></br>\n<p>We look
+  forward to seeing you there! 💪</p>
+LOCATION:Strojní 149/13\, 719 00 Slezská Ostrava-Kunčice\, Czechia
+ORGANIZER;CN="Um Parkourpark";PHONE=;WEBSITE="https://www.instagram.com/um
+ _parkourpark/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Share Your Moves #5
 DTSTART;VALUE=DATE:20250419
 DTEND;VALUE=DATE:20250421
