@@ -119,4 +119,16 @@ LOCATION:Jyväskylä\, Finland
 ORGANIZER;CN="Suomen Parkouryhdistys";PHONE=;WEBSITE="https://www.parkour.
  fi/tapahtumat/spka-en/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heljam
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250630
+UID:2883041
+DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
+ el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
+ eljamfinland/"><strong>instagram channel</strong></a>.</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR

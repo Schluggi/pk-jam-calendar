@@ -5365,6 +5365,28 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://parkour-erfurt.
  de/jams/open-airfurt/":MAILTO:kornelius@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kipa Jam
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250623
+UID:2883420
+DESCRIPTION:<p>Save the date!</p>
+GEO:59.32932349999999;18.0685808
+LOCATION:Stockholm\, Sweden
+ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heljam
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250630
+UID:2883041
+DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
+ el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
+ eljamfinland/"><strong>instagram channel</strong></a>.</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wcpf 2025
 DTSTART;VALUE=DATE:20250701
 DTEND;VALUE=DATE:20250706
