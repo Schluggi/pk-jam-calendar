@@ -5365,6 +5365,20 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://parkour-erfurt.
  de/jams/open-airfurt/":MAILTO:kornelius@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Str!De Berlin
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250623
+UID:2890955
+DESCRIPTION:<p>Come train and play with us at STR!DE BRLN! A weekend packe
+ d with good vibes\, games\, and workshops where you can try out wakeboardi
+ ng\, skating\, BMX\, and more. Meet the community\, learn new skills\, and
+  party together in Berlin—it’s all about having fun and connecting ♥
+ ️</p></br>\n<p>Price &amp\; other details TBA</p>
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
+ sollfrank@googlemail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kipa Jam
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250623
@@ -5411,6 +5425,21 @@ DESCRIPTION:<h2>Time &amp\; Place</h2>\n<p>01 juli 2025 10:00 CEST – 06
 LOCATION:471 60 Myggenäs\, Sweden
 ORGANIZER;CN="Hannez Larzzon, Oskar Örn";PHONE=;WEBSITE="https://www.west
  coastplaygroundfestival.com":MAILTO:oskarorn@alternativaktivitet.se
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Parkour Session
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250714
+UID:2890954
+DESCRIPTION:<p>International event in Miramas to gather everyone who want 
+ to move and play together.&nbsp\;</p>\n<p>- Parkour village / Community&nb
+ sp\;</p>\n<p>- Games and demos&nbsp\;</p>\n<p>- Initiation for all levels&
+ nbsp\;</p>\n<p>- Photos exhibition&nbsp\;</p>\n<p>- Speaking Shared space<
+ /p></br>\n<p>Price: free</p>\n<p>Accomodation: no</p>\n<p>Food: not includ
+ ed</p>
+LOCATION:Miramas\, France
+ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
+ .com/":MAILTO:parkourmiramas.asso@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rad Jam 3

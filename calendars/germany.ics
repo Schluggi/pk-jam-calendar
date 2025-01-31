@@ -2101,6 +2101,20 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://parkour-erfurt.
  de/jams/open-airfurt/":MAILTO:kornelius@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Str!De Berlin
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250623
+UID:2890955
+DESCRIPTION:<p>Come train and play with us at STR!DE BRLN! A weekend packe
+ d with good vibes\, games\, and workshops where you can try out wakeboardi
+ ng\, skating\, BMX\, and more. Meet the community\, learn new skills\, and
+  party together in Berlin—it’s all about having fun and connecting ♥
+ ️</p></br>\n<p>Price &amp\; other details TBA</p>
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
+ sollfrank@googlemail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rad Jam 3
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250714
