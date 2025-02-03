@@ -324,4 +324,37 @@ DESCRIPTION:<p>SAVE THE DATE. <br>\n<br>\nTo cap off the very first PTL se
 LOCATION:24 Prince Albert Gardens\, Grimsby DN31 3AG\, UK
 ORGANIZER;CN="Team Reality";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Underground 12
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250324
+UID:2896919
+DESCRIPTION:<p>Project Underground is back . The event is the largest of i
+ ts kind in the UK and brings together people from across the world. NovaCi
+ ty is helping to contribute to the growth of parkour practice across the c
+ ountry. Funding and growing events that bring young people to the art. Buy
+ ing Tickets to the event directly contributes to this goal.<br>\n<br>\n<st
+ rong>Event Info</strong><br>\nThe event is conducted over 3 days and is de
+ signed to be attractive to all parkour practitioners as it offers the chan
+ ce to train\, compete or spectate. The competition itself is split into 3 
+ discipline&nbsp\; categories\, Speed\, Style and Skill\, as well as 3 age 
+ categories\, Under 12\, Under 16 and 16+\,&nbsp\;<br>\nWe also Split the 1
+ 6+ into separate Male and Female competitions\, with equal prizes.<br>\n<b
+ r>\n<strong>SPEED</strong><br>\nThis competition is a timed race around a 
+ predetermined route across our parkour park. The athletes have time to pra
+ ctice the route\, and one attempt against the clock. The fastest time wins
+ .<br>\n<br>\n<strong>SKILL</strong><br>\nThis competition is designed to t
+ est athletes against ever more difficult challenges in the gym. The challe
+ nges are done in isolation with a limited number of attempts and a clock r
+ unning. The person completing the most challenges in the shortest time win
+ s.<br>\n<br>\n<strong>FREESTYLE</strong><br>\nThis event pits athletes aga
+ inst each other in front of 3 judges. They are judged on creativity\, flow
+ \, difficulty and execution.<br>\nThe winner is determined by the highest 
+ overall score.</p></br>\n<p>Price: 25 - 100 £\, check the website</p>\n<p
+ >Accomodation: in the gym</p>\n<p>Food: not included&nbsp\;</p>
+GEO:53.4427124;-1.36102
+LOCATION:NovaCity Rotherham\, Mangham Road\, Rotherham\, UK
+ORGANIZER;CN="Nova City Centre";PHONE=;WEBSITE="https://www.novacitycentre
+ .com/projectunderground":MAILTO:
+END:VEVENT
 END:VCALENDAR
