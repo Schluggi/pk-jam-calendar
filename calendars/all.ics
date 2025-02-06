@@ -5355,6 +5355,32 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Stuttgart Jam
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250609
+UID:2906999
+DESCRIPTION:<p>Lets gooo!!!! We are hosting the Parkour Stuttgart Jam agai
+ n!!&nbsp\;</p>\n<p>For the fourth time in a row we offer good food\, good 
+ people\, good vibes\, good training and in case you overlooked: Good food!
+ !!!&nbsp\;</p>\n<p>As always there will be an indoor and an outdoor setup 
+ for you to enjoy. Also the city's best spots are always just a subway ride
+  away. You will be sleeping in a gym so bring your sleeping bag and your o
+ wn plate + cutlery for our amazing fully vegan meals.&nbsp\;</p>\n<p>The J
+ am won't be overloaded with anything (well except for food\, but that's a 
+ good thing\, right?!?!). We also offer some small workshops for beginners 
+ and intermediates.&nbsp\;</p>\n<p>So see you there!!!&nbsp\;</p>\n<p>Ballo
+ rium sei mit euch !!! &nbsp\;</p></br>\n<p>PS: The online registration wil
+ l be up by the end of march. Please be aware that this is the only way to 
+ sign up for the jam. There will be no on-site registration! Registration i
+ s closing 10 days prior to the jam. &nbsp\;</p></br>\n<p>Price: 25€&nbsp
+ \;</p>\n<p>Food: all inclusive&nbsp\;</p>\n<p>Accommodation:&nbsp\;in&nbsp
+ \;the&nbsp\;gym</p>
+GEO:48.7518184;9.1894977
+LOCATION:Georgiiweg 770597\, Stuttgart\, Germany
+ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
+ tgart.de":MAILTO:kontakt@parkour-stuttgart.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holding Hands - Prague
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250607
@@ -5500,6 +5526,22 @@ GEO:53.5428972;10.0092951
 LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streetmedia Social V3: Bristol
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250728
+UID:2906918
+DESCRIPTION:<p>The Street Media Social V3 is a three-day event that celebr
+ ates Parkour\, music\, fashion\, art\, and the UK's creative community. Th
+ e event includes a street jam\, pop-up shops\, an afterparty\, and prize g
+ iveaways.</p></br>\n<p>Price: free</p>\n<p>Accomodation: not included</p>\
+ n<p>Food: breakfast only</p>
+GEO:51.454513;-1.1549892
+LOCATION:Bristol\, UK
+ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
+ streetmedia-social-v3-bristol-tickets-1219538916729":MAILTO:HQ@streetmedia
+ .store
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Camp Gütersloh

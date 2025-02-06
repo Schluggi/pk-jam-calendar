@@ -357,4 +357,20 @@ LOCATION:NovaCity Rotherham\, Mangham Road\, Rotherham\, UK
 ORGANIZER;CN="Nova City Centre";PHONE=;WEBSITE="https://www.novacitycentre
  .com/projectunderground":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streetmedia Social V3: Bristol
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250728
+UID:2906918
+DESCRIPTION:<p>The Street Media Social V3 is a three-day event that celebr
+ ates Parkour\, music\, fashion\, art\, and the UK's creative community. Th
+ e event includes a street jam\, pop-up shops\, an afterparty\, and prize g
+ iveaways.</p></br>\n<p>Price: free</p>\n<p>Accomodation: not included</p>\
+ n<p>Food: breakfast only</p>
+GEO:51.454513;-1.1549892
+LOCATION:Bristol\, UK
+ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
+ streetmedia-social-v3-bristol-tickets-1219538916729":MAILTO:HQ@streetmedia
+ .store
+END:VEVENT
 END:VCALENDAR
