@@ -358,6 +358,42 @@ ORGANIZER;CN="Nova City Centre";PHONE=;WEBSITE="https://www.novacitycentre
  .com/projectunderground":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elgin Street Comp
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250428
+UID:2922789
+DESCRIPTION:<p>Join us in Elgin\, Moray\, for 2 days packed with Parkour C
+ ompetitions and Community activities! Taking place on the 26th and 27th Ap
+ ril\, this is the first ever competition and multi-day event ever to be he
+ ld in Moray. Saturday the 26th will see a Skill Competition (in the style 
+ of a Takeover event)\, whilst Sunday 27th will involve a Speed Competition
+  followed by an Open Jam (informal training session). &nbsp\;We understand
+  that money is tight for a lot of people at the minute\, and getting to so
+ mewhere like Elgin can be expensive\, to ensure that there are no barriers
+  to anyone attending\, we have 3 Ticket Options. No matter which price of 
+ ticket you choose\, you will have unlimited access to: - Both competitions
+  (should you wish) - The Open Jam - Accommodation overnight (first come fi
+ rst served for a space in the hall\, a space in the car park or unlimited 
+ camping ground). &nbsp\;Please be aware that for a space in the hall\, all
+  you will need is a sleeping bag (and pillow if you like). We will provide
+  comfortable mats to sleep on\, and have extra blankets if necessary. The 
+ hall has heating\, 6 toilets\, a kitchen and plenty of charging points for
+  phones/laptops. For those camping\, it is best to bring your own tent\, h
+ owever we have a small number that can be borrowed. &nbsp\;Our goal is to 
+ provide a fun\, packed and memorable event for all\; NOT to make a profit.
+  Any profit made from ticket sales will go towards food/drink for attendee
+ s or contributions towards travel for certain ​individuals. &nbsp\;Prize
+ s will be available for Youth (12-14)\, Teen (15-18) and Adult (19+) for t
+ he Skill Competition. Prizes will be available for U16 and 16+ for the Spe
+ ed Competition. Equal prizes will be available for Male/Female Divisions f
+ or the Teen\, Adult and 16+ Categories. The Open Jam will be for anyone ag
+ ed 10+.</p></br>\n<p>Price: £5\, £10 or £15</p>\n<p>Accomodation: Yes -
+  Multiple Options</p>\n<p>Food: not included</p>
+LOCATION:Moray St\, Elgin IV30\, UK
+ORGANIZER;CN="Ignotus Parkour";PHONE=;WEBSITE="https://www.ticketsource.co
+ .uk/ignotus-parkour":MAILTO:ignotuspk@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Streetmedia Social V3: Bristol
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250728

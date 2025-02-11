@@ -169,4 +169,16 @@ LOCATION:Metropolitan City of Cagliari\, Italy
 ORGANIZER;CN=;PHONE=;WEBSITE=www.parkourweek.com:MAILTO:internationalparko
  urweek@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:2922790
+DESCRIPTION:<p>information coming soon! check their instagram account @pas
+ tamoves for updates!</p>
+GEO:45.468503;12.4963655
+LOCATION:Milan\, Metropolitan City of Milan\, Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
+END:VEVENT
 END:VCALENDAR
