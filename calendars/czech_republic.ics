@@ -309,6 +309,42 @@ ORGANIZER;CN="Um Parkourpark";PHONE=;WEBSITE="https://www.instagram.com/um
  _parkourpark/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ima Style Night
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250310
+UID:2930912
+DESCRIPTION:<h2>THE FOURTH EDITION OF THE GRAND EVENT AT THE GYM IN KLADNO
+ !</h2>\n<h3>SKILL CONTEST</h3>\n<p>This year's Skill Contest starts at <st
+ rong>11 AM</strong> and introduces a somewhat new format. There will be se
+ veral dozen devised challenges spread throughout the hall\, and you will h
+ ave <strong>4 hours</strong> to complete as many as possible. After the co
+ mpetition\, we will announce winners for both the men's and women's catego
+ ries.</p>\n<p>Winners of the Skill Contest\, although not advancing to the
+  IMACON finals\, get free entry to this event and can thus qualify on-site
+ .</p>\n<h3>STYLE CONTEST</h3>\n<p>The qualification takes place at 5 PM in
+  groups of five competitors\, from which some will advance to the finals. 
+ There\, each contestant will perform a single run\, and judges will score 
+ using "Twisters".</p>\n<p>The winner of the Style Night gains entry to IMA
+ CON 2025 and advances to the finals as the main prize.</p>\n<p>Training wi
+ ll run all evening and overnight. The main finale of the Style Contest wil
+ l take place around 8:00 PM.</p>\n<h4>SCHEDULE</h4>\n<ul>\n  <li>Opening: 
+ 10:00 AM</li>\n  <li><strong>Skill Contest:</strong> 11:00 AM</li>\n  <li>
+ <strong>End of Skill Contest:</strong> 3:00 PM</li>\n  <li><strong>Announc
+ ement of Skill Contest Winners:</strong> 3:30 PM</li>\n  <li><strong>Style
+  Contest Qualification:</strong> 5:00 PM</li>\n  <li><strong>Style Contest
+  Finals: </strong>8:00 PM</li>\n  <li><strong>Announcement of Style Contes
+ t Winners:</strong> 8:30 PM</li>\n</ul>\n<h4>AGE RESTRICTIONS</h4>\n<p>Sty
+ le Night 2025 is accessible only to individuals aged 15 and older.</p>\n<h
+ 4>ACCOMMODATION</h4>\n<p>Accommodations are directly in the academy premis
+ es on mats\, gymnastic pads\, and carpets\, so do not forget your sleeping
+  bags.</p>\n<h4>PRICE 500 CZK</h4>
+GEO:50.1443246;14.4905574
+LOCATION:nám. Svobody 1460 vchod z ulice\, Vašatova\, 272 01 Kladno-Klad
+ no 1\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/e
+ vent/ima-style-night":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holding Hands - Prague
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250607

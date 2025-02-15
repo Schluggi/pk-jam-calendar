@@ -301,6 +301,24 @@ ORGANIZER;CN="West Coast Academy";PHONE=;WEBSITE="https://www.wcacholet.fr
  /events":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aerojam 2025
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250526
+UID:2930911
+DESCRIPTION:<p>4th edition of our Parkour JAM &amp\; Competitions AEROJAM.
+  This year\, we plan to focus more on JAM than competitions\, and are sett
+ ing up games\, challenges\, and many other activites to do during free tim
+ e. &nbsp\;</p></br>\n<p>The event will take place in a gym\, and eventuall
+ y\, if you'll need a place to sleep\, you will just have to send us a mess
+ age to book a place (more infos about sleeping areas are coming).</p></br>
+ \n<p>Price: Different pakages. See on website</p>\n<p>Accomodation: Differ
+ ent sleeping areas are gonna be set. Send us a message to book a place</p>
+ \n<p>Food: Breakfast only</p>
+LOCATION:10000 Troyes\, France
+ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=www.aerocrew-pk.com:MAILTO:aerocrew.p
+ k@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Babjam 2025
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250609

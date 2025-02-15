@@ -5267,6 +5267,42 @@ ORGANIZER;CN="Um Parkourpark";PHONE=;WEBSITE="https://www.instagram.com/um
  _parkourpark/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ima Style Night
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250310
+UID:2930912
+DESCRIPTION:<h2>THE FOURTH EDITION OF THE GRAND EVENT AT THE GYM IN KLADNO
+ !</h2>\n<h3>SKILL CONTEST</h3>\n<p>This year's Skill Contest starts at <st
+ rong>11 AM</strong> and introduces a somewhat new format. There will be se
+ veral dozen devised challenges spread throughout the hall\, and you will h
+ ave <strong>4 hours</strong> to complete as many as possible. After the co
+ mpetition\, we will announce winners for both the men's and women's catego
+ ries.</p>\n<p>Winners of the Skill Contest\, although not advancing to the
+  IMACON finals\, get free entry to this event and can thus qualify on-site
+ .</p>\n<h3>STYLE CONTEST</h3>\n<p>The qualification takes place at 5 PM in
+  groups of five competitors\, from which some will advance to the finals. 
+ There\, each contestant will perform a single run\, and judges will score 
+ using "Twisters".</p>\n<p>The winner of the Style Night gains entry to IMA
+ CON 2025 and advances to the finals as the main prize.</p>\n<p>Training wi
+ ll run all evening and overnight. The main finale of the Style Contest wil
+ l take place around 8:00 PM.</p>\n<h4>SCHEDULE</h4>\n<ul>\n  <li>Opening: 
+ 10:00 AM</li>\n  <li><strong>Skill Contest:</strong> 11:00 AM</li>\n  <li>
+ <strong>End of Skill Contest:</strong> 3:00 PM</li>\n  <li><strong>Announc
+ ement of Skill Contest Winners:</strong> 3:30 PM</li>\n  <li><strong>Style
+  Contest Qualification:</strong> 5:00 PM</li>\n  <li><strong>Style Contest
+  Finals: </strong>8:00 PM</li>\n  <li><strong>Announcement of Style Contes
+ t Winners:</strong> 8:30 PM</li>\n</ul>\n<h4>AGE RESTRICTIONS</h4>\n<p>Sty
+ le Night 2025 is accessible only to individuals aged 15 and older.</p>\n<h
+ 4>ACCOMMODATION</h4>\n<p>Accommodations are directly in the academy premis
+ es on mats\, gymnastic pads\, and carpets\, so do not forget your sleeping
+  bags.</p>\n<h4>PRICE 500 CZK</h4>
+GEO:50.1443246;14.4905574
+LOCATION:nám. Svobody 1460 vchod z ulice\, Vašatova\, 272 01 Kladno-Klad
+ no 1\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/e
+ vent/ima-style-night":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project Underground 12
 DTSTART;VALUE=DATE:20250321
 DTEND;VALUE=DATE:20250324
@@ -5376,6 +5412,38 @@ LOCATION:Graz\, Austria
 ORGANIZER;CN="Urban Playground Graz";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cpg 2025
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250519
+UID:2930905
+DESCRIPTION:<p>CPG/Copenhagen Parkour Gathering 2025 &nbsp\;</p></br>\n<p>
+ This event celebrates the diverse parkour experiences of women and other u
+ nderrepresented genders in parkour. We welcome cis and trans women as well
+  as others who feel comfortable in a space centered on the experiences of 
+ women. Look forward to a weekend of workshops and jams with experienced lo
+ cal and international parkour coaches.&nbsp\;</p></br>\n<p>WHO CAN JOIN? T
+ his event is for women (cis and trans)\, as well as people of other gender
+ s who feel comfortable in a space centered on the experiences of women. Al
+ l levels are welcome\; coaches are experienced and will be able to teach y
+ ou something cool whether it's your first day or your second decade. &nbsp
+ \;AGE: 16+. We expect that you are capable of managing your own stay in Co
+ penhagen during the event. &nbsp\;</p></br>\n<p>THE PROGRAM To be announce
+ d &nbsp\;</p></br>\n<p>SIGN UP AND PRICES <a rel="noopener noreferrer" tar
+ get="_blank" href="https://docs.google.com/.../1FAIpQLSdrWzfwmiCC7w.../vie
+ wform">https://docs.google.com/.../1FAIpQLSdrWzfwmiCC7w.../viewform</a>&nb
+ sp\;</p></br>\n<p>MORE INFORMATION Via instagram: parkour_wtnb_cph Faceboo
+ k event: <a rel="noopener noreferrer" target="_blank" href="https://fb.me/
+ e/2vp6nNLB7">https://fb.me/e/2vp6nNLB7</a>&nbsp\;</p></br>\n<p>OUR IDENTIT
+ Y As listed earlier\, this event is for ALL women (cis and trans)\, as wel
+ l as people of other genders. We expect that chosen names and pronouns wil
+ l be respected by all. We don't tolerate any kind of transphobia\, racism\
+ , homophobia\, xenophobia\, or any other kind of hate.</p></br>\n<p>Price:
+  51€</p>\n<p>Accomodation: possible</p>\n<p>Food: all inklusive</p>
+LOCATION:Denmark
+ORGANIZER;CN=parkour_wtnb_cph;PHONE=;WEBSITE="https://docs.google.com/.../
+ 1FAIpQLSdrWzfwmiCC7w.../viewform":MAILTO:cphparkourgathering@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gizmo
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250519
@@ -5389,6 +5457,24 @@ GEO:53.5424593;9.987170299999999
 LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
 ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aerojam 2025
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250526
+UID:2930911
+DESCRIPTION:<p>4th edition of our Parkour JAM &amp\; Competitions AEROJAM.
+  This year\, we plan to focus more on JAM than competitions\, and are sett
+ ing up games\, challenges\, and many other activites to do during free tim
+ e. &nbsp\;</p></br>\n<p>The event will take place in a gym\, and eventuall
+ y\, if you'll need a place to sleep\, you will just have to send us a mess
+ age to book a place (more infos about sleeping areas are coming).</p></br>
+ \n<p>Price: Different pakages. See on website</p>\n<p>Accomodation: Differ
+ ent sleeping areas are gonna be set. Send us a message to book a place</p>
+ \n<p>Food: Breakfast only</p>
+LOCATION:10000 Troyes\, France
+ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=www.aerocrew-pk.com:MAILTO:aerocrew.p
+ k@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pasta Jam
