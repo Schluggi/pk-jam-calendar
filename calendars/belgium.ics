@@ -410,6 +410,32 @@ ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
  event-details/hawaii-jam":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ceci N'Est Pas Un Stick
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250811
+UID:2936763
+DESCRIPTION:<p>Ceci N'est Pas Un Stick stands for street culture and commu
+ nity. The streets of Ghent will once again be the stage for an accessible 
+ and inclusive parkour event. We want to inspire and push the community wit
+ h a street skill competition showing off what Ghent has to offer. There is
+  also the opportunity to jam together and watch more and less well-known p
+ arkour films. &nbsp\;&nbsp\;</p></br>\n<p>Planning: &nbsp\;- Saturday 09/0
+ 8: &nbsp\;</p>\n<p>-&gt\; Skill comp: Challenge hunt across the city! &nbs
+ p\;</p>\n<p>-&gt\; Movie Night &nbsp\;- Sunday 10/08: &nbsp\;</p>\n<p>-&gt
+ \; Jam &nbsp\;</p>\n<p>-&gt\; Skill comp: Finals &nbsp\;&nbsp\;</p></br>\n
+ <p>For more details and information check our website (<a rel="noopener no
+ referrer" target="_blank" href="https://www.flowdegand.be/ceci-n-est-pas-u
+ n-stick)">https://www.flowdegand.be/ceci-n-est-pas-un-stick)</a> and Flow 
+ De Gand IG page (<a rel="noopener noreferrer" target="_blank" href="https:
+ //www.instagram.com/flowdegand)">https://www.instagram.com/flowdegand)</a>
+ .</p></br>\n<p>Price: 10€</p>\n<p>Accomodation: Need accomodation? Messa
+ ge us on instagram</p>\n<p>Food: not included</p>
+GEO:51.0500182;3.7303351
+LOCATION:Ghent\, Belgium
+ORGANIZER;CN="Flow De Gand";PHONE=;WEBSITE="https://www.flowdegand.be/ceci
+ -n-est-pas-un-stick":MAILTO:niels@flowdegand.be
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coach Europe 2025 - Parkour\, Freerunning And Add
 DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250908
