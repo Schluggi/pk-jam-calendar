@@ -5412,6 +5412,15 @@ LOCATION:Graz\, Austria
 ORGANIZER;CN="Urban Playground Graz";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hello Summer Jam
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250512
+UID:2973435
+DESCRIPTION:<p>more infos coming soon</p>
+LOCATION:Franzgraben 58\, 34125 Kassel\, Germany
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cpg 2025
 DTSTART;VALUE=DATE:20250516
 DTEND;VALUE=DATE:20250519
@@ -5723,6 +5732,27 @@ DESCRIPTION:<p>Tour de Fyn is a jam where we go around Fyn (Funen) in Denm
 LOCATION:Finlandkaj 8\, 5000 Odense\, Denmark
 ORGANIZER;CN="Movement Odense";PHONE=;WEBSITE="https://facebook.com/events
  /s/tour-de-fyn-4/977811604172363/":MAILTO:movementodense@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mfp 2025 - International Parkour Festival
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250804
+UID:2973426
+DESCRIPTION:<p>We warmly invite all parkour enthusiasts to the next Intern
+ ational Parkour Festival in Gdańsk (Poland)\, overlooking the picturesque
+  Baltic Sea\, happening on August 1-3\, 2025! Event happenig every year si
+ nce 2008&nbsp\;</p></br>\n<p>Get ready for three days filled with parkour 
+ excitement:&nbsp\;</p>\n<p>- Outdoor Speed Comp&nbsp\;</p>\n<p>- Beach and
+  city Jam&nbsp\;</p>\n<p>- Indoor session in @movementarena&nbsp\;</p>\n<p
+ >- Parkour Movie Screening&nbsp\;</p>\n<p>- Skill Challenges in the city&n
+ bsp\;</p>\n<p>- Others This is a unique opportunity to meet with parkour e
+ nthusiasts from Poland and abroad\, share experiences\, and learn from the
+  best!</p></br>\n<p>Price: 70€</p>\n<p>Accomodation: Sport hall</p>\n<p>
+ Food: not included</p>
+GEO:54.3895517;18.6466384
+LOCATION:Pokoleń Lechii Gdańsk 1\, 80-560 Gdańsk\, Poland
+ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE=ksmovement.pl:MAILTO:mfp@ksmo
+ vement.pl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ceci N'Est Pas Un Stick

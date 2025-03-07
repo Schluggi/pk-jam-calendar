@@ -70,4 +70,25 @@ LOCATION:Wrocław\, Poland
 ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/keep.flowin/":MAIL
  TO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mfp 2025 - International Parkour Festival
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250804
+UID:2973426
+DESCRIPTION:<p>We warmly invite all parkour enthusiasts to the next Intern
+ ational Parkour Festival in Gdańsk (Poland)\, overlooking the picturesque
+  Baltic Sea\, happening on August 1-3\, 2025! Event happenig every year si
+ nce 2008&nbsp\;</p></br>\n<p>Get ready for three days filled with parkour 
+ excitement:&nbsp\;</p>\n<p>- Outdoor Speed Comp&nbsp\;</p>\n<p>- Beach and
+  city Jam&nbsp\;</p>\n<p>- Indoor session in @movementarena&nbsp\;</p>\n<p
+ >- Parkour Movie Screening&nbsp\;</p>\n<p>- Skill Challenges in the city&n
+ bsp\;</p>\n<p>- Others This is a unique opportunity to meet with parkour e
+ nthusiasts from Poland and abroad\, share experiences\, and learn from the
+  best!</p></br>\n<p>Price: 70€</p>\n<p>Accomodation: Sport hall</p>\n<p>
+ Food: not included</p>
+GEO:54.3895517;18.6466384
+LOCATION:Pokoleń Lechii Gdańsk 1\, 80-560 Gdańsk\, Poland
+ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE=ksmovement.pl:MAILTO:mfp@ksmo
+ vement.pl
+END:VEVENT
 END:VCALENDAR
