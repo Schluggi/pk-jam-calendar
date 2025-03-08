@@ -5806,6 +5806,18 @@ ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spefzt
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250901
+UID:2975086
+DESCRIPTION:<p>Free street jam and screening competition in Bratislava cit
+ y with sleeping in a Parkour Gym + afterparty</p></br>\n<p>Price: free</p>
+ \n<p>Accomodation: yes</p>\n<p>Food: not included</p>
+LOCATION:Bratislava\, Slovakia
+ORGANIZER;CN=Feztmind;PHONE=;WEBSITE="@feztmind instagram":MAILTO:feztmind
+ .23@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coach Europe 2025 - Parkour\, Freerunning And Add
 DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250908
