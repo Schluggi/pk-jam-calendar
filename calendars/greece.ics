@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Athen International Parkour Gathering
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250429
+UID:2977880
+DESCRIPTION:<p>more information soon</p>
+LOCATION:Athens\, Greece
+ORGANIZER;CN="Athens Parkour Academy";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+END:VCALENDAR

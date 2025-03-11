@@ -5356,6 +5356,15 @@ ORGANIZER;CN="West Coast Academy";PHONE=;WEBSITE="https://www.wcacholet.fr
  /events":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Athen International Parkour Gathering
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250429
+UID:2977880
+DESCRIPTION:<p>more information soon</p>
+LOCATION:Athens\, Greece
+ORGANIZER;CN="Athens Parkour Academy";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elgin Street Comp
 DTSTART;VALUE=DATE:20250426
 DTEND;VALUE=DATE:20250428
@@ -5390,6 +5399,33 @@ DESCRIPTION:<p>Join us in Elgin\, Moray\, for 2 days packed with Parkour C
 LOCATION:Moray St\, Elgin IV30\, UK
 ORGANIZER;CN="Ignotus Parkour";PHONE=;WEBSITE="https://www.ticketsource.co
  .uk/ignotus-parkour":MAILTO:ignotuspk@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Nature Jam
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250505
+UID:2978390
+DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village 
+ in Schleswig-Holstein (about 1 hour from Hamburg).&nbsp\;</p>\n<p>Attached
+  to a property and surrounded by evergreen forest\, you will find the perf
+ ect place to immerse yourself in nature. A parkour park in the garden\, cl
+ imbing and slackline spots offer lots of incentives to always discover and
+  try out something. Airtrack and high ropes experiences provide the real t
+ hrill\, as does a visit to a sand pit. Several campfire spots are waiting 
+ for you for those times when there is not enough light to jump. Here you s
+ leep in a hammock\, tent or under the open sky and cook and make music aro
+ und the campfire with a hang drum\, guitar and whatever instrument you bri
+ ng with you! You are welcome to bring your hobbies with you! Be it art\, a
+ crobatics or artistry. We want to get to know everything! &nbsp\;</p></br>
+ \n<p>What can you find on site:&nbsp\;</p>\n<p>- Parkour park made of wood
+ &nbsp\;</p>\n<p>- big Pole Park&nbsp\;</p>\n<p>- Slackline 10m and 25m&nbs
+ p\;</p>\n<p>- Highline 15m (with safety)&nbsp\;</p>\n<p>- Airtrack with ma
+ ts&nbsp\;</p>\n<p>- Climbing tower 8m high (with safety)&nbsp\;</p>\n<p>- 
+ Ropeswing in the trees (giant swing)</p></br>\n<p>Price: 60€</p>\n<p>Foo
+ d: all inclusive</p>\n<p>Accomodation: hammock or tent</p>
+LOCATION:Dorfstraße 106\, 25560 Aasbüttel
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/event-details/north-nature-jam-2025":MAILTO:Info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Mur Jam
@@ -5498,6 +5534,33 @@ ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
  0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:East Nature Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:2978395
+DESCRIPTION:<p>For the East Nature Jam\, we will meet in Chemnitz. On the 
+ premises of Walden e.V.\, stationary parkour spots and slacklines will be 
+ set up. Of course\, the AirTrack will also be available! As always\, there
+  will be a campfire and music\, providing a great atmosphere for everyone.
+  Additionally\, we'll venture into the mountains for some climbing adventu
+ res. Don't forget to bring your swimwear \;)&nbsp\;</p>\n<p>We'll gather a
+ t a central area\, where all sorts of games\, instruments\, or arts are we
+ lcome!&nbsp\;</p>\n<p>All details can be found in the program schedule! &n
+ bsp\;&nbsp\;</p></br>\n<p>What you'll find on the premises:&nbsp\;</p>\n<p
+ >- Parkour Park&nbsp\;</p>\n<p>- Pole park&nbsp\;</p>\n<p>- Airtrack&nbsp\
+ ;</p>\n<p>- 3x Slacklines (10-20m)&nbsp\;</p>\n<p>- 1x Longline (50m)&nbsp
+ \;</p>\n<p>- Climbing wall (6m high)&nbsp\;</p>\n<p>- Skate and BMX park (
+ right in front of the premises)&nbsp\;</p>\n<p>- 4x Toilets&nbsp\;</p>\n<p
+ >- 2x Showers with washing area&nbsp\;</p>\n<p>- 2x Domes (event rooms in 
+ case of rain)&nbsp\;</p>\n<p>- 1x Restroom for meditation or breaks</p></b
+ r>\n<p>Price: 60€</p>\n<p>Food: all inclusive</p>\n<p>Accomodation: hamm
+ ock or tent</p>
+GEO:50.8348204;9.4388586
+LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/event-details/east-nature-jam-2025":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250609
@@ -5580,7 +5643,7 @@ DESCRIPTION:<p>Come visit the heart of germany for a weekend filled with p
  p>
 LOCATION:Altstadt\, 99084 Erfurt\, Germany
 ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://parkour-erfurt.
- de/jams/open-airfurt/":MAILTO:kornelius@parkour-erfurt.de
+ de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Str!De Berlin
@@ -5649,12 +5712,16 @@ SUMMARY:Festival Parkour Session
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250714
 UID:2890954
-DESCRIPTION:<p>International event in Miramas to gather everyone who want 
- to move and play together.&nbsp\;</p>\n<p>- Parkour village / Community&nb
- sp\;</p>\n<p>- Games and demos&nbsp\;</p>\n<p>- Initiation for all levels&
- nbsp\;</p>\n<p>- Photos exhibition&nbsp\;</p>\n<p>- Speaking Shared space<
- /p></br>\n<p>Price: free</p>\n<p>Accomodation: no</p>\n<p>Food: not includ
- ed</p>
+DESCRIPTION:<p>15th Festival Parkour Session A large gathering of tracers 
+ in Miramas\, more than 300 practitioners expected from 17 different countr
+ ies. Construction of a village of 600 pallets\, obstacles course\, tracer 
+ games\, free sessions\, time for exchanges\, demonstrations\, initiations\
+ , screenings\, concerts\, exhibition. Festive\, sporty and friendly atmosp
+ here. Free event accessible to all. Free camp and on-site catering.</p></b
+ r>\n<p>Price: free</p>\n<p>Accomodation: camping on site</p>\n<p>Food: not
+  included</p></br>\n<p><a rel="noopener noreferrer" target="_blank" href="
+ https://www.instagram.com/parkourmiramas/">https://www.instagram.com/parko
+ urmiramas/</a></p>
 LOCATION:Miramas\, France
 ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
  .com/":MAILTO:parkourmiramas.asso@gmail.com

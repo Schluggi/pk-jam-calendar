@@ -11,6 +11,7 @@ Copy the target link via right click.
 - [Finland](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/finland.ics)
 - [France](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/france.ics)
 - [Germany](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/germany.ics)
+- [Greece](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/greece.ics)
 - [Italy](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/italy.ics)
 - [Lithuania](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/lithuania.ics)
 - [Luxemburg](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/luxemburg.ics)
