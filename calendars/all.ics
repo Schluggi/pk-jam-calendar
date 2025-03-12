@@ -5336,6 +5336,21 @@ ORGANIZER;CN="Nova City Centre";PHONE=;WEBSITE="https://www.novacitycentre
  .com/projectunderground":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Krap Invaders
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250407
+UID:2982256
+DESCRIPTION:<p>A new edition of the KRAP INVADERS is behind the corner! Ch
+ eck updates on instagram @krapstagram and on the website www.krapinvaders.
+ com !&nbsp\;</p></br>\n<p>Price: 50€ for 2 days\, 35€ for 1 day</p>\n<
+ p>Accomodation: in the gym</p>\n<p>Food: not included</p>
+GEO:45.7149521;11.3424326
+LOCATION:KRAPANNONE Indoor Parkourpark\, Via Pietro Riboli\, Schio\, Provi
+ nce of Vicenza\, Italy
+ORGANIZER;CN=KRAP;PHONE=;WEBSITE="https://www.krapinvaders.com/":MAILTO:in
+ fo@krapinvaders.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Share Your Moves #5
 DTSTART;VALUE=DATE:20250419
 DTEND;VALUE=DATE:20250421
@@ -5646,8 +5661,18 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://parkour-erfurt.
  de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kipa Jam
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250623
+UID:2883420
+DESCRIPTION:<p>Save the date!</p>
+GEO:59.32932349999999;18.0685808
+LOCATION:Stockholm\, Sweden
+ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Str!De Berlin
-DTSTART;VALUE=DATE:20250619
+DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250623
 UID:2890955
 DESCRIPTION:<p>Come train and play with us at STR!DE BRLN! A weekend packe
@@ -5658,16 +5683,6 @@ DESCRIPTION:<p>Come train and play with us at STR!DE BRLN! A weekend packe
 LOCATION:Berlin\, Germany
 ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
  sollfrank@googlemail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kipa Jam
-DTSTART;VALUE=DATE:20250620
-DTEND;VALUE=DATE:20250623
-UID:2883420
-DESCRIPTION:<p>Save the date!</p>
-GEO:59.32932349999999;18.0685808
-LOCATION:Stockholm\, Sweden
-ORGANIZER;CN=KIPA;PHONE=;WEBSITE="https://kipamagazine.com/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heljam
