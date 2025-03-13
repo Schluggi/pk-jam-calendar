@@ -5837,6 +5837,23 @@ ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE=ksmovement.pl:MAILTO:mfp@ksmo
  vement.pl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Förde Jam 2025
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250811
+UID:2983314
+DESCRIPTION:<p>Summer\, sun\, beach and lots of urban spots in Kiel.</p>\n
+ <p>We train right by the fjord and on the beach. Don't forget your swimsui
+ t!</p>\n<p>Overnight stay in the hall with sleeping bag and/or hammock. In
+  the evening we have a barbecue in the courtyard right next to the sports 
+ hall. Drinks are included.</p>\n<p>In bad weather\, we can train in the ha
+ ll with a pole park\, airtrack and cubes.</p></br>\n<p>Price: 15€</p>\n<
+ p>Food: Not included</p>\n<p>Accomodation: yessss in the gym hall</p>
+GEO:54.3307894;10.1227652
+LOCATION:Jahnstraße 8A\, 24116 Kiel\, Germany
+ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=Parkour-Kiel.de:MAILTO:ParkourK
+ iel@gmx.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ceci N'Est Pas Un Stick
 DTSTART;VALUE=DATE:20250809
 DTEND;VALUE=DATE:20250811
