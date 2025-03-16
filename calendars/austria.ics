@@ -481,6 +481,24 @@ ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /xmas_jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:V Athletx Open Austria
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250405
+UID:2990346
+DESCRIPTION:<p><strong>ATHLETX OPEN AUSTRIA</strong></p>\n<p>National Free
+ running Style Contest</p>\n<ul>\n  <li>New setup</li>\n  <li>Jam</li>\n  <
+ li>Contest Kids &amp\; Adults</li>\n  <li>Prize money</li>\n  <li>Afterpar
+ ty at Coffee Bar Innsbruck</li>\n</ul>\n<p>NEW: All registered athletes fr
+ om outside Tyrol have the opportunity to train free of charge at the 4 Ele
+ ments Academy in Tyrol from registration until the contest date.</p></br>\
+ n<p>Information and registration at office@4elementsacademy.at</p>\n<p>Reg
+ istration deadline 16.03.2025</p></br>\n<p>Price: ?</p>\n<p>Accomodation: 
+ not included</p>\n<p>Food: ?</p>
+LOCATION:Alte Landstraße 21\, 6060 Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at/vax-open--82920674-de.html":MAILTO:office@4elementsacademy.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Mur Jam
 DTSTART;VALUE=DATE:20250503
 DTEND;VALUE=DATE:20250505

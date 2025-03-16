@@ -5336,6 +5336,24 @@ ORGANIZER;CN="Nova City Centre";PHONE=;WEBSITE="https://www.novacitycentre
  .com/projectunderground":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:V Athletx Open Austria
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250405
+UID:2990346
+DESCRIPTION:<p><strong>ATHLETX OPEN AUSTRIA</strong></p>\n<p>National Free
+ running Style Contest</p>\n<ul>\n  <li>New setup</li>\n  <li>Jam</li>\n  <
+ li>Contest Kids &amp\; Adults</li>\n  <li>Prize money</li>\n  <li>Afterpar
+ ty at Coffee Bar Innsbruck</li>\n</ul>\n<p>NEW: All registered athletes fr
+ om outside Tyrol have the opportunity to train free of charge at the 4 Ele
+ ments Academy in Tyrol from registration until the contest date.</p></br>\
+ n<p>Information and registration at office@4elementsacademy.at</p>\n<p>Reg
+ istration deadline 16.03.2025</p></br>\n<p>Price: ?</p>\n<p>Accomodation: 
+ not included</p>\n<p>Food: ?</p>
+LOCATION:Alte Landstraße 21\, 6060 Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at/vax-open--82920674-de.html":MAILTO:office@4elementsacademy.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Krap Invaders
 DTSTART;VALUE=DATE:20250405
 DTEND;VALUE=DATE:20250407
@@ -5349,6 +5367,45 @@ LOCATION:KRAPANNONE Indoor Parkourpark\, Via Pietro Riboli\, Schio\, Provi
  nce of Vicenza\, Italy
 ORGANIZER;CN=KRAP;PHONE=;WEBSITE="https://www.krapinvaders.com/":MAILTO:in
  fo@krapinvaders.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spl4 European Qualifiers @Hal 5
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250414
+UID:2990348
+DESCRIPTION:<h2>Time &amp\; location</h2>\n<p>Apr 11\, 2025\, 10:00 AM –
+  Apr 13\, 2025\, 8:00 PM</p>\n<p>Hal 5 Parkour Gym\, Hal 5\, Diestsesteenw
+ eg 104\, 3010 Leuven\, Belgium</p>\n<h2>About the event</h2>\n<p><strong>T
+ ickets</strong></p>\n<p>Buy your tickets here! <a rel="noopener noreferrer
+ " target="_blank" href="https://eventix.shop/29e229yk"><u>https://eventix.
+ shop/29e229yk</u></a> • Kids under 6 years old don't need to have a tick
+ et. • Members of Cirkus in Beweging have received a discount code by e-m
+ ail (can be used for family members as well).</p>\n<h2><strong>Competition
+  Schedule </strong><em>*subject to change</em></h2>\n<h2><strong>Friday Ap
+ ril 11th - Onsite Qualifier</strong></h2>\n<p>4:00PM - CHECK IN</p>\n<p>4:
+ 30PM - Style Practice (All Divisions)</p>\n<p>5:15PM - Speed Practice (All
+  Divisions)</p>\n<p>6:00PM - Speed Competition (All Divisions)</p>\n<p>6:3
+ 0PM - Skill Practice (Showing)</p>\n<p>7:00PM - Women’s Skill Competitio
+ n</p>\n<p>7:30PM - Men’s Skill Competition</p>\n<p>8:00PM - Style Practi
+ ce</p>\n<p>8:30PM - Women’s Style Competition</p>\n<p>9:00PM - Men’s S
+ tyle Competition</p>\n<h2><strong>Saturday April 12th - Semi Finals</stron
+ g></h2>\n<p>1:00PM - CHECK IN</p>\n<p>1:30PM - Style Practice (All Divisio
+ ns)</p>\n<p>2:15PM - Speed Practice (All Divisions)</p>\n<p>3:00PM - Speed
+  Competition (All Divisions)</p>\n<p>3:30PM - Skill Practice (Showing)</p>
+ \n<p>4:00PM - Women’s Skill Competition</p>\n<p>4:30PM - Men’s Skill C
+ ompetition</p>\n<p>5:00PM - Style Practice</p>\n<p>5:30PM - Women’s Styl
+ e Competition</p>\n<p>6:00PM - Men’s Style Competition</p>\n<h2><strong>
+ Sunday April 13th - Finals</strong></h2>\n<p>1:00PM - CHECK IN</p>\n<p>1:3
+ 0PM - Style Practice (All Divisions)</p>\n<p>2:15PM - Speed Practice (All 
+ Divisions)</p>\n<p>3:00PM - Speed Competition (All Divisions)</p>\n<p>3:30
+ PM - Skill Practice (Showing)</p>\n<p>4:00PM - Women’s Skill Competition
+ </p>\n<p>4:30PM - Men’s Skill Competition</p>\n<p>5:00PM - Style Practic
+ e</p>\n<p>5:30PM - Women’s Style Competition</p>\n<p>6:00PM - Men’s St
+ yle Competition</p>
+GEO:50.8832379;4.7221328
+LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
+ our.com/event-details/spl4-european-championships-hal-5":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Share Your Moves #5
