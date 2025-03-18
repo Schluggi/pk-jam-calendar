@@ -5408,6 +5408,19 @@ ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
  our.com/event-details/spl4-european-championships-hal-5":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Öpfv Skill/Style Contest & Jam
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250414
+UID:2993527
+DESCRIPTION:<p>Saturday Skill &amp\; style competition &amp\; afterwards j
+ am 9:00 - 19:00 - Categories Male\, Female &amp\; Kids</p></br>\n<p>Sunday
+  Jam 10:00 - 16:00</p></br>\n<p>more information coming soon!</p></br></br
+ >
+GEO:48.1355458;16.3143955
+LOCATION:ape academy\, Perfektastraße\, Vienna\, Austria
+ORGANIZER;CN=ÖPFV;PHONE=;WEBSITE=www.oepfv.at:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Share Your Moves #5
 DTSTART;VALUE=DATE:20250419
 DTEND;VALUE=DATE:20250421
@@ -5592,6 +5605,19 @@ DESCRIPTION:<p>4th edition of our Parkour JAM &amp\; Competitions AEROJAM.
 LOCATION:10000 Troyes\, France
 ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=www.aerocrew-pk.com:MAILTO:aerocrew.p
  k@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Jam
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250526
+UID:2993414
+DESCRIPTION:<p>Street Jam in Linz\, save the date and add yourself to the 
+ Whatsapp group chat <a rel="noopener noreferrer" target="_blank" href="htt
+ ps://chat.whatsapp.com/JXncsItIxbxG9Knt2sDrSM">here</a>!</p>
+GEO:48.30694;14.28583
+LOCATION:Linz\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE="https://chat.whatsapp.com/JXncsItIxbxG9Knt2s
+ DrSM":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pasta Jam
