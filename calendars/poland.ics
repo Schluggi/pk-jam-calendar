@@ -71,6 +71,19 @@ ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/keep.flowin/":MAIL
  TO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Movers Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:2995426
+DESCRIPTION:<p>MOVERS AIN'T DEAD BABY</p></br>\n<p>Book a date in your cal
+ endars and hit G town at the zenith of spring.</p></br>\n<p>Join us for a 
+ three-day street rally with a competition on Saturday(31.05) in 1v1 battle
+  format at @podworko.art</p></br>\n<p>Sign up and more info soon!</p>
+LOCATION:Gdynia\, Poland
+ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
+ 2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mfp 2025 - International Parkour Festival
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250804
