@@ -5620,6 +5620,16 @@ ORGANIZER;CN=;PHONE=;WEBSITE="https://chat.whatsapp.com/JXncsItIxbxG9Knt2s
  DrSM":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mpo Jam
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250526
+UID:3006310
+DESCRIPTION:<p>for more information keep checking @m.p.officiel instagram!
+ </p>
+LOCATION:Marseille\, France
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Swiss Jam 2025
 DTSTART;VALUE=DATE:20250524
 DTEND;VALUE=DATE:20250526
@@ -5829,6 +5839,24 @@ ORGANIZER;CN="Hannez Larzzon, Oskar Örn";PHONE=;WEBSITE="https://www.west
  coastplaygroundfestival.com":MAILTO:oskarorn@alternativaktivitet.se
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brno Takeover 2025
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250714
+UID:3007423
+DESCRIPTION:<p>❗️BRNO TAKEOVER❗️ is back\, with 100 new challenges
+  and new spots to explore <br>\n <br>\n ◽️The event will take place in
+  Brno\, Czech Republic\, from 11th till 13th of July <br>\n <br>\n ◽️T
+ he time for the challenges will be shorter this time and there will be som
+ e other upgrades 😁 <br>\n <br>\n ◽️Time schedule <br>\n ▫️Frida
+ y - jam around the city and in the evening in the In Motion Academy <br>\n
+  ▫️Saturday - the competition <br>\n ▫️Sunday - winners announceme
+ nt and jam around the city&nbsp\;</p></br>\n<p>Price: free</p>\n<p>Food: n
+ ot included</p>\n<p>Accomodation: In Motion Academy</p>
+LOCATION:Brno\, Czechia
+ORGANIZER;CN="Jakub Novotný";PHONE=;WEBSITE="https://www.instagram.com/p/
+ C8AYqNMtqoY/?igsh=MW53bXQ3MjlpcnY4Yg==":MAILTO:jacobenovotny@seznam.cz
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Festival Parkour Session
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250714
@@ -6035,5 +6063,21 @@ DESCRIPTION:<p>Coach Europe 2025&nbsp\;</p>\n<p>The yearly event dedicated
 LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
 ORGANIZER;CN="Parkour UNI and Exception Movement";PHONE=;WEBSITE="https://
  exceptionmovement.be/coach_europe":MAILTO:parkouruni.pku@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uga Berlin
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250908
+UID:3007311
+DESCRIPTION:<p>The Urban Gathering (UGA) is an event which is organised by
+  the non-profit parkour organisation "Parkour Berlin e.V:".</p>\n<p>The ai
+ m of the event is to create a connecting experience with parkour education
+  by offering multiple workshops as well as bringing together the community
+  by offering collective training/jam sessions. Price/Accomodation/Food: In
+ fos coming soon</p>
+GEO:52.52000659999999;13.404954
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Parkour Berlin e.V:";PHONE=;WEBSITE="https://www.urban-gathe
+ ring.com/":MAILTO:
 END:VEVENT
 END:VCALENDAR

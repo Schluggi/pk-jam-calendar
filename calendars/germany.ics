@@ -2287,4 +2287,20 @@ LOCATION:Naturatelier\, Golpenweiler Straße\, Frickingen\, Germany
 ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uga Berlin
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250908
+UID:3007311
+DESCRIPTION:<p>The Urban Gathering (UGA) is an event which is organised by
+  the non-profit parkour organisation "Parkour Berlin e.V:".</p>\n<p>The ai
+ m of the event is to create a connecting experience with parkour education
+  by offering multiple workshops as well as bringing together the community
+  by offering collective training/jam sessions. Price/Accomodation/Food: In
+ fos coming soon</p>
+GEO:52.52000659999999;13.404954
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Parkour Berlin e.V:";PHONE=;WEBSITE="https://www.urban-gathe
+ ring.com/":MAILTO:
+END:VEVENT
 END:VCALENDAR

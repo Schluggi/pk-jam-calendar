@@ -354,4 +354,22 @@ GEO:50.0755381;14.4378005
 LOCATION:Prague\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brno Takeover 2025
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250714
+UID:3007423
+DESCRIPTION:<p>❗️BRNO TAKEOVER❗️ is back\, with 100 new challenges
+  and new spots to explore <br>\n <br>\n ◽️The event will take place in
+  Brno\, Czech Republic\, from 11th till 13th of July <br>\n <br>\n ◽️T
+ he time for the challenges will be shorter this time and there will be som
+ e other upgrades 😁 <br>\n <br>\n ◽️Time schedule <br>\n ▫️Frida
+ y - jam around the city and in the evening in the In Motion Academy <br>\n
+  ▫️Saturday - the competition <br>\n ▫️Sunday - winners announceme
+ nt and jam around the city&nbsp\;</p></br>\n<p>Price: free</p>\n<p>Food: n
+ ot included</p>\n<p>Accomodation: In Motion Academy</p>
+LOCATION:Brno\, Czechia
+ORGANIZER;CN="Jakub Novotný";PHONE=;WEBSITE="https://www.instagram.com/p/
+ C8AYqNMtqoY/?igsh=MW53bXQ3MjlpcnY4Yg==":MAILTO:jacobenovotny@seznam.cz
+END:VEVENT
 END:VCALENDAR
