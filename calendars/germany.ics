@@ -2231,6 +2231,41 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Streets Jam Ulm
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250721
+UID:3012790
+DESCRIPTION:<p>Streets-Jam Ulm – July 18-20\, 2025</p></br>\n<p>From Jul
+ y 18th to July 20th\, 2025\, our third Streets-Jam will take place in a be
+ autiful garden with a trampoline\, bar setup\, and barbecue area!</p></br>
+ \n<p>You can stay overnight in a tent or on a field bed. We will provide b
+ reakfast and drinks: water will be available 24/7 to make sure you stay hy
+ drated.</p></br>\n<p>On Saturday and Sunday we’ll be out training at dif
+ ferent spots in Ulm. In case of bad weather\, there’s also an option to 
+ train at Einstein-Halle.</p></br>\n<p>If you can stay longer\, it’s wort
+ h sticking around until Monday\, July 21st\, as Nabada (a huge water festi
+ val) will be happening in Ulm.</p></br>\n<p>👉 More info: [Nabada](<a re
+ l="noopener noreferrer" target="_blank" href="https://tourismus.ulm.de/de/
+ entdecken/veranstaltungen/veranstaltungshighlights/nabada)">https://touris
+ mus.ulm.de/de/entdecken/veranstaltungen/veranstaltungshighlights/nabada)</
+ a></p></br>\n<p>To stay updated\, we created a "Parkour Jam WhatsApp Group
+ ". Feel free to ask questions there or contact us at streets.ev@yahoo.com.
+ </p>\n<p>---</p>\n<p>### Quick Info at a Glance</p></br>\n<p>📅 When?</p
+ >\n<p>Friday\, **July 18th\, 2025\, from 6 PM until Sunday\, July 20th\, 2
+ 025 (Open End)</p></br>\n<p>📍 Where?</p>\n<p>The garden is located at A
+ m Hochsträß 8\, 89081 Ulm (opposite HfG Ulm).</p>\n<p>You can arrive by 
+ train to Ulm Central Station and then take Tram Line 2 (direction “Kuhbe
+ rg”) to the stop "Kuhberg Schulzentrum”. From there\, it's about a 10-
+ minute walk.</p></br>\n<p>💰 Costs?</p>\n<p>We will update you as soon a
+ s we have the final cost details.</p></br>\n<p>📝 Registration:</p>\n<p>
+ Register using the following link.</p>\n<p>Participants under 18 years old
+  must also bring a signed parental consent form.</p>
+GEO:48.3680782;9.9592634
+LOCATION:Am Hochsträß 8\, 89081 Ulm\, Germany
+ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/park
+ our-jam-ulm/":MAILTO:streets.ev@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Camp Gütersloh
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250728
