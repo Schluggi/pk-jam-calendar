@@ -5634,10 +5634,17 @@ SUMMARY:Swiss Jam 2025
 DTSTART;VALUE=DATE:20250524
 DTEND;VALUE=DATE:20250526
 UID:2997466
-DESCRIPTION:<p>more infos coming soon!</p>
+DESCRIPTION:<p>Swiss Jam 2025 is the biggest Parkour event in Switzerland\
+ , offering a diverse program for kids\, youth\, and adults.</p>\n<p>Whethe
+ r you're a beginner or a pro\, there's something for everyone!</p></br>\n<
+ p>Join the event to jam\, to learn\, to get inspired &amp\; inspire!</p></
+ br>\n<p>Find information to tickets\, timetable and more <a rel="noopener 
+ noreferrer" target="_blank" href="https://www.swissparkourtour.ch/swiss-ja
+ m-2025/"><strong>here</strong></a>.</p></br>
 GEO:47.3768866;8.5483563
 LOCATION:Zürich\, Switzerland
-ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE=:MAILTO:
+ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://www.swiss
+ parkourtour.ch/swiss-jam-2025/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pasta Jam
