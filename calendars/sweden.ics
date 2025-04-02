@@ -211,4 +211,32 @@ LOCATION:471 60 Myggenäs\, Sweden
 ORGANIZER;CN="Hannez Larzzon, Oskar Örn";PHONE=;WEBSITE="https://www.west
  coastplaygroundfestival.com":MAILTO:oskarorn@alternativaktivitet.se
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xjam Summer 25
+DTSTART;VALUE=DATE:20250706
+DTEND;VALUE=DATE:20250710
+UID:3025237
+DESCRIPTION:<p>xJam Summer -25 will be awesome!!! &nbsp\;</p>\n<p>July 6th
+  - July 9th 2025 (now FOUR days!) A jam that will bring the community toge
+ ther and create memories for life! &nbsp\;&nbsp\;You get the chance to mee
+ t\, hang out with and train with the Swedish parkour community and parkour
+  lovers from all over Europe!&nbsp\;</p></br>\n<p>There will be competitio
+ ns\, such as "skillchallenge"\, "wallchallenge"\, "boxchallenge"\, "tricki
+ ngbattle"\, etc. You will all sleep at a hard surface on xFlows OCR-course
+ .&nbsp\;</p>\n<p>Bring something soft to sleep on and a sleeping bag. &nbs
+ p\;Experience xFlows parkourpark\, trampolin\, foampit\, springfloor and o
+ bstacle course. If the weather is fine we will train at different spots ou
+ tside in Jönköping and Nässjö. We also hope to go to a lake with a jum
+ ping tower! &nbsp\;Swedish delicious breakfast is included in the price. W
+ e will sell pan pizza\, bars\, shakes\, fruit\, etc. at xFlow. The nearest
+  grocery store and restaurant is about 2km from xFlow. &nbsp\;Please bring
+  indoor shoes for traning at xFlow. &nbsp\;</p></br>\n<p>Price: &nbsp\;850
+  SEK for the 15 first people that sign up (only until April 30th)* 1050 SE
+ K for all others &nbsp\;*use the code EARLYBIRD to get the cheaper price</
+ p>\n<p>Food: Only Breakfast</p>\n<p>Accomodation: Yes</p>
+GEO:57.7454373;14.170872
+LOCATION:xFlow\, Herkulesvägen\, Jönköping\, Sweden
+ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=xflow.se/xjam:MAILTO:erik@xflo
+ w.se
+END:VEVENT
 END:VCALENDAR
