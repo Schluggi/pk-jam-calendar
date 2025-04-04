@@ -2072,6 +2072,25 @@ ORGANIZER;CN="SVE abt. Parkour";PHONE=;WEBSITE="https://eventfrog.de/de/p/
  7243487253.html":MAILTO:akrobatik@sve67.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chemnitz Jam
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250412
+UID:3030236
+DESCRIPTION:<p>[IF] Chemnitz Jam 2025 🥳</p></br>\n<p>12.04. From 11am</
+ p></br>\n<p>The jam will be very free (and free of charge)\, i.e. we will 
+ meet in the morning/lunchtime and train all day long at many different spo
+ ts ☺️</p></br>\n<p>rough plan📝</p>\n<p>We start at 11am at Brühl\,
+  then run through the city to the vocational school\, through the Luther n
+ eighbourhood and possibly to the university campus.</p></br>\n<p>🌯There
+  are good and cheap food spots along the way such as Yasmin(5€ Syrian wr
+ aps\, also vegan) or Alan(5€ kebab &amp\; pizza)</p></br>\n<p>We look fo
+ rward to seeing you 🤗</p></br>
+GEO:50.8348204;9.4388586
+LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.instagram.com/
+ p/DH8aI0XoIx9/?igsh=MWhnaHN3ZDFpdTMyeQ%3D%3D":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:North Nature Jam
 DTSTART;VALUE=DATE:20250502
 DTEND;VALUE=DATE:20250505

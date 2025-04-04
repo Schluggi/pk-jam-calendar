@@ -84,6 +84,28 @@ ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
  2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Keep Flowin' 25
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250630
+UID:3030235
+DESCRIPTION:<p>Once again we would love to invite you to have some fun wit
+ h us at the biggest parkour event in Poland 🙆‍♂️<br>\n<br>\nThis 
+ &nbsp\;time Keep Flowin’ is changing a bit and we have prepared for you 
+ 4 &nbsp\;street challanges and 1v1 best trick battles to have a chance to 
+ win &nbsp\;some 💵💵\, more info on that soon!<br>\n<br>\nBeside a cha
+ nce to snatch some &nbsp\;money\, best outfit contest\, pk screening at th
+ e gym and few other &nbsp\;things that I’ll share in the upcoming months
+  this weekend will be full &nbsp\;of good vibes\, lovely people and Sick s
+ pots! Best way to start the &nbsp\;summer if you ask me 🤓 <br>\n<br>\nI
+ n the near future I’ll start posting &nbsp\;more info bout the event and
+  challanges so save the date\, share this &nbsp\;post and come over to Wro
+ cław\, Poland for Keep Flowin’ 2025 🦔</p>
+GEO:51.1078852;17.0385376
+LOCATION:Wrocław\, Poland
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/keep.flowin/":MAIL
+ TO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mfp 2025 - International Parkour Festival
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250804

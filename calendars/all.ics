@@ -5421,6 +5421,25 @@ LOCATION:ape academy\, Perfektastraße\, Vienna\, Austria
 ORGANIZER;CN=ÖPFV;PHONE=;WEBSITE=www.oepfv.at:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chemnitz Jam
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250412
+UID:3030236
+DESCRIPTION:<p>[IF] Chemnitz Jam 2025 🥳</p></br>\n<p>12.04. From 11am</
+ p></br>\n<p>The jam will be very free (and free of charge)\, i.e. we will 
+ meet in the morning/lunchtime and train all day long at many different spo
+ ts ☺️</p></br>\n<p>rough plan📝</p>\n<p>We start at 11am at Brühl\,
+  then run through the city to the vocational school\, through the Luther n
+ eighbourhood and possibly to the university campus.</p></br>\n<p>🌯There
+  are good and cheap food spots along the way such as Yasmin(5€ Syrian wr
+ aps\, also vegan) or Alan(5€ kebab &amp\; pizza)</p></br>\n<p>We look fo
+ rward to seeing you 🤗</p></br>
+GEO:50.8348204;9.4388586
+LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.instagram.com/
+ p/DH8aI0XoIx9/?igsh=MWhnaHN3ZDFpdTMyeQ%3D%3D":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Share Your Moves #5
 DTSTART;VALUE=DATE:20250419
 DTEND;VALUE=DATE:20250421
@@ -5484,6 +5503,16 @@ DESCRIPTION:<p>Join us in Elgin\, Moray\, for 2 days packed with Parkour C
 LOCATION:Moray St\, Elgin IV30\, UK
 ORGANIZER;CN="Ignotus Parkour";PHONE=;WEBSITE="https://www.ticketsource.co
  .uk/ignotus-parkour":MAILTO:ignotuspk@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capyjam
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250428
+UID:3030250
+DESCRIPTION:<p>more information soon</p>
+LOCATION:Marseille\, France
+ORGANIZER;CN="capybara gvng";PHONE=;WEBSITE="https://www.instagram.com/p/D
+ GeDe94so19/?igsh=MTJjd2pwcHF2d2U1bg%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:North Nature Jam
@@ -5808,6 +5837,28 @@ ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
  sollfrank@googlemail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Keep Flowin' 25
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250630
+UID:3030235
+DESCRIPTION:<p>Once again we would love to invite you to have some fun wit
+ h us at the biggest parkour event in Poland 🙆‍♂️<br>\n<br>\nThis 
+ &nbsp\;time Keep Flowin’ is changing a bit and we have prepared for you 
+ 4 &nbsp\;street challanges and 1v1 best trick battles to have a chance to 
+ win &nbsp\;some 💵💵\, more info on that soon!<br>\n<br>\nBeside a cha
+ nce to snatch some &nbsp\;money\, best outfit contest\, pk screening at th
+ e gym and few other &nbsp\;things that I’ll share in the upcoming months
+  this weekend will be full &nbsp\;of good vibes\, lovely people and Sick s
+ pots! Best way to start the &nbsp\;summer if you ask me 🤓 <br>\n<br>\nI
+ n the near future I’ll start posting &nbsp\;more info bout the event and
+  challanges so save the date\, share this &nbsp\;post and come over to Wro
+ cław\, Poland for Keep Flowin’ 2025 🦔</p>
+GEO:51.1078852;17.0385376
+LOCATION:Wrocław\, Poland
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/keep.flowin/":MAIL
+ TO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heljam
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250630
@@ -6119,6 +6170,17 @@ DESCRIPTION:<p>Free street jam and screening competition in Bratislava cit
 LOCATION:Bratislava\, Slovakia
 ORGANIZER;CN=Feztmind;PHONE=;WEBSITE="@feztmind instagram":MAILTO:feztmind
  .23@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storror Big Wall Open
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250830
+UID:3030246
+DESCRIPTION:<p>BIG WALL OPEN 2 <br>\nSaturday 30th August <br>\n📍 Brigh
+ ton</p>
+LOCATION:Brighton\, Brighton and Hove\, UK
+ORGANIZER;CN=STORROR;PHONE=;WEBSITE="https://www.instagram.com/storror/":M
+ AILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coach Europe 2025 - Parkour\, Freerunning And Add
