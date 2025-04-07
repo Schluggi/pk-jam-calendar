@@ -6160,16 +6160,29 @@ ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spefzt
-DTSTART;VALUE=DATE:20250829
-DTEND;VALUE=DATE:20250901
-UID:2975086
-DESCRIPTION:<p>Free street jam and screening competition in Bratislava cit
- y with sleeping in a Parkour Gym + afterparty</p></br>\n<p>Price: free</p>
- \n<p>Accomodation: yes</p>\n<p>Food: not included</p>
-LOCATION:Bratislava\, Slovakia
-ORGANIZER;CN=Feztmind;PHONE=;WEBSITE="@feztmind instagram":MAILTO:feztmind
- .23@gmail.com
+SUMMARY:Beam Me Up Spotty Jam 2025
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250825
+UID:3034748
+DESCRIPTION:<p>👽🛸Beam Me Up Spotty 2025🛸👽</p></br>\n<p>The tim
+ e has finally come! For the fourth time in a row\, we (Orbit Freerun) are 
+ hosting the one and only Wolfsburg Jam this year. From 22-24 August\, we'l
+ l be making the city unsafe and having a great time together. So make sure
+  you put it in your diary right away.🗓</p></br>\n<p>As the well-known s
+ pots have already been beamed away\, we have been busy searching and still
+  have a few surprises in store. New spots\, a competition at the worst par
+ kour park in Germany\, splash diving and much more are on the programme. S
+ o be sure to pack your swimming gear.</p>\n<p>As always\, we'll be sleepin
+ g in a gym in Ehmen and this time even for free. Everyone has to pay for t
+ heir own catering\, unless we can find sponsors.</p>\n<p>Peace and here's 
+ to another great BMUS✌️</p></br>\n<p>Join the whatsapp group <a rel="n
+ oopener noreferrer" target="_blank" href="https://chat.whatsapp.com/Fx9V2o
+ JUq3R2Uei6q1Enyt"><strong>here</strong></a>.</p></br>\n<p>Price: free</p>\
+ n<p>Food: not included</p>\n<p>Accomodation: yes</p>
+GEO:52.3943068;10.7865461
+LOCATION:Siebsberg 19\, 38442 Wolfsburg\, Germany
+ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE="https://chat.whatsapp.com/Fx9
+ V2oJUq3R2Uei6q1Enyt":MAILTO:orbitfreerun@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storror Big Wall Open
@@ -6195,6 +6208,18 @@ DESCRIPTION:<p>Coach Europe 2025&nbsp\;</p>\n<p>The yearly event dedicated
 LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
 ORGANIZER;CN="Parkour UNI and Exception Movement";PHONE=;WEBSITE="https://
  exceptionmovement.be/coach_europe":MAILTO:parkouruni.pku@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spefzt
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250908
+UID:2975086
+DESCRIPTION:<p>Free street jam and screening competition in Bratislava cit
+ y with sleeping in a Parkour Gym + afterparty</p></br>\n<p>Price: free</p>
+ \n<p>Accomodation: yes</p>\n<p>Food: not included</p>
+LOCATION:Bratislava\, Slovakia
+ORGANIZER;CN=Feztmind;PHONE=;WEBSITE="@feztmind instagram":MAILTO:feztmind
+ .23@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uga Berlin
