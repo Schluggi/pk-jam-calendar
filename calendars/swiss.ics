@@ -129,4 +129,26 @@ LOCATION:Zürich\, Switzerland
 ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://www.swiss
  parkourtour.ch/swiss-jam-2025/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Camp 2025
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250804
+UID:3059955
+DESCRIPTION:<p>Switzerland's most legendary camp is back❗ &nbsp\;</p>\n<
+ p>The WPF Camp has taken place every year since the World's Parkour Family
+  was founded. Camping and PK for 5 days in Basel\, Switzerland. Training t
+ akes place every day at different spots. Immerse yourself in a unique expe
+ rience. &nbsp\;Camp participants will spend the night with us and special 
+ guests at the campsite.&nbsp\;</p></br>\n<p>Breakfast 09:00-11:00&nbsp\;</
+ p>\n<p>Dinner 19:00-20:30&nbsp\;</p></br>\n<p>We will also enjoy a BBQ by 
+ the camp fire. Breakfast and dinner are prepared in the clubhouse by the W
+ PF team. Every afternoon we leave together by public transport (included) 
+ visiting various spots in Basel. &nbsp\;On Saturday you can participate th
+ e WPF Skills Competition! &nbsp\;</p></br>\n<p>More infos and Line up will
+  follow soon.</p></br>\n<p>Price: 180.- CHF</p>\n<p>Accomodation: on a cam
+ psite</p>\n<p>Food: all inclusive</p>
+LOCATION:Basel\, Switzerland
+ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE="https://worldspark
+ ourfamily.ch/wpfcamp":MAILTO:info@worldsparkourfamily.ch
+END:VEVENT
 END:VCALENDAR

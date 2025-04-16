@@ -2169,6 +2169,20 @@ ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/east-nature-jam-2025":MAILTO:Info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flinta* Parkour Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:3059950
+DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
+ ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
+ e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
+ ng sleeping bag and a matress</p>
+GEO:51.9904;7.66672
+LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
+ .de/jams/":MAILTO:info@parkourhalle-lani.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250609

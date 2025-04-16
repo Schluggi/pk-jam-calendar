@@ -5728,6 +5728,20 @@ ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
  2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flinta* Parkour Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:3059950
+DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
+ ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
+ e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
+ ng sleeping bag and a matress</p>
+GEO:51.9904;7.66672
+LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
+ .de/jams/":MAILTO:info@parkourhalle-lani.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250609
@@ -6069,6 +6083,28 @@ DESCRIPTION:<p>Tour de Fyn is a jam where we go around Fyn (Funen) in Denm
 LOCATION:Finlandkaj 8\, 5000 Odense\, Denmark
 ORGANIZER;CN="Movement Odense";PHONE=;WEBSITE="https://facebook.com/events
  /s/tour-de-fyn-4/977811604172363/":MAILTO:movementodense@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Camp 2025
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250804
+UID:3059955
+DESCRIPTION:<p>Switzerland's most legendary camp is back❗ &nbsp\;</p>\n<
+ p>The WPF Camp has taken place every year since the World's Parkour Family
+  was founded. Camping and PK for 5 days in Basel\, Switzerland. Training t
+ akes place every day at different spots. Immerse yourself in a unique expe
+ rience. &nbsp\;Camp participants will spend the night with us and special 
+ guests at the campsite.&nbsp\;</p></br>\n<p>Breakfast 09:00-11:00&nbsp\;</
+ p>\n<p>Dinner 19:00-20:30&nbsp\;</p></br>\n<p>We will also enjoy a BBQ by 
+ the camp fire. Breakfast and dinner are prepared in the clubhouse by the W
+ PF team. Every afternoon we leave together by public transport (included) 
+ visiting various spots in Basel. &nbsp\;On Saturday you can participate th
+ e WPF Skills Competition! &nbsp\;</p></br>\n<p>More infos and Line up will
+  follow soon.</p></br>\n<p>Price: 180.- CHF</p>\n<p>Accomodation: on a cam
+ psite</p>\n<p>Food: all inclusive</p>
+LOCATION:Basel\, Switzerland
+ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE="https://worldspark
+ ourfamily.ch/wpfcamp":MAILTO:info@worldsparkourfamily.ch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mfp 2025 - International Parkour Festival
