@@ -2223,6 +2223,34 @@ ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE="https://parkour-erfurt.
  de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Challenge Race 1
+DTSTART;VALUE=DATE:20250615
+DTEND;VALUE=DATE:20250615
+UID:3081220
+DESCRIPTION:<p>1 Spot -&gt\; 3 hours -&gt\; 50 Challenges &nbsp\;</p></br>
+ \n<p>Do you love to challenge yourself while training parkour? Well\, of c
+ ourse you do. Then is the Parkour Challenge Race the perfect event for you
+ ! &nbsp\;There are 50 Challenges waiting for you.&nbsp\;</p></br>\n<p>- 15
+  easy Challenges&nbsp\;</p>\n<p>- 15 medium Challenges&nbsp\;</p>\n<p>- 15
+  difficult Challenges&nbsp\;</p>\n<p>- 5 hard Challenges &nbsp\;</p></br>\
+ n<p>You got 3 hours to try to complete them all. The person with most comp
+ leted challenges wins the cup! All completed challenges must be filmed\, s
+ o the host can proof it. &nbsp\;</p></br>\n<p>12:00 - meeting at <strong>S
+ tadtgarten Dortmund</strong> and get warmed up&nbsp\;</p>\n<p>12:45 - you 
+ receive the PDF with all the challenges in the whatsapp group (<a rel="noo
+ pener noreferrer" target="_blank" href="https://chat.whatsapp.com/D9LV9TVL
+ VYz9fx1SBjvl5j)">https://chat.whatsapp.com/D9LV9TVLVYz9fx1SBjvl5j)</a></p>
+ \n<p>13:00 - Challenge Race starts&nbsp\;</p>\n<p>16:00 - Challenge Race e
+ nds&nbsp\;</p>\n<p>16:30 - award ceremony&nbsp\;</p></br>\n<p>After all th
+ at there will be enough time to jam til open end. &nbsp\;See you there!</p
+ ></br>\n<p>Price: 0€</p>\n<p>Accomodation: not included</p>\n<p>Food: no
+ t included</p>
+LOCATION:Hansastraße\, 44137 Dortmund\, Germany
+ORGANIZER;CN="Fabian Teusch";PHONE=;WEBSITE="https://www.instagram.com/par
+ kour_challenge_race?igsh=MWxpamVkbW52MTNyZw==":MAILTO:fitbyfabianteusch@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Str!De Berlin
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250623
