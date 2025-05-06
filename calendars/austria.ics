@@ -544,4 +544,24 @@ LOCATION:Linz\, Austria
 ORGANIZER;CN=;PHONE=;WEBSITE="https://chat.whatsapp.com/JXncsItIxbxG9Knt2s
  DrSM":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Jam & Contest Linz
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250616
+UID:3096100
+DESCRIPTION:<p>2-day parkour jam &amp\; contest with various highlights:</
+ p>\n<p>- Parkour &amp\; Freerunning</p>\n<p>- Tricking/Acrobatics</p>\n<p>
+ - ÖPFV Style Contests</p>\n<p>- and much more</p></br>\n<p>Timetable:</p>
+ \n<p>* Saturday</p>\n<p>- 10.00-15.00: Jam Time</p>\n<p>- 15.00: Skill Con
+ test ‘Teens’</p>\n<p>- 16.30: Style Contest ‘Female (16+) &amp\; Mal
+ e (16+)’</p>\n<p>- 18.30 - 21.00: Award ceremony + jamming</p>\n<p>* Sun
+ day</p>\n<p>- 10.00-16.00: Jam Time</p></br>\n<p>Price:</p>\n<p>- Jamticke
+ t (both days): 40€ (or 30€ for ULW members)</p>\n<p>- Jamticket (one d
+ ay):25€ (or 20€ for ULW members)</p></br>\n<p>Food: not sure</p>\n<p>A
+ ccomodation: not sure</p></br>\n<p>SIGN UP <strong>HERE</strong>.</p>
+GEO:nan;nan
+LOCATION:Zero Limits Trendsporthalle
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /summer_jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
 END:VCALENDAR
