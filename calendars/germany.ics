@@ -2442,4 +2442,14 @@ LOCATION:Berlin\, Germany
 ORGANIZER;CN="Parkour Berlin e.V:";PHONE=;WEBSITE="https://www.urban-gathe
  ring.com/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Schöne Jam
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250915
+UID:3124042
+DESCRIPTION:<p>DIE SCHÖNE JAM - this time in Berlin. More infos coming!</
+ p>
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Phil Neiss?";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR

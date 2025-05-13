@@ -5,6 +5,7 @@ Copy the target link via right click.
 # Countries
 - [Austria](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/austria.ics)
 - [Belgium](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/belgium.ics)
+- [CROATIA](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/croatia.ics)
 - [Canada](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/canada.ics)
 - [Czech Republic](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/czech_republic.ics)
 - [Denmark](https://raw.githubusercontent.com/Schluggi/pk-jam-calendar/main/calendars/denmark.ics)

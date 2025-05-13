@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Proljetni Jam Zagreb
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250519
+UID:3124043
+DESCRIPTION:<p>This year\, we celebrate 20 years since the first PROljetni
+  Jam in Zagreb\, which was held back in 2005. And its 21 years since the b
+ eginning of Parkour in Croatia. The number 21 holds special significance i
+ n the Parkour world\, so we decided to mark this occasion in a special way
+ !&nbsp\;</p></br>\n<p>PROljetni Jam is one of\, if not the oldest regularl
+ y held events in the Parkour world. To make this year even more special\, 
+ we are bringing a guest who is one of\, if not the oldest founder of the d
+ iscipline\, and he will share his experience with us. Over the course of t
+ wo days\, you will have the opportunity to train and talk with him in an o
+ riginal way—without official workshops or lectures.&nbsp\;</p></br>\n<p>
+ 📍 Official start of the gathering:&nbsp\;</p>\n<p>➡ Saturday\, May 17
+ \, 2025\, at 11:00 AM at Bundek&nbsp\;</p>\n<p>➡ Sunday\, May 18\, 2025\
+ , at 12:00 PM at Ksaver</p></br>\n<p>If you're coming from outside Zagreb 
+ and need accommodation\, please contact us as soon as possible via message
+  here or on the event’s official Instagram page. See you at another unfo
+ rgettable PROljetni Jam!</p></br>\n<p>Price: free</p>\n<p>Food: not includ
+ ed</p>\n<p>Accomodation: contact them</p>
+LOCATION:Bundek\, 10000\, Novi Zagreb - istok\, Zagreb\, Croatia
+ORGANIZER;CN="Parkour HR";PHONE=;WEBSITE="https://fb.me/e/8e09y4QGj":MAILT
+ O:emanueldolo@gmail.com
+END:VEVENT
+END:VCALENDAR
