@@ -66,8 +66,8 @@ DESCRIPTION:<p>Street jam with a unique competition format.</p><p>This tim
  e in Bratislava city!</p><br><p>more infos soon</p>
 GEO:48.1485965;17.1077477
 LOCATION:Bratislava\, Slovakia
-ORGANIZER;CN=FEZTMIND;PHONE=;WEBSITE="@feztmind @slovenskaparkourscenaexis
- tuje":MAILTO:
+ORGANIZER;CN=FEZTMIND;PHONE=;WEBSITE=@feztmind @slovenskaparkourscenaexist
+ uje:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spefzt
@@ -78,7 +78,7 @@ DESCRIPTION:<p>Free street jam and screening competition in Bratislava cit
  y with sleeping in a Parkour Gym + afterparty</p></br>\n<p>Price: free</p>
  \n<p>Accomodation: yes</p>\n<p>Food: not included</p>
 LOCATION:Bratislava\, Slovakia
-ORGANIZER;CN=Feztmind;PHONE=;WEBSITE="@feztmind instagram":MAILTO:feztmind
- .23@gmail.com
+ORGANIZER;CN=Feztmind;PHONE=;WEBSITE=@feztmind instagram:MAILTO:feztmind.2
+ 3@gmail.com
 END:VEVENT
 END:VCALENDAR

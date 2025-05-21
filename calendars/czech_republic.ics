@@ -125,8 +125,8 @@ DESCRIPTION:<p>Another Brno jam is here. This time we'll visit some less k
  <p>Accomodation: gym</p><p>Food: not included</p>
 GEO:49.1950602;16.6068371
 LOCATION:Brno\, Czechia
-ORGANIZER;CN="Jakub Novotny";PHONE=;WEBSITE="Instagram @jakubnovotny28":MA
- ILTO:
+ORGANIZER;CN="Jakub Novotny";PHONE=;WEBSITE=Instagram @jakubnovotny28:MAIL
+ TO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Imacon

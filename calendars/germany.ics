@@ -322,8 +322,8 @@ DESCRIPTION:<p>🇩🇪 Wir vom Twio X laden euch ganz herzlich zu unserer
  >
 GEO:51.3396955;12.3730747
 LOCATION:Leipzig\, Germany
-ORGANIZER;CN="Twio X";PHONE="+49 177 211 93 22";WEBSITE="https://twio-x.de
- /interessierte/events/x-dream-2022/#nav":MAILTO:
+ORGANIZER;CN="Twio X";PHONE=+49 177 211 93 22;WEBSITE="https://twio-x.de/i
+ nteressierte/events/x-dream-2022/#nav":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Urban Gathering Berlin
@@ -693,8 +693,8 @@ DESCRIPTION:<p>The Wiesenjam in Erlangen will take place again! We jam in
  uff</p>
 GEO:49.6082326;11.0341523
 LOCATION:Spardorfer Str. 82\, Erlangen\, Germany
-ORGANIZER;CN="Parkour Erlangen + CrapMovements";PHONE=;WEBSITE="wiesenjam.
- de (die Webseite startet am 15.02.)":MAILTO:info@wiesenjam.de
+ORGANIZER;CN="Parkour Erlangen + CrapMovements";PHONE=;WEBSITE=wiesenjam.d
+ e (die Webseite startet am 15.02.):MAILTO:info@wiesenjam.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:North Nature Jam

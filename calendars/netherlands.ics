@@ -161,7 +161,7 @@ DESCRIPTION:<p>Fifth edition of Own the Spot in Eindhoven. Jam with 2 comp
  ce: 75€</p><p>Accomodation: Dynamo Eindhoven</p><p>Food: included</p>
 GEO:51.42314229999999;5.462289699999999
 LOCATION:Eindhoven\, Netherlands
-ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="Commitfreerun instagram":MAI
- LTO:info@commitfreerun.nl
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE=Commitfreerun instagram:MAILT
+ O:info@commitfreerun.nl
 END:VEVENT
 END:VCALENDAR
