@@ -475,6 +475,16 @@ ORGANIZER;CN="Flow De Gand";PHONE=;WEBSITE="https://www.flowdegand.be/ceci
  -n-est-pas-un-stick":MAILTO:niels@flowdegand.be
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250901
+UID:3149502
+DESCRIPTION:<p>save the date!</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=Springstof;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coach Europe 2025 - Parkour\, Freerunning And Add
 DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250908

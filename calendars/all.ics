@@ -6333,6 +6333,16 @@ ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE="https://chat.whatsapp.com/Fx9
  V2oJUq3R2Uei6q1Enyt":MAILTO:orbitfreerun@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250901
+UID:3149502
+DESCRIPTION:<p>save the date!</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=Springstof;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Storror Big Wall Open
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250830
