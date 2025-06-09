@@ -36,7 +36,7 @@ python-dateutil==2.9.0.post0
     # via icalendar
 pytz==2025.2
     # via icalendar
-requests==2.32.3
+requests==2.32.4
     # via -r src\requirements.in
 six==1.17.0
     # via python-dateutil
