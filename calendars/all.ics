@@ -6343,6 +6343,23 @@ ORGANIZER;CN=Springstof;PHONE=;WEBSITE="https://www.springstofparkour.com/
  ":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Göjam
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250901
+UID:3195288
+DESCRIPTION:<p>Die coolste Jam des Jahres in der Parkour-Hochburg Götting
+ en!! Zwei Tage Streetjam in Göttingen mit Übernachtungsmöglichkeit\, Ch
+ allenges\, Spiel und Spaß. Mehr Infos später über Instagram @goegaeng u
+ nd in der Whatsapp Gruppe :) &nbsp\;</p></br>\n<p>The coolest jam of the y
+ ear in the Vatican of the Parkour World - Göttingen!! A two-day streetjam
+  with a place to sleep\, challenges and lots of fun. More info's coming so
+ on via Instagram @goegaeng or in the Whatsapp-Group :)</p></br>\n<p>Price:
+  free</p>\n<p>Accomodation: yes\, gym</p>\n<p>Food: not included</p>
+LOCATION:37 Göttingen\, Germany
+ORGANIZER;CN=GöGäng;PHONE=;WEBSITE="https://chat.whatsapp.com/GJriRdt4tU
+ aDxOIPrAumLB":MAILTO:hanna-shi@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Storror Big Wall Open
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250830
