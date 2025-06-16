@@ -2265,6 +2265,27 @@ ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
  sollfrank@googlemail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Birthday Jam - Mannheim
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250707
+UID:3205089
+DESCRIPTION:<p>Born out of Dennis Korra's idea to have a good training ses
+ sion on his birthday\, the Mannheim Birthday Jam has grown over the last 5
+  years. No frills\, no frippery - just a lot of training\, exploring the a
+ mazing spots of Mannheim\, seeing old and new faces and sharing a lot of g
+ ood vibes. An oldschool jam like it's written in the book! If this sounds 
+ like a successful weekend to you\, then feel warmly invited to come to Man
+ nheim. In the WhatsApp group you can find out everything else and help Den
+ nis keep an overview:</p></br>\n<p><a rel="noopener noreferrer" target="_b
+ lank" href="https://chat.whatsapp.com/ErcoURW93JfCJkx3WuhiOY">https://chat
+ .whatsapp.com/ErcoURW93JfCJkx3WuhiOY</a></p></br>\n<p>Price: free</p>\n<p>
+ <strong>Accomodation: Camping (bring your own hammocks)</strong></p>\n<p>F
+ ood: not included</p>
+LOCATION:C5 1\, 68159 Mannheim\, Germany
+ORGANIZER;CN="Dennis Korra";PHONE=;WEBSITE="https://chat.whatsapp.com/Erco
+ URW93JfCJkx3WuhiOY":MAILTO:info@dennis-korra.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rad Jam 3
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250714
@@ -2468,5 +2489,14 @@ DESCRIPTION:<p>DIE SCHÖNE JAM - this time in Berlin. More infos coming!</
  p>
 LOCATION:Berlin\, Germany
 ORGANIZER;CN="Phil Neiss?";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt Competition X Jam
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250915
+UID:3205088
+DESCRIPTION:<p>More Infos coming</p>
+LOCATION:An der Hauptwache\, 60313 Frankfurt am Main\, Germany
+ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE=:MAILTO:ihab-yassin@web.de
 END:VEVENT
 END:VCALENDAR
