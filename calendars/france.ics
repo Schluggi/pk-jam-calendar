@@ -355,6 +355,40 @@ LOCATION:Prom. de la Barre\, 64600 Anglet\, France
 ORGANIZER;CN="Acro’Feel";PHONE=;WEBSITE=:MAILTO:acrofeel@live.fr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Evry Move 6
+DTSTART;VALUE=DATE:20250706
+DTEND;VALUE=DATE:20250713
+UID:3218127
+DESCRIPTION:<p>After two years away\, the Art Du Déplacement Academy Evry
+  is proud to announce the long-awaited return of EVRY MOVE for its 6th edi
+ tion this summer!</p></br>\n<p>This iconic international Art Du Déplaceme
+ nt training camp runs for a full week and welcomes all movement enthusiast
+ s: ADD\, Parkour\, Freerun — whether you're a beginner\, intermediate\, 
+ or advanced practitioner. &nbsp\;</p></br>\n<p>🌍 Explore the legendary 
+ spots where it all began\, train with some of the discipline’s pioneers 
+ and meet the new generation of dedicated practitioners. Immerse yourself i
+ n a week of intense training rooted in the core values of Art Du Déplacem
+ ent. &nbsp\;</p></br>\n<p>✨ This year’s event will feature: &nbsp\;</p
+ >\n<p>- The exceptional presence of original Yamakasi founders who helped 
+ shape the ADD philosophy&nbsp\;</p>\n<p>- International guest athletes&nbs
+ p\;</p>\n<p>- Our local coaches from various generations of practitioners\
+ , continuing to keep the discipline alive and pass it on with passion&nbsp
+ \;</p></br>\n<p>📍 Dates: From Sunday\, July 6 at 2:00 PM (welcome and r
+ egistration) to Saturday\, July 12 at 10:00 AM — a 7-day / 6-night exper
+ ience. &nbsp\;</p></br>\n<p>🥐 Available packages:</p>\n<p>1️⃣ Event
+  only: €396 (Minimum age: 15\, with parental consent) &nbsp\;</p>\n<p>2
+ ️⃣ Event + Gymnasium Accommodation + Breakfast: €457 (Minimum age: 1
+ 8) &nbsp\;</p>\n<p>3️⃣ One-day pass (Monday to Friday): €101 (Minimu
+ m age: 15\, with parental consent) &nbsp\;</p></br>\n<p>🚐 Included: &nb
+ sp\;Physical and technical training sessions at the iconic spots of the di
+ scipline One full training day in Fontainebleau (transport included)</p>
+GEO:48.6239983;nan
+LOCATION:Évry-Courcouronnes\, France
+ORGANIZER;CN="Art du déplacement academy Evry";PHONE=;WEBSITE="https://ww
+ w.helloasso.com/associations/art-du-deplacement-academy-evry/evenements/ev
+ ry-move-6":MAILTO:addacademy.evry@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Festival Parkour Session
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250714
