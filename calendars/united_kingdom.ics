@@ -410,12 +410,12 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
  .store
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Storror Big Wall Open
-DTSTART;VALUE=DATE:20250830
-DTEND;VALUE=DATE:20250830
+SUMMARY:Brighton Open
+DTSTART;VALUE=DATE:20250828
+DTEND;VALUE=DATE:20250901
 UID:3030246
-DESCRIPTION:<p>BIG WALL OPEN 2 <br>\nSaturday 30th August <br>\n📍 Brigh
- ton</p>
+DESCRIPTION:<p>SPOT BATTLE</p>\n<p>STORROR POP-UP</p>\n<p>SACK COMP</p>\n<
+ p>BIG WALLOPEN</p>\n<p>AWARDS CEREMONY</p>\n<p>\n 📍 Brighton</p></br>
 LOCATION:Brighton\, Brighton and Hove\, UK
 ORGANIZER;CN=STORROR;PHONE=;WEBSITE="https://www.instagram.com/storror/":M
  AILTO:

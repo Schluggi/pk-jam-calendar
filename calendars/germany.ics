@@ -97,6 +97,56 @@ ORGANIZER;CN="matttma - Lisa & Matthias";PHONE=+491639620650;WEBSITE=:MAIL
  TO:matttma@gmx.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Htown Jam - Hannover
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220725
+UID:1028561
+DESCRIPTION:<p>🇩🇪 Jam in Hannover! Es wird sowohl am Jamgelände WAK
+ ITU\, als auch an den Outdoor-Spots gejamt. Es wird auch eine Competition 
+ und Live Musik geben!</p><p>Preis: 10€ fix + gerne mehr als freiwillige 
+ Spende</p><p>Essen: Frühstück\, Abendessen\, Snacks & Wasser inkludiert<
+ /p><p>Schlafplatz: vor Ort am Jam-Gelände</p><p>Anmeldung per E-Mail an: 
+ htown.pk.official@gmail.com mit folgenden Infos: Name / Alter / Anschrift 
+ / von wann bis wann ihr kommt / E-Mail-Adresse / ob ihr Zelt oder Hängema
+ tte mitbringt</p><br><p>🇬🇧 Jam at the jam site WAKITU and the outdoo
+ r spots in Hannover. There will also be a competition and live music at ni
+ ght!</p><p>Price: 10€ + more as voluntary donation</p><p>Food: breakfast
+ \, dinner\, snacks & water included</p><p>Sleeping place: at the jam area<
+ /p><p>Registration by e-mail to: htown.pk.official@gmail.com with the foll
+ owing info: name / age / address / from when to when you come / email addr
+ ess / if you bring tent or hammock</p>
+GEO:52.38752969999999;9.7548465
+LOCATION:Wakitu Spielplatz\, Hohenzollernstraße\, Hanover\, Germany
+ORGANIZER;CN="HTOWN CREW";PHONE=;WEBSITE=:MAILTO:htown.pk.official@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Auf Zollverein - Sommerfest
+DTSTART;VALUE=DATE:20220723
+DTEND;VALUE=DATE:20220723
+UID:1041486
+DESCRIPTION:<p>&nbsp\;🇩🇪 Auf der Parkouranlage Zollverein\, findet a
+ m Samstag 23.07.2022 eine Sommerfest-Jam statt! Die Jam geht von 12-18 Uhr
+  und zeichnet sich\, neben viel Geballer\, auch durch gute Laune und einem
+  harmonischem Miteinander aus & einem ARSCHBOMBENCONTEST. &nbsp\;</p><br><
+ p>Facts:&nbsp\;</p><p>- Parkourworkshops (Start um 14 und 16 Uhr)</p><p>- 
+ Graffiti-Workshops</p><p>- Spiel und Spaß mit dem Kindermobil der AWO Ess
+ en</p><p>- Foodtrucks</p><p>- Eiswagen</p><br><p>Kein Essen\, Keine Unterk
+ unft\, dafür gratis!</p><br><p>🇬🇧 &nbsp\;A summer festival jam will
+  take place on Saturday 23.07.2022 at the Zollverein parkour facility! The
+  jam runs from 12:00 to 18:00. and is characterised not only by a lot of t
+ raining\, but also by good humour and harmonious togetherness & an ARSCHBO
+ MBENCONTEST. &nbsp\;</p><br><p>Facts:&nbsp\;</p><p>- Parkour workshops (st
+ art at 2pm and 4pm)</p><p>- Graffiti workshops</p><p>- Fun and games with 
+ the children's mobile of AWO Essen</p><p>- Food trucks</p><p>- Ice cream t
+ ruck</p><br><p>No food\, no accommodation\, but free!</p>
+GEO:51.4913156;7.0395211
+LOCATION:Parkour auf Zollverein\, Essen\, Germany
+ORGANIZER;CN="Kreisjugendwerk der AWO Essen und Stiftung Zollverein";PHONE
+ =;WEBSITE=www.jugendwerk-essen.de/parkour-zollverein.html:MAILTO:j.boll@ju
+ gendwerk-essen.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Münster Jam
 DTSTART;VALUE=DATE:20220723
 DTEND;VALUE=DATE:20220725
@@ -142,56 +192,6 @@ LOCATION:Kinderspielplatz und Parkour\, Versbacher Straße\, Würzburg\, G
  ermany
 ORGANIZER;CN="SJR Würzburg";PHONE=;WEBSITE=:MAILTO:christian.sick@uni-wue
  rzburg.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parkour Auf Zollverein - Sommerfest
-DTSTART;VALUE=DATE:20220723
-DTEND;VALUE=DATE:20220723
-UID:1041486
-DESCRIPTION:<p>&nbsp\;🇩🇪 Auf der Parkouranlage Zollverein\, findet a
- m Samstag 23.07.2022 eine Sommerfest-Jam statt! Die Jam geht von 12-18 Uhr
-  und zeichnet sich\, neben viel Geballer\, auch durch gute Laune und einem
-  harmonischem Miteinander aus & einem ARSCHBOMBENCONTEST. &nbsp\;</p><br><
- p>Facts:&nbsp\;</p><p>- Parkourworkshops (Start um 14 und 16 Uhr)</p><p>- 
- Graffiti-Workshops</p><p>- Spiel und Spaß mit dem Kindermobil der AWO Ess
- en</p><p>- Foodtrucks</p><p>- Eiswagen</p><br><p>Kein Essen\, Keine Unterk
- unft\, dafür gratis!</p><br><p>🇬🇧 &nbsp\;A summer festival jam will
-  take place on Saturday 23.07.2022 at the Zollverein parkour facility! The
-  jam runs from 12:00 to 18:00. and is characterised not only by a lot of t
- raining\, but also by good humour and harmonious togetherness & an ARSCHBO
- MBENCONTEST. &nbsp\;</p><br><p>Facts:&nbsp\;</p><p>- Parkour workshops (st
- art at 2pm and 4pm)</p><p>- Graffiti workshops</p><p>- Fun and games with 
- the children's mobile of AWO Essen</p><p>- Food trucks</p><p>- Ice cream t
- ruck</p><br><p>No food\, no accommodation\, but free!</p>
-GEO:51.4913156;7.0395211
-LOCATION:Parkour auf Zollverein\, Essen\, Germany
-ORGANIZER;CN="Kreisjugendwerk der AWO Essen und Stiftung Zollverein";PHONE
- =;WEBSITE=www.jugendwerk-essen.de/parkour-zollverein.html:MAILTO:j.boll@ju
- gendwerk-essen.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Htown Jam - Hannover
-DTSTART;VALUE=DATE:20220723
-DTEND;VALUE=DATE:20220725
-UID:1028561
-DESCRIPTION:<p>🇩🇪 Jam in Hannover! Es wird sowohl am Jamgelände WAK
- ITU\, als auch an den Outdoor-Spots gejamt. Es wird auch eine Competition 
- und Live Musik geben!</p><p>Preis: 10€ fix + gerne mehr als freiwillige 
- Spende</p><p>Essen: Frühstück\, Abendessen\, Snacks & Wasser inkludiert<
- /p><p>Schlafplatz: vor Ort am Jam-Gelände</p><p>Anmeldung per E-Mail an: 
- htown.pk.official@gmail.com mit folgenden Infos: Name / Alter / Anschrift 
- / von wann bis wann ihr kommt / E-Mail-Adresse / ob ihr Zelt oder Hängema
- tte mitbringt</p><br><p>🇬🇧 Jam at the jam site WAKITU and the outdoo
- r spots in Hannover. There will also be a competition and live music at ni
- ght!</p><p>Price: 10€ + more as voluntary donation</p><p>Food: breakfast
- \, dinner\, snacks & water included</p><p>Sleeping place: at the jam area<
- /p><p>Registration by e-mail to: htown.pk.official@gmail.com with the foll
- owing info: name / age / address / from when to when you come / email addr
- ess / if you bring tent or hammock</p>
-GEO:52.38752969999999;9.7548465
-LOCATION:Wakitu Spielplatz\, Hohenzollernstraße\, Hanover\, Germany
-ORGANIZER;CN="HTOWN CREW";PHONE=;WEBSITE=:MAILTO:htown.pk.official@gmail.c
- om
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Jam Gütersloh
@@ -362,6 +362,25 @@ ORGANIZER;CN="Parkour Berlin e.V. und Fußgänger e.V.";PHONE=;WEBSITE="ht
  tps://www.urban-gathering.com/":MAILTO:mail@uga.berlin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dortmund Parkour Convention
+DTSTART;VALUE=DATE:20220903
+DTEND;VALUE=DATE:20220903
+UID:1016166
+DESCRIPTION:<p>🇩🇪 Parkourconvention 10-20 Uhr in einer Skatehalle in
+  Dortmund</p><p>Workshops von Matthias Mayer &amp\; Renae Dambly</p><p>Aft
+ ermovie Link ist unten bei der Website!</p><p>Preis: 0€ (kein Essen oder
+  Schlafplatz inkludiert\, aber die ersten 200 leute bekommen ein gratis Ev
+ ent-T-Shirt)</p><br><p>🇬🇧 Parkourconvention 10am to 8 pm in a skate 
+ hall in Dortmund\, Germany.</p><p>Workshops by Matthias Mayer &amp\; Renae
+  Dambly</p><p>You'll find the link to the after movie at the website butto
+ n!</p><p>Price: 0€ (no food or sleeping place included\, but the first 2
+ 00 people get a free event t-shirt!</p>
+GEO:51.5215967;7.459606699999998
+LOCATION:Dietrich-Keuning-Haus (DKH)\, Leopoldstraße\, Dortmund\, Germany
+ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE="https://youtu.be/LehO
+ OBVXqtw":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gefam Jam
 DTSTART;VALUE=DATE:20220903
 DTEND;VALUE=DATE:20220905
@@ -383,25 +402,6 @@ LOCATION:The hall Hamburg - Parkour Creation Center Oberhafen\, Stockmeyer
  straße\, Hamburg\, Germany
 ORGANIZER;CN=GEFAM;PHONE=;WEBSITE="https://instagram.com/gefam?igshid=YmMy
  MTA2M2Y=":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dortmund Parkour Convention
-DTSTART;VALUE=DATE:20220903
-DTEND;VALUE=DATE:20220903
-UID:1016166
-DESCRIPTION:<p>🇩🇪 Parkourconvention 10-20 Uhr in einer Skatehalle in
-  Dortmund</p><p>Workshops von Matthias Mayer &amp\; Renae Dambly</p><p>Aft
- ermovie Link ist unten bei der Website!</p><p>Preis: 0€ (kein Essen oder
-  Schlafplatz inkludiert\, aber die ersten 200 leute bekommen ein gratis Ev
- ent-T-Shirt)</p><br><p>🇬🇧 Parkourconvention 10am to 8 pm in a skate 
- hall in Dortmund\, Germany.</p><p>Workshops by Matthias Mayer &amp\; Renae
-  Dambly</p><p>You'll find the link to the after movie at the website butto
- n!</p><p>Price: 0€ (no food or sleeping place included\, but the first 2
- 00 people get a free event t-shirt!</p>
-GEO:51.5215967;7.459606699999998
-LOCATION:Dietrich-Keuning-Haus (DKH)\, Leopoldstraße\, Dortmund\, Germany
-ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE="https://youtu.be/LehO
- OBVXqtw":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aachen Chill Skill
@@ -442,6 +442,28 @@ ORGANIZER;CN="Parkour Aachen";PHONE=;WEBSITE=:MAILTO:looi.matthew@gmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ghettoballersesh Schwandorf
+DTSTART;VALUE=DATE:20220910
+DTEND;VALUE=DATE:20220910
+UID:1051509
+DESCRIPTION:<p>&nbsp\;🇩🇪 Ghettoballersesh ist nur einmal im Jahr.</p
+ ><p>Kein Eintritt\, dafür kriegt ihr auch nix\, außer Sand in die Hose b
+ ei den Jumps in die Sandberge.</p><p>Einen ganzen Tag wird also in Schwand
+ orf geballert - Treffpunkt & Uhrzeit wird hier noch verkündet und bei Fra
+ gen einfach das GhettoballerseshOrganisationscomitee anschreiben (siehe un
+ ten).</p><p>Anmeldung ist nicht notwendig!</p><br><p>🇬🇧 Ghettoballer
+ sesh is only once a year.</p><p>No entry fee\, but you won't get anything 
+ in return\, except sand in your pants when jumping into the sand mountains
+ .</p><p>A whole day of parkour in Schwandorf - meeting point and time will
+  be announced here and if you have any questions\, just write to the Ghett
+ oballersesh organising committee (see below).</p><p>Registration is not ne
+ cessary!</p>
+GEO:49.3308876;12.1068067
+LOCATION:Schwandorf\, Germany
+ORGANIZER;CN=GhettoballerseshOrganisationscomitee;PHONE=;WEBSITE="Instagra
+ m: @cornerjumper oder @urbanartifact":MAILTO:w.grabinger@gmx.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Journey To The End Of The Night 22
 DTSTART;VALUE=DATE:20220910
 DTEND;VALUE=DATE:20220912
@@ -478,28 +500,6 @@ GEO:50.9631465;10.9964745
 LOCATION:Gothaer Str. 38\, 99094 Erfurt\, Germany
 ORGANIZER;CN="Parkour Erfurt e.V.";PHONE=;WEBSITE=www.journey-erfurt.de:MA
  ILTO:run@journey-erfurt.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghettoballersesh Schwandorf
-DTSTART;VALUE=DATE:20220910
-DTEND;VALUE=DATE:20220910
-UID:1051509
-DESCRIPTION:<p>&nbsp\;🇩🇪 Ghettoballersesh ist nur einmal im Jahr.</p
- ><p>Kein Eintritt\, dafür kriegt ihr auch nix\, außer Sand in die Hose b
- ei den Jumps in die Sandberge.</p><p>Einen ganzen Tag wird also in Schwand
- orf geballert - Treffpunkt & Uhrzeit wird hier noch verkündet und bei Fra
- gen einfach das GhettoballerseshOrganisationscomitee anschreiben (siehe un
- ten).</p><p>Anmeldung ist nicht notwendig!</p><br><p>🇬🇧 Ghettoballer
- sesh is only once a year.</p><p>No entry fee\, but you won't get anything 
- in return\, except sand in your pants when jumping into the sand mountains
- .</p><p>A whole day of parkour in Schwandorf - meeting point and time will
-  be announced here and if you have any questions\, just write to the Ghett
- oballersesh organising committee (see below).</p><p>Registration is not ne
- cessary!</p>
-GEO:49.3308876;12.1068067
-LOCATION:Schwandorf\, Germany
-ORGANIZER;CN=GhettoballerseshOrganisationscomitee;PHONE=;WEBSITE="Instagra
- m: @cornerjumper oder @urbanartifact":MAILTO:w.grabinger@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spot Destroyer Jam - Hamburg
@@ -1043,22 +1043,6 @@ LOCATION:Wakitu Spielplatz\, Hohenzollernstraße\, Hannover\, Germany
 ORGANIZER;CN="H Town";PHONE=;WEBSITE=:MAILTO:htown.pk.official@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uga - Berlin
-DTSTART;VALUE=DATE:20230825
-DTEND;VALUE=DATE:20230828
-UID:1475807
-DESCRIPTION:<p>The Urban Gathering (UGA) is an event which is organised by
-  the non-profit parkour organisation "Parkour Berlin e.V.".</p><p>The aim 
- of the event is to create a connecting experience with parkour education b
- y offering multiple workshops as well as bringing together the community b
- y offering collective training/jam sessions.</p><br><p>More information to
-  be announced soon!</p>
-GEO:52.52000659999999;13.404954
-LOCATION:Berlin\, Germany
-ORGANIZER;CN="Parkour Berlin e.V.";PHONE=;WEBSITE="https://www.urban-gathe
- ring.com/":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:X-Dream - Leipzig
 DTSTART;VALUE=DATE:20230825
 DTEND;VALUE=DATE:20230827
@@ -1083,6 +1067,22 @@ GEO:51.3396955;12.3730747
 LOCATION:Leipzig\, Germany
 ORGANIZER;CN=;PHONE=;WEBSITE="https://twio-x.de/interessierte/events/x-dre
  am-2023/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uga - Berlin
+DTSTART;VALUE=DATE:20230825
+DTEND;VALUE=DATE:20230828
+UID:1475807
+DESCRIPTION:<p>The Urban Gathering (UGA) is an event which is organised by
+  the non-profit parkour organisation "Parkour Berlin e.V.".</p><p>The aim 
+ of the event is to create a connecting experience with parkour education b
+ y offering multiple workshops as well as bringing together the community b
+ y offering collective training/jam sessions.</p><br><p>More information to
+  be announced soon!</p>
+GEO:52.52000659999999;13.404954
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Parkour Berlin e.V.";PHONE=;WEBSITE="https://www.urban-gathe
+ ring.com/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Förde Jam 2023
@@ -1482,19 +1482,6 @@ ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de":MAILTO:kontakt@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#Hardchorweiler 2.0
-DTSTART;VALUE=DATE:20240601
-DTEND;VALUE=DATE:20240601
-UID:2270009
-DESCRIPTION:<p>&nbsp\;#HardChorweiler 2.0 ist die zweite Edition der Parko
- ur Köln Community Jam. Hard\, wild and oldschool street culture Jam. More
-  info: https://parkour-movement.com/workshops-und-events/</p>
-GEO:51.0256588;6.8963301
-LOCATION:Köln\, Chorweiler\, Germany
-ORGANIZER;CN="Parkour Movement e.V.";PHONE=;WEBSITE="https://parkour-movem
- ent.com/workshops-und-events/":MAILTO:info@parkour-movement.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Osna Jam
 DTSTART;VALUE=DATE:20240601
 DTEND;VALUE=DATE:20240601
@@ -1510,6 +1497,19 @@ LOCATION:Helmut-Stockmeier-Straße 3\, 49086 Osnabrück\, Germany
 ORGANIZER;CN="TSG 07 Burg Gretesch e.V";PHONE=;WEBSITE="https://www.burg-g
  retesch.de/klub/tsg-07-burg-gretesch-e-v/hold/parkour-14":MAILTO:zoe.kern1
  0@gmx.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#Hardchorweiler 2.0
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240601
+UID:2270009
+DESCRIPTION:<p>&nbsp\;#HardChorweiler 2.0 ist die zweite Edition der Parko
+ ur Köln Community Jam. Hard\, wild and oldschool street culture Jam. More
+  info: https://parkour-movement.com/workshops-und-events/</p>
+GEO:51.0256588;6.8963301
+LOCATION:Köln\, Chorweiler\, Germany
+ORGANIZER;CN="Parkour Movement e.V.";PHONE=;WEBSITE="https://parkour-movem
+ ent.com/workshops-und-events/":MAILTO:info@parkour-movement.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Airfurt
@@ -1565,6 +1565,27 @@ LOCATION:Ernst-August-Platz 1\, 30159 Hannover\, Germany
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beam Me Up Spotty Jam
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240715
+UID:2150609
+DESCRIPTION:<p>BEAM ME UP SPOTTY enters it's third round. We will enjoy th
+ e best Parkour Spots in Wolfsburg and will also have a gymnastics gym sess
+ ion afterwards\, next to where we will sleep. We hope to see new faces and
+  have this year an even greater jam than last year. More infos you will re
+ ceive on instagram: @orbitfreerun. See you soon!</p></br>\n<p>Join the wha
+ tsapp group for all information <a rel="noopener noreferrer" target="_blan
+ k" href="https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt"><strong>here</s
+ trong></a>.</p></br>\n<p>And here's the <a rel="noopener noreferrer" targe
+ t="_blank" href="https://forms.gle/aVyeKCUcWvAaVWNm8"><strong>sign up form
+ </strong></a>.</p></br>\n<p>Price: 10€ per night</p>\n<p>Food: not inclu
+ ded</p>\n<p>Accomodation: We have a lot of space</p>
+GEO:52.4226503;10.7865461
+LOCATION:Wolfsburg\, Germany
+ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE="https://forms.gle/aVyeKCUcWvA
+ aVWNm8":MAILTO:orbitfreerun@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Camp Gütersloh 2024
 DTSTART;VALUE=DATE:20240712
 DTEND;VALUE=DATE:20240715
@@ -1598,27 +1619,6 @@ DESCRIPTION:<p>Another Year Gravity is happening:) &nbsp\;</p></br>\n<p>Th
 LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
 ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://www.diehalle.hamb
  urg/events/gravity-sucks":MAILTO:biko.ruland@diehalle.hamburg
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beam Me Up Spotty Jam
-DTSTART;VALUE=DATE:20240712
-DTEND;VALUE=DATE:20240715
-UID:2150609
-DESCRIPTION:<p>BEAM ME UP SPOTTY enters it's third round. We will enjoy th
- e best Parkour Spots in Wolfsburg and will also have a gymnastics gym sess
- ion afterwards\, next to where we will sleep. We hope to see new faces and
-  have this year an even greater jam than last year. More infos you will re
- ceive on instagram: @orbitfreerun. See you soon!</p></br>\n<p>Join the wha
- tsapp group for all information <a rel="noopener noreferrer" target="_blan
- k" href="https://chat.whatsapp.com/Fx9V2oJUq3R2Uei6q1Enyt"><strong>here</s
- trong></a>.</p></br>\n<p>And here's the <a rel="noopener noreferrer" targe
- t="_blank" href="https://forms.gle/aVyeKCUcWvAaVWNm8"><strong>sign up form
- </strong></a>.</p></br>\n<p>Price: 10€ per night</p>\n<p>Food: not inclu
- ded</p>\n<p>Accomodation: We have a lot of space</p>
-GEO:52.4226503;10.7865461
-LOCATION:Wolfsburg\, Germany
-ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE="https://forms.gle/aVyeKCUcWvA
- aVWNm8":MAILTO:orbitfreerun@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Streets Jam Ulm
@@ -2142,6 +2142,20 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flinta* Parkour Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:3059950
+DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
+ ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
+ e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
+ ng sleeping bag and a matress</p>
+GEO:51.9904;7.66672
+LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
+ .de/jams/":MAILTO:info@parkourhalle-lani.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:East Nature Jam
 DTSTART;VALUE=DATE:20250530
 DTEND;VALUE=DATE:20250602
@@ -2167,20 +2181,6 @@ GEO:50.8348204;9.4388586
 LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/east-nature-jam-2025":MAILTO:Info@if-urbansports.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flinta* Parkour Jam
-DTSTART;VALUE=DATE:20250530
-DTEND;VALUE=DATE:20250602
-UID:3059950
-DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
- ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
- e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
- ng sleeping bag and a matress</p>
-GEO:51.9904;7.66672
-LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
-ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
- .de/jams/":MAILTO:info@parkourhalle-lani.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
@@ -2394,8 +2394,8 @@ DESCRIPTION:<p>Summer\, sun\, beach and lots of urban spots in Kiel.</p>\n
  p>Food: Not included</p>\n<p>Accomodation: yessss in the gym hall</p>
 GEO:54.3307894;10.1227652
 LOCATION:Jahnstraße 8A\, 24116 Kiel\, Germany
-ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=Parkour-Kiel.de:MAILTO:ParkourK
- iel@gmx.de
+ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE="https://www.parkour-kiel.de/ev
+ ent/foerde-jam-2025/":MAILTO:ParkourKiel@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
@@ -2498,5 +2498,25 @@ DESCRIPTION:<p>DIE SCHÖNE JAM - this time in Berlin. More infos coming!</
  p>
 LOCATION:Berlin\, Germany
 ORGANIZER;CN="Phil Neiss?";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puffbøhnen Jam
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250929
+UID:3224369
+DESCRIPTION:<p>It’s happening! The PuffbØhnen Jam is on. No schedule\, 
+ no signup\, no nonsense. Just raw street movement\, real vibes\, and the c
+ ity of Erfurt as our playground. &nbsp\;We’ll hit spontaneous spots acro
+ ss the city\, explore\, train\, and maybe end the day at the lake. Sleepin
+ g is self-organised – bring a sleeping bag if you’re up for a night un
+ der the open sky.&nbsp\;</p></br>\n<p>See you in Erfurt. &nbsp\;</p></br>\
+ n<p>Join our Whatsapp group here: <a rel="noopener noreferrer" target="_bl
+ ank" href="https://chat.whatsapp.com/L1GzormgAWqBEGZasoe8c0">https://chat.
+ whatsapp.com/L1GzormgAWqBEGZasoe8c0</a></p></br>\n<p>Price: free</p>\n<p>F
+ ood: not included</p>\n<p>Accomodation: If you’re looking for a hosting 
+ spot\, feel free to message @heini.heinrichs on Instagram. &nbsp\;</p></br
+ >
+LOCATION:99 Erfurt\, Germany
+ORGANIZER;CN=@puffb0hnen;PHONE=;WEBSITE=:MAILTO:heinricha246@gmail.com
 END:VEVENT
 END:VCALENDAR
