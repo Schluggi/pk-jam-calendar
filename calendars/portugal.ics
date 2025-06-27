@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:West Girls Jam
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250825
+UID:3224367
+DESCRIPTION:<p>The West Girls Jam is an parkour meeting exclusive for wome
+ n and it happen every year. Its a weekend in the summer time where we expl
+ ore a different city each year and we reunite all the girls in Portugal (a
+ nd behond) in one city.</p></br>\n<p>Price: free</p>\n<p>Food: No food inc
+ luded</p>\n<p>Accomodation: yes</p>
+LOCATION:Coimbra\, Portugal
+ORGANIZER;CN="Sara Serôdio";PHONE=;WEBSITE="https://chat.whatsapp.com/BkR
+ RNi3T22s6cdTyTCHGSM":MAILTO:sara.serodio2001@gmail.com
+END:VEVENT
+END:VCALENDAR
