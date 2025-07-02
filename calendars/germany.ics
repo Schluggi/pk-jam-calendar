@@ -1738,7 +1738,7 @@ BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20240810
 DTEND;VALUE=DATE:20240812
-UID:2071372
+UID:3235480
 DESCRIPTION:<p>This year comes the LPC revival. We will organize the LPC o
  n the pump track Laatzen with camping. Since the planning is still imminen
  t\, there is no further information yet.</p></br>\n<p>Join the whatsapp ch
@@ -2142,20 +2142,6 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Flinta* Parkour Jam
-DTSTART;VALUE=DATE:20250530
-DTEND;VALUE=DATE:20250602
-UID:3059950
-DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
- ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
- e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
- ng sleeping bag and a matress</p>
-GEO:51.9904;7.66672
-LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
-ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
- .de/jams/":MAILTO:info@parkourhalle-lani.de
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:East Nature Jam
 DTSTART;VALUE=DATE:20250530
 DTEND;VALUE=DATE:20250602
@@ -2181,6 +2167,20 @@ GEO:50.8348204;9.4388586
 LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/east-nature-jam-2025":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flinta* Parkour Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:3059950
+DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
+ ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
+ e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
+ ng sleeping bag and a matress</p>
+GEO:51.9904;7.66672
+LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
+ .de/jams/":MAILTO:info@parkourhalle-lani.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
@@ -2363,24 +2363,6 @@ ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de":MA
  ILTO:info@parkourcamp.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gefam X Kipa X Die Halle
-DTSTART;VALUE=DATE:20250801
-DTEND;VALUE=DATE:20250804
-UID:3072109
-DESCRIPTION:<p>After last year's DieHalle X Gefam X KIPA was a huge succes
- s\, this year we want to go one better and make this event even more great
- &nbsp\;</p></br>\n<p>DieHalle X Kipa X Gefam offers you the following:&nbs
- p\;</p>\n<p>- a place to sleep from 13.09 7 p.m. to 15.09. 4 p.m.&nbsp\;</
- p>\n<p>- 2x breakfast &amp\; 2x dinner&nbsp\;</p>\n<p>- Skills-Competion&n
- bsp\;</p>\n<p>- Afterparty with live DJs &amp\; live music‍‍‍&nbsp\;
- </p></br>\n<p>P.S.Minimum Age is 14 years.&nbsp\;</p></br>\n<p>Price: 50
- €</p>\n<p>Accomodation: yes</p>\n<p>Food: all inclusive</p>
-GEO:53.5424593;10.0086303
-LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
-ORGANIZER;CN="Gefam/KIPA/DIE HALLE";PHONE=;WEBSITE=www.diehalle.hamburg/ev
- ents/diehalle-x-kipa-x-gefam:MAILTO:biko.ruland@diehalle.hamburg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Förde Jam 2025
 DTSTART;VALUE=DATE:20250808
 DTEND;VALUE=DATE:20250811
@@ -2465,6 +2447,27 @@ ORGANIZER;CN=GöGäng;PHONE=;WEBSITE="https://chat.whatsapp.com/GJriRdt4tU
  aDxOIPrAumLB":MAILTO:hanna-shi@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Laatzener Parkour Camp (Lpc)
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250901
+UID:2071372
+DESCRIPTION:<p>Also this year we are organizing a camp on the pump track i
+ n the Park of the Senses in Laatzen. &nbsp\;</p></br>\n<p>We will set up e
+ verything on Saturday from 10 am and are always happy to have support\, so
+  please feel welcome. Sunday we will slowly dismantle from 5 pm. &nbsp\;</
+ p></br>\n<p>There will be an open buffet and breakfast for Sunday. &nbsp\;
+ The whole thing is free of charge. We are still happy about your donations
+  to be able to continue organizing the LPC. &nbsp\;</p></br>\n<p>We look f
+ orward to seeing you ❤️</p></br>\n<p>Price: free</p>\n<p>Food: Breakfa
+ st included</p>\n<p>Accomodation: camping&nbsp\;</p>
+GEO:52.3134682;9.8051041
+LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
+ ny
+ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
+ ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
+ our.30159@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Uga Berlin
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250908
@@ -2490,12 +2493,31 @@ LOCATION:An der Hauptwache\, 60313 Frankfurt am Main\, Germany
 ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE=:MAILTO:ihab-yassin@web.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gefam X Kipa X Die Halle
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250922
+UID:3072109
+DESCRIPTION:<p>After last year's DieHalle X Gefam X KIPA was a huge succes
+ s\, this year we want to go one better and make this event even more great
+ &nbsp\;</p></br>\n<p>DieHalle X Kipa X Gefam offers you the following:&nbs
+ p\;</p>\n<p>- a place to sleep from 19.09 7 p.m. to 21.09. 4 p.m.&nbsp\;</
+ p>\n<p>- 2x breakfast &amp\; 2x dinner&nbsp\;</p>\n<p>- Skills-Competion&n
+ bsp\;</p>\n<p>- Afterparty with live DJs &amp\; live music‍‍‍&nbsp\;
+ </p></br>\n<p>P.S.Minimum Age is 14 years.&nbsp\;</p></br>\n<p>Price: 50
+ €</p>\n<p>Accomodation: yes</p>\n<p>Food: all inclusive</p>
+GEO:53.5424593;10.0086303
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Gefam/KIPA/DIE HALLE";PHONE=;WEBSITE=www.diehalle.hamburg/ev
+ ents/diehalle-x-kipa-x-gefam:MAILTO:biko.ruland@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Die Schöne Jam
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250922
 UID:3124042
-DESCRIPTION:<p>DIE SCHÖNE JAM - this time in Berlin. More infos coming!</
- p>
+DESCRIPTION:<p>The word is on the street - DIE SCHÖNE JAM is happening 20
+ th/ 21st September in Berlin. Spread the news. Mark your calendars. More i
+ nfos soon.</p>\n<p>Schönen Tag</p>
 LOCATION:Berlin\, Germany
 ORGANIZER;CN="Phil Neiss?";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
