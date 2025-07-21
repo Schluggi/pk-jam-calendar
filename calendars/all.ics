@@ -6485,11 +6485,23 @@ ORGANIZER;CN="Parkour Berlin e.V:";PHONE=;WEBSITE="https://www.urban-gathe
  ring.com/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frankfurt Competition X Jam
+SUMMARY:Hauptsache Hauptwache
 DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250915
 UID:3205088
-DESCRIPTION:<p>More Infos coming</p>
+DESCRIPTION:<p>Hauptsache Hauptwache - the name says it all.</p></br>\n<p>
+ Frankfurt is inviting you to its first Jam with competition battle. So Sav
+ e the DATE!</p></br>\n<p>The competition format will be a 1 vs 1 Battle wh
+ ere each person has 3 kombos per battle and the combos are limited with &n
+ bsp\;4 moves. Everything is allowed (from a maximum precision to a banger 
+ flip to a creative combo)</p></br>\n<p>There will be a qualification modi 
+ where you have to film one clip on spots\, which will be published on the 
+ day of the event.</p>\n<p>You can upload clips from all spots\, but just o
+ ne clip from each spot.</p></br>\n<p>But also if you don't want to compete
+ \, you can train during the day on the spots.</p></br>\n<p>There will be a
+ lso a beginner workshop as well Stoeffstore and gefam will have some stuff
+ s to sell or you can print your shirt.</p></br>\n<p>So see you on the stre
+ ets!</p>
 LOCATION:An der Hauptwache\, 60313 Frankfurt am Main\, Germany
 ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE=:MAILTO:ihab-yassin@web.de
 END:VEVENT
