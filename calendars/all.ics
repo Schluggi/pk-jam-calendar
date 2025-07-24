@@ -6506,24 +6506,6 @@ LOCATION:An der Hauptwache\, 60313 Frankfurt am Main\, Germany
 ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE=:MAILTO:ihab-yassin@web.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gefam X Kipa X Die Halle
-DTSTART;VALUE=DATE:20250919
-DTEND;VALUE=DATE:20250922
-UID:3072109
-DESCRIPTION:<p>After last year's DieHalle X Gefam X KIPA was a huge succes
- s\, this year we want to go one better and make this event even more great
- &nbsp\;</p></br>\n<p>DieHalle X Kipa X Gefam offers you the following:&nbs
- p\;</p>\n<p>- a place to sleep from 19.09 7 p.m. to 21.09. 4 p.m.&nbsp\;</
- p>\n<p>- 2x breakfast &amp\; 2x dinner&nbsp\;</p>\n<p>- Skills-Competion&n
- bsp\;</p>\n<p>- Afterparty with live DJs &amp\; live music‍‍‍&nbsp\;
- </p></br>\n<p>P.S.Minimum Age is 14 years.&nbsp\;</p></br>\n<p>Price: 50
- €</p>\n<p>Accomodation: yes</p>\n<p>Food: all inclusive</p>
-GEO:53.5424593;10.0086303
-LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
-ORGANIZER;CN="Gefam/KIPA/DIE HALLE";PHONE=;WEBSITE=www.diehalle.hamburg/ev
- ents/diehalle-x-kipa-x-gefam:MAILTO:biko.ruland@diehalle.hamburg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Die Schöne Jam
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250922
@@ -6533,6 +6515,24 @@ DESCRIPTION:<p>The word is on the street - DIE SCHÖNE JAM is happening 20
  nfos soon.</p>\n<p>Schönen Tag</p>
 LOCATION:Berlin\, Germany
 ORGANIZER;CN="Phil Neiss?";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gefam X Kipa X Die Halle
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250929
+UID:3072109
+DESCRIPTION:<p>After last year's DieHalle X Gefam X KIPA was a huge succes
+ s\, this year we want to go one better and make this event even more great
+ &nbsp\;</p></br>\n<p>DieHalle X Kipa X Gefam offers you the following:&nbs
+ p\;</p>\n<p>- a place to sleep from 26.09 7 p.m. to 28.09. 4 p.m.&nbsp\;</
+ p>\n<p>- 2x breakfast &amp\; 2x dinner&nbsp\;</p>\n<p>- Skills-Competion&n
+ bsp\;</p>\n<p>- Afterparty with live DJs &amp\; live music‍‍‍&nbsp\;
+ </p></br>\n<p>P.S.Minimum Age is 14 years.&nbsp\;</p></br>\n<p>Price: 50
+ €</p>\n<p>Accomodation: yes</p>\n<p>Food: all inclusive</p>
+GEO:53.5424593;10.0086303
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Gefam/KIPA/DIE HALLE";PHONE=;WEBSITE=www.diehalle.hamburg/ev
+ ents/diehalle-x-kipa-x-gefam:MAILTO:biko.ruland@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Puffbøhnen Jam
