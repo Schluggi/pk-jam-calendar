@@ -372,4 +372,42 @@ LOCATION:Brno\, Czechia
 ORGANIZER;CN="Jakub Novotný";PHONE=;WEBSITE="https://www.instagram.com/p/
  C8AYqNMtqoY/?igsh=MW53bXQ3MjlpcnY4Yg==":MAILTO:jacobenovotny@seznam.cz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imacon 2025
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251020
+UID:3304924
+DESCRIPTION:<p>IMACON 2025 is a three-day parkour event featuring three ma
+ in competitions in front of a live audience – the Skill Contest\, Speed 
+ Contest\, and Style Contest. This year\, the competition will again be hel
+ d in two categories: Women and Adults. Judges will be announced in Septemb
+ er. For the Style Contest\, we’ll once again use our improved live scori
+ ng system\, which tracks performance throughout the entire contest.</p>\n<
+ h3>SKILL CONTEST</h3>\n<p>Qualification takes place on-site through challe
+ nge-based tasks.</p>\n<p>The top 5 athletes\, including past winners\, adv
+ ance to the finals.</p>\n<p>The finals consist of three unique setups\, wh
+ ere participants earn points for completed challenges and receive bonus po
+ ints for flow.</p>\n<h3>SPEED CONTEST</h3>\n<p>Qualification is held on-si
+ te – each athlete completes one timed run.</p>\n<p>The 5 fastest runners
+  in each category move on to the finals\, which consist of two timed runs 
+ per finalist.</p>\n<h3>STYLE CONTEST</h3>\n<p>Qualification is online – 
+ submit a 1-minute video (filmed in 2025) by posting it on Instagram\, tagg
+ ing @in.motion.academy\, and using #IMACON2025 (or send it via private mes
+ sage with the text “IMACON 2025”)</p>\n<p>We’ll select 3 athletes pe
+ r category to receive FREE ENTRY and go straight to the final!</p>\n<p>One
+  Wild Card will also be selected on-site.</p>\n<p>In the finals\, each ath
+ lete will perform one prepared run to your music. Scoring will happen in r
+ eal time using "Twisters".</p>\n<h3>ENTRY FEE</h3>\n<p>Full access to IMAC
+ ON is 1\,100 CZK. You can buy a T-shirt for extra 300 CZK.</p>\n<h3>ACCOMM
+ ODATION &amp\; FOOD</h3>\n<p>Accommodation is provided directly in the In 
+ Motion Academy hall. Participants sleep on mats\, so bring your own sleepi
+ ng bag. Showers will be available. Meals are self-catered – supermarkets
+  and convenience stores are located nearby.</p>\n<h3>Spectator Entry</h3>\
+ n<p>Spectators are welcome to attend the main finals of the entire competi
+ tion\, which will take place on Sunday from 2:00 PM to 6:00 PM. For a deta
+ iled breakdown of the contests\, please see the event schedule.</p>
+LOCATION:2\, Na Jarově 2424\, Žižkov\, 130 00 Praha-Praha 3\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/e
+ vent/imacon":MAILTO:
+END:VEVENT
 END:VCALENDAR
