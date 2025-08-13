@@ -6538,8 +6538,8 @@ ORGANIZER;CN="Gefam/KIPA/DIE HALLE";PHONE=;WEBSITE=www.diehalle.hamburg/ev
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Puffbøhnen Jam
-DTSTART;VALUE=DATE:20251003
-DTEND;VALUE=DATE:20251006
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250929
 UID:3224369
 DESCRIPTION:<p>It’s happening! The PuffbØhnen Jam is on. No schedule\, 
  no signup\, no nonsense. Just raw street movement\, real vibes\, and the c
