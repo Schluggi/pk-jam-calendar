@@ -2432,6 +2432,33 @@ ORGANIZER;CN="Orbit Freerun";PHONE=;WEBSITE="https://chat.whatsapp.com/JFx
  a&source_surface=27":MAILTO:orbitfreerun@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2. Parkour Challenge Race
+DTSTART:20250824T120000
+DTEND:20250825T130000
+UID:3332204
+DESCRIPTION:<p>1 Spot -&gt\; 3 hours -&gt\; 50 Challenges&nbsp\;</p>\n<p>D
+ o you love to challenge yourself while training parkour? Well\, of course 
+ you do.&nbsp\;</p>\n<p>There are 50 Challenges waiting for you.&nbsp\;</p>
+ \n<p>- 15 basic Challenges&nbsp\;</p>\n<p>- 15 advanced Challenges&nbsp\;<
+ /p>\n<p>- 15 pro Challenges&nbsp\;</p>\n<p>- 5 beast Challenges&nbsp\;</p>
+ </br>\n<p>You got 3 hours to try to complete them all. The person with mos
+ t completed challenges wins the cup! All completed challenges must be film
+ ed\, so the host can proof it.&nbsp\;</p></br>\n<p>Schedule:&nbsp\;</p>\n<
+ p>12:00 - meeting at Westfalenhalle Dortmund and get warmed up&nbsp\;</p>\
+ n<p>12:45 - you receive the PDF with all the challenges in the whatsapp gr
+ oup (<a rel="noopener noreferrer" target="_blank" href="https://chat.whats
+ app.com/D9LV9TVLVYz9fx1SBjvl5j)">https://chat.whatsapp.com/D9LV9TVLVYz9fx1
+ SBjvl5j)</a></p>\n<p>13:00 - Challenge Race starts&nbsp\;</p>\n<p>16:00 - 
+ Challenge Race ends&nbsp\;</p>\n<p>16:30 - award ceremony&nbsp\;</p></br>\
+ n<p>After all that there will be enough time to jam til open end. See you 
+ there!</p></br>\n<p>Price: free</p>\n<p>Food: not included</p>\n<p>Accomod
+ ation: not included</p></br>
+LOCATION:Westfalenhalle\, 44 Dortmund-Innenstadt-West\, Germany
+ORGANIZER;CN="Fabian Teusch";PHONE=;WEBSITE="https://www.instagram.com/par
+ kour_challenge_race?igsh=MW5iNzJ2czdhZ2Zpdw==":MAILTO:fitbyfabianteusch@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Göjam
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250901
@@ -2518,24 +2545,6 @@ LOCATION:Berlin\, Germany
 ORGANIZER;CN="Phil Neiss?";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gefam X Kipa X Die Halle
-DTSTART;VALUE=DATE:20250926
-DTEND;VALUE=DATE:20250929
-UID:3072109
-DESCRIPTION:<p>After last year's DieHalle X Gefam X KIPA was a huge succes
- s\, this year we want to go one better and make this event even more great
- &nbsp\;</p></br>\n<p>DieHalle X Kipa X Gefam offers you the following:&nbs
- p\;</p>\n<p>- a place to sleep from 26.09 7 p.m. to 28.09. 4 p.m.&nbsp\;</
- p>\n<p>- 2x breakfast &amp\; 2x dinner&nbsp\;</p>\n<p>- Skills-Competion&n
- bsp\;</p>\n<p>- Afterparty with live DJs &amp\; live music‍‍‍&nbsp\;
- </p></br>\n<p>P.S.Minimum Age is 14 years.&nbsp\;</p></br>\n<p>Price: 50
- €</p>\n<p>Accomodation: yes</p>\n<p>Food: all inclusive</p>
-GEO:53.5424593;10.0086303
-LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
-ORGANIZER;CN="Gefam/KIPA/DIE HALLE";PHONE=;WEBSITE=www.diehalle.hamburg/ev
- ents/diehalle-x-kipa-x-gefam:MAILTO:biko.ruland@diehalle.hamburg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Puffbøhnen Jam
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250929
@@ -2554,5 +2563,23 @@ DESCRIPTION:<p>It’s happening! The PuffbØhnen Jam is on. No schedule\,
  >
 LOCATION:99 Erfurt\, Germany
 ORGANIZER;CN=@puffb0hnen;PHONE=;WEBSITE=:MAILTO:heinricha246@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gefam X Kipa X Die Halle
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250929
+UID:3072109
+DESCRIPTION:<p>After last year's DieHalle X Gefam X KIPA was a huge succes
+ s\, this year we want to go one better and make this event even more great
+ &nbsp\;</p></br>\n<p>DieHalle X Kipa X Gefam offers you the following:&nbs
+ p\;</p>\n<p>- a place to sleep from 26.09 7 p.m. to 28.09. 4 p.m.&nbsp\;</
+ p>\n<p>- 2x breakfast &amp\; 2x dinner&nbsp\;</p>\n<p>- Skills-Competion&n
+ bsp\;</p>\n<p>- Afterparty with live DJs &amp\; live music‍‍‍&nbsp\;
+ </p></br>\n<p>P.S.Minimum Age is 14 years.&nbsp\;</p></br>\n<p>Price: 50
+ €</p>\n<p>Accomodation: yes</p>\n<p>Food: all inclusive</p>
+GEO:53.5424593;10.0086303
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Gefam/KIPA/DIE HALLE";PHONE=;WEBSITE=www.diehalle.hamburg/ev
+ ents/diehalle-x-kipa-x-gefam:MAILTO:biko.ruland@diehalle.hamburg
 END:VEVENT
 END:VCALENDAR
