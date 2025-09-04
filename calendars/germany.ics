@@ -2545,26 +2545,6 @@ LOCATION:Berlin\, Germany
 ORGANIZER;CN="Phil Neiss?";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Puffbøhnen Jam
-DTSTART;VALUE=DATE:20250926
-DTEND;VALUE=DATE:20250929
-UID:3224369
-DESCRIPTION:<p>It’s happening! The PuffbØhnen Jam is on. No schedule\, 
- no signup\, no nonsense. Just raw street movement\, real vibes\, and the c
- ity of Erfurt as our playground. &nbsp\;We’ll hit spontaneous spots acro
- ss the city\, explore\, train\, and maybe end the day at the lake. Sleepin
- g is self-organised – bring a sleeping bag if you’re up for a night un
- der the open sky.&nbsp\;</p></br>\n<p>See you in Erfurt. &nbsp\;</p></br>\
- n<p>Join our Whatsapp group here: <a rel="noopener noreferrer" target="_bl
- ank" href="https://chat.whatsapp.com/L1GzormgAWqBEGZasoe8c0">https://chat.
- whatsapp.com/L1GzormgAWqBEGZasoe8c0</a></p></br>\n<p>Price: free</p>\n<p>F
- ood: not included</p>\n<p>Accomodation: If you’re looking for a hosting 
- spot\, feel free to message @heini.heinrichs on Instagram. &nbsp\;</p></br
- >
-LOCATION:99 Erfurt\, Germany
-ORGANIZER;CN=@puffb0hnen;PHONE=;WEBSITE=:MAILTO:heinricha246@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gefam X Kipa X Die Halle
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250929
@@ -2581,5 +2561,25 @@ GEO:53.5424593;10.0086303
 LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="Gefam/KIPA/DIE HALLE";PHONE=;WEBSITE=www.diehalle.hamburg/ev
  ents/diehalle-x-kipa-x-gefam:MAILTO:biko.ruland@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puffbøhnen Jam
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251006
+UID:3224369
+DESCRIPTION:<p>It’s happening! The PuffbØhnen Jam is on. No schedule\, 
+ no signup\, no nonsense. Just raw street movement\, real vibes\, and the c
+ ity of Erfurt as our playground. &nbsp\;We’ll hit spontaneous spots acro
+ ss the city\, explore\, train\, and maybe end the day at the lake. Sleepin
+ g is self-organised – bring a sleeping bag if you’re up for a night un
+ der the open sky.&nbsp\;</p></br>\n<p>See you in Erfurt. &nbsp\;</p></br>\
+ n<p>Join our Whatsapp group here: <a rel="noopener noreferrer" target="_bl
+ ank" href="https://chat.whatsapp.com/L1GzormgAWqBEGZasoe8c0">https://chat.
+ whatsapp.com/L1GzormgAWqBEGZasoe8c0</a></p></br>\n<p>Price: free</p>\n<p>F
+ ood: not included</p>\n<p>Accomodation: If you’re looking for a hosting 
+ spot\, feel free to message @heini.heinrichs on Instagram. &nbsp\;</p></br
+ >
+LOCATION:99 Erfurt\, Germany
+ORGANIZER;CN=@puffb0hnen;PHONE=;WEBSITE=:MAILTO:heinricha246@gmail.com
 END:VEVENT
 END:VCALENDAR
