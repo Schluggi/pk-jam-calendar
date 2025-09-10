@@ -2142,6 +2142,20 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flinta* Parkour Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:3059950
+DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
+ ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
+ e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
+ ng sleeping bag and a matress</p>
+GEO:51.9904;7.66672
+LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
+ .de/jams/":MAILTO:info@parkourhalle-lani.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:East Nature Jam
 DTSTART;VALUE=DATE:20250530
 DTEND;VALUE=DATE:20250602
@@ -2167,20 +2181,6 @@ GEO:50.8348204;9.4388586
 LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/east-nature-jam-2025":MAILTO:Info@if-urbansports.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flinta* Parkour Jam
-DTSTART;VALUE=DATE:20250530
-DTEND;VALUE=DATE:20250602
-UID:3059950
-DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
- ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
- e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
- ng sleeping bag and a matress</p>
-GEO:51.9904;7.66672
-LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
-ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
- .de/jams/":MAILTO:info@parkourhalle-lani.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
@@ -2543,6 +2543,20 @@ DESCRIPTION:<p>The word is on the street - DIE SCHÖNE JAM is happening 20
  nfos soon.</p>\n<p>Schönen Tag</p>
 LOCATION:Berlin\, Germany
 ORGANIZER;CN="Phil Neiss?";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stk End Of Summer Jam
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250922
+UID:3366174
+DESCRIPTION:<p>On September 20\, the time has come and we are bringing the
+  palm trees to Karlsruhe.</p></br>\n<p>Come by and celebrate summer with u
+ s one last time.</p></br>\n<p>There will be another Game of STK Comp with 
+ prizes\, as well as lots of jam vibes.</p></br>\n<p>GaliGrü\, your Santa 
+ Flows</p></br>\n<p>Price: donation</p>\n<p>Food: not included</p>\n<p>Acco
+ modation: from Friday possible</p>
+LOCATION:NCO Karlsruhe Delawarestraße 21\, 76149 Karlsruhe
+ORGANIZER;CN=STK;PHONE=;WEBSITE=:MAILTO:marcsoulsoha@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gefam X Kipa X Die Halle

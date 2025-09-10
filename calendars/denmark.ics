@@ -255,4 +255,15 @@ LOCATION:Finlandkaj 8\, 5000 Odense\, Denmark
 ORGANIZER;CN="Movement Odense";PHONE=;WEBSITE="https://facebook.com/events
  /s/tour-de-fyn-4/977811604172363/":MAILTO:movementodense@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ollerup Revival Jam
+DTSTART:20251031T120000
+DTEND:20251103T130000
+UID:3366170
+DESCRIPTION:<p>Ollerup Jam is Back!!! save the date Food\, sleeping spots\
+ , Sauna... more info soon</p></br>\n<p>Price: 50€</p>\n<p>Accomodation: 
+ yes</p>\n<p>Food: all inclusive</p>
+LOCATION:Svendborgvej 3D\, 5762 Vester Skerninge\, Denmark
+ORGANIZER;CN=Ollerup;PHONE=;WEBSITE=:MAILTO:jannis.stemper@gmail.com
+END:VEVENT
 END:VCALENDAR
