@@ -2559,6 +2559,28 @@ LOCATION:NCO Karlsruhe Delawarestraße 21\, 76149 Karlsruhe
 ORGANIZER;CN=STK;PHONE=;WEBSITE=:MAILTO:marcsoulsoha@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Die Halle Comp
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250929
+UID:3378272
+DESCRIPTION:<p>Parkour Competition at Parkour Halle Hamburg! Get ready for
+  action – we’re hosting a comp for all age groups\, from Minis to Adul
+ ts!&nbsp\;</p></br>\n<p>Age Groups:&nbsp\;</p>\n<p>Minis: 6–7 years&nbsp
+ \;</p>\n<p>Kids: 8–11 years&nbsp\;</p>\n<p>Teens: 12–17 years&nbsp\;</
+ p>\n<p>Adults: 18+&nbsp\;</p></br>\n<p>Disciplines:&nbsp\;</p>\n<p>Skill: 
+ Show off your technique\, strength\, and precision in our challenges.&nbsp
+ \;</p>\n<p>Speed: Who’s the fastest? Master the preset parkour course!&n
+ bsp\;</p></br>\n<p>Format: All participants start in the qualifiers to ear
+ n a spot in the finals\, where the top athletes will battle for the title!
+  Join us for jumps\, climbs\, rolls – and the thrill of victory!</p></br
+ >\n<p>Price: not sure yet</p>\n<p>Accomodation: no</p>\n<p>Food: not inclu
+ ded</p>
+GEO:53.5424593;10.0086303
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:julianakulczycka1@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gefam X Kipa X Die Halle
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250929
