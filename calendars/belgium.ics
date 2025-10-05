@@ -498,4 +498,39 @@ LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
 ORGANIZER;CN="Parkour UNI and Exception Movement";PHONE=;WEBSITE="https://
  exceptionmovement.be/coach_europe":MAILTO:parkouruni.pku@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hal 5 Skill Comp
+DTSTART;VALUE=DATE:20251012
+DTEND;VALUE=DATE:20251012
+UID:3408289
+DESCRIPTION:<p>Another year to test yourself by conquering predetermined c
+ hallenges at the Hal 5 parkour gym!<br>\n<br>\nSeparate men’s and women
+ ’s category from round 2.<br>\n<br>\nStarting with everyone for 90 minut
+ es in round 1\, only half of the competitors per category will advance to 
+ round 2. During the finals\, the top 5 men and top 5 women will take on th
+ e hardest challenges of the day.<br>\n<br>\nMinimum age: 15+<br>\n<br>\nFR
+ EE entrance for spectators!<br>\n<br>\nMore info\, program and tickets on 
+ springstofparkour.com</p></br>\n<p>Price: 14€</p>\n<p>Accomodation: not 
+ included</p>\n<p>Food: not included</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ hal5-skill-comp":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ladies In Leuven
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260201
+UID:3408291
+DESCRIPTION:<p>Ladies in Leuven is a day full of&nbsp\;workshops by&nbsp\;
+ female athletes\, open training sessions and good times.</p>\n<p>​</p>\n
+ <p>We bring&nbsp\;women and non-binary together in an encouraging environm
+ ent.&nbsp\;Take your first strides in&nbsp\;parkour\, or further develop y
+ our skills with a group of like-minded people.</p>\n<p>​</p>\n<p>*minimu
+ m age = 12y</p>\n<p>​</p>\n<p>With a rotation system of&nbsp\;smaller gr
+ oups\, topics are tailored to&nbsp\;each experience level.<br>\n <br>\nMor
+ e info\, program and tickets on springstofparkour.com</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ladies-in-leuven":MAILTO:
+END:VEVENT
 END:VCALENDAR
