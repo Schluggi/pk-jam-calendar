@@ -2142,20 +2142,6 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Flinta* Parkour Jam
-DTSTART;VALUE=DATE:20250530
-DTEND;VALUE=DATE:20250602
-UID:3059950
-DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
- ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
- e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
- ng sleeping bag and a matress</p>
-GEO:51.9904;7.66672
-LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
-ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
- .de/jams/":MAILTO:info@parkourhalle-lani.de
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:East Nature Jam
 DTSTART;VALUE=DATE:20250530
 DTEND;VALUE=DATE:20250602
@@ -2181,6 +2167,20 @@ GEO:50.8348204;9.4388586
 LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/east-nature-jam-2025":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flinta* Parkour Jam
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+UID:3059950
+DESCRIPTION:<p>A weekend for women* and FLINTA* from the parkour and movem
+ ent scene - for joint training\, exchange and networking</p></br>\n<p>Pric
+ e: €40</p>\n<p>Food: all included</p>\n<p>Accomodation: in the gym\, bri
+ ng sleeping bag and a matress</p>
+GEO:51.9904;7.66672
+LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
+ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE="https://parkourhalle-lani
+ .de/jams/":MAILTO:info@parkourhalle-lani.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
@@ -2479,7 +2479,7 @@ BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250901
-UID:2071372
+UID:3419392
 DESCRIPTION:<p>Also this year we are organizing a camp on the pump track i
  n the Park of the Senses in Laatzen. &nbsp\;</p></br>\n<p>We will set up e
  verything on Saturday from 10 am and are always happy to have support\, so
@@ -2636,5 +2636,50 @@ DESCRIPTION:<p>🚀 TakeOFF Parkour Jam&nbsp\;</p></br>\n<p>On October 11\
 LOCATION:Berliner Str. 243\, 06112 Halle (Saale)\, Germany
 ORGANIZER;CN="Trendsportring Halle / Team Escalate";PHONE=;WEBSITE="IG: @t
  eamescalate":MAILTO:info@team-escalate.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Challenge Race 3
+DTSTART;VALUE=DATE:20251019
+DTEND;VALUE=DATE:20251019
+UID:3419397
+DESCRIPTION:<p>1 Spot -&gt\; 3 hours -&gt\; 50 Challenges &nbsp\;</p></br>
+ \n<p>Do you love to challenge yourself while training parkour? Well\, of c
+ ourse you do. This time we are in a special location: Stuntwerk Essen (<a 
+ rel="noopener noreferrer" target="_blank" href="https://stuntwerk-essen.de
+ )/">https://stuntwerk-essen.de)</a>&nbsp\;</p></br>\n<p>There are 50 Chall
+ enges waiting for you.&nbsp\;</p>\n<p>- 15 Basic Challenges&nbsp\;</p>\n<p
+ >- 15 Advanced Challenges&nbsp\;</p>\n<p>- 15 Pro Challenges&nbsp\;</p>\n<
+ p>- 5 Beast Challenges</p></br>\n<p>You got 3 hours from 13-16 o'clock to 
+ try to complete them all. The person with most completed challenges wins t
+ he cup and a special Stuntwerk Essen price! All completed challenges must 
+ be filmed\, so the host can proof it. Of course you can try the challenges
+  just for fun without filming.</p></br>\n<p>Schedule:&nbsp\;</p>\n<p>12:00
+  - meeting at Stuntwerk Essen and get warmed up&nbsp\;</p>\n<p>12:45 - you
+  receive the PDF with all the challenges in the whatsapp group (<a rel="no
+ opener noreferrer" target="_blank" href="https://chat.whatsapp.com/D9LV9TV
+ LVYz9fx1SBjvl5j)">https://chat.whatsapp.com/D9LV9TVLVYz9fx1SBjvl5j)</a></p
+ >\n<p>13:00 - Challenge Race starts&nbsp\;</p>\n<p>16:00 - Challenge Race 
+ ends&nbsp\;</p>\n<p>16:30 - Award Ceremony &nbsp\;</p></br>\n<p>After all 
+ that there will be enough time to jam til open end. See you there!</p></br
+ >\n<p>Price: 6€</p>\n<p>Accomodation: not included</p>\n<p>Food: not inc
+ luded</p>
+LOCATION:Segerothstraße 83a\, 45141 Essen\, Germany
+ORGANIZER;CN="Fabian Teusch";PHONE=;WEBSITE="https://www.instagram.com/par
+ kour_challenge_race/":MAILTO:fitbyfabianteusch@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nikolaus Laatzener Parkour Camp (Lpc)
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251206
+UID:2071372
+DESCRIPTION:<p>The Nikolaus LPC will take place again on December 6\, 2025
+ . &nbsp\;We will start meeting and setting up at 10 a.m. The official star
+ t will be at around 1 p.m. The LPC will end at 6 p.m. &nbsp\;Parkour Hanno
+ ver looks forward to seeing you there.</p></br>\n<p>Price: free</p>\n<p>Fo
+ od: Breakfast included</p>\n<p>Accomodation: no</p>
+GEO:52.3079768;9.8051041
+LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
+ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
+ o.de
 END:VEVENT
 END:VCALENDAR
