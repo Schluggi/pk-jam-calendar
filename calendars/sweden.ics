@@ -239,4 +239,21 @@ LOCATION:xFlow\, Herkulesvägen\, Jönköping\, Sweden
 ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=xflow.se/xjam:MAILTO:erik@xflo
  w.se
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fimbulwinterjam X
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251215
+UID:3446842
+DESCRIPTION:<p>FIMBULWINTER JAM X ❄️🩵</p>\n<p>10 years. 10 winters.
+  10 legends.</p>\n<p>The saga continues…</p>\n<p>🔥 Legend of Loki 
+ 🔥</p>\n<p>📅 December 12-14\, 2025</p>\n<p>📍 Parkourhall1\, Stockh
+ olm (Järfälla)</p>\n<p>Join us for the 10th anniversary of Sweden’s co
+ ldest and most legendary parkour gathering.</p>\n<p>Workshops\, challenges
+ \, community. A celebration of movement and myth like no other.</p>
+LOCATION:Gjutmästare Rosbergs väg 7\, 176 69 Järfälla\, Sweden
+ORGANIZER;CN="Quality Movement";PHONE=;WEBSITE="https://qualitymovement.se
+ /produkt/fimbulwinterjam-ix/?fbclid=PAZXh0bgNhZW0CMTEAAabWyxUx_UF0jw9c5pUy
+ N0XjmmNy-dMh3I3kYIRD0HwuXJ6nnvzNHzwRfec_aem_uENAT0WNa2bdHGXozWiNUA":MAILTO
+ :
+END:VEVENT
 END:VCALENDAR

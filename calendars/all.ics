@@ -6749,6 +6749,28 @@ LOCATION:Svendborgvej 3D\, 5762 Vester Skerninge\, Denmark
 ORGANIZER;CN=Ollerup;PHONE=;WEBSITE=:MAILTO:jannis.stemper@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vax International Speed & Style
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251123
+UID:3446843
+DESCRIPTION:<h2><br></h2>\n<p><strong>JAM SPEED and STYLE CONTEST</strong>
+ </p>\n<p>How to join:</p>\n<ul>\n  <li>register on www.4elementsacademy.at
+ </li>\n  <li>send your request to office@4elementsacademy.at</li>\n  <li>U
+ pload your submission as Reel or story on Instagram and tag @4elementsacad
+ emy between 01.10 and 26.10.25</li>\n</ul>\n<p><strong>Categories Speed an
+ d Style:</strong></p>\n<ul>\n  <li>Under 16</li>\n  <li>Over 16</li>\n  <l
+ i>Men</li>\n  <li>Women</li>\n</ul>\n<p><strong>VAX OPEN INTERNATIONAL 21.
+ 11</strong></p>\n<ul>\n  <li>Athletes welcome</li>\n  <li>18 Uhr - 22 Uhr 
+ Open Jam</li>\n</ul>\n<p><strong>VAX OPEN INTERNATIONAL&nbsp\;22.11</stron
+ g></p>\n<ul>\n  <li>10-11 Uhr Briefing / Training</li>\n  <li>11:30-12:30 
+ Uhr Speed Contest</li>\n  <li>14-15 Uhr Briefing / Training</li>\n  <li>15
+ :30 bis 17:00 Uhr Style</li>\n  <li>18:00 Uhr Winners Ceremony</li>\n  <li
+ >19:30 Uhr Afterparty Coffee Bar Innsbruck</li>\n</ul></br>
+LOCATION:Alte Landstraße 21\, 6060 Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at":MAILTO:office@4elementsacademy.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nikolaus Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251206
@@ -6762,6 +6784,23 @@ GEO:52.3079768;9.8051041
 LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
 ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
  o.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fimbulwinterjam X
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251215
+UID:3446842
+DESCRIPTION:<p>FIMBULWINTER JAM X ❄️🩵</p>\n<p>10 years. 10 winters.
+  10 legends.</p>\n<p>The saga continues…</p>\n<p>🔥 Legend of Loki 
+ 🔥</p>\n<p>📅 December 12-14\, 2025</p>\n<p>📍 Parkourhall1\, Stockh
+ olm (Järfälla)</p>\n<p>Join us for the 10th anniversary of Sweden’s co
+ ldest and most legendary parkour gathering.</p>\n<p>Workshops\, challenges
+ \, community. A celebration of movement and myth like no other.</p>
+LOCATION:Gjutmästare Rosbergs väg 7\, 176 69 Järfälla\, Sweden
+ORGANIZER;CN="Quality Movement";PHONE=;WEBSITE="https://qualitymovement.se
+ /produkt/fimbulwinterjam-ix/?fbclid=PAZXh0bgNhZW0CMTEAAabWyxUx_UF0jw9c5pUy
+ N0XjmmNy-dMh3I3kYIRD0HwuXJ6nnvzNHzwRfec_aem_uENAT0WNa2bdHGXozWiNUA":MAILTO
+ :
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ladies In Leuven

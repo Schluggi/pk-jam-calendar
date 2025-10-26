@@ -564,4 +564,26 @@ LOCATION:Zero Limits Trendsporthalle
 ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /summer_jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vax International Speed & Style
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251123
+UID:3446843
+DESCRIPTION:<h2><br></h2>\n<p><strong>JAM SPEED and STYLE CONTEST</strong>
+ </p>\n<p>How to join:</p>\n<ul>\n  <li>register on www.4elementsacademy.at
+ </li>\n  <li>send your request to office@4elementsacademy.at</li>\n  <li>U
+ pload your submission as Reel or story on Instagram and tag @4elementsacad
+ emy between 01.10 and 26.10.25</li>\n</ul>\n<p><strong>Categories Speed an
+ d Style:</strong></p>\n<ul>\n  <li>Under 16</li>\n  <li>Over 16</li>\n  <l
+ i>Men</li>\n  <li>Women</li>\n</ul>\n<p><strong>VAX OPEN INTERNATIONAL 21.
+ 11</strong></p>\n<ul>\n  <li>Athletes welcome</li>\n  <li>18 Uhr - 22 Uhr 
+ Open Jam</li>\n</ul>\n<p><strong>VAX OPEN INTERNATIONAL&nbsp\;22.11</stron
+ g></p>\n<ul>\n  <li>10-11 Uhr Briefing / Training</li>\n  <li>11:30-12:30 
+ Uhr Speed Contest</li>\n  <li>14-15 Uhr Briefing / Training</li>\n  <li>15
+ :30 bis 17:00 Uhr Style</li>\n  <li>18:00 Uhr Winners Ceremony</li>\n  <li
+ >19:30 Uhr Afterparty Coffee Bar Innsbruck</li>\n</ul></br>
+LOCATION:Alte Landstraße 21\, 6060 Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at":MAILTO:office@4elementsacademy.at
+END:VEVENT
 END:VCALENDAR
