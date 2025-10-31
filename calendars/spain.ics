@@ -72,4 +72,24 @@ ORGANIZER;CN="In Extremis Club";PHONE=;WEBSITE="https://inextremisclub.com
  qICxR1bgB4mRqEfhSPGJDNiqednmH7t-BcmbQt9uLSzRdSqdjzVQ_aem_YeqRUSkVYelXEYnU-
  ZTVeg":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Extremis Fam Winter 2025
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251208
+UID:3454858
+DESCRIPTION:<p>3 days jam in the In Extremis gym!</p></br>\n<p>Price: 99
+ €</p>\n<p>Food: Breakfast\, Lunch and Dinner included</p>\n<p>Accomodati
+ on: in the gym</p></br>\n<p>Sign up <a rel="noopener noreferrer" target="_
+ blank" href="https://inextremisclub.com/producto/in-extremis-fam-winter-20
+ 24/?fbclid=PAZXh0bgNhZW0CMTEAAacs3WIvNnqICxR1bgB4mRqEfhSPGJDNiqednmH7t-Bcm
+ bQt9uLSzRdSqdjzVQ_aem_YeqRUSkVYelXEYnU-ZTVeg"><strong>here</strong></a>.</
+ p>
+GEO:41.5246241;2.1292487
+LOCATION:In Extremis Club Academy\, Carrer de la Circumval·lació\, Barbe
+ rà del Vallès\, Spain
+ORGANIZER;CN="In Extremis Club";PHONE=;WEBSITE="https://inextremisclub.com
+ /producto/in-extremis-fam-winter-2024/?fbclid=PAZXh0bgNhZW0CMTEAAacs3WIvNn
+ qICxR1bgB4mRqEfhSPGJDNiqednmH7t-BcmbQt9uLSzRdSqdjzVQ_aem_YeqRUSkVYelXEYnU-
+ ZTVeg":MAILTO:
+END:VEVENT
 END:VCALENDAR
