@@ -6771,6 +6771,28 @@ ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
  demy.at":MAILTO:office@4elementsacademy.at
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Convention 2025
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251129
+UID:3468779
+DESCRIPTION:<p>One last time... Parkour Convention 2025&nbsp\;</p></br>\n<
+ p>On November 29th from 11:00 AM to 7:00 PM\, the Skatehal Dortmund will o
+ nce again host a full program.&nbsp\;</p></br>\n<p>In addition to a large 
+ obstacle course\, nice beast and tons of workshops\, this year we'll also 
+ have coffee/tea and a vegan lunch available for a donation. Our pro coache
+ s this year are Noa Diorgina Man and (t.b.a.). We'll also have our stylish
+  convention shirts available for free\, while supplies last. If you are un
+ der 18\, you will need a signed parental consent form (available for downl
+ oad soon on our website <a rel="noopener noreferrer" target="_blank" href=
+ "http://www.parkourdortmund.de)/">www.parkourdortmund.de)</a>. Come along 
+ and enjoy the Parkour Convention vibe one last time!</p></br>\n<p>Price: f
+ ree</p>\n<p>Accomodation: not included</p>\n<p>Food: vegan meal + coffee a
+ nd tea for a little donation</p>
+LOCATION:Leopoldstraße 50-58\, 44147 Dortmund\, Germany
+ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
+ :MAILTO:info@parkourdortmund.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In Extremis Fam Winter 2025
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251208
