@@ -6847,6 +6847,26 @@ ORGANIZER;CN="Quality Movement";PHONE=;WEBSITE="https://qualitymovement.se
  :
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:X-Mas Jam Linz
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251215
+UID:3502667
+DESCRIPTION:<p>XMAS JAM!&nbsp\;</p>\n<p>When? 13.12.2025 from 10 am - 14.1
+ 2.2025 &nbsp\;at 4 pm</p>\n<p>Where? "Zero Limits" Trendsporthalle (Julius
+ -Raabstraße 10\, 4040 Linz)</p></br>\n<p>- ÖPFV Skill Challenge</p>\n<p>
+ - Special! Action in two gyms\, Parkour &amp\; freerunning gym "Zero-Limit
+ s" + a Tricking &amp\; acrobatics gym right next to it&nbsp\;</p></br>\n<p
+ >Price: 60€ (on site)\, 50€ (Earlybird until 30.11.25)\, 35€ day tic
+ ket Saturday\, 30€ day ticket &nbsp\;Sunday</p>\n<p>Food: Saturday Snack
+ s &amp\; dinner\, Sunday Breakfast</p></br>\n<p>Accomodation: ?</p></br>\n
+ <p>SIGN UP <a rel="noopener noreferrer" target="_blank" href="https://www.
+ teamobsession.at/xmas_jam-info.html">HERE</a>.</p>
+GEO:nan;nan
+LOCATION:Zero Limits Trendsporthalle
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /xmas_jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In Motion Winter Jam
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260119
@@ -6911,5 +6931,27 @@ DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:50.0755381;14.4378005
 LOCATION:Prague\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laatzener Parkour Camp (Lpc)
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3502666
+DESCRIPTION:<p>We would like to welcome you once again to this year's LPC\
+ , which will take place from August 22 to 23\, 2026\, in the Park of the S
+ enses.&nbsp\;</p></br>\n<p>We will set up everything on Saturday from 10 a
+ m and are always happy to have support\, so please feel welcome. Sunday we
+  will slowly dismantle from 5 pm.&nbsp\;</p></br>\n<p>&nbsp\;There will be
+  an open buffet and breakfast for Sunday. The whole thing is free of charg
+ e. We are still happy about your donations to be able to continue organizi
+ ng the LPC. &nbsp\;</p></br>\n<p>We look forward to seeing you ❤️</p><
+ /br>\n<p>Price: free</p>\n<p>Food: Breakfast included</p>\n<p>Accomodation
+ : camping&nbsp\;</p>
+GEO:52.3134682;9.8051041
+LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
+ ny
+ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
+ ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
+ our.30159@gmail.com
 END:VEVENT
 END:VCALENDAR

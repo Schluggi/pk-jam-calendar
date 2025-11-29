@@ -586,4 +586,24 @@ LOCATION:Alte Landstraße 21\, 6060 Hall in Tirol\, Austria
 ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
  demy.at":MAILTO:office@4elementsacademy.at
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X-Mas Jam Linz
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251215
+UID:3502667
+DESCRIPTION:<p>XMAS JAM!&nbsp\;</p>\n<p>When? 13.12.2025 from 10 am - 14.1
+ 2.2025 &nbsp\;at 4 pm</p>\n<p>Where? "Zero Limits" Trendsporthalle (Julius
+ -Raabstraße 10\, 4040 Linz)</p></br>\n<p>- ÖPFV Skill Challenge</p>\n<p>
+ - Special! Action in two gyms\, Parkour &amp\; freerunning gym "Zero-Limit
+ s" + a Tricking &amp\; acrobatics gym right next to it&nbsp\;</p></br>\n<p
+ >Price: 60€ (on site)\, 50€ (Earlybird until 30.11.25)\, 35€ day tic
+ ket Saturday\, 30€ day ticket &nbsp\;Sunday</p>\n<p>Food: Saturday Snack
+ s &amp\; dinner\, Sunday Breakfast</p></br>\n<p>Accomodation: ?</p></br>\n
+ <p>SIGN UP <a rel="noopener noreferrer" target="_blank" href="https://www.
+ teamobsession.at/xmas_jam-info.html">HERE</a>.</p>
+GEO:nan;nan
+LOCATION:Zero Limits Trendsporthalle
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /xmas_jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
 END:VCALENDAR

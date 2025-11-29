@@ -2706,4 +2706,26 @@ LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
 ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
  o.de
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laatzener Parkour Camp (Lpc)
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3502666
+DESCRIPTION:<p>We would like to welcome you once again to this year's LPC\
+ , which will take place from August 22 to 23\, 2026\, in the Park of the S
+ enses.&nbsp\;</p></br>\n<p>We will set up everything on Saturday from 10 a
+ m and are always happy to have support\, so please feel welcome. Sunday we
+  will slowly dismantle from 5 pm.&nbsp\;</p></br>\n<p>&nbsp\;There will be
+  an open buffet and breakfast for Sunday. The whole thing is free of charg
+ e. We are still happy about your donations to be able to continue organizi
+ ng the LPC. &nbsp\;</p></br>\n<p>We look forward to seeing you ❤️</p><
+ /br>\n<p>Price: free</p>\n<p>Food: Breakfast included</p>\n<p>Accomodation
+ : camping&nbsp\;</p>
+GEO:52.3134682;9.8051041
+LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
+ ny
+ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
+ ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
+ our.30159@gmail.com
+END:VEVENT
 END:VCALENDAR
