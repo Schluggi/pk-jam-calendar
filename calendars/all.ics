@@ -6906,6 +6906,17 @@ ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/b
  rno/event/winterjam":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ladies In Leuven - Hal5
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260201
+UID:3516158
+DESCRIPTION:<p>save the date</p>
+GEO:50.8829498;4.7223114
+LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ladies In Leuven
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260201
@@ -6921,6 +6932,29 @@ DESCRIPTION:<p>Ladies in Leuven is a day full of&nbsp\;workshops by&nbsp\;
 LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
 ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
  ladies-in-leuven":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hal 5 Hawaii Jam
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260208
+UID:3516159
+DESCRIPTION:<p>Join us on Sunday 8th of February for the 5th edition of ou
+ r favourite winter jam!</p></br>\n<p>Bring your most colourful hawaiian ou
+ tfit and enjoy some delicious pineapple.</p></br>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ event-details/hawaii-jam":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spl5 European Qualifiers @Hal 5
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260420
+UID:3516160
+DESCRIPTION:<h2><strong>save the date</strong></h2>
+GEO:50.8832379;4.7221328
+LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
+ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
+ our.com":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holding Hands - Prague
