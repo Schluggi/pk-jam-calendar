@@ -6906,17 +6906,6 @@ ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/b
  rno/event/winterjam":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ladies In Leuven - Hal5
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260201
-UID:3516158
-DESCRIPTION:<p>save the date</p>
-GEO:50.8829498;4.7223114
-LOCATION:HAL 5\, Diestsesteenweg\, Leuven\, Belgium
-ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
- ":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ladies In Leuven
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260201
@@ -6957,6 +6946,35 @@ ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
  our.com":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:North Nature Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260504
+UID:3531499
+DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village 
+ in Schleswig-Holstein (about 1 hour from Hamburg). Connected to a private 
+ property and surrounded by evergreen spruce forest\, it’s the perfect pl
+ ace to dive into nature. &nbsp\;</p></br>\n<p>A wooden parkour park\, bar 
+ park\, climbing spots\, slacklines\, an AirTrack\, and highline experience
+ s offer endless opportunities to explore and play. A nearby sand pit invit
+ es big jumps and soft landings.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Multiple ca
+ mpfire spots await when the daylight fades. You’ll sleep in a hammock\, 
+ tent\, or under the open sky\, and cook and make music by the fire — wit
+ h Handpan\, guitar\, or whatever instrument you bring. Your hobbies are we
+ lcome too: art\, acrobatics\, flow arts — we want to learn and share eve
+ rything. &nbsp\;</p></br>\n<p>On the grounds you'll find: &nbsp\;</p>\n<p>
+ * Wooden parkour park&nbsp\;</p>\n<p>* Bar park&nbsp\;</p>\n<p>* 10 m slac
+ kline&nbsp\;</p>\n<p>* 25 m slackline&nbsp\;</p>\n<p>* 15 m highline (with
+  safety)&nbsp\;</p>\n<p>* AirTrack with mats&nbsp\;</p>\n<p>* 8 m climbing
+  tower (with safety)&nbsp\;</p>\n<p>* Ropeswing (giant swing)&nbsp\;</p>\n
+ <p>* Shower&nbsp\;</p>\n<p>* Toilet &nbsp\;</p></br>\n<p>You’ll receive 
+ a packing list before the event. Afterwards\, we head to Denmark for 3 day
+ s!</p></br>\n<p>Price: 40€</p>\n<p>Food: all inclusive</p>\n<p>Accomodat
+ ion: hammock or tent</p>
+LOCATION:Dorfstraße 106\, 25560 Aasbüttel
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holding Hands - Prague
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260606
@@ -6965,6 +6983,19 @@ DESCRIPTION:<p>SAVE THE DATE</p>
 GEO:50.0755381;14.4378005
 LOCATION:Prague\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Airfurt (Eintagsfliege)
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260620
+UID:3531501
+DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
+ nt—it's back to the roots with a full day of training on Saturday! More 
+ information will follow in 2026.</p></br>\n<p>Price: 0€</p>\n<p>Accomoda
+ tion: just ask the organisers if needed</p>\n<p>Food: not included</p>
+LOCATION:Altstadt\, 99084 Erfurt\, Germany
+ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://park
+ our-erfurt.de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
