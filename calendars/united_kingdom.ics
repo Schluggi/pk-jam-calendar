@@ -420,4 +420,21 @@ LOCATION:Brighton\, Brighton and Hove\, UK
 ORGANIZER;CN=STORROR;PHONE=;WEBSITE="https://www.instagram.com/storror/":M
  AILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fem Gaps Women'S Event
+DTSTART:20260516T120000
+DTEND:20260518T130000
+UID:3571516
+DESCRIPTION:<p>Day one will kick things off with a short\, 2-hour skills c
+ ompetition. The rest of the event will be an open jam across two iconic Lo
+ ndon spots. &nbsp\;</p></br>\n<p>On Saturday evening\, we’ll be hosting 
+ a film screening so everyone can come together and watch parkour films mad
+ e by women\, about women. &nbsp\;</p></br>\n<p>Our goal is to bring women 
+ together in our home city of London to train\, connect\, and share good vi
+ bes.</p></br>\n<p>Price: free</p>\n<p>Accomodation: no</p>\n<p>Food: not i
+ ncluded</p>
+LOCATION:London\, UK
+ORGANIZER;CN=FemGaps;PHONE=;WEBSITE="https://www.instagram.com/femgaps/":M
+ AILTO:femgaps@gmail.com
+END:VEVENT
 END:VCALENDAR
