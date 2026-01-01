@@ -126,4 +126,17 @@ LOCATION:Pokoleń Lechii Gdańsk 1\, 80-560 Gdańsk\, Poland
 ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE=ksmovement.pl:MAILTO:mfp@ksmo
  vement.pl
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movement Challenge 2026
+DTSTART:20260116T120000
+DTEND:20260118T130000
+UID:3587154
+DESCRIPTION:<p>Movement Challenge 2026 <br>\n<br>\nSign up &amp\; more inf
+ ormation on their <a rel="noopener noreferrer" target="_blank" href="https
+ ://movementarena.pl/gdansk/movement-challenge-2026-opis/"><strong>website<
+ /strong></a><strong>!</strong></p>
+LOCATION:Pokoleń Lechii Gdańsk 1\, 80-560 Gdańsk\, Poland
+ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://movementarena.pl/gda
+ nsk/movement-challenge-2026-opis/":MAILTO:
+END:VEVENT
 END:VCALENDAR
