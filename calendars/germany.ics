@@ -2749,6 +2749,29 @@ ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://park
  our-erfurt.de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frbodensee Festival
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260817
+UID:3606149
+DESCRIPTION:<p>The FRB Festival - as the name suggests - is no “Parkour 
+ Jam”\,... at least by now. And calling it one would come short to descri
+ be all the things that actually take place there. Obviously\, Parkour is p
+ laying a central role and lots of training is involved\, but more as a con
+ sequential side effect of Parkour People hanging out for a couple of days.
+ </p></br>\n<p>From Live-Bands\, DJs\, and Open Stage to Soccer-Tournament\
+ , Forest Games\, and various workshops\, there is so much to do besides tr
+ aining on the Parkour Setup. We even have a spa area with hot tubs\, a sau
+ na\, and a cocktail bar.&nbsp\;</p></br>\n<p>With the FRB Festival we want
+  to create a space where you can bring friends who are not necessarily int
+ o parkour (meaning not training actively) and be confident they are going 
+ to have a blast.</p></br>\n<p>Information will soon be updated on our webs
+ ite</p></br>\n<p>check our insta for updates @frb.freerun</p></br>
+GEO:47.8275552;9.2612319
+LOCATION:Naturatelier\, Golpenweiler Straße\, Frickingen\, Germany
+ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
+ ILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
