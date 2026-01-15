@@ -2736,6 +2736,24 @@ ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gizmo Style Battles 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3618138
+DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
+ ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
+ n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
+ raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
+ vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
+ er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
+ ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: al
+ l included</p>\n<p>Price: 40-50€</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Airfurt (Eintagsfliege)
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260620
