@@ -196,4 +196,16 @@ LOCATION:Milan\, Metropolitan City of Milan\, Italy
 ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
  0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:3629971
+DESCRIPTION:<p>which city and more information coming soon! check their in
+ stagram account @pastamoves for updates!</p>
+GEO:41.87194;12.4963655
+LOCATION:Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
+END:VEVENT
 END:VCALENDAR

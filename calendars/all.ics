@@ -6919,6 +6919,18 @@ ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://movementarena.pl/gda
  nsk/movement-challenge-2026-opis/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Januarjenajam
+DTSTART:20260130T120000
+DTEND:20260202T130000
+UID:3629969
+DESCRIPTION:<p>more information in this <a rel="noopener noreferrer" targe
+ t="_blank" href="https://chat.whatsapp.com/DxZjHz6JUFY5tfjv7ADZHd"><strong
+ >whatsapp group</strong></a>.</p>
+LOCATION:07 Jena\, Germany
+ORGANIZER;CN=;PHONE=;WEBSITE="https://chat.whatsapp.com/DxZjHz6JUFY5tfjv7A
+ DZHd":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ladies In Leuven
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260201
@@ -6946,6 +6958,45 @@ DESCRIPTION:<p>Join us on Sunday 8th of February for the 5th edition of ou
 LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
 ORGANIZER;CN=SPRINGSTOF;PHONE=;WEBSITE="https://www.springstofparkour.com/
  event-details/hawaii-jam":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rad Jam - Winter Edition
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260216
+UID:3629972
+DESCRIPTION:<p>‘Rad Jam’ the Street Culture Festival is returning\, th
+ is time in Winter on the 13-15th February 2026. &nbsp\;</p></br>\n<p>In th
+ e mists of deep winter\, we are aiming to heat things up with a combinatio
+ n of fire events. &nbsp\;</p></br>\n<p>With competitions and workshops of 
+ Parkour\, Kendama Breakdance as well as our own Mini-Gizmo compition\,Egg 
+ Game\, Comedy workshop and show\, Social Dancing\, Community Discussions w
+ ith Calum Johnston and Jan Joppek and of course and Afterparty!. &nbsp\;</
+ p></br>\n<p>Don’t be deterred by the cold\, come join the heat of the mo
+ ment at Die Halle Hamburg in February!</p></br>\n<p>Food: all inclusive</p
+ >\n<p>Accomodation: included in the weekend ticket</p>\n<p>Price: Full wee
+ kend w/Sleeping - 50\, Full weekend - 40\, Day Ticket - 25.</p>
+GEO:53.5428972;10.0092951
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Die Halle X Radical";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.h
+ amburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorilla X If Jam
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260223
+UID:3629502
+DESCRIPTION:<p>The time has finally come! We are pleased to announce our B
+ ig Jam together with @letsgo.gorilla in Chemnitz.</p></br>\n<p>On February
+  21 and 22\, there will be lots to see and all kinds of workshops (e.g.\, 
+ an over-40/50 workshop on movement and parkour) to participate in.</p></br
+ >\n<p>You can find all the information in our timetable with a swipe.</p><
+ /br>\n<p>Admission is completely free\, and we are really looking forward 
+ to seeing everyone who comes!</p></br>
+GEO:50.8493586;9.4388586
+LOCATION:Schönherrstraße 8\, 09113 Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.instagram.com/
+ p/DTuz-IVCJVB/?img_index=2&igsh=MXJ1eXZlNHVqOGZhZw%3D%3D":MAILTO:Info@if-u
+ rbansports.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nordic Parkour Championships - Spl
@@ -6995,6 +7046,18 @@ DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village
 LOCATION:Dorfstraße 106\, 25560 Aasbüttel
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:3629971
+DESCRIPTION:<p>which city and more information coming soon! check their in
+ stagram account @pastamoves for updates!</p>
+GEO:41.87194;12.4963655
+LOCATION:Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fem Gaps Women'S Event
@@ -7053,6 +7116,18 @@ DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
 LOCATION:Altstadt\, 99084 Erfurt\, Germany
 ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://park
  our-erfurt.de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heljam
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+UID:3629970
+DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
+ el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
+ eljamfinland/"><strong>instagram channel</strong></a>.</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frbodensee Festival

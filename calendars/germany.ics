@@ -2707,6 +2707,45 @@ ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:jurij.bernhard@yaho
  o.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rad Jam - Winter Edition
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260216
+UID:3629972
+DESCRIPTION:<p>‘Rad Jam’ the Street Culture Festival is returning\, th
+ is time in Winter on the 13-15th February 2026. &nbsp\;</p></br>\n<p>In th
+ e mists of deep winter\, we are aiming to heat things up with a combinatio
+ n of fire events. &nbsp\;</p></br>\n<p>With competitions and workshops of 
+ Parkour\, Kendama Breakdance as well as our own Mini-Gizmo compition\,Egg 
+ Game\, Comedy workshop and show\, Social Dancing\, Community Discussions w
+ ith Calum Johnston and Jan Joppek and of course and Afterparty!. &nbsp\;</
+ p></br>\n<p>Don’t be deterred by the cold\, come join the heat of the mo
+ ment at Die Halle Hamburg in February!</p></br>\n<p>Food: all inclusive</p
+ >\n<p>Accomodation: included in the weekend ticket</p>\n<p>Price: Full wee
+ kend w/Sleeping - 50\, Full weekend - 40\, Day Ticket - 25.</p>
+GEO:53.5428972;10.0092951
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="Die Halle X Radical";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.h
+ amburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorilla X If Jam
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260223
+UID:3629502
+DESCRIPTION:<p>The time has finally come! We are pleased to announce our B
+ ig Jam together with @letsgo.gorilla in Chemnitz.</p></br>\n<p>On February
+  21 and 22\, there will be lots to see and all kinds of workshops (e.g.\, 
+ an over-40/50 workshop on movement and parkour) to participate in.</p></br
+ >\n<p>You can find all the information in our timetable with a swipe.</p><
+ /br>\n<p>Admission is completely free\, and we are really looking forward 
+ to seeing everyone who comes!</p></br>
+GEO:50.8493586;9.4388586
+LOCATION:Schönherrstraße 8\, 09113 Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.instagram.com/
+ p/DTuz-IVCJVB/?img_index=2&igsh=MXJ1eXZlNHVqOGZhZw%3D%3D":MAILTO:Info@if-u
+ rbansports.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:North Nature Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504

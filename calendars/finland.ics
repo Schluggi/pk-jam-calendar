@@ -131,4 +131,16 @@ GEO:60.16985569999999;24.938379
 LOCATION:Helsinki\, Finland
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heljam
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+UID:3629970
+DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
+ el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
+ eljamfinland/"><strong>instagram channel</strong></a>.</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR
