@@ -7106,6 +7106,25 @@ ORGANIZER;CN=FemGaps;PHONE=;WEBSITE="https://www.instagram.com/femgaps/":M
  AILTO:femgaps@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3634453
+DESCRIPTION:<p>This event celebrates women in parkour. We look forward to 
+ a weekend of workshops and jams with experienced local and international p
+ arkour coaches.&nbsp\;</p></br>\n<p>More information will be posted in the
+  Facebook event and at instagram @cph_her.&nbsp\;</p></br>\n<p>WHO CAN JOI
+ N?&nbsp\;</p>\n<p>We welcome all women and all levels\; coaches are experi
+ enced and will be able to teach you something cool whether it's your first
+  day training parkour or your second decade.&nbsp\;</p></br>\n<p>AGE: 16+.
+  We expect that you are capable of managing your own stay and transport in
+  Copenhagen during the event.</p></br>\n<p>Price: 50€</p>\n<p>Accomodati
+ on: no</p>\n<p>Food: not included</p>
+LOCATION:Copenhagen\, Denmark
+ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
+ BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gizmo Style Battles 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
