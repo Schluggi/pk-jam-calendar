@@ -548,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:Öpfv Jam & Contest Linz
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250616
-UID:3096100
+UID:3634474
 DESCRIPTION:<p>2-day parkour jam &amp\; contest with various highlights:</
  p>\n<p>- Parkour &amp\; Freerunning</p>\n<p>- Tricking/Acrobatics</p>\n<p>
  - ÖPFV Style Contests</p>\n<p>- and much more</p></br>\n<p>Timetable:</p>
@@ -601,6 +601,80 @@ DESCRIPTION:<p>XMAS JAM!&nbsp\;</p>\n<p>When? 13.12.2025 from 10 am - 14.1
  s &amp\; dinner\, Sunday Breakfast</p></br>\n<p>Accomodation: ?</p></br>\n
  <p>SIGN UP <a rel="noopener noreferrer" target="_blank" href="https://www.
  teamobsession.at/xmas_jam-info.html">HERE</a>.</p>
+GEO:nan;nan
+LOCATION:Zero Limits Trendsporthalle
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /xmas_jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Contest - 4Elements Academy
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260228
+UID:3634489
+DESCRIPTION:<p>save the date</p>
+LOCATION:Alte Landstraße 21\, 6060 Hall in Tirol\, Austria
+ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
+ demy.at/skills-contest.html":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Skill/Style Contest & Jam
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260413
+UID:3634475
+DESCRIPTION:<p>more information coming soon!</p></br></br>
+GEO:48.1355458;16.3143955
+LOCATION:ape academy\, Perfektastraße\, Vienna\, Austria
+ORGANIZER;CN=ÖPFV;PHONE=;WEBSITE=www.oepfv.at:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Mur Jam
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260504
+UID:3634488
+DESCRIPTION:<p>save the date</p></br>
+GEO:47.070714;15.439504
+LOCATION:Graz\, Austria
+ORGANIZER;CN="Urban Playground Graz";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öpfv Jam & Contest Linz
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260620
+UID:3096100
+DESCRIPTION:<p>save the date</p>
+GEO:nan;nan
+LOCATION:Zero Limits Trendsporthalle
+ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
+ /summer_jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel City Jam
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+UID:3634486
+DESCRIPTION:<p>Street Jam in Linz\, save the date and add yourself to the 
+ Whatsapp group chat <a rel="noopener noreferrer" target="_blank" href="htt
+ ps://chat.whatsapp.com/JXncsItIxbxG9Knt2sDrSM">here</a>!</p>
+GEO:48.30694;14.28583
+LOCATION:Linz\, Austria
+ORGANIZER;CN=;PHONE=;WEBSITE="https://chat.whatsapp.com/JXncsItIxbxG9Knt2s
+ DrSM":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X-Mas Jam Linz
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+UID:3634485
+DESCRIPTION:<p>save the date</p>
 GEO:nan;nan
 LOCATION:Zero Limits Trendsporthalle
 ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
