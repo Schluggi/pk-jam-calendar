@@ -7008,6 +7008,39 @@ LOCATION:Kopparbergsgatan 6C\, 214 44 Malmö\, Sweden
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spka 2026
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260302
+UID:3636484
+DESCRIPTION:<p>The core of Armageddon is the epic program designed by vari
+ ous parkour enthusiasts from Finland and abroad. Typically the program con
+ sists of various workshops\, challenges\, talks\, games &amp\; adventures.
+  The lineup of people and contents get promoted on our social media channe
+ ls.</p></br>\n<p>The <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://biletti.fi/en/e/supreme-parkour-armageddon-2026-the-meltwater-maelst
+ orm-jyvaskyla">ticketsale</a> and <a rel="noopener noreferrer" target="_bl
+ ank" href="https://suomen-parkour-ry-lv.creamailer.fi/survey/answer/0nobuk
+ wblbtjw">sign-up</a> are open! By purchasing your tickets in advance\, you
+  will secure your place at the event\, receive important information about
+  the event\, and be taken into account while preparing the event. Tickets 
+ can also be purchased on site\, if there are any left.</p>\n<p>The program
+  starts at 18:00 on Friday and ends by 16:00 on Sunday. There is no strict
+  age limit\, but three days of training\, workshops and sleeping at the gy
+ m might not be the best choice for young children. Guardians accompanying 
+ their children are required to buy tickets aswell. Everyone at the event i
+ s responsible for themselves. All underage participants are required to br
+ ing a written permission from a guardian. The main language of the event i
+ s <strong>English</strong>. Prior experience with parkour is recommended b
+ ut not required.</p></br>\n<p><a rel="noopener noreferrer" target="_blank"
+  href="https://www.parkour.fi/tapahtumat/spka-en/">https://www.parkour.fi/
+ tapahtumat/spka-en/</a></p></br>\n<p>Early bird price: 79\,90€</p>\n<p>A
+ ccomodation: at the parkour gym</p>\n<p>Food: not included\, but you can u
+ se the kitchen!</p>
+LOCATION:Jyväskylä\, Finland
+ORGANIZER;CN="Suomen Parkouryhdistys";PHONE=;WEBSITE="https://www.parkour.
+ fi/tapahtumat/spka-en/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Öpfv Contest - 4Elements Academy
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260228
@@ -7039,18 +7072,6 @@ ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
  our.com":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pasta Jam
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260501
-UID:3629971
-DESCRIPTION:<p>which city and more information coming soon! check their in
- stagram account @pastamoves for updates!</p>
-GEO:41.87194;12.4963655
-LOCATION:Italy
-ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
- 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Nature Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
@@ -7078,6 +7099,18 @@ DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village
 LOCATION:Dorfstraße 106\, 25560 Aasbüttel
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:3629971
+DESCRIPTION:<p>which city and more information coming soon! check their in
+ stagram account @pastamoves for updates!</p>
+GEO:41.87194;12.4963655
+LOCATION:Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Mur Jam
@@ -7136,6 +7169,25 @@ ORGANIZER;CN=FemGaps;PHONE=;WEBSITE="https://www.instagram.com/femgaps/":M
  AILTO:femgaps@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3634453
+DESCRIPTION:<p>This event celebrates women in parkour. We look forward to 
+ a weekend of workshops and jams with experienced local and international p
+ arkour coaches.&nbsp\;</p></br>\n<p>More information will be posted in the
+  Facebook event and at instagram @cph_her.&nbsp\;</p></br>\n<p>WHO CAN JOI
+ N?&nbsp\;</p>\n<p>We welcome all women and all levels\; coaches are experi
+ enced and will be able to teach you something cool whether it's your first
+  day training parkour or your second decade.&nbsp\;</p></br>\n<p>AGE: 16+.
+  We expect that you are capable of managing your own stay and transport in
+  Copenhagen during the event.</p></br>\n<p>Price: 50€</p>\n<p>Accomodati
+ on: no</p>\n<p>Food: not included</p>
+LOCATION:Copenhagen\, Denmark
+ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
+ BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gizmo Style Battles 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
@@ -7154,23 +7206,15 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
  gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-UID:3634453
-DESCRIPTION:<p>This event celebrates women in parkour. We look forward to 
- a weekend of workshops and jams with experienced local and international p
- arkour coaches.&nbsp\;</p></br>\n<p>More information will be posted in the
-  Facebook event and at instagram @cph_her.&nbsp\;</p></br>\n<p>WHO CAN JOI
- N?&nbsp\;</p>\n<p>We welcome all women and all levels\; coaches are experi
- enced and will be able to teach you something cool whether it's your first
-  day training parkour or your second decade.&nbsp\;</p></br>\n<p>AGE: 16+.
-  We expect that you are capable of managing your own stay and transport in
-  Copenhagen during the event.</p></br>\n<p>Price: 50€</p>\n<p>Accomodati
- on: no</p>\n<p>Food: not included</p>
-LOCATION:Copenhagen\, Denmark
-ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
- BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
+SUMMARY:Parkour Games 2026
+DTSTART:20260605T120000
+DTEND:20260607T130000
+UID:3636483
+DESCRIPTION:<p>Polish Parkour Championships 2026 - Qualification for polis
+ h athletes to World Championships in Brno.</p>
+LOCATION:Płock\, Poland
+ORGANIZER;CN=federacjaparkour;PHONE=;WEBSITE="https://www.instagram.com/p/
+ DT-8RW9jevQ/?igsh=MXV0dWIzMXd2NG5wbw==":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holding Hands - Prague
@@ -7242,15 +7286,6 @@ ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7273,6 +7308,15 @@ ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  our.30159@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Steel City Jam
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
@@ -7284,6 +7328,28 @@ GEO:48.30694;14.28583
 LOCATION:Linz\, Austria
 ORGANIZER;CN=;PHONE=;WEBSITE="https://chat.whatsapp.com/JXncsItIxbxG9Knt2s
  DrSM":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Earth World Championships
+DTSTART:20261028T120000
+DTEND:20261102T130000
+UID:3636485
+DESCRIPTION:<p>Parkour World Championships 2026: Brno\, Czech Republic</p>
+ \n<p>\nIt’s official! 🎉 The Parkour Earth World Championships 2026 
+ will take place in the Czech Republic - in the city of Brno 🇨🇿.</p>\
+ n<p>\nTogether with the Czech Parkour Association\, we’re bringing the g
+ lobal parkour community together for an international event that’s more 
+ than just a competition -  expect Speed\, Skill &amp\; Style\, a city ja
+ m\, and community activities throughout the weekend.</p>\n<p>\n🗓 28 Oct
+ ober - 1 November 2026 📍 Brno\, Czech Republic<br>\n<br>\n🧭 How to
+  qualify:<br>\n1️⃣ Through your National Championships — if your cou
+ ntry has a federation. 2️⃣ If not\, via selected international quali
+ fier events. 3️⃣ Or through wildcards\, such as video submissions or
+  other methods - to be announced!<br>\n<br>\n🌍 Want your event to becom
+ e an official qualifier? 📩 Contact Parkour Earth!</p>
+LOCATION:Vídeňská 297/99\, 639 00 Brno-střed\, Czechia
+ORGANIZER;CN="Parkour Earth";PHONE=;WEBSITE="https://www.instagram.com/p/D
+ PtOPcijXwc/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:X-Mas Jam Linz

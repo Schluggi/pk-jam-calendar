@@ -459,4 +459,26 @@ GEO:50.0755381;14.4378005
 LOCATION:Prague\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Earth World Championships
+DTSTART:20261028T120000
+DTEND:20261102T130000
+UID:3636485
+DESCRIPTION:<p>Parkour World Championships 2026: Brno\, Czech Republic</p>
+ \n<p>\nIt’s official! 🎉 The Parkour Earth World Championships 2026 
+ will take place in the Czech Republic - in the city of Brno 🇨🇿.</p>\
+ n<p>\nTogether with the Czech Parkour Association\, we’re bringing the g
+ lobal parkour community together for an international event that’s more 
+ than just a competition -  expect Speed\, Skill &amp\; Style\, a city ja
+ m\, and community activities throughout the weekend.</p>\n<p>\n🗓 28 Oct
+ ober - 1 November 2026 📍 Brno\, Czech Republic<br>\n<br>\n🧭 How to
+  qualify:<br>\n1️⃣ Through your National Championships — if your cou
+ ntry has a federation. 2️⃣ If not\, via selected international quali
+ fier events. 3️⃣ Or through wildcards\, such as video submissions or
+  other methods - to be announced!<br>\n<br>\n🌍 Want your event to becom
+ e an official qualifier? 📩 Contact Parkour Earth!</p>
+LOCATION:Vídeňská 297/99\, 639 00 Brno-střed\, Czechia
+ORGANIZER;CN="Parkour Earth";PHONE=;WEBSITE="https://www.instagram.com/p/D
+ PtOPcijXwc/":MAILTO:
+END:VEVENT
 END:VCALENDAR

@@ -139,4 +139,15 @@ LOCATION:Pokoleń Lechii Gdańsk 1\, 80-560 Gdańsk\, Poland
 ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://movementarena.pl/gda
  nsk/movement-challenge-2026-opis/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Games 2026
+DTSTART:20260605T120000
+DTEND:20260607T130000
+UID:3636483
+DESCRIPTION:<p>Polish Parkour Championships 2026 - Qualification for polis
+ h athletes to World Championships in Brno.</p>
+LOCATION:Płock\, Poland
+ORGANIZER;CN=federacjaparkour;PHONE=;WEBSITE="https://www.instagram.com/p/
+ DT-8RW9jevQ/?igsh=MXV0dWIzMXd2NG5wbw==":MAILTO:
+END:VEVENT
 END:VCALENDAR

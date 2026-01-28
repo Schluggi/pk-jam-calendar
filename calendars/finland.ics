@@ -132,6 +132,39 @@ LOCATION:Helsinki\, Finland
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spka 2026
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260302
+UID:3636484
+DESCRIPTION:<p>The core of Armageddon is the epic program designed by vari
+ ous parkour enthusiasts from Finland and abroad. Typically the program con
+ sists of various workshops\, challenges\, talks\, games &amp\; adventures.
+  The lineup of people and contents get promoted on our social media channe
+ ls.</p></br>\n<p>The <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://biletti.fi/en/e/supreme-parkour-armageddon-2026-the-meltwater-maelst
+ orm-jyvaskyla">ticketsale</a> and <a rel="noopener noreferrer" target="_bl
+ ank" href="https://suomen-parkour-ry-lv.creamailer.fi/survey/answer/0nobuk
+ wblbtjw">sign-up</a> are open! By purchasing your tickets in advance\, you
+  will secure your place at the event\, receive important information about
+  the event\, and be taken into account while preparing the event. Tickets 
+ can also be purchased on site\, if there are any left.</p>\n<p>The program
+  starts at 18:00 on Friday and ends by 16:00 on Sunday. There is no strict
+  age limit\, but three days of training\, workshops and sleeping at the gy
+ m might not be the best choice for young children. Guardians accompanying 
+ their children are required to buy tickets aswell. Everyone at the event i
+ s responsible for themselves. All underage participants are required to br
+ ing a written permission from a guardian. The main language of the event i
+ s <strong>English</strong>. Prior experience with parkour is recommended b
+ ut not required.</p></br>\n<p><a rel="noopener noreferrer" target="_blank"
+  href="https://www.parkour.fi/tapahtumat/spka-en/">https://www.parkour.fi/
+ tapahtumat/spka-en/</a></p></br>\n<p>Early bird price: 79\,90€</p>\n<p>A
+ ccomodation: at the parkour gym</p>\n<p>Food: not included\, but you can u
+ se the kitchen!</p>
+LOCATION:Jyväskylä\, Finland
+ORGANIZER;CN="Suomen Parkouryhdistys";PHONE=;WEBSITE="https://www.parkour.
+ fi/tapahtumat/spka-en/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heljam
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
