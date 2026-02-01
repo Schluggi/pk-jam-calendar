@@ -6919,18 +6919,6 @@ ORGANIZER;CN="Movement Arena";PHONE=;WEBSITE="https://movementarena.pl/gda
  nsk/movement-challenge-2026-opis/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Januarjenajam
-DTSTART:20260130T120000
-DTEND:20260202T130000
-UID:3629969
-DESCRIPTION:<p>more information in this <a rel="noopener noreferrer" targe
- t="_blank" href="https://chat.whatsapp.com/DxZjHz6JUFY5tfjv7ADZHd"><strong
- >whatsapp group</strong></a>.</p>
-LOCATION:07 Jena\, Germany
-ORGANIZER;CN=;PHONE=;WEBSITE="https://chat.whatsapp.com/DxZjHz6JUFY5tfjv7A
- DZHd":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ladies In Leuven
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260201
@@ -7169,6 +7157,36 @@ ORGANIZER;CN=FemGaps;PHONE=;WEBSITE="https://www.instagram.com/femgaps/":M
  AILTO:femgaps@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Stuttgart Jam
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260525
+UID:3644005
+DESCRIPTION:<p>Lets gooo!!!! We are hosting the Parkour Stuttgart Jam agai
+ n!! &nbsp\;</p></br>\n<p>For the fifth time in a row we offer good food\, 
+ good people\, good vibes and good training!!!! &nbsp\;</p></br>\n<p>As alw
+ ays there will be an indoor and an outdoor setup for you to enjoy. Also th
+ e city's best spots are always just a subway ride away. You will be sleepi
+ ng in a gym so bring your sleeping bag and your own plate + cutlery for ou
+ r amazing fully vegan meals. &nbsp\;</p></br>\n<p>Unfortunately\, we have 
+ lost our chef and are therefore still clarifying how and what we can offer
+  in terms of food this year. However\, we will definitely take care of bre
+ akfast! &nbsp\;</p></br>\n<p>As the admission fee is calculated based on t
+ he food\, this has not yet been determined either. However\, as soon as we
+  have decided\, we will publish all the information on our website. &nbsp\
+ ;</p></br>\n<p>The Jam won't be overloaded with anything. We also offer so
+ me small workshops for beginners and intermediates. &nbsp\;</p></br>\n<p>S
+ o see you there!!! &nbsp\;Ballorium sei mit euch !!! &nbsp\;</p></br>\n<p>
+ PS: The online registration will be up by the end of march. Please be awar
+ e that this is the only way to sign up for the jam. There will be no on-si
+ te registration! Registration is closing 10 days prior to the jam.</p></br
+ >\n<p>Price: not sure yet\, but cheap for sure</p>\n<p>Food: either breakf
+ ast only or some more food</p>\n<p>Accommodation: in the gym</p>
+GEO:48.7518184;9.1894977
+LOCATION:Georgiiweg 770597\, Stuttgart\, Germany
+ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
+ tgart.de/parkour-stuttgart-jam/":MAILTO:jam@parkour-stuttgart.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
@@ -7263,6 +7281,27 @@ LOCATION:Helsinki\, Finland
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wpf Camp 2026
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260810
+UID:3644004
+DESCRIPTION:<p>Participants\, Special Guests and the WPF Staff stay at the
+  campsite near Basel. &nbsp\;</p></br>\n<p>Program:&nbsp\;</p>\n<p>- Break
+ fast 09:00-10:30 (included)&nbsp\;</p>\n<p>- Dinner 19:00-20:30 (included)
+ &nbsp\;</p>\n<p>- 5 Days Training &amp\; Jam all around Basel (Public Tran
+ sport included) &nbsp\;</p></br>\n<p>Enjoy BBQ by the CAMPFIRE. Breakfast 
+ and dinner are served in the CLUBHOUSE. &nbsp\;</p></br>\n<p>Every afterno
+ on we leave together by public transport (included) visiting various spots
+  in Basel to do Parkour. In the evening\, various activities are planned\,
+  such as CAMPFIRE and POOL\, The highlight of the camp is the WPF SKILLS C
+ OMPETITION on Saturday (part of the SWISS PARKOUR TOUR) &nbsp\;</p></br>\n
+ <p>Price: 180.- CHF</p>\n<p>Accomodation: on a campsite</p>\n<p>Food: all 
+ inclusive</p>
+LOCATION:Basel\, Switzerland
+ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE="https://www.worlds
+ parkourfamily.ch/wpfcamp":MAILTO:info@worldsparkourfamily.ch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260817
@@ -7286,6 +7325,15 @@ ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7306,15 +7354,6 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam

@@ -151,4 +151,25 @@ LOCATION:Basel\, Switzerland
 ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE="https://worldspark
  ourfamily.ch/wpfcamp":MAILTO:info@worldsparkourfamily.ch
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wpf Camp 2026
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260810
+UID:3644004
+DESCRIPTION:<p>Participants\, Special Guests and the WPF Staff stay at the
+  campsite near Basel. &nbsp\;</p></br>\n<p>Program:&nbsp\;</p>\n<p>- Break
+ fast 09:00-10:30 (included)&nbsp\;</p>\n<p>- Dinner 19:00-20:30 (included)
+ &nbsp\;</p>\n<p>- 5 Days Training &amp\; Jam all around Basel (Public Tran
+ sport included) &nbsp\;</p></br>\n<p>Enjoy BBQ by the CAMPFIRE. Breakfast 
+ and dinner are served in the CLUBHOUSE. &nbsp\;</p></br>\n<p>Every afterno
+ on we leave together by public transport (included) visiting various spots
+  in Basel to do Parkour. In the evening\, various activities are planned\,
+  such as CAMPFIRE and POOL\, The highlight of the camp is the WPF SKILLS C
+ OMPETITION on Saturday (part of the SWISS PARKOUR TOUR) &nbsp\;</p></br>\n
+ <p>Price: 180.- CHF</p>\n<p>Accomodation: on a campsite</p>\n<p>Food: all 
+ inclusive</p>
+LOCATION:Basel\, Switzerland
+ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE="https://www.worlds
+ parkourfamily.ch/wpfcamp":MAILTO:info@worldsparkourfamily.ch
+END:VEVENT
 END:VCALENDAR

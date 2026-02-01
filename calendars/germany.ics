@@ -2775,6 +2775,36 @@ ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Stuttgart Jam
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260525
+UID:3644005
+DESCRIPTION:<p>Lets gooo!!!! We are hosting the Parkour Stuttgart Jam agai
+ n!! &nbsp\;</p></br>\n<p>For the fifth time in a row we offer good food\, 
+ good people\, good vibes and good training!!!! &nbsp\;</p></br>\n<p>As alw
+ ays there will be an indoor and an outdoor setup for you to enjoy. Also th
+ e city's best spots are always just a subway ride away. You will be sleepi
+ ng in a gym so bring your sleeping bag and your own plate + cutlery for ou
+ r amazing fully vegan meals. &nbsp\;</p></br>\n<p>Unfortunately\, we have 
+ lost our chef and are therefore still clarifying how and what we can offer
+  in terms of food this year. However\, we will definitely take care of bre
+ akfast! &nbsp\;</p></br>\n<p>As the admission fee is calculated based on t
+ he food\, this has not yet been determined either. However\, as soon as we
+  have decided\, we will publish all the information on our website. &nbsp\
+ ;</p></br>\n<p>The Jam won't be overloaded with anything. We also offer so
+ me small workshops for beginners and intermediates. &nbsp\;</p></br>\n<p>S
+ o see you there!!! &nbsp\;Ballorium sei mit euch !!! &nbsp\;</p></br>\n<p>
+ PS: The online registration will be up by the end of march. Please be awar
+ e that this is the only way to sign up for the jam. There will be no on-si
+ te registration! Registration is closing 10 days prior to the jam.</p></br
+ >\n<p>Price: not sure yet\, but cheap for sure</p>\n<p>Food: either breakf
+ ast only or some more food</p>\n<p>Accommodation: in the gym</p>
+GEO:48.7518184;9.1894977
+LOCATION:Georgiiweg 770597\, Stuttgart\, Germany
+ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
+ tgart.de/parkour-stuttgart-jam/":MAILTO:jam@parkour-stuttgart.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gizmo Style Battles 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
