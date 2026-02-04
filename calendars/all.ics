@@ -7039,6 +7039,30 @@ ORGANIZER;CN="4 Elements Academy";PHONE=;WEBSITE="https://www.4elementsaca
  demy.at/skills-contest.html":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Krap Championships
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260328
+UID:3651719
+DESCRIPTION:<p>🌐 KRAP CHAMPIONSHIP 👾<br>\nAll the info you need to k
+ now ⬇️<br>\n<br>\nPRIZES 🏆<br>\n* FREE ENTRY TO:<br>\n<a rel="noope
+ ner noreferrer" target="_blank" href="https://www.instagram.com/sportparko
+ ur/">@sportparkour</a> EU Championships 🇪🇺<br>\n17-19 april - <a rel
+ ="noopener noreferrer" target="_blank" href="https://www.instagram.com/par
+ kour.hal5/">@parkour.hal5</a> 🇧🇪<br>\n* FREE ENTRY TO:<br>\n<a rel="
+ noopener noreferrer" target="_blank" href="https://www.instagram.com/xtrem
+ edaysfestival/">@xtremedaysfestival</a> <br>\n29-31 may - Sacile 🇮🇹<
+ br>\n<br>\nAGE REQUIREMENT ✨<br>\n+16 <br>\n<br>\nTICKETS 🎫<br>\nBuy 
+ the tickets on <br>\nkrapinvaders.com 🎫<br>\n<br>\n* KRAP INVADERS: 40
+ €<br>\n* KRAP INVADERS + KRAP CHAMPIONSHIPS: 60€<br>\n<br>\nSee you th
+ ere! 🚀Check updates on instagram @krapstagram and on the website www.kr
+ apinvaders.com !&nbsp\;</p>
+GEO:45.7149521;11.3424326
+LOCATION:KRAPANNONE Indoor Parkourpark\, Via Pietro Riboli\, Schio\, Provi
+ nce of Vicenza\, Italy
+ORGANIZER;CN=KRAP;PHONE=;WEBSITE="https://www.krapinvaders.com/":MAILTO:in
+ fo@krapinvaders.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Öpfv Skill/Style Contest & Jam
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260413
@@ -7058,6 +7082,18 @@ GEO:50.8832379;4.7221328
 LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
 ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
  our.com":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:3629971
+DESCRIPTION:<p>which city and more information coming soon! check their in
+ stagram account @pastamoves for updates!</p>
+GEO:41.87194;12.4963655
+LOCATION:Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:North Nature Jam
@@ -7087,18 +7123,6 @@ DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village
 LOCATION:Dorfstraße 106\, 25560 Aasbüttel
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pasta Jam
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260501
-UID:3629971
-DESCRIPTION:<p>which city and more information coming soon! check their in
- stagram account @pastamoves for updates!</p>
-GEO:41.87194;12.4963655
-LOCATION:Italy
-ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
- 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Mur Jam
@@ -7245,6 +7269,19 @@ LOCATION:Prague\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Airfurt (Eintagsfliege)
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260621
+UID:3531501
+DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
+ nt—it's back to the roots with a full day of training on Saturday! More 
+ information will follow in 2026.</p></br>\n<p>Price: 0€</p>\n<p>Accomoda
+ tion: just ask the organisers if needed</p>\n<p>Food: not included</p>
+LOCATION:Altstadt\, 99084 Erfurt\, Germany
+ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://park
+ our-erfurt.de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Öpfv Jam & Contest Linz
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260620
@@ -7254,19 +7291,6 @@ GEO:nan;nan
 LOCATION:Zero Limits Trendsporthalle
 ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /summer_jam-info.html":MAILTO:info@teamobsession.at
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Airfurt (Eintagsfliege)
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260620
-UID:3531501
-DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
- nt—it's back to the roots with a full day of training on Saturday! More 
- information will follow in 2026.</p></br>\n<p>Price: 0€</p>\n<p>Accomoda
- tion: just ask the organisers if needed</p>\n<p>Food: not included</p>
-LOCATION:Altstadt\, 99084 Erfurt\, Germany
-ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://park
- our-erfurt.de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heljam
@@ -7325,15 +7349,6 @@ ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7354,6 +7369,15 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam

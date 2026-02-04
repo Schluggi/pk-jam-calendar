@@ -2824,8 +2824,8 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Airfurt (Eintagsfliege)
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260620
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260621
 UID:3531501
 DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
  nt—it's back to the roots with a full day of training on Saturday! More 
