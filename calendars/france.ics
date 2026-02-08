@@ -407,4 +407,22 @@ LOCATION:Miramas\, France
 ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
  .com/":MAILTO:parkourmiramas.asso@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gameccub
+DTSTART:20260411T120000
+DTEND:20260413T130000
+UID:3660563
+DESCRIPTION:<p>This year ATB makes his comeback with a freash new JAM/CONT
+ EST in eastern France !&nbsp\;</p></br>\n<p>The event will take place at o
+ ur parkour gym in Besançon and is open from beginners to professional ath
+ letes. &nbsp\;</p></br>\n<p>We will host a fun jam throughout the week-end
+  and for those who want to compete\, the event will also host a speedrun a
+ nd freestyle comp !!&nbsp\;</p></br>\n<p>Hope to see many of you there !</
+ p></br>\n<p>Price: 5€ for the JAM \, 5€ for each contest</p>\n<p>Food:
+  not included</p>\n<p>Accomodation: not included</p></br></br>
+LOCATION:Chem. des Grands Bas\, 25000 Besançon\, France
+ORGANIZER;CN=ATB;PHONE=;WEBSITE="https://www.helloasso.com/associations/as
+ sociation-des-traceurs-bisontins/evenements/game-ccub-edt-2":MAILTO:contac
+ t.traceursbisontins@gmail.com
+END:VEVENT
 END:VCALENDAR

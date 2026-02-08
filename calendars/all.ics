@@ -7073,6 +7073,24 @@ LOCATION:ape academy\, Perfektastraße\, Vienna\, Austria
 ORGANIZER;CN=ÖPFV;PHONE=;WEBSITE=www.oepfv.at:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gameccub
+DTSTART:20260411T120000
+DTEND:20260413T130000
+UID:3660563
+DESCRIPTION:<p>This year ATB makes his comeback with a freash new JAM/CONT
+ EST in eastern France !&nbsp\;</p></br>\n<p>The event will take place at o
+ ur parkour gym in Besançon and is open from beginners to professional ath
+ letes. &nbsp\;</p></br>\n<p>We will host a fun jam throughout the week-end
+  and for those who want to compete\, the event will also host a speedrun a
+ nd freestyle comp !!&nbsp\;</p></br>\n<p>Hope to see many of you there !</
+ p></br>\n<p>Price: 5€ for the JAM \, 5€ for each contest</p>\n<p>Food:
+  not included</p>\n<p>Accomodation: not included</p></br></br>
+LOCATION:Chem. des Grands Bas\, 25000 Besançon\, France
+ORGANIZER;CN=ATB;PHONE=;WEBSITE="https://www.helloasso.com/associations/as
+ sociation-des-traceurs-bisontins/evenements/game-ccub-edt-2":MAILTO:contac
+ t.traceursbisontins@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spl5 European Qualifiers @Hal 5
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260420
@@ -7349,6 +7367,15 @@ ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7369,15 +7396,6 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam
