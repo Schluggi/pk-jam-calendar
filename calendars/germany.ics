@@ -2823,9 +2823,19 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
  gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Str!De Berlin
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260612
+UID:3672282
+DESCRIPTION:<p>save the date</p>
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
+ sollfrank@googlemail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Airfurt (Eintagsfliege)
 DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260613
 UID:3531501
 DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
  nt—it's back to the roots with a full day of training on Saturday! More 

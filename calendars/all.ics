@@ -7287,9 +7287,36 @@ LOCATION:Prague\, Czechia
 ORGANIZER;CN="Avanti Garda";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Str!De Berlin
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260612
+UID:3672282
+DESCRIPTION:<p>save the date</p>
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
+ sollfrank@googlemail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omfg - Oslo Movement Festival Gathering
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260615
+UID:3672285
+DESCRIPTION:<p>The huge OMGFestival is happening again!</p></br>\n<p>Line-
+ Up of invited guests is already insane long!</p>\n<p>Check their Instagram
+  page <a rel="noopener noreferrer" target="_blank" href="https://www.insta
+ gram.com/oslomovement?igsh=MXkyZzI1ODBpd2Z5aA=="><strong>@oslomovement</st
+ rong></a> for daily updates.</p></br>\n<p>Price: different packages\, see 
+ their website</p>\n<p>Accomodation: Gym\, Hotel\, whatever you choose &amp
+ \; pay</p>\n<p>Food: also depends on the package</p>
+GEO:60.8809476;10.9394781
+LOCATION:Brumunddal\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/omfg
+ -2/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Airfurt (Eintagsfliege)
 DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260613
 UID:3531501
 DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
  nt—it's back to the roots with a full day of training on Saturday! More 
