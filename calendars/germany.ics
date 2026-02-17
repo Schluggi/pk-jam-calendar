@@ -2823,6 +2823,34 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
  gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Xdream
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3678157
+DESCRIPTION:<p>This year we (the people of Twio X e.V.) are taking you bac
+ k to the streets. At our 6th Parkour Jam X Dream we are reconnecting with 
+ the simple days of the first traceurs. We are planning a chill weekend at 
+ an old urban area\, that offers lots of spots to explore. This Jam is for 
+ both kind of traceurs: the ones that love the sore muscles in the morning\
+ , because they have pushed their limits and the ones that take the streets
+  easy. &nbsp\;&nbsp\;</p></br>\n<p>Here are some highlights: &nbsp\;</p>\n
+ <p>+ Plenty of Spots incl boulder wall&nbsp\;</p>\n<p>+ Fruit flatrate thr
+ oughout the entire weekend + vegan catering: breakfast\, dinner&nbsp\;</p>
+ \n<p>+ Side quests: DIY-merch\, swimming in lake&nbsp\;</p>\n<p>+ Evening:
+  sauna\, cocktail bar (alc free)\, DJ Leandra\, Campfire&nbsp\;</p>\n<p>+ 
+ camping ground with cute animals and a lake&nbsp\;</p>\n<p>+ Upcycled merc
+ h &nbsp\;</p></br>\n<p>adress: Am Torhaus 8\, 04468 Markkleeberg &nbsp\;</
+ p></br>\n<p>- you need a tent and sleeping back -</p>\n<p>&nbsp\;you can b
+ uy lunch at the spot &nbsp\;</p></br>\n<p>save the date: May 29th - May 31
+ st 2026 &nbsp\;</p></br>\n<p>We are looking forward to seeing you in Leipz
+ ig!!! If you have questions don’t hesitate to contact us at xdream@twio-
+ x.de</p>\n<p>Form Submission</p></br>\n<p>Price: 15€</p>\n<p>Accomodatio
+ n: camping</p>\n<p>Food: all included</p>
+LOCATION:04 Leipzig\, Germany
+ORGANIZER;CN="Twio X e.V.";PHONE=;WEBSITE="https://twio-x.de/interessierte
+ /events/x-dream-2026/#nav":MAILTO:xdream@twio-x.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Str!De Berlin
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260612
