@@ -7102,6 +7102,18 @@ ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
  our.com":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:3629971
+DESCRIPTION:<p>which city and more information coming soon! check their in
+ stagram account @pastamoves for updates!</p>
+GEO:41.87194;12.4963655
+LOCATION:Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:North Nature Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
@@ -7129,18 +7141,6 @@ DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village
 LOCATION:Dorfstraße 106\, 25560 Aasbüttel
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pasta Jam
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260501
-UID:3629971
-DESCRIPTION:<p>which city and more information coming soon! check their in
- stagram account @pastamoves for updates!</p>
-GEO:41.87194;12.4963655
-LOCATION:Italy
-ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
- 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Mur Jam
@@ -7353,6 +7353,16 @@ DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
 LOCATION:Altstadt\, 99084 Erfurt\, Germany
 ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://park
  our-erfurt.de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Og Jam
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+UID:3687772
+DESCRIPTION:<p>save the date</p>
+GEO:49.4521018;11.0766654
+LOCATION:Nuremberg\, Germany
+ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Öpfv Jam & Contest Linz
