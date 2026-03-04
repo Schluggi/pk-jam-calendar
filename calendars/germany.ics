@@ -2928,4 +2928,17 @@ ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Halle X
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:3702328
+DESCRIPTION:<p>We've been cooking and have a new Die Halle X Jam planned f
+ or you with 2 new Teams be thrilled more infos will follow soon. &nbsp\;Be
+ st\, Your Die Halle Hamburg</p></br>\n<p>Price: 50€</p>\n<p>Accomodation
+ : yes</p>\n<p>Food: all inclusive</p>
+GEO:53.5424593;10.0086303
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="DIE HALLE";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.hamburg
+END:VEVENT
 END:VCALENDAR

@@ -7229,6 +7229,24 @@ ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de/parkour-stuttgart-jam/":MAILTO:jam@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gizmo Style Battles 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3618138
+DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
+ ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
+ n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
+ raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
+ vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
+ er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
+ ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: br
+ eakfast only</p>\n<p>Price: 40-50€</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
@@ -7246,24 +7264,6 @@ DESCRIPTION:<p>This event celebrates women in parkour. We look forward to
 LOCATION:Copenhagen\, Denmark
 ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
  BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gizmo Style Battles 2026
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-UID:3618138
-DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
- ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
- n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
- raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
- vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
- er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
- ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: br
- eakfast only</p>\n<p>Price: 40-50€</p>
-GEO:53.5424593;9.987170299999999
-LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
-ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
- gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xdream
@@ -7432,15 +7432,6 @@ ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7461,6 +7452,39 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spka Swiss Jam 2026
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+UID:3702327
+DESCRIPTION:<p>save the date</p>
+GEO:47.3768866;8.5483563
+LOCATION:Zürich\, Switzerland
+ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://www.swiss
+ parkourtour.ch/swiss-jam-2025/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Halle X
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:3702328
+DESCRIPTION:<p>We've been cooking and have a new Die Halle X Jam planned f
+ or you with 2 new Teams be thrilled more infos will follow soon. &nbsp\;Be
+ st\, Your Die Halle Hamburg</p></br>\n<p>Price: 50€</p>\n<p>Accomodation
+ : yes</p>\n<p>Food: all inclusive</p>
+GEO:53.5424593;10.0086303
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="DIE HALLE";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam

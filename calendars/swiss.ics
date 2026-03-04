@@ -172,4 +172,15 @@ LOCATION:Basel\, Switzerland
 ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE="https://www.worlds
  parkourfamily.ch/wpfcamp":MAILTO:info@worldsparkourfamily.ch
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spka Swiss Jam 2026
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+UID:3702327
+DESCRIPTION:<p>save the date</p>
+GEO:47.3768866;8.5483563
+LOCATION:Zürich\, Switzerland
+ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://www.swiss
+ parkourtour.ch/swiss-jam-2025/":MAILTO:
+END:VEVENT
 END:VCALENDAR
