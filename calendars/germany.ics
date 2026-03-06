@@ -2907,6 +2907,22 @@ ORGANIZER;CN="FRB Freerun";PHONE=;WEBSITE="https://www.frb-freerun.de/":MA
  ILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Förde Jam 2026
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+UID:3707493
+DESCRIPTION:<p>FÖRDE JAM 2026 &nbsp\;</p></br>\n<p>Summer\, sun\, beach a
+ nd lots of urban spots in Kiel. We train right by the fjord and on the bea
+ ch. Don't forget your swimsuit! Overnight stay in the hall with sleeping b
+ ag and/or hammock. In the evening we have a barbecue in the courtyard righ
+ t next to the sports hall. Drinks are included. In bad weather\, we can tr
+ ain in the hall with a pole park\, airtrack and cubes.</p></br>
+GEO:54.323924;10.1227652
+LOCATION:24103 Kiel\, Germany
+ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=www.parkour-kiel.de:MAILTO:Park
+ ourKiel@gmx.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
