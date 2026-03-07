@@ -2746,6 +2746,40 @@ ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.instagram.com/
  rbansports.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mamämo - Mainzer März Momentum
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260321
+UID:3708977
+DESCRIPTION:<p>MaMäMo&nbsp\;</p>\n<p>☀️ Mainz March Momentum ☀️ &
+ nbsp\;</p></br>\n<p>When: Saturday 21.03.26 Start 11 AM&nbsp\;</p></br>\n<
+ p>Eimerspot/Playground Badergasse ! &nbsp\;</p></br>\n<p>Spring is blastin
+ g with its radiant sun and reaches every beating parkour heart\, you illum
+ inate an intuition “MaMäMo” and you just think: Dude whaaat?! &nbsp\;
+ </p></br>\n<p>☀️ MaMäMo ☀️&nbsp\;</p>\n<p>Mainz March Momentum: &
+ nbsp\;We want to celebrate the spring with you and with this jam create a 
+ momentum for regular community Saturday training in Mainz! &nbsp\;For this
+  we have created a route with the finest spots of Mainz’s city center! F
+ rom the legendary Eimerspot via Little Paris and fine little street spots 
+ to the parkour park! 🔥 &nbsp\;</p></br>\n<p>This route carries the flav
+ our of old-school sessions and the blasting power of the new generation! &
+ nbsp\;Experience distant views over Mainz and the magical sunset over the 
+ Rhine! &nbsp\;Follow your intuition\, gather your strength and embark on t
+ he journey to Mainz and be part of the momentum and come to Mainz on 21.03
+  from 11 AM! ✨ &nbsp\;</p></br>\n<p>More information: <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.instagram.com/parkourmainz?=M
+ XBvY3A2dTM0aDUwdg==">https://www.instagram.com/parkourmainz?=MXBvY3A2dTM0a
+ DUwdg==</a>☀️&nbsp\;</p>\n<p>MaMäMo Route ☀️ <a rel="noopener nor
+ eferrer" target="_blank" href="https://maps.app.goo.gl/knY2t2sR9fDNV31Q6">
+ https://maps.app.goo.gl/knY2t2sR9fDNV31Q6</a> -&gt\; Share the jam with al
+ l your friends and acquaintances 💪🏼 &nbsp\;</p></br>\n<p>We are look
+ ing forward to seeing you! Alex Schulztastisch and DoubleSchwingerVassilij
+  ❤️</p></br>\n<p>Price: free</p>\n<p>Accomodation: reach out to „Par
+ kour Mainz“ on Instagram</p>\n<p>Food: not included</p>
+LOCATION:55116 Mainz\, Germany
+ORGANIZER;CN="Parkour Mainz (Instagram)";PHONE=;WEBSITE=:MAILTO:vassilij.s
+ osunov@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:North Nature Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
@@ -2773,6 +2807,34 @@ DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village
 LOCATION:Dorfstraße 106\, 25560 Aasbüttel
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dresden Dschäm 2026
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260518
+UID:3708980
+DESCRIPTION:<p>Dresden DSCHÄM 2026 &nbsp\;</p></br>\n<p>Come join us for 
+ a weekend of training\, exploring spots and hanging out with the Dresden p
+ arkour community. The Dresden DSCHÄM is a small\, community-driven jam ba
+ sed around the cozy garden space "Garten Nebenan" (Garde next door)\, wher
+ e we’ll camp\, eat breakfast together and start our spot tours through t
+ he city. &nbsp\;</p></br>\n<p>Expect good sessions\, new spots\, relaxed e
+ venings and lots of time to connect with other traceurs. &nbsp\;</p></br>\
+ n<p>Date: May 15–17\, 2026&nbsp\;</p>\n<p>Location: Garten Nebenan\, Dre
+ sden\, Germany&nbsp\;</p>\n<p>Organizer: ParkourONE Dresden &nbsp\;</p></b
+ r>\n<p>Schedule (rough):&nbsp\;</p>\n<p>Friday – Arrival and open traini
+ ng in a gym&nbsp\;</p>\n<p>Saturday – Breakfast\, city spot tour\, eveni
+ ng hangout &amp\; open barbecue&nbsp\;</p>\n<p>Sunday – Breakfast and an
+ other spot tour until around midday &nbsp\;</p></br>\n<p>Price: ~15 €&nb
+ sp\;</p>\n<p>Food: Breakfast on Saturday &amp\; Sunday\, fruit\, snacks an
+ d water for the spot tours\, open barbecue on Saturday evening&nbsp\;</p><
+ /br>\n<p>Accommodation: Limited camping spots at the garden for 30 people 
+ (bring your own tent\, sleeping bag and mat) &nbsp\;Traceurs of all levels
+  are welcome — come train\, explore Dresden’s spots and spend a weeken
+ d with us!</p>
+LOCATION:Wölfnitzstraße 6-10\, 01159 Dresden\, Germany
+ORGANIZER;CN="ParkourONE Dresden";PHONE=;WEBSITE="https://dresden.parkouro
+ ne.com/dresden-dschaem-2026/":MAILTO:dresden@parkourone.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
