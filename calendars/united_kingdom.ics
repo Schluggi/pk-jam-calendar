@@ -421,6 +421,32 @@ ORGANIZER;CN=STORROR;PHONE=;WEBSITE="https://www.instagram.com/storror/":M
  AILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shecantrace Women'S Jam
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+UID:3718124
+DESCRIPTION:<p>IT’S OUR 10TH BIRTHDAY!!! 🎉<br>\n<br>\nCome and celebr
+ ate everything that makes our ever-growing traceuse community so powerful 
+ at the Women’s International Parkour Weekend 2026 — two days of epic p
+ arkour and movement training.<br>\n<br>\nWomen’s parkour is still a mino
+ rity sport\, and that’s exactly why WIPW exists: to showcase incredibl
+ e female coaches and bring together a diverse community of women\, girls a
+ nd non-binary athletes who want to learn\, share and push their parkour po
+ tential.<br>\n<br>\nJoin us 9–10 May for an unforgettable weekend of par
+ kour and natural movement training\, led by some of the most exciting fema
+ le coaching talent emerging from our community right now.<br>\n<br>\nWOMEN
+ ’S INTERNATIONAL PARKOUR WEEKEND 2026 📅 Saturday 9th &amp\; Sunday 
+ 10th May ⏰ 9am–5pm (plus additional socials!) 💷 From £55 (memb
+ er discounts apply) 👥 Women\, girls &amp\; non-binary participants we
+ lcome 🎂 Ages 13+<br>\n<br>\n🎟️ Tickets are on sale now!<br>\n<br
+ >\n👉 Head to https://tinyurl.com/WIPW2026 or click the link in our stor
+ ies to book.</p>
+GEO:51.5072178;-0.1275862
+LOCATION:London\, UK
+ORGANIZER;CN="Shecantrace, Parkour Generations";PHONE=;WEBSITE="https://ti
+ nyurl.com/WIPW2026":MAILTO:contact@parkourgenerations.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fem Gaps Women'S Event
 DTSTART:20260516T120000
 DTEND:20260518T130000

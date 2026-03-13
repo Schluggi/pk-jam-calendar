@@ -2638,6 +2638,17 @@ ORGANIZER;CN="Trendsportring Halle / Team Escalate";PHONE=;WEBSITE="IG: @t
  eamescalate":MAILTO:info@team-escalate.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Offspace Jam Halle (Saale)
+DTSTART:20251010T120000
+DTEND:20251013T130000
+UID:3718119
+DESCRIPTION:<p>more infos soon</p></br>\n<p>Price: tba</p>\n<p>Accomodatio
+ n: possible</p>\n<p>Food: breakfast only</p></br></br>
+LOCATION:Berliner Str. 243\, 06112 Halle (Saale)\, Germany
+ORGANIZER;CN="Trendsportring Halle / Team Escalate";PHONE=;WEBSITE="IG: @t
+ eamescalate":MAILTO:info@team-escalate.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Challenge Race 3
 DTSTART;VALUE=DATE:20251019
 DTEND;VALUE=DATE:20251019

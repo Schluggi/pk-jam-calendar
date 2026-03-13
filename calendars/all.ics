@@ -6652,6 +6652,17 @@ ORGANIZER;CN="Trendsportring Halle / Team Escalate";PHONE=;WEBSITE="IG: @t
  eamescalate":MAILTO:info@team-escalate.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Offspace Jam Halle (Saale)
+DTSTART:20251010T120000
+DTEND:20251013T130000
+UID:3718119
+DESCRIPTION:<p>more infos soon</p></br>\n<p>Price: tba</p>\n<p>Accomodatio
+ n: possible</p>\n<p>Food: breakfast only</p></br></br>
+LOCATION:Berliner Str. 243\, 06112 Halle (Saale)\, Germany
+ORGANIZER;CN="Trendsportring Halle / Team Escalate";PHONE=;WEBSITE="IG: @t
+ eamescalate":MAILTO:info@team-escalate.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hal 5 Skill Comp
 DTSTART;VALUE=DATE:20251012
 DTEND;VALUE=DATE:20251012
@@ -7136,6 +7147,18 @@ ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
  our.com":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nk Style
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260426
+UID:3718120
+DESCRIPTION:<p>NK Style 2026 - more infos on the commit040 IG account!</p>
+ </br></br>
+GEO:51.4479526;4.6462194
+LOCATION:Ketelhuisplein 18\, 5617 AE Eindhoven\, Netherlands
+ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/p/DVx7-EvDEWs/?igs
+ h=NDNremgzdjhqMDd1":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pasta Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260501
@@ -7216,6 +7239,32 @@ ORGANIZER;CN=ParkourDK;PHONE=;WEBSITE="https://soroefterskole.youngcrm.com
  /eventportal/13903":MAILTO:nl@soroefterskole.dk
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shecantrace Women'S Jam
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+UID:3718124
+DESCRIPTION:<p>IT’S OUR 10TH BIRTHDAY!!! 🎉<br>\n<br>\nCome and celebr
+ ate everything that makes our ever-growing traceuse community so powerful 
+ at the Women’s International Parkour Weekend 2026 — two days of epic p
+ arkour and movement training.<br>\n<br>\nWomen’s parkour is still a mino
+ rity sport\, and that’s exactly why WIPW exists: to showcase incredibl
+ e female coaches and bring together a diverse community of women\, girls a
+ nd non-binary athletes who want to learn\, share and push their parkour po
+ tential.<br>\n<br>\nJoin us 9–10 May for an unforgettable weekend of par
+ kour and natural movement training\, led by some of the most exciting fema
+ le coaching talent emerging from our community right now.<br>\n<br>\nWOMEN
+ ’S INTERNATIONAL PARKOUR WEEKEND 2026 📅 Saturday 9th &amp\; Sunday 
+ 10th May ⏰ 9am–5pm (plus additional socials!) 💷 From £55 (memb
+ er discounts apply) 👥 Women\, girls &amp\; non-binary participants we
+ lcome 🎂 Ages 13+<br>\n<br>\n🎟️ Tickets are on sale now!<br>\n<br
+ >\n👉 Head to https://tinyurl.com/WIPW2026 or click the link in our stor
+ ies to book.</p>
+GEO:51.5072178;-0.1275862
+LOCATION:London\, UK
+ORGANIZER;CN="Shecantrace, Parkour Generations";PHONE=;WEBSITE="https://ti
+ nyurl.com/WIPW2026":MAILTO:contact@parkourgenerations.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dresden Dschäm 2026
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260518
@@ -7291,6 +7340,24 @@ ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de/parkour-stuttgart-jam/":MAILTO:jam@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gizmo Style Battles 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3618138
+DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
+ ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
+ n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
+ raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
+ vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
+ er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
+ ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: br
+ eakfast only</p>\n<p>Price: 40-50€</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
@@ -7308,24 +7375,6 @@ DESCRIPTION:<p>This event celebrates women in parkour. We look forward to
 LOCATION:Copenhagen\, Denmark
 ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
  BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gizmo Style Battles 2026
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-UID:3618138
-DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
- ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
- n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
- raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
- vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
- er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
- ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: br
- eakfast only</p>\n<p>Price: 40-50€</p>
-GEO:53.5424593;9.987170299999999
-LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
-ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
- gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xdream
