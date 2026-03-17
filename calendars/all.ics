@@ -7159,18 +7159,6 @@ ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/p/DVx7-EvDEWs/?igs
  h=NDNremgzdjhqMDd1":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pasta Jam
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260501
-UID:3629971
-DESCRIPTION:<p>which city and more information coming soon! check their in
- stagram account @pastamoves for updates!</p>
-GEO:41.87194;12.4963655
-LOCATION:Italy
-ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
- 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Nature Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
@@ -7198,6 +7186,18 @@ DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village
 LOCATION:Dorfstraße 106\, 25560 Aasbüttel
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:3629971
+DESCRIPTION:<p>which city and more information coming soon! check their in
+ stagram account @pastamoves for updates!</p>
+GEO:41.87194;12.4963655
+LOCATION:Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Mur Jam
@@ -7543,6 +7543,52 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
  HQ@streetmedia.store
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parkour Ulm Jam 26 (Streets Jam)
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260721
+UID:3725453
+DESCRIPTION:<p>From 17.07.2026 to 20.07.2026 our Streets Parkour-Jam 2026 
+ will take place in a beautiful garden with trampoline\, scaffolding and ba
+ rbecue area! &nbsp\;</p></br>\n<p>You can spend the night either in a tent
+  or camp bed. Of course we will also provide food and drinks. Water is ava
+ ilable around the clock and a delicious breakfast and dinner is also inclu
+ ded. So you will wake up well rested after a fat training day to continue 
+ the next day. &nbsp\;</p></br>\n<p>On Fridays and Saturdays\, we are out a
+ nd about during the day in the spots in Ulm and there are workshops. On Sa
+ turday afternoon there is a big sports tour and on Sunday\, if the weather
+  is good\, there is water action. In case of bad weather there is also the
+  possibility to train in the Einstein Gym. &nbsp\;</p></br>\n<p>If you hav
+ e more time\, it’s worth to stay in Ulm until Monday the 20.07.\, becaus
+ e the big „Nabada“ will take place (= the biggest event in Ulm/Neu-Ulm
+  – fusion of boat trip on the Danube\, club &amp\; water fight). From Su
+ nday 19 July to Monday 20 July\, you can stay with us for free (you’ll n
+ eed to sort out your own food on Monday)&nbsp\;</p></br>\n<p>Costs:&nbsp\;
+ </p>\n<p>1 Day – 10€&nbsp\;</p>\n<p>2 Days – 20€&nbsp\;</p>\n<p>3 
+ Days – 25€&nbsp\;</p>\n<p>Monday - 0 € &nbsp\;</p></br>\n<p>Upgrade 
+ PREMIUM Jam-Ticket (only available until 05.07.2026): &nbsp\;– Jam-Ticke
+ t + 29.99 € (includes Jam-T-Shirt)</p></br>\n<p>Accomodation: sign up fo
+ r a bed or bring your own tent</p>\n<p>Food: all inclusive</p>
+GEO:48.3680782;9.9592634
+LOCATION:Am Hochsträß 8\, 89081 Ulm\, Germany
+ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/impr
+ essum/":MAILTO:streets.ev@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Camp Gütersloh
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+UID:3725451
+DESCRIPTION:<p>It's finally here! From July 24th to 26th\, the Parkour Cam
+ p will take place in Gütersloh for the 14th time. We're looking forward t
+ o welcoming you there in person! We want to spend three days together\, in
+ spiring each other\, exchanging ideas\, and learning from one another. Don
+ 't forget to bring your tent!</p></br>\n<p>Price: 45€</p>\n<p>Accomodati
+ on: camping</p>\n<p>Food: only breakfast</p>
+LOCATION:Ahornallee 46\, 33330 Gütersloh\, Germany
+ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de/":M
+ AILTO:Claus-Peter.Mosner@guetersloh.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:British Parkour Championships
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260803
@@ -7627,6 +7673,15 @@ ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=www.parkour-kiel.de:MAILTO:Park
  ourKiel@gmx.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7647,15 +7702,6 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spka Swiss Jam 2026
