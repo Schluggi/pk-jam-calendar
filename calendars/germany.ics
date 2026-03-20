@@ -2820,6 +2820,19 @@ ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unbefugt Nco Jam
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260511
+UID:3735788
+DESCRIPTION:<p>NCO Jam with barbeque\, music\, maybe graffiti &amp\; skate
+ boarding + outdoor sesh in Karlsruhe</p></br>\n<p>start at 18:00&nbsp\;</p
+ ></br>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: 
+ yes</p></br>
+LOCATION:Delawarestraße 21\, 76149 Karlsruhe\, Germany
+ORGANIZER;CN="Unbefugt x NCO";PHONE=;WEBSITE=:MAILTO:jockejordan@icloud.co
+ m
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dresden Dschäm 2026
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260518
