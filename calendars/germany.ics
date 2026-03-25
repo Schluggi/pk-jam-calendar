@@ -2833,6 +2833,20 @@ ORGANIZER;CN="Unbefugt x NCO";PHONE=;WEBSITE=:MAILTO:jockejordan@icloud.co
  m
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Takeoff Parkour Jam
+DTSTART:20260508T120000
+DTEND:20260511T130000
+UID:3743223
+DESCRIPTION:<p>8.-10.05.26 &nbsp\;</p>\n<p>-Kids comp&nbsp\;</p>\n<p>-Adul
+ ts comp&nbsp\;</p>\n<p>-Workshops&nbsp\;</p>\n<p>-Outdoor training&nbsp\;<
+ /p>\n<p>-Schlafplätze vorhanden</p></br>\n<p>Price: donation based from 7
+ €</p>\n<p>Accomodation: possible</p>\n<p>Food: breakfast only</p></br></
+ br>
+LOCATION:Berliner Str. 243\, 06112 Halle (Saale)\, Germany
+ORGANIZER;CN="Trendsportring Halle / Team Escalate";PHONE=;WEBSITE="IG: @t
+ eamescalate":MAILTO:info@team-escalate.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dresden Dschäm 2026
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260518
