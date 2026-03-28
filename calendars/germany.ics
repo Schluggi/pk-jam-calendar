@@ -3030,6 +3030,24 @@ ORGANIZER;CN="Stadt Gütersloh";PHONE=;WEBSITE="https://parkourcamp.de/":M
  AILTO:Claus-Peter.Mosner@guetersloh.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Osna-Jam
+DTSTART:20260725T120000
+DTEND:20260726T130000
+UID:3747630
+DESCRIPTION:<p>On July 25\, 2026\, the OSNA JAM will bring together moveme
+ nt\, creativity\, and community. &nbsp\;</p></br>\n<p>Starting at 11:00 AM
+ \, an action-packed event awaits all sports and parkour enthusiasts at Hel
+ mut-Stockmeier-Str. 3\, 49086 Osnabrück. &nbsp\;</p></br>\n<p>Whether you
+ 're a beginner or an experienced traceur\, the OSNA JAM is all about the j
+ oy of movement and shared experiences. &nbsp\;</p></br>\n<p>Come along\, b
+ ring your friends\, and experience a day full of energy and athletic highl
+ ights. We look forward to seeing you!</p></br>\n<p>Price: free</p>\n<p>Acc
+ omodation: no</p>\n<p>Food: all included</p>
+LOCATION:Helmut-Stockmeier-Straße 3\, 49086 Osnabrück\, Germany
+ORGANIZER;CN="TSG 07 Burg Gretesch";PHONE=;WEBSITE=:MAILTO:kailein1787@gma
+ il.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260817
