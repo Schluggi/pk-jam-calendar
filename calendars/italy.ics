@@ -221,6 +221,24 @@ ORGANIZER;CN=KRAP;PHONE=;WEBSITE="https://www.krapinvaders.com/":MAILTO:in
  fo@krapinvaders.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eden X Pasta Skill Comp
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260411
+UID:3751163
+DESCRIPTION:<p>“Eden x Pasta Skill Comp” is coming!</p>\n<p>📆 When?
+ &nbsp\;</p>\n<p>April 11\, 2026</p>\n<p>📍Where?&nbsp\;</p>\n<p>At Eden 
+ Park in San Lazzaro di Savena\, Via Commenda 13</p>\n<p>🧐 How much does
+  it cost?</p>\n<p>€10 admission fee to participate in the event.</p>\n<p
+ >No membership required.</p>\n<p>Find out more by scrolling through the sl
+ ides in this post! 🍝</p>\n<p>✍️ You can find the registration form 
+ in the link in the Bio of @edenparkzone</p>
+GEO:44.476416;11.4129206
+LOCATION:Eden Park San Lazzaro\, Via Commenda\, San Lazzaro di Savena\, Me
+ tropolitan City of Bologna\, Italy
+ORGANIZER;CN="Eden Park & Pasta Moves";PHONE=;WEBSITE="https://www.instagr
+ am.com/p/DWZSrtpjQZy/?img_index=2&igsh=MThlcm9sdnVyZHJsaw%3D%3D":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pasta Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260501

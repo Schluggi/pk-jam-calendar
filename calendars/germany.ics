@@ -2847,6 +2847,24 @@ ORGANIZER;CN="Trendsportring Halle / Team Escalate";PHONE=;WEBSITE="IG: @t
  eamescalate":MAILTO:info@team-escalate.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Htown X Natswerk
+DTSTART:20260510T120000
+DTEND:20260511T190000
+UID:3751060
+DESCRIPTION:<p>After a long period where we’ve been really busy and have
+ n’t had much time to organize jams\, we’re back and fully motivated. &
+ nbsp\;</p>\n<p>To kick things off\, we’re inviting you to a classic Nats
+ werk Jam as our first event of the year. The gym was renovated in March an
+ d now offers many new training opportunities that we want to break in with
+  you💪🏻 &nbsp\;</p></br>\n<p>The jam will take place on May 10\, 2026
+ \, from 12 PM to 7 PM at Natswerk Isernhagen. The entry fee is €12. &nbs
+ p\;</p></br>\n<p>We look forward to seeing you!!🙌🏼</p></br>\n<p>Pric
+ e: 12€</p>\n<p>Food: not included</p>\n<p>Accomodation: no</p>
+LOCATION:Dieselstraße 3A\, 30916 Isernhagen\, Germany
+ORGANIZER;CN="HTOWN, NatsWerk Isernhagen";PHONE=;WEBSITE=:MAILTO:lord.hn04
+ @gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dresden Dschäm 2026
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260518
