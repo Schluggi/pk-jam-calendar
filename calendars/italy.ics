@@ -250,4 +250,19 @@ LOCATION:Italy
 ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
  0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xtreme Days Festival
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3768670
+DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
+ eart of Sacile.</p>\n<p>And that’s not all: the new website is coming so
+ on—it will be online shortly with all the latest news\, the full program
+ \, and official updates.</p></br>\n<p>Instagram accout: <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.instagram.com/p/DVa5Y_QiFTE/?
+ igsh=bGN1NTU0cnI5NWU0">https://www.instagram.com/p/DVa5Y_QiFTE/?igsh=bGN1N
+ TU0cnI5NWU0</a></p>
+LOCATION:33077 Sacile\, Province of Pordenone\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR

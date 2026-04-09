@@ -7356,6 +7356,25 @@ ORGANIZER;CN="ParkourONE Dresden";PHONE=;WEBSITE="https://dresden.parkouro
  ne.com/dresden-dschaem-2026/":MAILTO:dresden@parkourone.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pott Jam
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+UID:3768669
+DESCRIPTION:<p>Summer is approaching\, the weather is getting warmer and w
+ e invite you to the first edition of Pott Jam! &nbsp\;</p></br>\n<p>What? 
+ There will be Workshops for all levels as well as enough time for open ses
+ sions so you'll go home feeling sore! The Jam will be held at our local PK
+  park\, but there'll be a separate setup provided by @mhpkg as well!&nbsp\
+ ;</p></br>\n<p>As Dom said: "It's a very german setup"\, so expect a lot o
+ f bars! The area around the main location is nice as well\, for those who 
+ fancy spots 😉 &nbsp\;</p></br>\n<p>After Party? Yes! You heard right. T
+ here will also be an after party at a location close by! &nbsp\;</p></br>\
+ n<p>More Infos coming soon on Instagram @parkouraufzollverein</p>
+LOCATION:Stoppenberg\, 45141 Essen\, Germany
+ORGANIZER;CN="Parkour auf Zollverein";PHONE=;WEBSITE="https://tinyurl.com/
+ Pottjam26":MAILTO:l.luckau@jugendwerk-essen.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fem Gaps Women'S Event
 DTSTART:20260516T120000
 DTEND:20260518T130000
@@ -7438,6 +7457,21 @@ DESCRIPTION:<p>This event celebrates women in parkour. We look forward to
 LOCATION:Copenhagen\, Denmark
 ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
  BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xtreme Days Festival
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3768670
+DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
+ eart of Sacile.</p>\n<p>And that’s not all: the new website is coming so
+ on—it will be online shortly with all the latest news\, the full program
+ \, and official updates.</p></br>\n<p>Instagram accout: <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.instagram.com/p/DVa5Y_QiFTE/?
+ igsh=bGN1NTU0cnI5NWU0">https://www.instagram.com/p/DVa5Y_QiFTE/?igsh=bGN1N
+ TU0cnI5NWU0</a></p>
+LOCATION:33077 Sacile\, Province of Pordenone\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xdream
@@ -7562,37 +7596,6 @@ LOCATION:Helsinki\, Finland
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Parkour Ulm Jam 26 (Streets Jam)
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260721
-UID:3725453
-DESCRIPTION:<p>From 17.07.2026 to 20.07.2026 our Streets Parkour-Jam 2026 
- will take place in a beautiful garden with trampoline\, scaffolding and ba
- rbecue area! &nbsp\;</p></br>\n<p>You can spend the night either in a tent
-  or camp bed. Of course we will also provide food and drinks. Water is ava
- ilable around the clock and a delicious breakfast and dinner is also inclu
- ded. So you will wake up well rested after a fat training day to continue 
- the next day. &nbsp\;</p></br>\n<p>On Fridays and Saturdays\, we are out a
- nd about during the day in the spots in Ulm and there are workshops. On Sa
- turday afternoon there is a big sports tour and on Sunday\, if the weather
-  is good\, there is water action. In case of bad weather there is also the
-  possibility to train in the Einstein Gym. &nbsp\;</p></br>\n<p>If you hav
- e more time\, it’s worth to stay in Ulm until Monday the 20.07.\, becaus
- e the big „Nabada“ will take place (= the biggest event in Ulm/Neu-Ulm
-  – fusion of boat trip on the Danube\, club &amp\; water fight). From Su
- nday 19 July to Monday 20 July\, you can stay with us for free (you’ll n
- eed to sort out your own food on Monday)&nbsp\;</p></br>\n<p>Costs:&nbsp\;
- </p>\n<p>1 Day – 10€&nbsp\;</p>\n<p>2 Days – 20€&nbsp\;</p>\n<p>3 
- Days – 25€&nbsp\;</p>\n<p>Monday - 0 € &nbsp\;</p></br>\n<p>Upgrade 
- PREMIUM Jam-Ticket (only available until 05.07.2026): &nbsp\;– Jam-Ticke
- t + 29.99 € (includes Jam-T-Shirt)</p></br>\n<p>Accomodation: sign up fo
- r a bed or bring your own tent</p>\n<p>Food: all inclusive</p>
-GEO:48.3680782;9.9592634
-LOCATION:Am Hochsträß 8\, 89081 Ulm\, Germany
-ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/impr
- essum/":MAILTO:streets.ev@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Streetmedia Social V4: London
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260720
@@ -7635,6 +7638,37 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
  RuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafCF1cappYn5G-Nk2R8FYhR
  tzIudmLYvNJcCE6AIFBy0cK4HkluyYToveXTxA_aem_Pg9yYVmXxHyi-gLdjXCGvg":MAILTO:
  HQ@streetmedia.store
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Ulm Jam 26 (Streets Jam)
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260721
+UID:3725453
+DESCRIPTION:<p>From 17.07.2026 to 20.07.2026 our Streets Parkour-Jam 2026 
+ will take place in a beautiful garden with trampoline\, scaffolding and ba
+ rbecue area! &nbsp\;</p></br>\n<p>You can spend the night either in a tent
+  or camp bed. Of course we will also provide food and drinks. Water is ava
+ ilable around the clock and a delicious breakfast and dinner is also inclu
+ ded. So you will wake up well rested after a fat training day to continue 
+ the next day. &nbsp\;</p></br>\n<p>On Fridays and Saturdays\, we are out a
+ nd about during the day in the spots in Ulm and there are workshops. On Sa
+ turday afternoon there is a big sports tour and on Sunday\, if the weather
+  is good\, there is water action. In case of bad weather there is also the
+  possibility to train in the Einstein Gym. &nbsp\;</p></br>\n<p>If you hav
+ e more time\, it’s worth to stay in Ulm until Monday the 20.07.\, becaus
+ e the big „Nabada“ will take place (= the biggest event in Ulm/Neu-Ulm
+  – fusion of boat trip on the Danube\, club &amp\; water fight). From Su
+ nday 19 July to Monday 20 July\, you can stay with us for free (you’ll n
+ eed to sort out your own food on Monday)&nbsp\;</p></br>\n<p>Costs:&nbsp\;
+ </p>\n<p>1 Day – 10€&nbsp\;</p>\n<p>2 Days – 20€&nbsp\;</p>\n<p>3 
+ Days – 25€&nbsp\;</p>\n<p>Monday - 0 € &nbsp\;</p></br>\n<p>Upgrade 
+ PREMIUM Jam-Ticket (only available until 05.07.2026): &nbsp\;– Jam-Ticke
+ t + 29.99 € (includes Jam-T-Shirt)</p></br>\n<p>Accomodation: sign up fo
+ r a bed or bring your own tent</p>\n<p>Food: all inclusive</p>
+GEO:48.3680782;9.9592634
+LOCATION:Am Hochsträß 8\, 89081 Ulm\, Germany
+ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/impr
+ essum/":MAILTO:streets.ev@yahoo.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Camp Gütersloh
@@ -7754,15 +7788,6 @@ ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=www.parkour-kiel.de:MAILTO:Park
  ourKiel@gmx.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7783,6 +7808,15 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spka Swiss Jam 2026

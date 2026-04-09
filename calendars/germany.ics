@@ -2893,6 +2893,25 @@ ORGANIZER;CN="ParkourONE Dresden";PHONE=;WEBSITE="https://dresden.parkouro
  ne.com/dresden-dschaem-2026/":MAILTO:dresden@parkourone.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pott Jam
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+UID:3768669
+DESCRIPTION:<p>Summer is approaching\, the weather is getting warmer and w
+ e invite you to the first edition of Pott Jam! &nbsp\;</p></br>\n<p>What? 
+ There will be Workshops for all levels as well as enough time for open ses
+ sions so you'll go home feeling sore! The Jam will be held at our local PK
+  park\, but there'll be a separate setup provided by @mhpkg as well!&nbsp\
+ ;</p></br>\n<p>As Dom said: "It's a very german setup"\, so expect a lot o
+ f bars! The area around the main location is nice as well\, for those who 
+ fancy spots 😉 &nbsp\;</p></br>\n<p>After Party? Yes! You heard right. T
+ here will also be an after party at a location close by! &nbsp\;</p></br>\
+ n<p>More Infos coming soon on Instagram @parkouraufzollverein</p>
+LOCATION:Stoppenberg\, 45141 Essen\, Germany
+ORGANIZER;CN="Parkour auf Zollverein";PHONE=;WEBSITE="https://tinyurl.com/
+ Pottjam26":MAILTO:l.luckau@jugendwerk-essen.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parkour Stuttgart Jam
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260525
