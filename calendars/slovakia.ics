@@ -81,4 +81,24 @@ LOCATION:Bratislava\, Slovakia
 ORGANIZER;CN=Feztmind;PHONE=;WEBSITE=@feztmind instagram:MAILTO:feztmind.2
  3@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Street Session
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+UID:3770180
+DESCRIPTION:<p>After a year\, we are once again inviting you to the BIG ST
+ REET SESSION\, where you can come compete in PARKOUR &amp\; FREERUNNING di
+ sciplines\, train with friends\, and enjoy a day full of movement\, great 
+ music\, and a summer atmosphere within the parkour community.</p></br>\n<p
+ >We will compete in three disciplines: SPEED\, SKILL\, and STYLE\, which w
+ ill take place individually in categories for younger athletes\, older ath
+ letes\, and women.</p></br>\n<p>After the competition disciplines finish\,
+  there will be a JAM session and AFTERPARTY with DJs.</p></br>\n<p>If you 
+ decide not to compete\, you can still sign up for the sleepover in our STR
+ EETPARK\, where we plan to train until late at night as usual\, followed b
+ y a movie screening.</p>
+LOCATION:Slnečné jazerá - sever\, 903 01 Senec\, Slovakia
+ORGANIZER;CN="Big street project";PHONE=;WEBSITE="https://bigstreetproject
+ .sk":MAILTO:tomas@bigstreetproject.sk
+END:VEVENT
 END:VCALENDAR
