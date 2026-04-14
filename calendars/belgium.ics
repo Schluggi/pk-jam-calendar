@@ -556,4 +556,26 @@ LOCATION:Parkour Gym\, Hal 5\, Diestsesteenweg\, Leuven\, Belgium
 ORGANIZER;CN="SPL & SPRINGSTOF";PHONE=;WEBSITE="https://www.springstofpark
  our.com":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceci N'Est Pas Un Jam
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+UID:3774246
+DESCRIPTION:<p>- 3 day jam in Ghent&nbsp\;</p>\n<p>- bbq on Friday evening
+ \, brunch on saturday and sunday&nbsp\;</p>\n<p>- movienight on saturday +
+  afterparty&nbsp\;</p>\n<p>- workshops&nbsp\;</p>\n<p>- mini challenge hun
+ t</p></br>\n<p>For more details and information check our website (<a rel=
+ "noopener noreferrer" target="_blank" href="https://www.flowdegand.be/even
+ ts/ceci-nest-pas-un-jam-ambras-x-fdg">https://www.flowdegand.be/events/cec
+ i-nest-pas-un-jam-ambras-x-fdg</a><a rel="noopener noreferrer" target="_bl
+ ank" href="https://www.flowdegand.be/ceci-n-est-pas-un-stick)">)</a> and F
+ low De Gand IG page (<a rel="noopener noreferrer" target="_blank" href="ht
+ tps://www.instagram.com/flowdegand)">https://www.instagram.com/flowdegand)
+ </a>.</p></br>\n<p>Price: 40-70€</p>\n<p>Accomodation: Sports hall\, bri
+ ng your own mattress and sleeping bag</p>\n<p>Food: all inclusive</p>
+GEO:51.0500182;3.7303351
+LOCATION:Ghent\, Belgium
+ORGANIZER;CN="Flow De Gand & Ambras";PHONE=;WEBSITE="https://www.flowdegan
+ d.be/ceci-n-est-pas-un-stick":MAILTO:info@flowdegand.be
+END:VEVENT
 END:VCALENDAR
