@@ -7422,6 +7422,24 @@ ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de/parkour-stuttgart-jam/":MAILTO:jam@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gizmo Style Battles 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3618138
+DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
+ ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
+ n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
+ raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
+ vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
+ er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
+ ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: br
+ eakfast only</p>\n<p>Price: 40-50€</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
@@ -7441,24 +7459,6 @@ ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
  BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gizmo Style Battles 2026
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-UID:3618138
-DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
- ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
- n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
- raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
- vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
- er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
- ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: br
- eakfast only</p>\n<p>Price: 40-50€</p>
-GEO:53.5424593;9.987170299999999
-LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
-ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
- gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Xtreme Days Festival
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
@@ -7472,6 +7472,27 @@ DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
  TU0cnI5NWU0</a></p>
 LOCATION:33077 Sacile\, Province of Pordenone\, Italy
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg Jam
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3776929
+DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
+ e’ll spend time together as a parkour community\, train during open prac
+ tice sessions in a large event hall and an additional gym\, and use the ou
+ tdoor area of the Haus der Jugend for creative sessions.</p></br>\n<p>Whet
+ her it’s training together\, trying out new moves\, or just connecting
+ —there’s room here for everything that makes our scene what it is.</p>
+ </br>\n<p>You can stay overnight on-site if you’re 18 or older. Meals ar
+ e self-organized—using the available infrastructure\, such as induction 
+ cooktops\, an oven\, a fire pit\, and other kitchen facilities.</p></br>\n
+ <p>Everyone is welcome! You must be 18 years old to stay overnight.</p></b
+ r>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: yes\
+ , bring mattress and sleeping bag</p></br>
+LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
+ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
+ 10@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xdream

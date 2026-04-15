@@ -2960,6 +2960,27 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
  gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Freiburg Jam
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3776929
+DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
+ e’ll spend time together as a parkour community\, train during open prac
+ tice sessions in a large event hall and an additional gym\, and use the ou
+ tdoor area of the Haus der Jugend for creative sessions.</p></br>\n<p>Whet
+ her it’s training together\, trying out new moves\, or just connecting
+ —there’s room here for everything that makes our scene what it is.</p>
+ </br>\n<p>You can stay overnight on-site if you’re 18 or older. Meals ar
+ e self-organized—using the available infrastructure\, such as induction 
+ cooktops\, an oven\, a fire pit\, and other kitchen facilities.</p></br>\n
+ <p>Everyone is welcome! You must be 18 years old to stay overnight.</p></b
+ r>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: yes\
+ , bring mattress and sleeping bag</p></br>
+LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
+ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
+ 10@gmx.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Xdream
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
