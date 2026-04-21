@@ -2142,33 +2142,6 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE=:MAILTO:biko.ruland@diehal
  le.hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:East Nature Jam
-DTSTART;VALUE=DATE:20250530
-DTEND;VALUE=DATE:20250602
-UID:2978395
-DESCRIPTION:<p>For the East Nature Jam\, we will meet in Chemnitz. On the 
- premises of Walden e.V.\, stationary parkour spots and slacklines will be 
- set up. Of course\, the AirTrack will also be available! As always\, there
-  will be a campfire and music\, providing a great atmosphere for everyone.
-  Additionally\, we'll venture into the mountains for some climbing adventu
- res. Don't forget to bring your swimwear \;)&nbsp\;</p>\n<p>We'll gather a
- t a central area\, where all sorts of games\, instruments\, or arts are we
- lcome!&nbsp\;</p>\n<p>All details can be found in the program schedule! &n
- bsp\;&nbsp\;</p></br>\n<p>What you'll find on the premises:&nbsp\;</p>\n<p
- >- Parkour Park&nbsp\;</p>\n<p>- Pole park&nbsp\;</p>\n<p>- Airtrack&nbsp\
- ;</p>\n<p>- 3x Slacklines (10-20m)&nbsp\;</p>\n<p>- 1x Longline (50m)&nbsp
- \;</p>\n<p>- Climbing wall (6m high)&nbsp\;</p>\n<p>- Skate and BMX park (
- right in front of the premises)&nbsp\;</p>\n<p>- 4x Toilets&nbsp\;</p>\n<p
- >- 2x Showers with washing area&nbsp\;</p>\n<p>- 2x Domes (event rooms in 
- case of rain)&nbsp\;</p>\n<p>- 1x Restroom for meditation or breaks</p></b
- r>\n<p>Price: 60€</p>\n<p>Food: all inclusive</p>\n<p>Accomodation: hamm
- ock or tent</p>
-GEO:50.8348204;9.4388586
-LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
-ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
- ce/event-details/east-nature-jam-2025":MAILTO:Info@if-urbansports.de
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flinta* Parkour Jam
 DTSTART;VALUE=DATE:20250530
 DTEND;VALUE=DATE:20250602
@@ -2960,27 +2933,6 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
  gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg Jam
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260601
-UID:3776929
-DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
- e’ll spend time together as a parkour community\, train during open prac
- tice sessions in a large event hall and an additional gym\, and use the ou
- tdoor area of the Haus der Jugend for creative sessions.</p></br>\n<p>Whet
- her it’s training together\, trying out new moves\, or just connecting
- —there’s room here for everything that makes our scene what it is.</p>
- </br>\n<p>You can stay overnight on-site if you’re 18 or older. Meals ar
- e self-organized—using the available infrastructure\, such as induction 
- cooktops\, an oven\, a fire pit\, and other kitchen facilities.</p></br>\n
- <p>Everyone is welcome! You must be 18 years old to stay overnight.</p></b
- r>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: yes\
- , bring mattress and sleeping bag</p></br>
-LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
-ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
- 10@gmx.de
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Xdream
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
@@ -3007,6 +2959,27 @@ DESCRIPTION:<p>This year we (the people of Twio X e.V.) are taking you bac
 LOCATION:04 Leipzig\, Germany
 ORGANIZER;CN="Twio X e.V.";PHONE=;WEBSITE="https://twio-x.de/interessierte
  /events/x-dream-2026/#nav":MAILTO:xdream@twio-x.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg Jam
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3776929
+DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
+ e’ll spend time together as a parkour community\, train during open prac
+ tice sessions in a large event hall and an additional gym\, and use the ou
+ tdoor area of the Haus der Jugend for creative sessions.</p></br>\n<p>Whet
+ her it’s training together\, trying out new moves\, or just connecting
+ —there’s room here for everything that makes our scene what it is.</p>
+ </br>\n<p>You can stay overnight on-site if you’re 18 or older. Meals ar
+ e self-organized—using the available infrastructure\, such as induction 
+ cooktops\, an oven\, a fire pit\, and other kitchen facilities.</p></br>\n
+ <p>Everyone is welcome! You must be 18 years old to stay overnight.</p></b
+ r>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: yes\
+ , bring mattress and sleeping bag</p></br>
+LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
+ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
+ 10@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Str!De Berlin
@@ -3104,6 +3077,33 @@ DESCRIPTION:<p>On July 25\, 2026\, the OSNA JAM will bring together moveme
 LOCATION:Helmut-Stockmeier-Straße 3\, 49086 Osnabrück\, Germany
 ORGANIZER;CN="TSG 07 Burg Gretesch";PHONE=;WEBSITE=:MAILTO:kailein1787@gma
  il.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Nature Jam
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260810
+UID:2978395
+DESCRIPTION:<p>For the East Nature Jam\, we will meet in Chemnitz. On the 
+ premises of Walden e.V.\, stationary parkour spots and slacklines will be 
+ set up. Of course\, the AirTrack will also be available! As always\, there
+  will be a campfire and music\, providing a great atmosphere for everyone.
+  Additionally\, we'll venture into the mountains for some climbing adventu
+ res. Don't forget to bring your swimwear \;) &nbsp\;</p></br>\n<p>We'll ga
+ ther at a central area\, where all sorts of games\, instruments\, or arts 
+ are welcome! &nbsp\;</p>\n<p>All details can be found in the program sched
+ ule! &nbsp\;&nbsp\;</p></br>\n<p>What you'll find on the premises: &nbsp\;
+ </p>\n<p>- Parkour Park &nbsp\;</p>\n<p>- Pole park &nbsp\;</p>\n<p>- Airt
+ rack &nbsp\;</p>\n<p>- 3x Slacklines (10-20m) &nbsp\;</p>\n<p>- 1x Longlin
+ e (50m) &nbsp\;</p>\n<p>- Climbing wall (6m high) &nbsp\;</p>\n<p>- Skate 
+ and BMX park (right in front of the premises) &nbsp\;</p>\n<p>- 4x Toilets
+  &nbsp\;</p>\n<p>- 2x Showers with washing area &nbsp\;</p>\n<p>- 2x Domes
+  (event rooms in case of rain) &nbsp\;</p>\n<p>- 1x Restroom for meditatio
+ n or breaks</p></br>\n<p>Price: 80€</p>\n<p>Food: all inclusive</p>\n<p>
+ Accomodation: hammock or tent</p>
+GEO:50.8348204;9.4388586
+LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/event-details/east-nature-jam-2026":MAILTO:Info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frbodensee Festival

@@ -176,4 +176,24 @@ LOCATION:Ketelhuisplein 18\, 5617 AE Eindhoven\, Netherlands
 ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/p/DVx7-EvDEWs/?igs
  h=NDNremgzdjhqMDd1":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Summer Jam
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+UID:3789267
+DESCRIPTION:<p>June 20&amp\;21&nbsp\;</p></br>\n<p>A jam to bring some peo
+ ple together\, jump around\, and end up at the pythonbridge for a ropeswin
+ g session!<br>\n<br>\nCurrent plan:<br>\n<br>\nDay 1 Amsterdam east<br>\n1
+ 2:00 Baanderskade <br>\n14:00 International Institute of Social History<br
+ >\n16:00 VEL<br>\n1800 pythonbride BBQ+ropeswing <br>\n<br>\nDay 2. Amster
+ dam <br>\n10:00 parkourpark Weesperzijde<br>\n14:00 Johnny spot<br>\n1700 
+ pythonbride BBQ+ropeswing<br>\n<br>\nMore information comming soon <a rel=
+ "noopener noreferrer" target="_blank" href="https://www.instagram.com/p/DX
+ OqQFBDYna/?igsh=cW0yZHUxNnNhbjNh">here&nbsp\;</a></p></br>\n<p>Price: free
+ </p>\n<p>Accomodation: ask locals I guess?</p>\n<p>Food: not included</p><
+ /br></br></br>
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;CN="Quin Munki";PHONE=;WEBSITE="https://www.instagram.com/p/DXOq
+ QFBDYna/?igsh=cW0yZHUxNnNhbjNh":MAILTO:
+END:VEVENT
 END:VCALENDAR

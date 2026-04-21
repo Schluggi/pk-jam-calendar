@@ -5714,33 +5714,6 @@ ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
  0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:East Nature Jam
-DTSTART;VALUE=DATE:20250530
-DTEND;VALUE=DATE:20250602
-UID:2978395
-DESCRIPTION:<p>For the East Nature Jam\, we will meet in Chemnitz. On the 
- premises of Walden e.V.\, stationary parkour spots and slacklines will be 
- set up. Of course\, the AirTrack will also be available! As always\, there
-  will be a campfire and music\, providing a great atmosphere for everyone.
-  Additionally\, we'll venture into the mountains for some climbing adventu
- res. Don't forget to bring your swimwear \;)&nbsp\;</p>\n<p>We'll gather a
- t a central area\, where all sorts of games\, instruments\, or arts are we
- lcome!&nbsp\;</p>\n<p>All details can be found in the program schedule! &n
- bsp\;&nbsp\;</p></br>\n<p>What you'll find on the premises:&nbsp\;</p>\n<p
- >- Parkour Park&nbsp\;</p>\n<p>- Pole park&nbsp\;</p>\n<p>- Airtrack&nbsp\
- ;</p>\n<p>- 3x Slacklines (10-20m)&nbsp\;</p>\n<p>- 1x Longline (50m)&nbsp
- \;</p>\n<p>- Climbing wall (6m high)&nbsp\;</p>\n<p>- Skate and BMX park (
- right in front of the premises)&nbsp\;</p>\n<p>- 4x Toilets&nbsp\;</p>\n<p
- >- 2x Showers with washing area&nbsp\;</p>\n<p>- 2x Domes (event rooms in 
- case of rain)&nbsp\;</p>\n<p>- 1x Restroom for meditation or breaks</p></b
- r>\n<p>Price: 60€</p>\n<p>Food: all inclusive</p>\n<p>Accomodation: hamm
- ock or tent</p>
-GEO:50.8348204;9.4388586
-LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
-ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
- ce/event-details/east-nature-jam-2025":MAILTO:Info@if-urbansports.de
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movers Jam
 DTSTART;VALUE=DATE:20250530
 DTEND;VALUE=DATE:20250602
@@ -7422,24 +7395,6 @@ ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de/parkour-stuttgart-jam/":MAILTO:jam@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gizmo Style Battles 2026
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-UID:3618138
-DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
- ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
- n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
- raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
- vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
- er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
- ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: br
- eakfast only</p>\n<p>Price: 40-50€</p>
-GEO:53.5424593;9.987170299999999
-LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
-ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
- gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
@@ -7459,6 +7414,24 @@ ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
  BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gizmo Style Battles 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3618138
+DESCRIPTION:<p>Gizmo 2026 is coming get ready for another round of the mad
+ ness.&nbsp\;</p></br>\n<p>For those who don't know what it is.&nbsp\;</p>\
+ n<p>Gizmo is a 1 v 1 battle tournament representing creativity\, spot inte
+ raction &amp\; flavour.&nbsp\;</p></br>\n<p>On the second day we have jam 
+ vibes and some workshops. &nbsp\;</p></br>\n<p>We're excited to have anoth
+ er wonderful Gizmo with you:) &nbsp\;</p></br>\n<p>P.S. Tickets are availa
+ ble from February on.</p></br>\n<p>Accomodation: included</p>\n<p>Food: br
+ eakfast only</p>\n<p>Price: 40-50€</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Xtreme Days Festival
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
@@ -7472,27 +7445,6 @@ DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
  TU0cnI5NWU0</a></p>
 LOCATION:33077 Sacile\, Province of Pordenone\, Italy
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freiburg Jam
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260601
-UID:3776929
-DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
- e’ll spend time together as a parkour community\, train during open prac
- tice sessions in a large event hall and an additional gym\, and use the ou
- tdoor area of the Haus der Jugend for creative sessions.</p></br>\n<p>Whet
- her it’s training together\, trying out new moves\, or just connecting
- —there’s room here for everything that makes our scene what it is.</p>
- </br>\n<p>You can stay overnight on-site if you’re 18 or older. Meals ar
- e self-organized—using the available infrastructure\, such as induction 
- cooktops\, an oven\, a fire pit\, and other kitchen facilities.</p></br>\n
- <p>Everyone is welcome! You must be 18 years old to stay overnight.</p></b
- r>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: yes\
- , bring mattress and sleeping bag</p></br>
-LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
-ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
- 10@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xdream
@@ -7521,6 +7473,27 @@ DESCRIPTION:<p>This year we (the people of Twio X e.V.) are taking you bac
 LOCATION:04 Leipzig\, Germany
 ORGANIZER;CN="Twio X e.V.";PHONE=;WEBSITE="https://twio-x.de/interessierte
  /events/x-dream-2026/#nav":MAILTO:xdream@twio-x.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg Jam
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3776929
+DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
+ e’ll spend time together as a parkour community\, train during open prac
+ tice sessions in a large event hall and an additional gym\, and use the ou
+ tdoor area of the Haus der Jugend for creative sessions.</p></br>\n<p>Whet
+ her it’s training together\, trying out new moves\, or just connecting
+ —there’s room here for everything that makes our scene what it is.</p>
+ </br>\n<p>You can stay overnight on-site if you’re 18 or older. Meals ar
+ e self-organized—using the available infrastructure\, such as induction 
+ cooktops\, an oven\, a fire pit\, and other kitchen facilities.</p></br>\n
+ <p>Everyone is welcome! You must be 18 years old to stay overnight.</p></b
+ r>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: yes\
+ , bring mattress and sleeping bag</p></br>
+LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
+ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
+ 10@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Games 2026
@@ -7592,6 +7565,26 @@ DESCRIPTION:<p>save the date</p>
 GEO:49.4521018;11.0766654
 LOCATION:Nuremberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amsterdam Summer Jam
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+UID:3789267
+DESCRIPTION:<p>June 20&amp\;21&nbsp\;</p></br>\n<p>A jam to bring some peo
+ ple together\, jump around\, and end up at the pythonbridge for a ropeswin
+ g session!<br>\n<br>\nCurrent plan:<br>\n<br>\nDay 1 Amsterdam east<br>\n1
+ 2:00 Baanderskade <br>\n14:00 International Institute of Social History<br
+ >\n16:00 VEL<br>\n1800 pythonbride BBQ+ropeswing <br>\n<br>\nDay 2. Amster
+ dam <br>\n10:00 parkourpark Weesperzijde<br>\n14:00 Johnny spot<br>\n1700 
+ pythonbride BBQ+ropeswing<br>\n<br>\nMore information comming soon <a rel=
+ "noopener noreferrer" target="_blank" href="https://www.instagram.com/p/DX
+ OqQFBDYna/?igsh=cW0yZHUxNnNhbjNh">here&nbsp\;</a></p></br>\n<p>Price: free
+ </p>\n<p>Accomodation: ask locals I guess?</p>\n<p>Food: not included</p><
+ /br></br></br>
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;CN="Quin Munki";PHONE=;WEBSITE="https://www.instagram.com/p/DXOq
+ QFBDYna/?igsh=cW0yZHUxNnNhbjNh":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Öpfv Jam & Contest Linz
@@ -7810,6 +7803,33 @@ DESCRIPTION:<p>Participants\, Special Guests and the WPF Staff stay at the
 LOCATION:Basel\, Switzerland
 ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE="https://www.worlds
  parkourfamily.ch/wpfcamp":MAILTO:info@worldsparkourfamily.ch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Nature Jam
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260810
+UID:2978395
+DESCRIPTION:<p>For the East Nature Jam\, we will meet in Chemnitz. On the 
+ premises of Walden e.V.\, stationary parkour spots and slacklines will be 
+ set up. Of course\, the AirTrack will also be available! As always\, there
+  will be a campfire and music\, providing a great atmosphere for everyone.
+  Additionally\, we'll venture into the mountains for some climbing adventu
+ res. Don't forget to bring your swimwear \;) &nbsp\;</p></br>\n<p>We'll ga
+ ther at a central area\, where all sorts of games\, instruments\, or arts 
+ are welcome! &nbsp\;</p>\n<p>All details can be found in the program sched
+ ule! &nbsp\;&nbsp\;</p></br>\n<p>What you'll find on the premises: &nbsp\;
+ </p>\n<p>- Parkour Park &nbsp\;</p>\n<p>- Pole park &nbsp\;</p>\n<p>- Airt
+ rack &nbsp\;</p>\n<p>- 3x Slacklines (10-20m) &nbsp\;</p>\n<p>- 1x Longlin
+ e (50m) &nbsp\;</p>\n<p>- Climbing wall (6m high) &nbsp\;</p>\n<p>- Skate 
+ and BMX park (right in front of the premises) &nbsp\;</p>\n<p>- 4x Toilets
+  &nbsp\;</p>\n<p>- 2x Showers with washing area &nbsp\;</p>\n<p>- 2x Domes
+  (event rooms in case of rain) &nbsp\;</p>\n<p>- 1x Restroom for meditatio
+ n or breaks</p></br>\n<p>Price: 80€</p>\n<p>Food: all inclusive</p>\n<p>
+ Accomodation: hammock or tent</p>
+GEO:50.8348204;9.4388586
+LOCATION:Eubaer Str. 233\, 09128 Chemnitz\, Germany
+ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
+ ce/event-details/east-nature-jam-2026":MAILTO:Info@if-urbansports.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frbodensee Festival
