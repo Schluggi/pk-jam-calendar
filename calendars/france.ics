@@ -425,4 +425,18 @@ ORGANIZER;CN=ATB;PHONE=;WEBSITE="https://www.helloasso.com/associations/as
  sociation-des-traceurs-bisontins/evenements/game-ccub-edt-2":MAILTO:contac
  t.traceursbisontins@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aerojam 2026
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260706
+UID:3811720
+DESCRIPTION:<p>AEROJAM is coming back with its 5th edition 🍾<br>\n<br>\
+ nThis edition takes things to a whole new level: the event will qualify th
+ e best French athletes for the Parkour Earth World Championship 🌍<br>\n
+ <br>\nTickets on sale → 9th May<br>\n<br>\nPricing\, competitions &amp\;
+  schedule: coming soon.</p>
+LOCATION:10000 Troyes\, France
+ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=www.aerocrew-pk.com:MAILTO:aerocrew.p
+ k@gmail.com
+END:VEVENT
 END:VCALENDAR

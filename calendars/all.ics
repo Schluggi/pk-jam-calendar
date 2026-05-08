@@ -7150,18 +7150,6 @@ ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/p/DVx7-EvDEWs/?igs
  h=NDNremgzdjhqMDd1":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pasta Jam
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260501
-UID:3629971
-DESCRIPTION:<p>which city and more information coming soon! check their in
- stagram account @pastamoves for updates!</p>
-GEO:41.87194;12.4963655
-LOCATION:Italy
-ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
- 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Nature Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
@@ -7189,6 +7177,18 @@ DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village
 LOCATION:Dorfstraße 106\, 25560 Aasbüttel
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:3629971
+DESCRIPTION:<p>which city and more information coming soon! check their in
+ stagram account @pastamoves for updates!</p>
+GEO:41.87194;12.4963655
+LOCATION:Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Mur Jam
@@ -7395,25 +7395,6 @@ ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de/parkour-stuttgart-jam/":MAILTO:jam@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-UID:3634453
-DESCRIPTION:<p>This event celebrates women in parkour. We look forward to 
- a weekend of workshops and jams with experienced local and international p
- arkour coaches.&nbsp\;</p></br>\n<p>More information will be posted in the
-  Facebook event and at instagram @cph_her.&nbsp\;</p></br>\n<p>WHO CAN JOI
- N?&nbsp\;</p>\n<p>We welcome all women and all levels\; coaches are experi
- enced and will be able to teach you something cool whether it's your first
-  day training parkour or your second decade.&nbsp\;</p></br>\n<p>AGE: 16+.
-  We expect that you are capable of managing your own stay and transport in
-  Copenhagen during the event.</p></br>\n<p>Price: 50€</p>\n<p>Accomodati
- on: no</p>\n<p>Food: not included</p>
-LOCATION:Copenhagen\, Denmark
-ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
- BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gizmo Style Battles 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
@@ -7432,19 +7413,23 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
  gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Xtreme Days Festival
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260601
-UID:3768670
-DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
- eart of Sacile.</p>\n<p>And that’s not all: the new website is coming so
- on—it will be online shortly with all the latest news\, the full program
- \, and official updates.</p></br>\n<p>Instagram accout: <a rel="noopener n
- oreferrer" target="_blank" href="https://www.instagram.com/p/DVa5Y_QiFTE/?
- igsh=bGN1NTU0cnI5NWU0">https://www.instagram.com/p/DVa5Y_QiFTE/?igsh=bGN1N
- TU0cnI5NWU0</a></p>
-LOCATION:33077 Sacile\, Province of Pordenone\, Italy
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3634453
+DESCRIPTION:<p>This event celebrates women in parkour. We look forward to 
+ a weekend of workshops and jams with experienced local and international p
+ arkour coaches.&nbsp\;</p></br>\n<p>More information will be posted in the
+  Facebook event and at instagram @cph_her.&nbsp\;</p></br>\n<p>WHO CAN JOI
+ N?&nbsp\;</p>\n<p>We welcome all women and all levels\; coaches are experi
+ enced and will be able to teach you something cool whether it's your first
+  day training parkour or your second decade.&nbsp\;</p></br>\n<p>AGE: 16+.
+  We expect that you are capable of managing your own stay and transport in
+  Copenhagen during the event.</p></br>\n<p>Price: 50€</p>\n<p>Accomodati
+ on: no</p>\n<p>Food: not included</p>
+LOCATION:Copenhagen\, Denmark
+ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
+ BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xdream
@@ -7473,6 +7458,21 @@ DESCRIPTION:<p>This year we (the people of Twio X e.V.) are taking you bac
 LOCATION:04 Leipzig\, Germany
 ORGANIZER;CN="Twio X e.V.";PHONE=;WEBSITE="https://twio-x.de/interessierte
  /events/x-dream-2026/#nav":MAILTO:xdream@twio-x.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xtreme Days Festival
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3768670
+DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
+ eart of Sacile.</p>\n<p>And that’s not all: the new website is coming so
+ on—it will be online shortly with all the latest news\, the full program
+ \, and official updates.</p></br>\n<p>Instagram accout: <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.instagram.com/p/DVa5Y_QiFTE/?
+ igsh=bGN1NTU0cnI5NWU0">https://www.instagram.com/p/DVa5Y_QiFTE/?igsh=bGN1N
+ TU0cnI5NWU0</a></p>
+LOCATION:33077 Sacile\, Province of Pordenone\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freiburg Jam
@@ -7598,6 +7598,18 @@ ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /summer_jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heljam
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+UID:3629970
+DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
+ el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
+ eljamfinland/"><strong>instagram channel</strong></a>.</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Big Street Session
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
@@ -7618,16 +7630,18 @@ ORGANIZER;CN="Big street project";PHONE=;WEBSITE="https://bigstreetproject
  .sk":MAILTO:tomas@bigstreetproject.sk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heljam
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260629
-UID:3629970
-DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
- el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
- eljamfinland/"><strong>instagram channel</strong></a>.</p>
-GEO:60.16985569999999;24.938379
-LOCATION:Helsinki\, Finland
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+SUMMARY:Aerojam 2026
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260706
+UID:3811720
+DESCRIPTION:<p>AEROJAM is coming back with its 5th edition 🍾<br>\n<br>\
+ nThis edition takes things to a whole new level: the event will qualify th
+ e best French athletes for the Parkour Earth World Championship 🌍<br>\n
+ <br>\nTickets on sale → 9th May<br>\n<br>\nPricing\, competitions &amp\;
+  schedule: coming soon.</p>
+LOCATION:10000 Troyes\, France
+ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=www.aerocrew-pk.com:MAILTO:aerocrew.p
+ k@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ceci N'Est Pas Un Jam
