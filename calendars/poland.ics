@@ -150,4 +150,19 @@ LOCATION:Płock\, Poland
 ORGANIZER;CN=federacjaparkour;PHONE=;WEBSITE="https://www.instagram.com/p/
  DT-8RW9jevQ/?igsh=MXV0dWIzMXd2NG5wbw==":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movers Jam V2
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+UID:3825956
+DESCRIPTION:<p>MOVERS JAM V2!<br>\n<br>\nTwo days of outdoor training<br>\
+ nPK Competition at <a rel="noopener noreferrer" target="_blank" href="http
+ s://www.instagram.com/podw/">@podw</a>órko.art<br>\nA brand-new next-leve
+ l setup<br>\nPremiere of the new MOVERS film<br>\nAfter-party\, concert\, 
+ DJ sets<br>\nTons of extra shenanigans<br>\n<br>\nSave the date: 10–12.0
+ 7.26 — see you in 3City!<br>\n<br>\nRegistration drops real soon</p>
+LOCATION:Gdynia\, Poland
+ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
+ 2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
+END:VEVENT
 END:VCALENDAR
