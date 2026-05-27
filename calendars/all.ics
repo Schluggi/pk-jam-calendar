@@ -7460,21 +7460,6 @@ ORGANIZER;CN="Twio X e.V.";PHONE=;WEBSITE="https://twio-x.de/interessierte
  /events/x-dream-2026/#nav":MAILTO:xdream@twio-x.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Xtreme Days Festival
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260601
-UID:3768670
-DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
- eart of Sacile.</p>\n<p>And that’s not all: the new website is coming so
- on—it will be online shortly with all the latest news\, the full program
- \, and official updates.</p></br>\n<p>Instagram accout: <a rel="noopener n
- oreferrer" target="_blank" href="https://www.instagram.com/p/DVa5Y_QiFTE/?
- igsh=bGN1NTU0cnI5NWU0">https://www.instagram.com/p/DVa5Y_QiFTE/?igsh=bGN1N
- TU0cnI5NWU0</a></p>
-LOCATION:33077 Sacile\, Province of Pordenone\, Italy
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freiburg Jam
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
@@ -7494,6 +7479,21 @@ DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
 LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
 ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
  10@gmx.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xtreme Days Festival
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3768670
+DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
+ eart of Sacile.</p>\n<p>And that’s not all: the new website is coming so
+ on—it will be online shortly with all the latest news\, the full program
+ \, and official updates.</p></br>\n<p>Instagram accout: <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.instagram.com/p/DVa5Y_QiFTE/?
+ igsh=bGN1NTU0cnI5NWU0">https://www.instagram.com/p/DVa5Y_QiFTE/?igsh=bGN1N
+ TU0cnI5NWU0</a></p>
+LOCATION:33077 Sacile\, Province of Pordenone\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Games 2026
@@ -7544,17 +7544,22 @@ ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE="https://oslo-movement.no/omfg
  -2/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Airfurt (Eintagsfliege)
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260613
+SUMMARY:Open Airfurt X Puffbøhnen Jam
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
 UID:3531501
-DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
- nt—it's back to the roots with a full day of training on Saturday! More 
- information will follow in 2026.</p></br>\n<p>Price: 0€</p>\n<p>Accomoda
- tion: just ask the organisers if needed</p>\n<p>Food: not included</p>
+DESCRIPTION:<p>Open Airfurt meets Puffbøhnen!</p></br>\n<p>This year the 
+ Open Airfurt and Puffbøhnen Jam will merge into one. Great vibes and hard
+  training at Erfurt's best spots awaits you.</p></br>\n<p>See you there!</
+ p></br>\n<p>Join our <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://chat.whatsapp.com/Lk7PggikeId71pwXhFTty5?s=cl&amp\;p=a&amp\;mlu=3"><
+ strong>WhatsApp group</strong></a>.</p></br>\n<p>Price: 0€</p>\n<p>Accom
+ odation: We have limited sleeping spots so if you need one please let us k
+ now in advance. You'll need a sleeping bag but there will be no charge.</p
+ >\n<p>Food: not included</p>
 LOCATION:Altstadt\, 99084 Erfurt\, Germany
-ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://park
- our-erfurt.de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
+ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://www.
+ instagram.com/p/DYvDsm0Imy3/":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Og Jam
@@ -7598,6 +7603,26 @@ ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /summer_jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Big Street Session
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+UID:3770180
+DESCRIPTION:<p>After a year\, we are once again inviting you to the BIG ST
+ REET SESSION\, where you can come compete in PARKOUR &amp\; FREERUNNING di
+ sciplines\, train with friends\, and enjoy a day full of movement\, great 
+ music\, and a summer atmosphere within the parkour community.</p></br>\n<p
+ >We will compete in three disciplines: SPEED\, SKILL\, and STYLE\, which w
+ ill take place individually in categories for younger athletes\, older ath
+ letes\, and women.</p></br>\n<p>After the competition disciplines finish\,
+  there will be a JAM session and AFTERPARTY with DJs.</p></br>\n<p>If you 
+ decide not to compete\, you can still sign up for the sleepover in our STR
+ EETPARK\, where we plan to train until late at night as usual\, followed b
+ y a movie screening.</p>
+LOCATION:Slnečné jazerá - sever\, 903 01 Senec\, Slovakia
+ORGANIZER;CN="Big street project";PHONE=;WEBSITE="https://bigstreetproject
+ .sk":MAILTO:tomas@bigstreetproject.sk
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heljam
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
@@ -7628,26 +7653,6 @@ ORGANIZER;CN="In Extremis Club";PHONE=;WEBSITE="https://inextremisclub.com
  ZTVeg":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Big Street Session
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260629
-UID:3770180
-DESCRIPTION:<p>After a year\, we are once again inviting you to the BIG ST
- REET SESSION\, where you can come compete in PARKOUR &amp\; FREERUNNING di
- sciplines\, train with friends\, and enjoy a day full of movement\, great 
- music\, and a summer atmosphere within the parkour community.</p></br>\n<p
- >We will compete in three disciplines: SPEED\, SKILL\, and STYLE\, which w
- ill take place individually in categories for younger athletes\, older ath
- letes\, and women.</p></br>\n<p>After the competition disciplines finish\,
-  there will be a JAM session and AFTERPARTY with DJs.</p></br>\n<p>If you 
- decide not to compete\, you can still sign up for the sleepover in our STR
- EETPARK\, where we plan to train until late at night as usual\, followed b
- y a movie screening.</p>
-LOCATION:Slnečné jazerá - sever\, 903 01 Senec\, Slovakia
-ORGANIZER;CN="Big street project";PHONE=;WEBSITE="https://bigstreetproject
- .sk":MAILTO:tomas@bigstreetproject.sk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aerojam 2026
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260706
@@ -7660,6 +7665,22 @@ DESCRIPTION:<p>AEROJAM is coming back with its 5th edition 🍾<br>\n<br>\
 LOCATION:10000 Troyes\, France
 ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=www.aerocrew-pk.com:MAILTO:aerocrew.p
  k@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portuguese Parkour Jam
+DTSTART:20260704T120000
+DTEND:20260706T130000
+UID:3849514
+DESCRIPTION:<p>Portuguese Parkour Jam&nbsp\;</p></br>\n<p>It will be in Sa
+ nto André on July 4th and 5th\, with lots of jumps\, good weather\, and g
+ reat company! There will also be t-shirts for anyone who wants one\, with 
+ the color/design shown in the image. <a rel="noopener noreferrer" target="
+ _blank" href="https://www.instagram.com/ruiruigatopreci?igsh=MXhvcjNmNnY3Z
+ mFkNA=="><strong>If you're interested\, talk to Rui to secure yours!</stro
+ ng></a></p>
+LOCATION:3840-553 Santo André\, Portugal
+ORGANIZER;CN="Rui Serrão";PHONE=;WEBSITE="https://www.instagram.com/ruiru
+ igatopreci?igsh=MXhvcjNmNnY3ZmFkNA==":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ceci N'Est Pas Un Jam
@@ -7918,15 +7939,6 @@ ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=www.parkour-kiel.de:MAILTO:Park
  ourKiel@gmx.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7949,6 +7961,25 @@ ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  our.30159@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+UID:3849515
+DESCRIPTION:<p>save the date!</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=Springstof;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spka Swiss Jam 2026
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
@@ -7960,14 +7991,15 @@ ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://www.swiss
  parkourtour.ch/swiss-jam-2025/":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Die Halle X
+SUMMARY:Die Halle X Fifthunit X Scruffy
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
 UID:3702328
-DESCRIPTION:<p>We've been cooking and have a new Die Halle X Jam planned f
- or you with 2 new Teams be thrilled more infos will follow soon. &nbsp\;Be
- st\, Your Die Halle Hamburg</p></br>\n<p>Price: 50€</p>\n<p>Accomodation
- : yes</p>\n<p>Food: all inclusive</p>
+DESCRIPTION:<p>Another dope weekend comes to an end. <br>\nYou probably st
+ ill digesting the madness you’ve seen at Gizmo but we’ve been cooking 
+ behind the scenes:<br>\n<br>\nWe’re happy to present to you our first Sc
+ ruffy X Fifth Unit X Die Halle Jam.</p></br>\n<p>Price: 50€</p>\n<p>Acco
+ modation: yes</p>\n<p>Food: all inclusive</p>
 GEO:53.5424593;10.0086303
 LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="DIE HALLE";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.hamburg

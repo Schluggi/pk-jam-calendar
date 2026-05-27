@@ -578,4 +578,14 @@ LOCATION:Ghent\, Belgium
 ORGANIZER;CN="Flow De Gand & Ambras";PHONE=;WEBSITE="https://www.flowdegan
  d.be/ceci-n-est-pas-un-stick":MAILTO:info@flowdegand.be
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swings 'N Other Things
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+UID:3849515
+DESCRIPTION:<p>save the date!</p>
+LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
+ORGANIZER;CN=Springstof;PHONE=;WEBSITE="https://www.springstofparkour.com/
+ ":MAILTO:
+END:VEVENT
 END:VCALENDAR

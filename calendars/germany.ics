@@ -2992,17 +2992,22 @@ ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
  sollfrank@googlemail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Airfurt (Eintagsfliege)
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260613
+SUMMARY:Open Airfurt X Puffbøhnen Jam
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
 UID:3531501
-DESCRIPTION:<p>This year\, "OpenAirfurt" Jam is happening as a one-day eve
- nt—it's back to the roots with a full day of training on Saturday! More 
- information will follow in 2026.</p></br>\n<p>Price: 0€</p>\n<p>Accomoda
- tion: just ask the organisers if needed</p>\n<p>Food: not included</p>
+DESCRIPTION:<p>Open Airfurt meets Puffbøhnen!</p></br>\n<p>This year the 
+ Open Airfurt and Puffbøhnen Jam will merge into one. Great vibes and hard
+  training at Erfurt's best spots awaits you.</p></br>\n<p>See you there!</
+ p></br>\n<p>Join our <a rel="noopener noreferrer" target="_blank" href="ht
+ tps://chat.whatsapp.com/Lk7PggikeId71pwXhFTty5?s=cl&amp\;p=a&amp\;mlu=3"><
+ strong>WhatsApp group</strong></a>.</p></br>\n<p>Price: 0€</p>\n<p>Accom
+ odation: We have limited sleeping spots so if you need one please let us k
+ now in advance. You'll need a sleeping bag but there will be no charge.</p
+ >\n<p>Food: not included</p>
 LOCATION:Altstadt\, 99084 Erfurt\, Germany
-ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://park
- our-erfurt.de/jams/open-airfurt/":MAILTO:jam@parkour-erfurt.de
+ORGANIZER;CN="Parkour Erfurt e.V. und Locals";PHONE=;WEBSITE="https://www.
+ instagram.com/p/DYvDsm0Imy3/":MAILTO:jam@parkour-erfurt.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Og Jam
@@ -3167,14 +3172,15 @@ ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  our.30159@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Die Halle X
+SUMMARY:Die Halle X Fifthunit X Scruffy
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
 UID:3702328
-DESCRIPTION:<p>We've been cooking and have a new Die Halle X Jam planned f
- or you with 2 new Teams be thrilled more infos will follow soon. &nbsp\;Be
- st\, Your Die Halle Hamburg</p></br>\n<p>Price: 50€</p>\n<p>Accomodation
- : yes</p>\n<p>Food: all inclusive</p>
+DESCRIPTION:<p>Another dope weekend comes to an end. <br>\nYou probably st
+ ill digesting the madness you’ve seen at Gizmo but we’ve been cooking 
+ behind the scenes:<br>\n<br>\nWe’re happy to present to you our first Sc
+ ruffy X Fifth Unit X Die Halle Jam.</p></br>\n<p>Price: 50€</p>\n<p>Acco
+ modation: yes</p>\n<p>Food: all inclusive</p>
 GEO:53.5424593;10.0086303
 LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="DIE HALLE";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.hamburg
