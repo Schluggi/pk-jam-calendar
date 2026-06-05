@@ -27,4 +27,19 @@ LOCATION:Bundek\, 10000\, Novi Zagreb - istok\, Zagreb\, Croatia
 ORGANIZER;CN="Parkour HR";PHONE=;WEBSITE="https://fb.me/e/8e09y4QGj":MAILT
  O:emanueldolo@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proljetni Jam Zagreb
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+UID:3864930
+DESCRIPTION:<p>This is an annual Croatian Jam held in Zagreb. No rules\, n
+ o comps\, just vibes and jumps. Everyone's welcome\, there will be drinks\
+ , music\, and sick challenges.&nbsp\;</p></br>\n<p>For any info / accomoda
+ tion contact: 0953673949</p></br>\n<p>Food: not included</p>\n<p>Price: fr
+ ee</p>
+LOCATION:Vladimira Ruždjaka\, 10000\, Zagreb\, Croatia
+ORGANIZER;CN="Parkour Hrvatska";PHONE=;WEBSITE="https://facebook.com/event
+ s/s/proljetni-jam-zagreb-2026/1618709605872840/":MAILTO:pokupec.tree@gmail
+ .com
+END:VEVENT
 END:VCALENDAR
