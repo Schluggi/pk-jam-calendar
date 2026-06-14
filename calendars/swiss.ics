@@ -183,4 +183,19 @@ LOCATION:Zürich\, Switzerland
 ORGANIZER;CN="Swiss Parkour Association";PHONE=;WEBSITE="https://www.swiss
  parkourtour.ch/swiss-jam-2025/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Frappe Society Jam / Comp / Party
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260905
+UID:3874736
+DESCRIPTION:<p>*September 5\, 2026* - SAVE THE DATE</p>\n<p>*🏴‍☠️
+  La Frappe Society 🏴‍☠️*</p>\n<p>*11-YEAR* jam / comp / party</p>
+ \n<p>🏃 OG Parkour street jam</p>\n<p>☠️ Sudden death skill competit
+ ion</p>\n<p>🏆 Cash prize (best male &amp\; best female)</p>\n<p>🎁 Bo
+ nus prizes</p>\n<p>🎉 After party</p>\n<p>📍 Geneva\, switzerland</p>\
+ n<p>More detailed infos and crazy poster coming soon !</p>\n<p>If some peo
+ ple want to jam and compet in Geneva 🤓</p>
+LOCATION:Geneva\, Switzerland
+ORGANIZER;CN="La Frappe Society";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
 END:VCALENDAR

@@ -439,4 +439,37 @@ LOCATION:10000 Troyes\, France
 ORGANIZER;CN=Aerocrew;PHONE=;WEBSITE=www.aerocrew-pk.com:MAILTO:aerocrew.p
  k@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Session Miramas
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+UID:3874734
+DESCRIPTION:<p>A free international parkour festival running for over 15 y
+ ears. Join traceurs from across Europe for training\, workshops\, unique o
+ bstacle course\, nature and community gatherings. No competition – just 
+ a celebration of the many ways to practice and experience parkour.</p></br
+ >\n<p>Price: free</p>\n<p>Accomodation: camping on site</p>\n<p>Food: all 
+ inclusivde</p></br>\n<p><a rel="noopener noreferrer" target="_blank" href=
+ "https://www.instagram.com/parkourmiramas/">https://www.instagram.com/park
+ ourmiramas/</a></p>
+LOCATION:8 Av. Daniel Paul\, 13140 Miramas\, France
+ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
+ .com/":MAILTO:contact@parkourmiramas.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grejam
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+UID:3874733
+DESCRIPTION:<p>Latest edition of the Grejam\, one of the best product from
+  the Grenoble community. Skills challenges throughout the city\, lots of p
+ eople and fun. DM us (<strong>Social Kick Movement)</strong> if you need m
+ ore informations\, and even if you don’t need some\, just to tell us you
+  ́re coming !</p></br>\n<p>Price: free</p>\n<p>Accomodation: locals\, dm 
+ them</p>\n<p>Food: not included</p>
+GEO:45.188529;5.724524
+LOCATION:Grenoble\, France
+ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
+ ment
+END:VEVENT
 END:VCALENDAR

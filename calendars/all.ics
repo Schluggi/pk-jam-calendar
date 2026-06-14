@@ -7150,18 +7150,6 @@ ORGANIZER;CN=;PHONE=;WEBSITE="https://www.instagram.com/p/DVx7-EvDEWs/?igs
  h=NDNremgzdjhqMDd1":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pasta Jam
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260501
-UID:3629971
-DESCRIPTION:<p>which city and more information coming soon! check their in
- stagram account @pastamoves for updates!</p>
-GEO:41.87194;12.4963655
-LOCATION:Italy
-ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
- 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Nature Jam
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
@@ -7189,6 +7177,18 @@ DESCRIPTION:<p>The North Nature Jam takes place in a small\, cozy village
 LOCATION:Dorfstraße 106\, 25560 Aasbüttel
 ORGANIZER;CN="L[IF]E in Motion";PHONE=;WEBSITE="https://www.motionlife.spa
  ce/event-details/north-nature-jam-2026":MAILTO:Info@if-urbansports.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta Jam
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:3629971
+DESCRIPTION:<p>which city and more information coming soon! check their in
+ stagram account @pastamoves for updates!</p>
+GEO:41.87194;12.4963655
+LOCATION:Italy
+ORGANIZER;CN="Pasta Moves";PHONE=;WEBSITE="https://www.instagram.com/p/C21
+ 0eb7N2gi/?igsh=Z2tzZjJyaWlkb3V4":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Mur Jam
@@ -7618,6 +7618,18 @@ ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /summer_jam-info.html":MAILTO:info@teamobsession.at
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heljam
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+UID:3629970
+DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
+ el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
+ eljamfinland/"><strong>instagram channel</strong></a>.</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In Extremis Fam Summer 2026
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
@@ -7656,18 +7668,6 @@ ORGANIZER;CN="Big street project";PHONE=;WEBSITE="https://bigstreetproject
  .sk":MAILTO:tomas@bigstreetproject.sk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heljam
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260629
-UID:3629970
-DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
- el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
- eljamfinland/"><strong>instagram channel</strong></a>.</p>
-GEO:60.16985569999999;24.938379
-LOCATION:Helsinki\, Finland
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aerojam 2026
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260706
@@ -7698,21 +7698,6 @@ ORGANIZER;CN="Rui Serrão";PHONE=;WEBSITE="https://www.instagram.com/ruiru
  igatopreci?igsh=MXhvcjNmNnY3ZmFkNA==":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Movers Jam V2
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260713
-UID:3825956
-DESCRIPTION:<p>MOVERS JAM V2!<br>\n<br>\nTwo days of outdoor training<br>\
- nPK Competition at <a rel="noopener noreferrer" target="_blank" href="http
- s://www.instagram.com/podw/">@podw</a>órko.art<br>\nA brand-new next-leve
- l setup<br>\nPremiere of the new MOVERS film<br>\nAfter-party\, concert\, 
- DJ sets<br>\nTons of extra shenanigans<br>\n<br>\nSave the date: 10–12.0
- 7.26 — see you in 3City!<br>\n<br>\nRegistration drops real soon</p>
-LOCATION:Gdynia\, Poland
-ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
- 2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ceci N'Est Pas Un Jam
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260713
@@ -7733,6 +7718,38 @@ GEO:51.0500182;3.7303351
 LOCATION:Ghent\, Belgium
 ORGANIZER;CN="Flow De Gand & Ambras";PHONE=;WEBSITE="https://www.flowdegan
  d.be/ceci-n-est-pas-un-stick":MAILTO:info@flowdegand.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Session Miramas
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+UID:3874734
+DESCRIPTION:<p>A free international parkour festival running for over 15 y
+ ears. Join traceurs from across Europe for training\, workshops\, unique o
+ bstacle course\, nature and community gatherings. No competition – just 
+ a celebration of the many ways to practice and experience parkour.</p></br
+ >\n<p>Price: free</p>\n<p>Accomodation: camping on site</p>\n<p>Food: all 
+ inclusivde</p></br>\n<p><a rel="noopener noreferrer" target="_blank" href=
+ "https://www.instagram.com/parkourmiramas/">https://www.instagram.com/park
+ ourmiramas/</a></p>
+LOCATION:8 Av. Daniel Paul\, 13140 Miramas\, France
+ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
+ .com/":MAILTO:contact@parkourmiramas.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movers Jam V2
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+UID:3825956
+DESCRIPTION:<p>MOVERS JAM V2!<br>\n<br>\nTwo days of outdoor training<br>\
+ nPK Competition at <a rel="noopener noreferrer" target="_blank" href="http
+ s://www.instagram.com/podw/">@podw</a>órko.art<br>\nA brand-new next-leve
+ l setup<br>\nPremiere of the new MOVERS film<br>\nAfter-party\, concert\, 
+ DJ sets<br>\nTons of extra shenanigans<br>\n<br>\nSave the date: 10–12.0
+ 7.26 — see you in 3City!<br>\n<br>\nRegistration drops real soon</p>
+LOCATION:Gdynia\, Poland
+ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
+ 2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Streetmedia Social V4: London
@@ -7808,6 +7825,26 @@ GEO:48.3680782;9.9592634
 LOCATION:Am Hochsträß 8\, 89081 Ulm\, Germany
 ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/impr
  essum/":MAILTO:streets.ev@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streetmedia Social V4: London
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+UID:3874735
+DESCRIPTION:<p>3 days of street jams at iconic locations\, mini competitio
+ ns\, giveaways\, and of course our official pop up market and afterparty. 
+ <br>\n<br>\nSEE YOU ALL IN LONDON THIS JULY FOR WHAT IS SURE TO BE LONDONS
+  BIGGEST STREET EVENT IN YEARS. <br>\n<br>\nTickets are required for entry
+  to the pop-up market and afterparty only - no need for a ticket if you ar
+ e only attending the street jams. <br>\n<br>\nCheck out the event page for
+  a full itinerary and game plan.</p></br>\n<p>Price: street jam free\, par
+ ty &amp\; pop up market £11.55&nbsp\;</p>\n<p>Accomodation: not included<
+ /p>\n<p>Food: not included</p>
+GEO:51.5072178;-1.1549892
+LOCATION:London\, UK
+ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
+ streetmedia-social-v4-london-tickets-1980636664581":MAILTO:HQ@streetmedia.
+ store
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Camp Gütersloh
@@ -7888,6 +7925,27 @@ ORGANIZER;CN="World’s Parkour Family";PHONE=;WEBSITE="https://www.worlds
  parkourfamily.ch/wpfcamp":MAILTO:info@worldsparkourfamily.ch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Krkjam V3
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260807
+UID:3874740
+DESCRIPTION:<p>A competition\, street jam\, DJ set\, workshops\, activitie
+ s at the accommodation venue\, and cash prizes await you 💸💸💸<br>\
+ n<br>\nYou must be 16+ to stay overnight\; if you are younger\, you need p
+ arental consent and an adult guardian present on-site ‼️<br>\n<br>\nAc
+ commodation is provided in a gym hall 😀<br>\nPRICES:<br>\n- KRKJAM with
+ out accommodation: 60 PLN 💸<br>\n- KRKJAM + 1 night in the gym: 130 PLN
+ <br>\n- KRKJAM + 2 nights in the gym: 200 PLN 💸<br>\n<br>\nSign up <a r
+ el="noopener noreferrer" target="_blank" href="https://docs.google.com/for
+ ms/d/e/1FAIpQLScdKXYldaHw5TcTW_NxMxNqqSwYyy9SwRL9ZiN23u-ePiqRFQ/viewform?u
+ tm_source=ig&amp\;utm_medium=social&amp\;utm_content=link_in_bio">here</a>
+ .</p>
+LOCATION:Kraków\, Poland
+ORGANIZER;CN=KRKHOUSE;PHONE=;WEBSITE="https://docs.google.com/forms/d/e/1F
+ AIpQLScdKXYldaHw5TcTW_NxMxNqqSwYyy9SwRL9ZiN23u-ePiqRFQ/viewform?utm_source
+ =ig&utm_medium=social&utm_content=link_in_bio":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:East Nature Jam
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260810
@@ -7954,6 +8012,15 @@ ORGANIZER;CN="Parkour Kiel";PHONE=;WEBSITE=www.parkour-kiel.de:MAILTO:Park
  ourKiel@gmx.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -7974,15 +8041,6 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swings 'N Other Things
@@ -8018,6 +8076,37 @@ DESCRIPTION:<p>Another dope weekend comes to an end. <br>\nYou probably st
 GEO:53.5424593;10.0086303
 LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="DIE HALLE";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Frappe Society Jam / Comp / Party
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260905
+UID:3874736
+DESCRIPTION:<p>*September 5\, 2026* - SAVE THE DATE</p>\n<p>*🏴‍☠️
+  La Frappe Society 🏴‍☠️*</p>\n<p>*11-YEAR* jam / comp / party</p>
+ \n<p>🏃 OG Parkour street jam</p>\n<p>☠️ Sudden death skill competit
+ ion</p>\n<p>🏆 Cash prize (best male &amp\; best female)</p>\n<p>🎁 Bo
+ nus prizes</p>\n<p>🎉 After party</p>\n<p>📍 Geneva\, switzerland</p>\
+ n<p>More detailed infos and crazy poster coming soon !</p>\n<p>If some peo
+ ple want to jam and compet in Geneva 🤓</p>
+LOCATION:Geneva\, Switzerland
+ORGANIZER;CN="La Frappe Society";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grejam
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+UID:3874733
+DESCRIPTION:<p>Latest edition of the Grejam\, one of the best product from
+  the Grenoble community. Skills challenges throughout the city\, lots of p
+ eople and fun. DM us (<strong>Social Kick Movement)</strong> if you need m
+ ore informations\, and even if you don’t need some\, just to tell us you
+  ́re coming !</p></br>\n<p>Price: free</p>\n<p>Accomodation: locals\, dm 
+ them</p>\n<p>Food: not included</p>
+GEO:45.188529;5.724524
+LOCATION:Grenoble\, France
+ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
+ ment
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam

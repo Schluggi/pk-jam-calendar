@@ -15,4 +15,20 @@ LOCATION:Coimbra\, Portugal
 ORGANIZER;CN="Sara Serôdio";PHONE=;WEBSITE="https://chat.whatsapp.com/BkR
  RNi3T22s6cdTyTCHGSM":MAILTO:sara.serodio2001@gmail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portuguese Parkour Jam
+DTSTART:20260704T120000
+DTEND:20260706T130000
+UID:3849514
+DESCRIPTION:<p>Portuguese Parkour Jam&nbsp\;</p></br>\n<p>It will be in Sa
+ nto André on July 4th and 5th\, with lots of jumps\, good weather\, and g
+ reat company! There will also be t-shirts for anyone who wants one\, with 
+ the color/design shown in the image. <a rel="noopener noreferrer" target="
+ _blank" href="https://www.instagram.com/ruiruigatopreci?igsh=MXhvcjNmNnY3Z
+ mFkNA=="><strong>If you're interested\, talk to Rui to secure yours!</stro
+ ng></a></p>
+LOCATION:3840-553 Santo André\, Portugal
+ORGANIZER;CN="Rui Serrão";PHONE=;WEBSITE="https://www.instagram.com/ruiru
+ igatopreci?igsh=MXhvcjNmNnY3ZmFkNA==":MAILTO:
+END:VEVENT
 END:VCALENDAR
