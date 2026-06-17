@@ -165,4 +165,19 @@ LOCATION:Gdynia\, Poland
 ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
  2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mfp 2026 - International Parkour Festival
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+UID:3877098
+DESCRIPTION:<p>International Parkour Festival\, combining fun and jumps. P
+ eephole from whole Europe are there. Three days of organized time\, all in
+  good price!</p></br>\n<p>Price: 50€</p>\n<p>Accomodation: Sport hall</p
+ >\n<p>Food: not included</p>
+GEO:54.3895517;18.6466384
+LOCATION:Pokoleń Lechii Gdańsk 1\, 80-560 Gdańsk\, Poland
+ORGANIZER;CN="KS Movement";PHONE=;WEBSITE="https://ksmovement.pl/mfp-2026/
+ ?utm_source=ig&utm_medium=social&utm_content=link_in_bio":MAILTO:mfp@ksmov
+ ement.pl
+END:VEVENT
 END:VCALENDAR
