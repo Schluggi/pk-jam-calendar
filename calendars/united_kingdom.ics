@@ -467,6 +467,26 @@ BEGIN:VEVENT
 SUMMARY:Streetmedia Social V4: London
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260720
+UID:3874735
+DESCRIPTION:<p>3 days of street jams at iconic locations\, mini competitio
+ ns\, giveaways\, and of course our official pop up market and afterparty. 
+ <br>\n<br>\nSEE YOU ALL IN LONDON THIS JULY FOR WHAT IS SURE TO BE LONDONS
+  BIGGEST STREET EVENT IN YEARS. <br>\n<br>\nTickets are required for entry
+  to the pop-up market and afterparty only - no need for a ticket if you ar
+ e only attending the street jams. <br>\n<br>\nCheck out the event page for
+  a full itinerary and game plan.</p></br>\n<p>Price: street jam free\, par
+ ty &amp\; pop up market £11.55&nbsp\;</p>\n<p>Accomodation: not included<
+ /p>\n<p>Food: not included</p>
+GEO:51.5072178;-1.1549892
+LOCATION:London\, UK
+ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
+ streetmedia-social-v4-london-tickets-1980636664581":MAILTO:HQ@streetmedia.
+ store
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streetmedia Social V4: London
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
 UID:3712171
 DESCRIPTION:<p>Join us at the SM SOCIAL V4: LONDON to celebrate Parkour\, 
  independent artists\, and the incredible talent we see from our global com
@@ -506,26 +526,6 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
  RuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafCF1cappYn5G-Nk2R8FYhR
  tzIudmLYvNJcCE6AIFBy0cK4HkluyYToveXTxA_aem_Pg9yYVmXxHyi-gLdjXCGvg":MAILTO:
  HQ@streetmedia.store
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Streetmedia Social V4: London
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260720
-UID:3874735
-DESCRIPTION:<p>3 days of street jams at iconic locations\, mini competitio
- ns\, giveaways\, and of course our official pop up market and afterparty. 
- <br>\n<br>\nSEE YOU ALL IN LONDON THIS JULY FOR WHAT IS SURE TO BE LONDONS
-  BIGGEST STREET EVENT IN YEARS. <br>\n<br>\nTickets are required for entry
-  to the pop-up market and afterparty only - no need for a ticket if you ar
- e only attending the street jams. <br>\n<br>\nCheck out the event page for
-  a full itinerary and game plan.</p></br>\n<p>Price: street jam free\, par
- ty &amp\; pop up market £11.55&nbsp\;</p>\n<p>Accomodation: not included<
- /p>\n<p>Food: not included</p>
-GEO:51.5072178;-1.1549892
-LOCATION:London\, UK
-ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
- streetmedia-social-v4-london-tickets-1980636664581":MAILTO:HQ@streetmedia.
- store
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:British Parkour Championships

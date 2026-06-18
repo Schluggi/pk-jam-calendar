@@ -196,4 +196,20 @@ LOCATION:Amsterdam\, Netherlands
 ORGANIZER;CN="Quin Munki";PHONE=;WEBSITE="https://www.instagram.com/p/DXOq
  QFBDYna/?igsh=cW0yZHUxNnNhbjNh":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adapt V3
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+UID:3878958
+DESCRIPTION:<p>On July 11-12\, the streets of Enschede become your playgro
+ und.</p>\n<p>100 challenges across the city. Low pressure.</p>\n<p>High vi
+ bes.</p></br>\n<p>Day 1 → Explore\, train\, complete challenges Overnigh
+ t stay at our gym + breakfast included&nbsp\;</p></br>\n<p>Day 2 → Film 
+ your own parkour video (solo or team)</p></br>\n<p>Finale → Video screen
+ ing</p></br>\n<p>Price: ?</p>\n<p>Accomodation: in the gym</p>\n<p>Food: B
+ reakfast included</p></br>
+LOCATION:Enschede\, Netherlands
+ORGANIZER;CN="Elevation Freerun";PHONE=;WEBSITE="https://www.instagram.com
+ /reel/DWBXXYODHLp/?igsh=NnBjcnlnNGo1NGN1":MAILTO:
+END:VEVENT
 END:VCALENDAR

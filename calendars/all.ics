@@ -7395,25 +7395,6 @@ ORGANIZER;CN="Parkour Stuttgart e.V.";PHONE=;WEBSITE="https://parkour-stut
  tgart.de/parkour-stuttgart-jam/":MAILTO:jam@parkour-stuttgart.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-UID:3634453
-DESCRIPTION:<p>This event celebrates women in parkour. We look forward to 
- a weekend of workshops and jams with experienced local and international p
- arkour coaches.&nbsp\;</p></br>\n<p>More information will be posted in the
-  Facebook event and at instagram @cph_her.&nbsp\;</p></br>\n<p>WHO CAN JOI
- N?&nbsp\;</p>\n<p>We welcome all women and all levels\; coaches are experi
- enced and will be able to teach you something cool whether it's your first
-  day training parkour or your second decade.&nbsp\;</p></br>\n<p>AGE: 16+.
-  We expect that you are capable of managing your own stay and transport in
-  Copenhagen during the event.</p></br>\n<p>Price: 50€</p>\n<p>Accomodati
- on: no</p>\n<p>Food: not included</p>
-LOCATION:Copenhagen\, Denmark
-ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
- BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gizmo Style Battles 2026
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
@@ -7432,19 +7413,23 @@ ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
  gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Xtreme Days Festival
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260601
-UID:3768670
-DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
- eart of Sacile.</p>\n<p>And that’s not all: the new website is coming so
- on—it will be online shortly with all the latest news\, the full program
- \, and official updates.</p></br>\n<p>Instagram accout: <a rel="noopener n
- oreferrer" target="_blank" href="https://www.instagram.com/p/DVa5Y_QiFTE/?
- igsh=bGN1NTU0cnI5NWU0">https://www.instagram.com/p/DVa5Y_QiFTE/?igsh=bGN1N
- TU0cnI5NWU0</a></p>
-LOCATION:33077 Sacile\, Province of Pordenone\, Italy
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
+SUMMARY:Cpg Her - Copenhagen Parkour Gathering 2026
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:3634453
+DESCRIPTION:<p>This event celebrates women in parkour. We look forward to 
+ a weekend of workshops and jams with experienced local and international p
+ arkour coaches.&nbsp\;</p></br>\n<p>More information will be posted in the
+  Facebook event and at instagram @cph_her.&nbsp\;</p></br>\n<p>WHO CAN JOI
+ N?&nbsp\;</p>\n<p>We welcome all women and all levels\; coaches are experi
+ enced and will be able to teach you something cool whether it's your first
+  day training parkour or your second decade.&nbsp\;</p></br>\n<p>AGE: 16+.
+  We expect that you are capable of managing your own stay and transport in
+  Copenhagen during the event.</p></br>\n<p>Price: 50€</p>\n<p>Accomodati
+ on: no</p>\n<p>Food: not included</p>
+LOCATION:Copenhagen\, Denmark
+ORGANIZER;CN=Parkour.dk;PHONE=;WEBSITE="https://www.facebook.com/share/1DY
+ BhuPEfh/?mibextid=wwXIfr":MAILTO:cphparkourgathering@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xdream
@@ -7473,6 +7458,21 @@ DESCRIPTION:<p>This year we (the people of Twio X e.V.) are taking you bac
 LOCATION:04 Leipzig\, Germany
 ORGANIZER;CN="Twio X e.V.";PHONE=;WEBSITE="https://twio-x.de/interessierte
  /events/x-dream-2026/#nav":MAILTO:xdream@twio-x.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xtreme Days Festival
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3768670
+DESCRIPTION:<p>Three days of adrenaline\, music\, and pure energy in the h
+ eart of Sacile.</p>\n<p>And that’s not all: the new website is coming so
+ on—it will be online shortly with all the latest news\, the full program
+ \, and official updates.</p></br>\n<p>Instagram accout: <a rel="noopener n
+ oreferrer" target="_blank" href="https://www.instagram.com/p/DVa5Y_QiFTE/?
+ igsh=bGN1NTU0cnI5NWU0">https://www.instagram.com/p/DVa5Y_QiFTE/?igsh=bGN1N
+ TU0cnI5NWU0</a></p>
+LOCATION:33077 Sacile\, Province of Pordenone\, Italy
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freiburg Jam
@@ -7572,6 +7572,21 @@ LOCATION:Nuremberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Proljetni Jam Zagreb
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+UID:3864930
+DESCRIPTION:<p>This is an annual Croatian Jam held in Zagreb. No rules\, n
+ o comps\, just vibes and jumps. Everyone's welcome\, there will be drinks\
+ , music\, and sick challenges.&nbsp\;</p></br>\n<p>For any info / accomoda
+ tion contact: 0953673949</p></br>\n<p>Food: not included</p>\n<p>Price: fr
+ ee</p>
+LOCATION:Vladimira Ruždjaka\, 10000\, Zagreb\, Croatia
+ORGANIZER;CN="Parkour Hrvatska";PHONE=;WEBSITE="https://facebook.com/event
+ s/s/proljetni-jam-zagreb-2026/1618709605872840/":MAILTO:pokupec.tree@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Amsterdam Summer Jam
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260622
@@ -7592,21 +7607,6 @@ ORGANIZER;CN="Quin Munki";PHONE=;WEBSITE="https://www.instagram.com/p/DXOq
  QFBDYna/?igsh=cW0yZHUxNnNhbjNh":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Proljetni Jam Zagreb
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260622
-UID:3864930
-DESCRIPTION:<p>This is an annual Croatian Jam held in Zagreb. No rules\, n
- o comps\, just vibes and jumps. Everyone's welcome\, there will be drinks\
- , music\, and sick challenges.&nbsp\;</p></br>\n<p>For any info / accomoda
- tion contact: 0953673949</p></br>\n<p>Food: not included</p>\n<p>Price: fr
- ee</p>
-LOCATION:Vladimira Ruždjaka\, 10000\, Zagreb\, Croatia
-ORGANIZER;CN="Parkour Hrvatska";PHONE=;WEBSITE="https://facebook.com/event
- s/s/proljetni-jam-zagreb-2026/1618709605872840/":MAILTO:pokupec.tree@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Öpfv Jam & Contest Linz
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260620
@@ -7616,6 +7616,24 @@ GEO:nan;nan
 LOCATION:Zero Limits Trendsporthalle
 ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /summer_jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Extremis Fam Summer 2026
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+UID:3825947
+DESCRIPTION:<p>3 days jam in the In Extremis gym!</p></br>\n<p>Price: 99
+ €</p>\n<p>Food: Breakfast\, Lunch and Dinner included</p>\n<p>Accomodati
+ on: in the gym</p></br>\n<p>Sign up <a rel="noopener noreferrer" target="_
+ blank" href="https://inextremisclub.com/en/in-extremis-fam-summer-2025/"><
+ strong>here</strong></a>.</p>
+GEO:41.5246241;2.1292487
+LOCATION:In Extremis Club Academy\, Carrer de la Circumval·lació\, Barbe
+ rà del Vallès\, Spain
+ORGANIZER;CN="In Extremis Club";PHONE=;WEBSITE="https://inextremisclub.com
+ /producto/in-extremis-fam-winter-2024/?fbclid=PAZXh0bgNhZW0CMTEAAacs3WIvNn
+ qICxR1bgB4mRqEfhSPGJDNiqednmH7t-BcmbQt9uLSzRdSqdjzVQ_aem_YeqRUSkVYelXEYnU-
+ ZTVeg":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heljam
@@ -7650,24 +7668,6 @@ ORGANIZER;CN="Big street project";PHONE=;WEBSITE="https://bigstreetproject
  .sk":MAILTO:tomas@bigstreetproject.sk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:In Extremis Fam Summer 2026
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260629
-UID:3825947
-DESCRIPTION:<p>3 days jam in the In Extremis gym!</p></br>\n<p>Price: 99
- €</p>\n<p>Food: Breakfast\, Lunch and Dinner included</p>\n<p>Accomodati
- on: in the gym</p></br>\n<p>Sign up <a rel="noopener noreferrer" target="_
- blank" href="https://inextremisclub.com/en/in-extremis-fam-summer-2025/"><
- strong>here</strong></a>.</p>
-GEO:41.5246241;2.1292487
-LOCATION:In Extremis Club Academy\, Carrer de la Circumval·lació\, Barbe
- rà del Vallès\, Spain
-ORGANIZER;CN="In Extremis Club";PHONE=;WEBSITE="https://inextremisclub.com
- /producto/in-extremis-fam-winter-2024/?fbclid=PAZXh0bgNhZW0CMTEAAacs3WIvNn
- qICxR1bgB4mRqEfhSPGJDNiqednmH7t-BcmbQt9uLSzRdSqdjzVQ_aem_YeqRUSkVYelXEYnU-
- ZTVeg":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aerojam 2026
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260706
@@ -7698,38 +7698,6 @@ ORGANIZER;CN="Rui Serrão";PHONE=;WEBSITE="https://www.instagram.com/ruiru
  igatopreci?igsh=MXhvcjNmNnY3ZmFkNA==":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Movers Jam V2
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260713
-UID:3825956
-DESCRIPTION:<p>MOVERS JAM V2!<br>\n<br>\nTwo days of outdoor training<br>\
- nPK Competition at <a rel="noopener noreferrer" target="_blank" href="http
- s://www.instagram.com/podw/">@podw</a>órko.art<br>\nA brand-new next-leve
- l setup<br>\nPremiere of the new MOVERS film<br>\nAfter-party\, concert\, 
- DJ sets<br>\nTons of extra shenanigans<br>\n<br>\nSave the date: 10–12.0
- 7.26 — see you in 3City!<br>\n<br>\nRegistration drops real soon</p>
-LOCATION:Gdynia\, Poland
-ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
- 2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parkour Session Miramas
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260713
-UID:3874734
-DESCRIPTION:<p>A free international parkour festival running for over 15 y
- ears. Join traceurs from across Europe for training\, workshops\, unique o
- bstacle course\, nature and community gatherings. No competition – just 
- a celebration of the many ways to practice and experience parkour.</p></br
- >\n<p>Price: free</p>\n<p>Accomodation: camping on site</p>\n<p>Food: all 
- inclusivde</p></br>\n<p><a rel="noopener noreferrer" target="_blank" href=
- "https://www.instagram.com/parkourmiramas/">https://www.instagram.com/park
- ourmiramas/</a></p>
-LOCATION:8 Av. Daniel Paul\, 13140 Miramas\, France
-ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
- .com/":MAILTO:contact@parkourmiramas.fr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ceci N'Est Pas Un Jam
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260713
@@ -7750,6 +7718,54 @@ GEO:51.0500182;3.7303351
 LOCATION:Ghent\, Belgium
 ORGANIZER;CN="Flow De Gand & Ambras";PHONE=;WEBSITE="https://www.flowdegan
  d.be/ceci-n-est-pas-un-stick":MAILTO:info@flowdegand.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Session Miramas
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+UID:3874734
+DESCRIPTION:<p>A free international parkour festival running for over 15 y
+ ears. Join traceurs from across Europe for training\, workshops\, unique o
+ bstacle course\, nature and community gatherings. No competition – just 
+ a celebration of the many ways to practice and experience parkour.</p></br
+ >\n<p>Price: free</p>\n<p>Accomodation: camping on site</p>\n<p>Food: all 
+ inclusivde</p></br>\n<p><a rel="noopener noreferrer" target="_blank" href=
+ "https://www.instagram.com/parkourmiramas/">https://www.instagram.com/park
+ ourmiramas/</a></p>
+LOCATION:8 Av. Daniel Paul\, 13140 Miramas\, France
+ORGANIZER;CN="Parkour Miramas";PHONE=;WEBSITE="https://www.parkour-miramas
+ .com/":MAILTO:contact@parkourmiramas.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movers Jam V2
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+UID:3825956
+DESCRIPTION:<p>MOVERS JAM V2!<br>\n<br>\nTwo days of outdoor training<br>\
+ nPK Competition at <a rel="noopener noreferrer" target="_blank" href="http
+ s://www.instagram.com/podw/">@podw</a>órko.art<br>\nA brand-new next-leve
+ l setup<br>\nPremiere of the new MOVERS film<br>\nAfter-party\, concert\, 
+ DJ sets<br>\nTons of extra shenanigans<br>\n<br>\nSave the date: 10–12.0
+ 7.26 — see you in 3City!<br>\n<br>\nRegistration drops real soon</p>
+LOCATION:Gdynia\, Poland
+ORGANIZER;CN=@MOVERSPLX;PHONE=;WEBSITE="https://www.instagram.com/p/DHTvKq
+ 2tqpq/?igsh=MWl6MnUzaDNtY2JtNw%3D%3D&img_index=1":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adapt V3
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+UID:3878958
+DESCRIPTION:<p>On July 11-12\, the streets of Enschede become your playgro
+ und.</p>\n<p>100 challenges across the city. Low pressure.</p>\n<p>High vi
+ bes.</p></br>\n<p>Day 1 → Explore\, train\, complete challenges Overnigh
+ t stay at our gym + breakfast included&nbsp\;</p></br>\n<p>Day 2 → Film 
+ your own parkour video (solo or team)</p></br>\n<p>Finale → Video screen
+ ing</p></br>\n<p>Price: ?</p>\n<p>Accomodation: in the gym</p>\n<p>Food: B
+ reakfast included</p></br>
+LOCATION:Enschede\, Netherlands
+ORGANIZER;CN="Elevation Freerun";PHONE=;WEBSITE="https://www.instagram.com
+ /reel/DWBXXYODHLp/?igsh=NnBjcnlnNGo1NGN1":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Ulm Jam 26 (Streets Jam)
@@ -7781,6 +7797,26 @@ GEO:48.3680782;9.9592634
 LOCATION:Am Hochsträß 8\, 89081 Ulm\, Germany
 ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/impr
  essum/":MAILTO:streets.ev@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streetmedia Social V4: London
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+UID:3874735
+DESCRIPTION:<p>3 days of street jams at iconic locations\, mini competitio
+ ns\, giveaways\, and of course our official pop up market and afterparty. 
+ <br>\n<br>\nSEE YOU ALL IN LONDON THIS JULY FOR WHAT IS SURE TO BE LONDONS
+  BIGGEST STREET EVENT IN YEARS. <br>\n<br>\nTickets are required for entry
+  to the pop-up market and afterparty only - no need for a ticket if you ar
+ e only attending the street jams. <br>\n<br>\nCheck out the event page for
+  a full itinerary and game plan.</p></br>\n<p>Price: street jam free\, par
+ ty &amp\; pop up market £11.55&nbsp\;</p>\n<p>Accomodation: not included<
+ /p>\n<p>Food: not included</p>
+GEO:51.5072178;-1.1549892
+LOCATION:London\, UK
+ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
+ streetmedia-social-v4-london-tickets-1980636664581":MAILTO:HQ@streetmedia.
+ store
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Streetmedia Social V4: London
@@ -7825,26 +7861,6 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
  RuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafCF1cappYn5G-Nk2R8FYhR
  tzIudmLYvNJcCE6AIFBy0cK4HkluyYToveXTxA_aem_Pg9yYVmXxHyi-gLdjXCGvg":MAILTO:
  HQ@streetmedia.store
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Streetmedia Social V4: London
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260720
-UID:3874735
-DESCRIPTION:<p>3 days of street jams at iconic locations\, mini competitio
- ns\, giveaways\, and of course our official pop up market and afterparty. 
- <br>\n<br>\nSEE YOU ALL IN LONDON THIS JULY FOR WHAT IS SURE TO BE LONDONS
-  BIGGEST STREET EVENT IN YEARS. <br>\n<br>\nTickets are required for entry
-  to the pop-up market and afterparty only - no need for a ticket if you ar
- e only attending the street jams. <br>\n<br>\nCheck out the event page for
-  a full itinerary and game plan.</p></br>\n<p>Price: street jam free\, par
- ty &amp\; pop up market £11.55&nbsp\;</p>\n<p>Accomodation: not included<
- /p>\n<p>Food: not included</p>
-GEO:51.5072178;-1.1549892
-LOCATION:London\, UK
-ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
- streetmedia-social-v4-london-tickets-1980636664581":MAILTO:HQ@streetmedia.
- store
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Camp Gütersloh
@@ -8027,15 +8043,6 @@ ORGANIZER;CN="KS Movement";PHONE=;WEBSITE="https://ksmovement.pl/mfp-2026/
  ement.pl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unleashed Jam & Contest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:3634487
-DESCRIPTION:<p>save the date</p>
-LOCATION:Sankt Martin im Innkreis\, Austria
-ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -8056,6 +8063,15 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleashed Jam & Contest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:3634487
+DESCRIPTION:<p>save the date</p>
+LOCATION:Sankt Martin im Innkreis\, Austria
+ORGANIZER;CN="Team Unleashed";PHONE=;WEBSITE=:MAILTO:teamunleashed@gmx.at
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swings 'N Other Things
