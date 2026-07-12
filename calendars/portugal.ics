@@ -31,4 +31,20 @@ LOCATION:3840-553 Santo André\, Portugal
 ORGANIZER;CN="Rui Serrão";PHONE=;WEBSITE="https://www.instagram.com/ruiru
  igatopreci?igsh=MXhvcjNmNnY3ZmFkNA==":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Girls Jam
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260817
+UID:3911829
+DESCRIPTION:<p>The 5th edition of the anual women’s jam will happen on A
+ ugust 15th and 16th\, with a lots of good spots\, good beaches\, and the b
+ est company! There will be a outdoor sleeping spot offered by the Trace Pr
+ oject team for camping. Its a safe spot and you will get access to bathroo
+ m. Enter the whatsapp group chat to know more (locations\, rides and more)
+ </p></br>\n<p>Price: free</p>\n<p>Food: No food included</p>\n<p>Accomodat
+ ion: yes</p>
+LOCATION:Lourinhã\, Portugal
+ORGANIZER;CN="Sara Serôdio";PHONE=;WEBSITE="https://chat.whatsapp.com/BkR
+ RNi3T22s6cdTyTCHGSM":MAILTO:sara.serodio2001@gmail.com
+END:VEVENT
 END:VCALENDAR
