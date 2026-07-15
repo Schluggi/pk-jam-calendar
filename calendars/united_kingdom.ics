@@ -531,4 +531,20 @@ LOCATION:United Kingdom
 ORGANIZER;CN=ParkourUk;PHONE=;WEBSITE="https://www.instagram.com/p/DVQT5OR
  io2C/?igsh=dmcxa21qMnNwZmds":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blackberry Jam
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260822
+UID:3913849
+DESCRIPTION:<p>We want to invite you all to Blackberry jam on the 22nd of 
+ August at Southease bridge. There’ll be jumps\, music\, BBQ a little scr
+ eening and much more. We’ll give you all the info you need in the next w
+ eeks but for now save the date and hopefully see you there ✨<br>\nHazal\
+ , Stani\, Lisa</p></br>\n<p>Price: free</p>\n<p>Food: BBQ</p>\n<p>Accomoda
+ tion: not sure\, reach out to the organisers</p>
+LOCATION:Brighton\, Brighton and Hove\, UK
+ORGANIZER;CN="Lisa, Stani, Hazal";PHONE=;WEBSITE="https://www.instagram.co
+ m/p/DavPqUSNOhV/?igsh=MTF4NnI1ZDlpeGQyaA%3D%3D&ig_mid=6BF7FDF5-E12F-4458-9
+ 023-46504429D497&utm_source=igweb":MAILTO:
+END:VEVENT
 END:VCALENDAR

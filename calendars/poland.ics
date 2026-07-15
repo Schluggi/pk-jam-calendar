@@ -180,4 +180,18 @@ ORGANIZER;CN="KS Movement";PHONE=;WEBSITE="https://ksmovement.pl/mfp-2026/
  ?utm_source=ig&utm_medium=social&utm_content=link_in_bio":MAILTO:mfp@ksmov
  ement.pl
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrocław Takeover
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260919
+UID:3913850
+DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
+ at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
+ treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
+ ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
+ .09-20.09<br>\n<br>\nMORE INFO SOON</p>
+LOCATION:Wrocław\, Poland
+ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
+ aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
+END:VEVENT
 END:VCALENDAR
