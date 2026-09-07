@@ -8151,20 +8151,29 @@ LOCATION:Geneva\, Switzerland
 ORGANIZER;CN="La Frappe Society";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grejam
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-UID:3874733
-DESCRIPTION:<p>Latest edition of the Grejam\, one of the best product from
-  the Grenoble community. Skills challenges throughout the city\, lots of p
- eople and fun. DM us (<strong>Social Kick Movement)</strong> if you need m
- ore informations\, and even if you don’t need some\, just to tell us you
-  ́re coming !</p></br>\n<p>Price: free</p>\n<p>Accomodation: locals\, dm 
- them</p>\n<p>Food: not included</p>
-GEO:45.188529;5.724524
-LOCATION:Grenoble\, France
-ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
- ment
+SUMMARY:Brakel Jam
+DTSTART:20260906T120000
+DTEND:20260907T130000
+UID:4031082
+DESCRIPTION:<p>more information coming soon</p>
+LOCATION:Halsembergweg 14\, 9660 Brakel\, Belgium
+ORGANIZER;CN="Driess Vernaillen?";PHONE=;WEBSITE="https://www.instagram.co
+ m/p/Dc3MdY6MYdP/?igsi=enZkbms0bWplc3R2":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hauptsache Hauptwache
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+UID:4031084
+DESCRIPTION:<p>Hauptsache Hauptwache - the name says it all.</p></br>\n<p>
+ Frankfurt is inviting you to its second Jam with video contest.&nbsp\;</p>
+ </br>\n<p>So see you on the streets!</p></br>\n<p>DM the <a rel="noopener 
+ noreferrer" target="_blank" href="https://www.instagram.com/p/DcwBQywlzSK/
+ ?igsi=OXcwd3NhenJ0enAz">instagram channel</a> for sleeping spot</p>\n<p>Pr
+ ice: free</p>\n<p>Food: bring your own</p>
+LOCATION:An der Hauptwache\, 60313 Frankfurt am Main\, Germany
+ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE="https://www.instagram.com/p/
+ DcwBQywlzSK/?igsi=OXcwd3NhenJ0enAz":MAILTO:ihab-yassin@web.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wrocław Takeover
@@ -8201,6 +8210,22 @@ DESCRIPTION:<p>Erste Ausgabe des „MOST WANTED JAM“</p></br>\n<p>Eine z
 LOCATION:Amstetten\, Austria
 ORGANIZER;CN="Simon Wöginger";PHONE=;WEBSITE=@simon_woegi:MAILTO:woeginge
  rsimon1999@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grejam
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+UID:3874733
+DESCRIPTION:<p>Latest edition of the Grejam\, one of the best product from
+  the Grenoble community. Skills challenges throughout the city\, lots of p
+ eople and fun. DM us (<strong>Social Kick Movement)</strong> if you need m
+ ore informations\, and even if you don’t need some\, just to tell us you
+  ́re coming !</p></br>\n<p>Price: free</p>\n<p>Accomodation: locals\, dm 
+ them</p>\n<p>Food: not included</p>
+GEO:45.188529;5.724524
+LOCATION:Grenoble\, France
+ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
+ ment
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam
@@ -8363,5 +8388,27 @@ GEO:nan;nan
 LOCATION:Zero Limits Trendsporthalle
 ORGANIZER;CN="Team Obsession";PHONE=;WEBSITE="https://www.teamobsession.at
  /xmas_jam-info.html":MAILTO:info@teamobsession.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Own The Spot Indoor Edition
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261221
+UID:4031083
+DESCRIPTION:<p>Own the Spot indoor edition</p></br>\n<p>more information c
+ oming soon</p>
+GEO:51.42314229999999;5.462289699999999
+LOCATION:Eindhoven\, Netherlands
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="https://www.instagram.com/p/
+ DcRgiYANfHd/?igsi=OHN2OHQzODZneDNt":MAILTO:info@commitfreerun.nl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Str!De Berlin
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+UID:4031078
+DESCRIPTION:<p>save the date</p>
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
+ sollfrank@googlemail.com
 END:VEVENT
 END:VCALENDAR

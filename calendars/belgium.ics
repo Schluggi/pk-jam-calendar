@@ -588,4 +588,14 @@ LOCATION:Diestsesteenweg 104\, 3010 Leuven\, Belgium
 ORGANIZER;CN=Springstof;PHONE=;WEBSITE="https://www.springstofparkour.com/
  ":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brakel Jam
+DTSTART:20260906T120000
+DTEND:20260907T130000
+UID:4031082
+DESCRIPTION:<p>more information coming soon</p>
+LOCATION:Halsembergweg 14\, 9660 Brakel\, Belgium
+ORGANIZER;CN="Driess Vernaillen?";PHONE=;WEBSITE="https://www.instagram.co
+ m/p/Dc3MdY6MYdP/?igsi=enZkbms0bWplc3R2":MAILTO:
+END:VEVENT
 END:VCALENDAR

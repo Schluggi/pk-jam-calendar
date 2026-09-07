@@ -212,4 +212,16 @@ LOCATION:Enschede\, Netherlands
 ORGANIZER;CN="Elevation Freerun";PHONE=;WEBSITE="https://www.instagram.com
  /reel/DWBXXYODHLp/?igsh=NnBjcnlnNGo1NGN1":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Own The Spot Indoor Edition
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261221
+UID:4031083
+DESCRIPTION:<p>Own the Spot indoor edition</p></br>\n<p>more information c
+ oming soon</p>
+GEO:51.42314229999999;5.462289699999999
+LOCATION:Eindhoven\, Netherlands
+ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="https://www.instagram.com/p/
+ DcRgiYANfHd/?igsi=OHN2OHQzODZneDNt":MAILTO:info@commitfreerun.nl
+END:VEVENT
 END:VCALENDAR

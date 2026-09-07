@@ -3201,6 +3201,21 @@ LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
 ORGANIZER;CN="DIE HALLE";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hauptsache Hauptwache
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+UID:4031084
+DESCRIPTION:<p>Hauptsache Hauptwache - the name says it all.</p></br>\n<p>
+ Frankfurt is inviting you to its second Jam with video contest.&nbsp\;</p>
+ </br>\n<p>So see you on the streets!</p></br>\n<p>DM the <a rel="noopener 
+ noreferrer" target="_blank" href="https://www.instagram.com/p/DcwBQywlzSK/
+ ?igsi=OXcwd3NhenJ0enAz">instagram channel</a> for sleeping spot</p>\n<p>Pr
+ ice: free</p>\n<p>Food: bring your own</p>
+LOCATION:An der Hauptwache\, 60313 Frankfurt am Main\, Germany
+ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE="https://www.instagram.com/p/
+ DcwBQywlzSK/?igsi=OXcwd3NhenJ0enAz":MAILTO:ihab-yassin@web.de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Autumn Jam - Parkourhalle Lani
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
@@ -3279,5 +3294,15 @@ DESCRIPTION:<p>Kurz vor Ende des Jahres lassen wir es noch mal krachen mit
 LOCATION:Leopoldstraße 50-58\, 44147 Dortmund\, Germany
 ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
  :MAILTO:info@parkourdortmund.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Str!De Berlin
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+UID:4031078
+DESCRIPTION:<p>save the date</p>
+LOCATION:Berlin\, Germany
+ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
+ sollfrank@googlemail.com
 END:VEVENT
 END:VCALENDAR
