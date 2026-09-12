@@ -8176,18 +8176,20 @@ ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE="https://www.instagram.com/p/
  DcwBQywlzSK/?igsi=OXcwd3NhenJ0enAz":MAILTO:ihab-yassin@web.de
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wrocław Takeover
+SUMMARY:Grejam
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260919
-UID:3913850
-DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
- at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
- treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
- ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
- .09-20.09<br>\n<br>\nMORE INFO SOON</p>
-LOCATION:Wrocław\, Poland
-ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
- aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
+DTEND;VALUE=DATE:20260921
+UID:3874733
+DESCRIPTION:<p>Latest edition of the Grejam\, one of the best product from
+  the Grenoble community. Skills challenges throughout the city\, lots of p
+ eople and fun. DM us (<strong>Social Kick Movement)</strong> if you need m
+ ore informations\, and even if you don’t need some\, just to tell us you
+  ́re coming !</p></br>\n<p>Price: free</p>\n<p>Accomodation: locals\, dm 
+ them</p>\n<p>Food: not included</p>
+GEO:45.188529;5.724524
+LOCATION:Grenoble\, France
+ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
+ ment
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Most Wanted Jam
@@ -8212,20 +8214,18 @@ ORGANIZER;CN="Simon Wöginger";PHONE=;WEBSITE=@simon_woegi:MAILTO:woeginge
  rsimon1999@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grejam
+SUMMARY:Wrocław Takeover
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-UID:3874733
-DESCRIPTION:<p>Latest edition of the Grejam\, one of the best product from
-  the Grenoble community. Skills challenges throughout the city\, lots of p
- eople and fun. DM us (<strong>Social Kick Movement)</strong> if you need m
- ore informations\, and even if you don’t need some\, just to tell us you
-  ́re coming !</p></br>\n<p>Price: free</p>\n<p>Accomodation: locals\, dm 
- them</p>\n<p>Food: not included</p>
-GEO:45.188529;5.724524
-LOCATION:Grenoble\, France
-ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
- ment
+DTEND;VALUE=DATE:20260919
+UID:3913850
+DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
+ at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
+ treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
+ ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
+ .09-20.09<br>\n<br>\nMORE INFO SOON</p>
+LOCATION:Wrocław\, Poland
+ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
+ aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam
@@ -8337,6 +8337,24 @@ DESCRIPTION:<p>Parkour World Championships 2026: Brno\, Czech Republic</p>
 LOCATION:Vídeňská 297/99\, 639 00 Brno-střed\, Czechia
 ORGANIZER;CN="Parkour Earth";PHONE=;WEBSITE="https://www.instagram.com/p/D
  PtOPcijXwc/":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Gizmo
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+UID:4047433
+DESCRIPTION:<p>LIL GIZMO IS COMING.<br>\n<br>\nFrom November 20–22\, the
+  next generation takes over Die Halle.<br>\n<br>\nLil Gizmo is our U19 Sty
+ le Battle:<br>\n16 young athletes\, one setup\, music\, light and movement
+ .<br>\n<br>\nQualify onsite\, make the Top 16 and bring your own style int
+ o the battle.<br>\n<br>\nThis is not only about tricks.<br>\nIt’s about 
+ creativity\, expression and what you make out of the space.<br>\n<br>\n20
+ –22 November 2026 · Die Halle Hamburg<br>\nFor athletes up to 18 years 
+ old.</p></br>\n<p>Accomodation: ?</p>\n<p>Food: ?</p>\n<p>Price: ?</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ lil-gizmo/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back 2 The Roots Jam 2026

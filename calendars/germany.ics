@@ -3256,6 +3256,24 @@ ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=www.parkourhalle-lani.de:M
  AILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Little Gizmo
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+UID:4047433
+DESCRIPTION:<p>LIL GIZMO IS COMING.<br>\n<br>\nFrom November 20–22\, the
+  next generation takes over Die Halle.<br>\n<br>\nLil Gizmo is our U19 Sty
+ le Battle:<br>\n16 young athletes\, one setup\, music\, light and movement
+ .<br>\n<br>\nQualify onsite\, make the Top 16 and bring your own style int
+ o the battle.<br>\n<br>\nThis is not only about tricks.<br>\nIt’s about 
+ creativity\, expression and what you make out of the space.<br>\n<br>\n20
+ –22 November 2026 · Die Halle Hamburg<br>\nFor athletes up to 18 years 
+ old.</p></br>\n<p>Accomodation: ?</p>\n<p>Food: ?</p>\n<p>Price: ?</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ lil-gizmo/":MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Back 2 The Roots Jam 2026
 DTSTART:20261128T110000
 DTEND:20261129T180000
