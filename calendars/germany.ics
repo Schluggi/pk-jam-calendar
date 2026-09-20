@@ -3323,4 +3323,17 @@ LOCATION:Berlin\, Germany
 ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
  sollfrank@googlemail.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hauptsache Hauptwache
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270906
+UID:4070463
+DESCRIPTION:<p>It’s that time again—the Hauptsache Hauptwache Jam in F
+ rankfurt is back for its third edition!</p></br>\n<p>Awesome jumps\, even 
+ better vibes\, a competition\, and places to sleep are all on the agenda.<
+ /p></br>\n<p>More info coming soon—stay tuned or you’ll be sorry!</p>
+LOCATION:An der Hauptwache\, 60313 Frankfurt am Main\, Germany
+ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE="https://www.instagram.com/p/
+ DcwBQywlzSK/?igsi=OXcwd3NhenJ0enAz":MAILTO:ihab-yassin@web.de
+END:VEVENT
 END:VCALENDAR

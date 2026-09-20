@@ -8192,6 +8192,20 @@ ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
  ment
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wrocław Takeover
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260919
+UID:3913850
+DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
+ at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
+ treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
+ ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
+ .09-20.09<br>\n<br>\nMORE INFO SOON</p>
+LOCATION:Wrocław\, Poland
+ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
+ aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Most Wanted Jam
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
@@ -8212,20 +8226,6 @@ DESCRIPTION:<p>Erste Ausgabe des „MOST WANTED JAM“</p></br>\n<p>Eine z
 LOCATION:Amstetten\, Austria
 ORGANIZER;CN="Simon Wöginger";PHONE=;WEBSITE=@simon_woegi:MAILTO:woeginge
  rsimon1999@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wrocław Takeover
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260919
-UID:3913850
-DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
- at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
- treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
- ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
- .09-20.09<br>\n<br>\nMORE INFO SOON</p>
-LOCATION:Wrocław\, Poland
-ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
- aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam
@@ -8428,5 +8428,28 @@ DESCRIPTION:<p>save the date</p>
 LOCATION:Berlin\, Germany
 ORGANIZER;CN="Louke Wilson & Silke Sollfrank";PHONE=;WEBSITE=:MAILTO:silke
  sollfrank@googlemail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omfg - Oslo Movement Festival Gathering
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270614
+UID:4070464
+DESCRIPTION:<p>save the date</p>
+GEO:60.8809476;10.9394781
+LOCATION:Brumunddal\, Norway
+ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hauptsache Hauptwache
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270906
+UID:4070463
+DESCRIPTION:<p>It’s that time again—the Hauptsache Hauptwache Jam in F
+ rankfurt is back for its third edition!</p></br>\n<p>Awesome jumps\, even 
+ better vibes\, a competition\, and places to sleep are all on the agenda.<
+ /p></br>\n<p>More info coming soon—stay tuned or you’ll be sorry!</p>
+LOCATION:An der Hauptwache\, 60313 Frankfurt am Main\, Germany
+ORGANIZER;CN=ParkourFrankfurt;PHONE=;WEBSITE="https://www.instagram.com/p/
+ DcwBQywlzSK/?igsi=OXcwd3NhenJ0enAz":MAILTO:ihab-yassin@web.de
 END:VEVENT
 END:VCALENDAR
