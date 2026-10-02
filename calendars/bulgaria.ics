@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/Schluggi/pk-jam-calendar
+BEGIN:VEVENT
+SUMMARY:Autumn Jam Stamboliyski
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261024
+UID:4091781
+DESCRIPTION:<p>On the 24th of October we will have a jam at the parkour pa
+ rk in Stamboliyski\, Bulgaria. The starting time is 10:00 AM. We try to ha
+ ve at least 2 jams a year across Bulgaria to stay in touch with old friend
+ s and meet new faces. We will be really happy if you come to train with us
+  and visit our country.</p></br>\n<p>Price: free</p>\n<p>Food: not include
+ d</p>\n<p>Accomodation: No (but let us know if you are coming and we will 
+ try to host you)</p>
+LOCATION:4210\, Bulgaria
+ORGANIZER;CN="Valentina Lilova, Nikola Harapov, Recreate parkour";PHONE=;W
+ EBSITE=:MAILTO:valentina.lilova98@gmail.com
+END:VEVENT
+END:VCALENDAR

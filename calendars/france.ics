@@ -472,4 +472,14 @@ LOCATION:Grenoble\, France
 ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
  ment
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biarritz Jam And Screening
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+UID:4091783
+DESCRIPTION:<p>Jam and screening of "Pousser la machine"</p></br>\n<p>for 
+ more information check @bricepoule instagram account</p>
+LOCATION:64200 Biarritz\, France
+ORGANIZER;CN="Brice Poule";PHONE=;WEBSITE=@bricepoule:MAILTO:
+END:VEVENT
 END:VCALENDAR

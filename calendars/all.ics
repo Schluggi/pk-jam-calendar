@@ -8241,29 +8241,14 @@ ORGANIZER;CN=;PHONE=;WEBSITE="https://chat.whatsapp.com/JXncsItIxbxG9Knt2s
  DrSM":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rt - Malaga
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:4080156
-DESCRIPTION:<p>A weekend to get moving together&nbsp\;</p></br>\n<p>An RT 
- (Traceurs’ Meet-up) is a gathering of parkour practitioners. We train at
-  the best spots in the city\, head out into the countryside and share what
-  this sport has given us. This edition is open to the national and interna
- tional community\, with the best weather in Europe for getting active outd
- oors in the middle of October. &nbsp\;</p></br>\n<p>Weekend programme</p>\
- n<p>Provisional and 100% live. The exact locations and any changes will be
-  announced via the WhatsApp group. &nbsp\;</p></br>\n<p>Proposed workshops
- &nbsp\;</p>\n<p>Two workshops in the pipeline\, yet to be confirmed. Here
- ’s what’s in the pipeline:&nbsp\;</p>\n<p>Creativity&nbsp\;</p>\n<p>Fi
- nd your own movement. With Paul (sympanic.parkour) &nbsp\;</p></br>\n<p>Pe
- rformance</p>\n<p>Strength\, control and power. With Alain (tot.move) &nbs
- p\;</p></br>\n<p>RT MÁLAGA Reunión de Traceurs · 24–25 octubre &nbsp\
- ;¿Questions? plataformapepadd@gmail.com · 677 620 665</p></br>\n<p>Price
- : free</p>\n<p>Food: not included</p>\n<p>Accomodation: possible</p>
-LOCATION:Málaga\, Province of Málaga\, Spain
-ORGANIZER;CN="Parkour Movers, DAPP, Team Coast, Parkour Costa del Sol und 
- PEPADD";PHONE=;WEBSITE="https://clasesdeparkour.es/rt-parkour-malaga/":MAI
- LTO:eggert-frederick@web.de
+SUMMARY:Biarritz Jam And Screening
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+UID:4091783
+DESCRIPTION:<p>Jam and screening of "Pousser la machine"</p></br>\n<p>for 
+ more information check @bricepoule instagram account</p>
+LOCATION:64200 Biarritz\, France
+ORGANIZER;CN="Brice Poule";PHONE=;WEBSITE=@bricepoule:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Autumn Jam - Parkourhalle Lani
@@ -8304,6 +8289,47 @@ GEO:51.9904;7.66672
 LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
 ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=www.parkourhalle-lani.de:M
  AILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rt - Malaga
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:4080156
+DESCRIPTION:<p>A weekend to get moving together&nbsp\;</p></br>\n<p>An RT 
+ (Traceurs’ Meet-up) is a gathering of parkour practitioners. We train at
+  the best spots in the city\, head out into the countryside and share what
+  this sport has given us. This edition is open to the national and interna
+ tional community\, with the best weather in Europe for getting active outd
+ oors in the middle of October. &nbsp\;</p></br>\n<p>Weekend programme</p>\
+ n<p>Provisional and 100% live. The exact locations and any changes will be
+  announced via the WhatsApp group. &nbsp\;</p></br>\n<p>Proposed workshops
+ &nbsp\;</p>\n<p>Two workshops in the pipeline\, yet to be confirmed. Here
+ ’s what’s in the pipeline:&nbsp\;</p>\n<p>Creativity&nbsp\;</p>\n<p>Fi
+ nd your own movement. With Paul (sympanic.parkour) &nbsp\;</p></br>\n<p>Pe
+ rformance</p>\n<p>Strength\, control and power. With Alain (tot.move) &nbs
+ p\;</p></br>\n<p>RT MÁLAGA Reunión de Traceurs · 24–25 octubre &nbsp\
+ ;¿Questions? plataformapepadd@gmail.com · 677 620 665</p></br>\n<p>Price
+ : free</p>\n<p>Food: not included</p>\n<p>Accomodation: possible</p>
+LOCATION:Málaga\, Province of Málaga\, Spain
+ORGANIZER;CN="Parkour Movers, DAPP, Team Coast, Parkour Costa del Sol und 
+ PEPADD";PHONE=;WEBSITE="https://clasesdeparkour.es/rt-parkour-malaga/":MAI
+ LTO:eggert-frederick@web.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autumn Jam Stamboliyski
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261024
+UID:4091781
+DESCRIPTION:<p>On the 24th of October we will have a jam at the parkour pa
+ rk in Stamboliyski\, Bulgaria. The starting time is 10:00 AM. We try to ha
+ ve at least 2 jams a year across Bulgaria to stay in touch with old friend
+ s and meet new faces. We will be really happy if you come to train with us
+  and visit our country.</p></br>\n<p>Price: free</p>\n<p>Food: not include
+ d</p>\n<p>Accomodation: No (but let us know if you are coming and we will 
+ try to host you)</p>
+LOCATION:4210\, Bulgaria
+ORGANIZER;CN="Valentina Lilova, Nikola Harapov, Recreate parkour";PHONE=;W
+ EBSITE=:MAILTO:valentina.lilova98@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ollerup Parkour Week & Jam
