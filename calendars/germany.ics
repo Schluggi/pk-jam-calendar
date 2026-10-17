@@ -3314,6 +3314,20 @@ ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
  :MAILTO:info@parkourdortmund.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ice-H Jam
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261220
+UID:4111173
+DESCRIPTION:<p>Jam on 20.12. at the Parkourhalle in Hanover!&nbsp\;</p></b
+ r>\n<p>more infos <a rel="noopener noreferrer" target="_blank" href="https
+ ://www.instagram.com/p/Debzb-kIv-J/?vrfl=MTk0dzE2Mm0xcjZpZQ%3D%3D">here</a
+ >!</p>
+GEO:52.4497013;9.7824562
+LOCATION:NatsWerk Isernhagen\, Dieselstraße\, Isernhagen\, Germany
+ORGANIZER;CN=HTOWN;PHONE=;WEBSITE="https://www.instagram.com/p/Debzb-kIv-J
+ /?vrfl=MTk0dzE2Mm0xcjZpZQ%3D%3D":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Str!De Berlin
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607

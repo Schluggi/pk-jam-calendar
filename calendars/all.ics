@@ -8192,20 +8192,6 @@ ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
  ment
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wrocław Takeover
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260919
-UID:3913850
-DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
- at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
- treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
- ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
- .09-20.09<br>\n<br>\nMORE INFO SOON</p>
-LOCATION:Wrocław\, Poland
-ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
- aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Most Wanted Jam
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
@@ -8226,6 +8212,20 @@ DESCRIPTION:<p>Erste Ausgabe des „MOST WANTED JAM“</p></br>\n<p>Eine z
 LOCATION:Amstetten\, Austria
 ORGANIZER;CN="Simon Wöginger";PHONE=;WEBSITE=@simon_woegi:MAILTO:woeginge
  rsimon1999@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrocław Takeover
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260919
+UID:3913850
+DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
+ at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
+ treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
+ ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
+ .09-20.09<br>\n<br>\nMORE INFO SOON</p>
+LOCATION:Wrocław\, Poland
+ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
+ aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam
@@ -8291,6 +8291,22 @@ ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=www.parkourhalle-lani.de:M
  AILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Autumn Jam Stamboliyski
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261024
+UID:4091781
+DESCRIPTION:<p>On the 24th of October we will have a jam at the parkour pa
+ rk in Stamboliyski\, Bulgaria. The starting time is 10:00 AM. We try to ha
+ ve at least 2 jams a year across Bulgaria to stay in touch with old friend
+ s and meet new faces. We will be really happy if you come to train with us
+  and visit our country.</p></br>\n<p>Price: free</p>\n<p>Food: not include
+ d</p>\n<p>Accomodation: No (but let us know if you are coming and we will 
+ try to host you)</p>
+LOCATION:4210\, Bulgaria
+ORGANIZER;CN="Valentina Lilova, Nikola Harapov, Recreate parkour";PHONE=;W
+ EBSITE=:MAILTO:valentina.lilova98@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rt - Malaga
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
@@ -8314,22 +8330,6 @@ LOCATION:Málaga\, Province of Málaga\, Spain
 ORGANIZER;CN="Parkour Movers, DAPP, Team Coast, Parkour Costa del Sol und 
  PEPADD";PHONE=;WEBSITE="https://clasesdeparkour.es/rt-parkour-malaga/":MAI
  LTO:eggert-frederick@web.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Autumn Jam Stamboliyski
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261024
-UID:4091781
-DESCRIPTION:<p>On the 24th of October we will have a jam at the parkour pa
- rk in Stamboliyski\, Bulgaria. The starting time is 10:00 AM. We try to ha
- ve at least 2 jams a year across Bulgaria to stay in touch with old friend
- s and meet new faces. We will be really happy if you come to train with us
-  and visit our country.</p></br>\n<p>Price: free</p>\n<p>Food: not include
- d</p>\n<p>Accomodation: No (but let us know if you are coming and we will 
- try to host you)</p>
-LOCATION:4210\, Bulgaria
-ORGANIZER;CN="Valentina Lilova, Nikola Harapov, Recreate parkour";PHONE=;W
- EBSITE=:MAILTO:valentina.lilova98@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ollerup Parkour Week & Jam
@@ -8469,6 +8469,20 @@ GEO:51.42314229999999;5.462289699999999
 LOCATION:Eindhoven\, Netherlands
 ORGANIZER;CN="Commit Freerun";PHONE=;WEBSITE="https://www.instagram.com/p/
  DcRgiYANfHd/?igsi=OHN2OHQzODZneDNt":MAILTO:info@commitfreerun.nl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ice-H Jam
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261220
+UID:4111173
+DESCRIPTION:<p>Jam on 20.12. at the Parkourhalle in Hanover!&nbsp\;</p></b
+ r>\n<p>more infos <a rel="noopener noreferrer" target="_blank" href="https
+ ://www.instagram.com/p/Debzb-kIv-J/?vrfl=MTk0dzE2Mm0xcjZpZQ%3D%3D">here</a
+ >!</p>
+GEO:52.4497013;9.7824562
+LOCATION:NatsWerk Isernhagen\, Dieselstraße\, Isernhagen\, Germany
+ORGANIZER;CN=HTOWN;PHONE=;WEBSITE="https://www.instagram.com/p/Debzb-kIv-J
+ /?vrfl=MTk0dzE2Mm0xcjZpZQ%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Str!De Berlin
