@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Fem Gaps Women'S Event
 DTSTART:20260516T120000
 DTEND:20260518T130000
-UID:3571516
+UID:4202338
 DESCRIPTION:<p>Day one will kick things off with a short\, 2-hour skills c
  ompetition. The rest of the event will be an open jam across two iconic Lo
  ndon spots. &nbsp\;</p></br>\n<p>On Saturday evening\, we’ll be hosting 
@@ -546,5 +546,18 @@ LOCATION:Brighton\, Brighton and Hove\, UK
 ORGANIZER;CN="Lisa, Stani, Hazal";PHONE=;WEBSITE="https://www.instagram.co
  m/p/DavPqUSNOhV/?igsh=MTF4NnI1ZDlpeGQyaA%3D%3D&ig_mid=6BF7FDF5-E12F-4458-9
  023-46504429D497&utm_source=igweb":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Femgaps Jam 2027
+DTSTART:20270710T120000
+DTEND:20270712T130000
+UID:3571516
+DESCRIPTION:<p>FEMGAPS JAM 2027 | Spread the word &amp\; save the date!<br
+ >\n<br>\nOur next jam will take place 10-11 July 2027 in Brighton\, UK. Mo
+ re info to come. See you there! 💎</p></br>\n<p>Price: tba</p>\n<p>Accom
+ odation: tba</p>\n<p>Food: tba</p>
+LOCATION:Brighton\, Brighton and Hove\, UK
+ORGANIZER;CN=FemGaps;PHONE=;WEBSITE="https://www.instagram.com/p/DfCSOJQM4
+ 3W/?srtk=MW9mdjVscnk0N29rZg==":MAILTO:femgaps@gmail.com
 END:VEVENT
 END:VCALENDAR

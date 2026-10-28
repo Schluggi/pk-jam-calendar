@@ -7351,7 +7351,7 @@ BEGIN:VEVENT
 SUMMARY:Fem Gaps Women'S Event
 DTSTART:20260516T120000
 DTEND:20260518T130000
-UID:3571516
+UID:4202338
 DESCRIPTION:<p>Day one will kick things off with a short\, 2-hour skills c
  ompetition. The rest of the event will be an open jam across two iconic Lo
  ndon spots. &nbsp\;</p></br>\n<p>On Saturday evening\, we’ll be hosting 
@@ -7447,27 +7447,6 @@ LOCATION:33077 Sacile\, Province of Pordenone\, Italy
 ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freiburg Jam
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260601
-UID:3776929
-DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
- e’ll spend time together as a parkour community\, train during open prac
- tice sessions in a large event hall and an additional gym\, and use the ou
- tdoor area of the Haus der Jugend for creative sessions.</p></br>\n<p>Whet
- her it’s training together\, trying out new moves\, or just connecting
- —there’s room here for everything that makes our scene what it is.</p>
- </br>\n<p>You can stay overnight on-site if you’re 18 or older. Meals ar
- e self-organized—using the available infrastructure\, such as induction 
- cooktops\, an oven\, a fire pit\, and other kitchen facilities.</p></br>\n
- <p>Everyone is welcome! You must be 18 years old to stay overnight.</p></b
- r>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: yes\
- , bring mattress and sleeping bag</p></br>
-LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
-ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
- 10@gmx.de
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Xdream
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
@@ -7494,6 +7473,27 @@ DESCRIPTION:<p>This year we (the people of Twio X e.V.) are taking you bac
 LOCATION:04 Leipzig\, Germany
 ORGANIZER;CN="Twio X e.V.";PHONE=;WEBSITE="https://twio-x.de/interessierte
  /events/x-dream-2026/#nav":MAILTO:xdream@twio-x.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freiburg Jam
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:3776929
+DESCRIPTION:<p>A weekend full of movement\, connection\, and good vibes! W
+ e’ll spend time together as a parkour community\, train during open prac
+ tice sessions in a large event hall and an additional gym\, and use the ou
+ tdoor area of the Haus der Jugend for creative sessions.</p></br>\n<p>Whet
+ her it’s training together\, trying out new moves\, or just connecting
+ —there’s room here for everything that makes our scene what it is.</p>
+ </br>\n<p>You can stay overnight on-site if you’re 18 or older. Meals ar
+ e self-organized—using the available infrastructure\, such as induction 
+ cooktops\, an oven\, a fire pit\, and other kitchen facilities.</p></br>\n
+ <p>Everyone is welcome! You must be 18 years old to stay overnight.</p></b
+ r>\n<p>Price: free</p>\n<p>Food: bring your own</p>\n<p>Accomodation: yes\
+ , bring mattress and sleeping bag</p></br>
+LOCATION:Uhlandstraße 2\, 79102 Freiburg im Breisgau\, Germany
+ORGANIZER;CN="Jugendbildungswerk Freiburg";PHONE=;WEBSITE=:MAILTO:zoe.kern
+ 10@gmx.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Games 2026
@@ -7572,21 +7572,6 @@ LOCATION:Nuremberg\, Germany
 ORGANIZER;CN="Oldschool Grasshoppers";PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Proljetni Jam Zagreb
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260622
-UID:3864930
-DESCRIPTION:<p>This is an annual Croatian Jam held in Zagreb. No rules\, n
- o comps\, just vibes and jumps. Everyone's welcome\, there will be drinks\
- , music\, and sick challenges.&nbsp\;</p></br>\n<p>For any info / accomoda
- tion contact: 0953673949</p></br>\n<p>Food: not included</p>\n<p>Price: fr
- ee</p>
-LOCATION:Vladimira Ruždjaka\, 10000\, Zagreb\, Croatia
-ORGANIZER;CN="Parkour Hrvatska";PHONE=;WEBSITE="https://facebook.com/event
- s/s/proljetni-jam-zagreb-2026/1618709605872840/":MAILTO:pokupec.tree@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Amsterdam Summer Jam
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260622
@@ -7605,6 +7590,21 @@ DESCRIPTION:<p>June 20&amp\;21&nbsp\;</p></br>\n<p>A jam to bring some peo
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;CN="Quin Munki";PHONE=;WEBSITE="https://www.instagram.com/p/DXOq
  QFBDYna/?igsh=cW0yZHUxNnNhbjNh":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proljetni Jam Zagreb
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+UID:3864930
+DESCRIPTION:<p>This is an annual Croatian Jam held in Zagreb. No rules\, n
+ o comps\, just vibes and jumps. Everyone's welcome\, there will be drinks\
+ , music\, and sick challenges.&nbsp\;</p></br>\n<p>For any info / accomoda
+ tion contact: 0953673949</p></br>\n<p>Food: not included</p>\n<p>Price: fr
+ ee</p>
+LOCATION:Vladimira Ruždjaka\, 10000\, Zagreb\, Croatia
+ORGANIZER;CN="Parkour Hrvatska";PHONE=;WEBSITE="https://facebook.com/event
+ s/s/proljetni-jam-zagreb-2026/1618709605872840/":MAILTO:pokupec.tree@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Öpfv Jam & Contest Linz
@@ -7638,18 +7638,6 @@ ORGANIZER;CN="Big street project";PHONE=;WEBSITE="https://bigstreetproject
  .sk":MAILTO:tomas@bigstreetproject.sk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heljam
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260629
-UID:3629970
-DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
- el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
- eljamfinland/"><strong>instagram channel</strong></a>.</p>
-GEO:60.16985569999999;24.938379
-LOCATION:Helsinki\, Finland
-ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:In Extremis Fam Summer 2026
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
@@ -7666,6 +7654,18 @@ ORGANIZER;CN="In Extremis Club";PHONE=;WEBSITE="https://inextremisclub.com
  /producto/in-extremis-fam-winter-2024/?fbclid=PAZXh0bgNhZW0CMTEAAacs3WIvNn
  qICxR1bgB4mRqEfhSPGJDNiqednmH7t-BcmbQt9uLSzRdSqdjzVQ_aem_YeqRUSkVYelXEYnU-
  ZTVeg":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heljam
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+UID:3629970
+DESCRIPTION:<p>HELJAM returns!</p><br><p>To be updated\, follow their <a r
+ el="noopener noreferrer" target="_blank" href="https://www.instagram.com/h
+ eljamfinland/"><strong>instagram channel</strong></a>.</p>
+GEO:60.16985569999999;24.938379
+LOCATION:Helsinki\, Finland
+ORGANIZER;CN=;PHONE=;WEBSITE=:MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aerojam 2026
@@ -7768,37 +7768,6 @@ ORGANIZER;CN="Elevation Freerun";PHONE=;WEBSITE="https://www.instagram.com
  /reel/DWBXXYODHLp/?igsh=NnBjcnlnNGo1NGN1":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Parkour Ulm Jam 26 (Streets Jam)
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260721
-UID:3725453
-DESCRIPTION:<p>From 17.07.2026 to 20.07.2026 our Streets Parkour-Jam 2026 
- will take place in a beautiful garden with trampoline\, scaffolding and ba
- rbecue area! &nbsp\;</p></br>\n<p>You can spend the night either in a tent
-  or camp bed. Of course we will also provide food and drinks. Water is ava
- ilable around the clock and a delicious breakfast and dinner is also inclu
- ded. So you will wake up well rested after a fat training day to continue 
- the next day. &nbsp\;</p></br>\n<p>On Fridays and Saturdays\, we are out a
- nd about during the day in the spots in Ulm and there are workshops. On Sa
- turday afternoon there is a big sports tour and on Sunday\, if the weather
-  is good\, there is water action. In case of bad weather there is also the
-  possibility to train in the Einstein Gym. &nbsp\;</p></br>\n<p>If you hav
- e more time\, it’s worth to stay in Ulm until Monday the 20.07.\, becaus
- e the big „Nabada“ will take place (= the biggest event in Ulm/Neu-Ulm
-  – fusion of boat trip on the Danube\, club &amp\; water fight). From Su
- nday 19 July to Monday 20 July\, you can stay with us for free (you’ll n
- eed to sort out your own food on Monday)&nbsp\;</p></br>\n<p>Costs:&nbsp\;
- </p>\n<p>1 Day – 10€&nbsp\;</p>\n<p>2 Days – 20€&nbsp\;</p>\n<p>3 
- Days – 25€&nbsp\;</p>\n<p>Monday - 0 € &nbsp\;</p></br>\n<p>Upgrade 
- PREMIUM Jam-Ticket (only available until 05.07.2026): &nbsp\;– Jam-Ticke
- t + 29.99 € (includes Jam-T-Shirt)</p></br>\n<p>Accomodation: sign up fo
- r a bed or bring your own tent</p>\n<p>Food: all inclusive</p>
-GEO:48.3680782;9.9592634
-LOCATION:Am Hochsträß 8\, 89081 Ulm\, Germany
-ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/impr
- essum/":MAILTO:streets.ev@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Streetmedia Social V4: London
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260720
@@ -7841,6 +7810,37 @@ ORGANIZER;CN=STREETMEDIA;PHONE=;WEBSITE="https://www.eventbrite.com/e/the-
  RuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafCF1cappYn5G-Nk2R8FYhR
  tzIudmLYvNJcCE6AIFBy0cK4HkluyYToveXTxA_aem_Pg9yYVmXxHyi-gLdjXCGvg":MAILTO:
  HQ@streetmedia.store
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parkour Ulm Jam 26 (Streets Jam)
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260721
+UID:3725453
+DESCRIPTION:<p>From 17.07.2026 to 20.07.2026 our Streets Parkour-Jam 2026 
+ will take place in a beautiful garden with trampoline\, scaffolding and ba
+ rbecue area! &nbsp\;</p></br>\n<p>You can spend the night either in a tent
+  or camp bed. Of course we will also provide food and drinks. Water is ava
+ ilable around the clock and a delicious breakfast and dinner is also inclu
+ ded. So you will wake up well rested after a fat training day to continue 
+ the next day. &nbsp\;</p></br>\n<p>On Fridays and Saturdays\, we are out a
+ nd about during the day in the spots in Ulm and there are workshops. On Sa
+ turday afternoon there is a big sports tour and on Sunday\, if the weather
+  is good\, there is water action. In case of bad weather there is also the
+  possibility to train in the Einstein Gym. &nbsp\;</p></br>\n<p>If you hav
+ e more time\, it’s worth to stay in Ulm until Monday the 20.07.\, becaus
+ e the big „Nabada“ will take place (= the biggest event in Ulm/Neu-Ulm
+  – fusion of boat trip on the Danube\, club &amp\; water fight). From Su
+ nday 19 July to Monday 20 July\, you can stay with us for free (you’ll n
+ eed to sort out your own food on Monday)&nbsp\;</p></br>\n<p>Costs:&nbsp\;
+ </p>\n<p>1 Day – 10€&nbsp\;</p>\n<p>2 Days – 20€&nbsp\;</p>\n<p>3 
+ Days – 25€&nbsp\;</p>\n<p>Monday - 0 € &nbsp\;</p></br>\n<p>Upgrade 
+ PREMIUM Jam-Ticket (only available until 05.07.2026): &nbsp\;– Jam-Ticke
+ t + 29.99 € (includes Jam-T-Shirt)</p></br>\n<p>Accomodation: sign up fo
+ r a bed or bring your own tent</p>\n<p>Food: all inclusive</p>
+GEO:48.3680782;9.9592634
+LOCATION:Am Hochsträß 8\, 89081 Ulm\, Germany
+ORGANIZER;CN="streets e.V.";PHONE=;WEBSITE="https://www.streets-ev.de/impr
+ essum/":MAILTO:streets.ev@yahoo.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parkour Camp Gütersloh
@@ -8054,22 +8054,6 @@ ORGANIZER;CN="KS Movement";PHONE=;WEBSITE="https://ksmovement.pl/mfp-2026/
  ement.pl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blackberry Jam
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260822
-UID:3913849
-DESCRIPTION:<p>We want to invite you all to Blackberry jam on the 22nd of 
- August at Southease bridge. There’ll be jumps\, music\, BBQ a little scr
- eening and much more. We’ll give you all the info you need in the next w
- eeks but for now save the date and hopefully see you there ✨<br>\nHazal\
- , Stani\, Lisa</p></br>\n<p>Price: free</p>\n<p>Food: BBQ</p>\n<p>Accomoda
- tion: not sure\, reach out to the organisers</p>
-LOCATION:Brighton\, Brighton and Hove\, UK
-ORGANIZER;CN="Lisa, Stani, Hazal";PHONE=;WEBSITE="https://www.instagram.co
- m/p/DavPqUSNOhV/?igsh=MTF4NnI1ZDlpeGQyaA%3D%3D&ig_mid=6BF7FDF5-E12F-4458-9
- 023-46504429D497&utm_source=igweb":MAILTO:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Laatzener Parkour Camp (Lpc)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
@@ -8090,6 +8074,22 @@ LOCATION:Pumptrack Laatzen\, Mergenthalerstraße 6\, 30880 Laatzen\, Germa
 ORGANIZER;CN="Parkour Hannover / Kirchenkreis Laatzen-Springe";PHONE=;WEBS
  ITE="https://www.instagram.com/lpc.2024?igsh=ZXp0bjh0MmM0ZWd0":MAILTO:park
  our.30159@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blackberry Jam
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260822
+UID:3913849
+DESCRIPTION:<p>We want to invite you all to Blackberry jam on the 22nd of 
+ August at Southease bridge. There’ll be jumps\, music\, BBQ a little scr
+ eening and much more. We’ll give you all the info you need in the next w
+ eeks but for now save the date and hopefully see you there ✨<br>\nHazal\
+ , Stani\, Lisa</p></br>\n<p>Price: free</p>\n<p>Food: BBQ</p>\n<p>Accomoda
+ tion: not sure\, reach out to the organisers</p>
+LOCATION:Brighton\, Brighton and Hove\, UK
+ORGANIZER;CN="Lisa, Stani, Hazal";PHONE=;WEBSITE="https://www.instagram.co
+ m/p/DavPqUSNOhV/?igsh=MTF4NnI1ZDlpeGQyaA%3D%3D&ig_mid=6BF7FDF5-E12F-4458-9
+ 023-46504429D497&utm_source=igweb":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unleashed Jam & Contest
@@ -8448,6 +8448,21 @@ ORGANIZER;CN="Parkour Dortmund e.V.";PHONE=;WEBSITE=www.parkourdortmund.de
  :MAILTO:info@parkourdortmund.de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nikolaus Laatzener Parkour Camp (Lpc)
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261205
+UID:4202334
+DESCRIPTION:<p>The Nikolaus LPC will take place again on December 5\, 2026
+ . We will start meeting and setting up at 10 a.m. The official start will 
+ be at around 1 p.m. The LPC will end at 6 p.m. Parkour Hannover looks forw
+ ard to seeing you there.</p></br>\n<p>Price: free</p>\n<p>Food: Breakfast 
+ included</p>\n<p>Accomodation: no</p>
+GEO:52.3079768;9.8051041
+LOCATION:Marktstraße 33\, 30880 Laatzen\, Germany
+ORGANIZER;CN="Parkour Hannover";PHONE=;WEBSITE=:MAILTO:parkour.30159@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:X-Mas Jam Linz
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
@@ -8514,6 +8529,19 @@ DESCRIPTION:<p>save the date</p>
 GEO:60.8809476;10.9394781
 LOCATION:Brumunddal\, Norway
 ORGANIZER;CN="Oslo Movement";PHONE=;WEBSITE=:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Femgaps Jam 2027
+DTSTART:20270710T120000
+DTEND:20270712T130000
+UID:3571516
+DESCRIPTION:<p>FEMGAPS JAM 2027 | Spread the word &amp\; save the date!<br
+ >\n<br>\nOur next jam will take place 10-11 July 2027 in Brighton\, UK. Mo
+ re info to come. See you there! 💎</p></br>\n<p>Price: tba</p>\n<p>Accom
+ odation: tba</p>\n<p>Food: tba</p>
+LOCATION:Brighton\, Brighton and Hove\, UK
+ORGANIZER;CN=FemGaps;PHONE=;WEBSITE="https://www.instagram.com/p/DfCSOJQM4
+ 3W/?srtk=MW9mdjVscnk0N29rZg==":MAILTO:femgaps@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hauptsache Hauptwache
