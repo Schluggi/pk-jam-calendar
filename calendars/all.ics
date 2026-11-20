@@ -8558,6 +8558,20 @@ ORGANIZER;CN=FemGaps;PHONE=;WEBSITE="https://www.instagram.com/p/DfCSOJQM4
  3W/?srtk=MW9mdjVscnk0N29rZg==":MAILTO:femgaps@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Die Halle X Fifthunit X Scruffy
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270823
+UID:4236824
+DESCRIPTION:<p>Die Halle x Scruffy x Fifth Unit goes into the next round. 
+ A three day Jam (20.-22.08) at Die Halle with dope vibes\, workshops\, a l
+ ot of training and good food. There will be breakfast and dinner. Sleeping
+  Spots are available.</p></br>\n<p>Price: 30-60€</p>\n<p>Accomodation: y
+ es</p>\n<p>Food: all inclusive</p>
+GEO:53.5424593;10.0086303
+LOCATION:Die Halle Hamburg\, Stockmeyerstraße\, Hamburg\, Germany
+ORGANIZER;CN="DIE HALLE";PHONE=;WEBSITE=:MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hauptsache Hauptwache
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270906
