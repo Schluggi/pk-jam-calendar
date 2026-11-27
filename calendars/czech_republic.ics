@@ -481,4 +481,45 @@ LOCATION:Vídeňská 297/99\, 639 00 Brno-střed\, Czechia
 ORGANIZER;CN="Parkour Earth";PHONE=;WEBSITE="https://www.instagram.com/p/D
  PtOPcijXwc/":MAILTO:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Winter Jam
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+UID:4247534
+DESCRIPTION:<h3>The legendary Winter Jam is back — this time in Prague!<
+ /h3>\n<p>From Friday 22 to Sunday 24 January 2027\, we’ll meet in Prague
+  at Jarov. Three days packed with parkour\, challenges\, and training toge
+ ther are waiting for you. Come jump\, push your limits\, and enjoy the uni
+ que Winter Jam atmosphere!</p>\n<p>Since 2015\, parkour athletes from all 
+ over Europe have been meeting at Winter Jam — from beginners to experien
+ ced athletes. What brings us together is movement\, challenges\, and above
+  all a great crew. In 2027\, we’ll kick it off together in the capital c
+ ity!</p></br>\n<h3>SKILL CHALLENGE is here again this year!</h3>\n<p>8 sta
+ tions await you\, with 3 attempts at each and a total of 2 hours to comple
+ te all the challenges — in whatever order you want. At the end\, we’ll
+  announce the winner among the men and the winner among the women.</p>\n<p
+ >Both champions will earn bonus points for qualification and free entry to
+  IMACON BRNO\, taking place 9–11 April 2027!</p>\n<h3>Saturday workshop<
+ /h3>\n<p>This year again\, you can look forward to a guided workshop that 
+ will kick off Saturday’s program. Who will lead it and what will we focu
+ s on? We’ll reveal the instructor and the topic very soon!</p>\n<h3>Entr
+ y to Winter Jam</h3>\n<p>The price for the full Winter Jam 2027\, includin
+ g open training\, all activities\, and participation in the Skill Challeng
+ e\, is 1\,200 CZK.</p>\n<h3>Program</h3>\n<h3>Friday 22 January 2027</h3>\
+ n<ul>\n  <li>20:00 — Winter Jam 2027 begins</li>\n  <li>20:00–23:00 
+ — Open training</li>\n  <li>21:00 — Opening together</li>\n  <li>23:00
+  — End of program</li>\n</ul>\n<h3>Saturday 23 January 2027</h3>\n<ul>\n
+   <li>11:00–12:30 — Workshop</li>\n  <li>17:00–20:00 — Skill Chall
+ enge</li>\n  <li>20:00–21:00 — Open training and results announcement<
+ /li>\n  <li>23:00 — End of program</li>\n</ul>\n<h3>Sunday 24 January 20
+ 27</h3>\n<ul>\n  <li>10:00 — Wake-up call</li>\n  <li>10:00–14:00 — 
+ Open training</li>\n  <li>14:00 — End of event</li>\n</ul></br>\n<p>Pric
+ e: 1200 Kc</p>\n<p>Food: not included</p>\n<p>Accomodation: in the gym</p>
+ </br>\n<p>Sign up <a rel="noopener noreferrer" target="_blank" href="https
+ ://imacademy.cz/en/event/winterjam"><strong>here</strong></a>.</p>
+GEO:49.1731419;14.4905574
+LOCATION:Vídeňská 297/99\, 639 00 Brno-střed\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/b
+ rno/event/winterjam":MAILTO:
+END:VEVENT
 END:VCALENDAR

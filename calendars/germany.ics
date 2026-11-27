@@ -3343,6 +3343,24 @@ ORGANIZER;CN=HTOWN;PHONE=;WEBSITE="https://www.instagram.com/p/Debzb-kIv-J
  /?vrfl=MTk0dzE2Mm0xcjZpZQ%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gizmo Style Battles 2027
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270517
+UID:4247532
+DESCRIPTION:<p>Another year of GIZMO madness is close.&nbsp\;</p></br>\n<p
+ >In May we will have Gizmo for the fifth time. As usual\, you will get the
+  finest movement\, daily Breakfast &amp\; Dinner(Saturday&amp\;Sunday) and
+  Accommodation nearby Die Halle. &nbsp\;</p></br>\n<p>Eventhough the event
+  starts on the 15th you have the option to arrive already on Friday evenin
+ g. Everything else you will find on our instagram @gizmo_battles &nbsp\;</
+ p></br>\n<p>See you in may:)</p></br>\n<p>Accomodation: included</p>\n<p>F
+ ood: breakfast &amp\; dinner</p>\n<p>Price: tba</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Freiburg Jam
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270524

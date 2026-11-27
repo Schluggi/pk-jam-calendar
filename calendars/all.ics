@@ -8192,6 +8192,20 @@ ORGANIZER;CN="Social Kick Movement";PHONE=;WEBSITE=:MAILTO:@socialkickmove
  ment
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wrocław Takeover
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260919
+UID:3913850
+DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
+ at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
+ treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
+ ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
+ .09-20.09<br>\n<br>\nMORE INFO SOON</p>
+LOCATION:Wrocław\, Poland
+ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
+ aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Most Wanted Jam
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
@@ -8212,20 +8226,6 @@ DESCRIPTION:<p>Erste Ausgabe des „MOST WANTED JAM“</p></br>\n<p>Eine z
 LOCATION:Amstetten\, Austria
 ORGANIZER;CN="Simon Wöginger";PHONE=;WEBSITE=@simon_woegi:MAILTO:woeginge
  rsimon1999@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wrocław Takeover
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260919
-UID:3913850
-DESCRIPTION:<p>Crappy Boiz are back with WROCŁAW TAKEOVER 2<br>\n<br>\nWh
- at’s waiting for you:<br>\n<br>\n-Two days of jammin in Wrocław<br>\n-S
- treet challenges for everyone<br>\n-Side quests with prizes <br>\n-screeni
- ngs <br>\n-Afterparty<br>\n-Crappy pop-up shop<br>\n<br>\nsave the date 19
- .09-20.09<br>\n<br>\nMORE INFO SOON</p>
-LOCATION:Wrocław\, Poland
-ORGANIZER;CN="Crappy Boiz";PHONE=;WEBSITE="https://www.instagram.com/p/Das
- aOC6gwvH/?igsh=MWx6dHBjMjB1eHZ2Zw%3D%3D":MAILTO:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel City Jam
@@ -8249,6 +8249,47 @@ DESCRIPTION:<p>Jam and screening of "Pousser la machine"</p></br>\n<p>for
  more information check @bricepoule instagram account</p>
 LOCATION:64200 Biarritz\, France
 ORGANIZER;CN="Brice Poule";PHONE=;WEBSITE=@bricepoule:MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rt - Malaga
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:4080156
+DESCRIPTION:<p>A weekend to get moving together&nbsp\;</p></br>\n<p>An RT 
+ (Traceurs’ Meet-up) is a gathering of parkour practitioners. We train at
+  the best spots in the city\, head out into the countryside and share what
+  this sport has given us. This edition is open to the national and interna
+ tional community\, with the best weather in Europe for getting active outd
+ oors in the middle of October. &nbsp\;</p></br>\n<p>Weekend programme</p>\
+ n<p>Provisional and 100% live. The exact locations and any changes will be
+  announced via the WhatsApp group. &nbsp\;</p></br>\n<p>Proposed workshops
+ &nbsp\;</p>\n<p>Two workshops in the pipeline\, yet to be confirmed. Here
+ ’s what’s in the pipeline:&nbsp\;</p>\n<p>Creativity&nbsp\;</p>\n<p>Fi
+ nd your own movement. With Paul (sympanic.parkour) &nbsp\;</p></br>\n<p>Pe
+ rformance</p>\n<p>Strength\, control and power. With Alain (tot.move) &nbs
+ p\;</p></br>\n<p>RT MÁLAGA Reunión de Traceurs · 24–25 octubre &nbsp\
+ ;¿Questions? plataformapepadd@gmail.com · 677 620 665</p></br>\n<p>Price
+ : free</p>\n<p>Food: not included</p>\n<p>Accomodation: possible</p>
+LOCATION:Málaga\, Province of Málaga\, Spain
+ORGANIZER;CN="Parkour Movers, DAPP, Team Coast, Parkour Costa del Sol und 
+ PEPADD";PHONE=;WEBSITE="https://clasesdeparkour.es/rt-parkour-malaga/":MAI
+ LTO:eggert-frederick@web.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autumn Jam Stamboliyski
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261024
+UID:4091781
+DESCRIPTION:<p>On the 24th of October we will have a jam at the parkour pa
+ rk in Stamboliyski\, Bulgaria. The starting time is 10:00 AM. We try to ha
+ ve at least 2 jams a year across Bulgaria to stay in touch with old friend
+ s and meet new faces. We will be really happy if you come to train with us
+  and visit our country.</p></br>\n<p>Price: free</p>\n<p>Food: not include
+ d</p>\n<p>Accomodation: No (but let us know if you are coming and we will 
+ try to host you)</p>
+LOCATION:4210\, Bulgaria
+ORGANIZER;CN="Valentina Lilova, Nikola Harapov, Recreate parkour";PHONE=;W
+ EBSITE=:MAILTO:valentina.lilova98@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Autumn Jam - Parkourhalle Lani
@@ -8289,47 +8330,6 @@ GEO:51.9904;7.66672
 LOCATION:Parkourhalle Lani\, Rudolf-Diesel-Straße\, Ost\, Germany
 ORGANIZER;CN="Parkourhalle Lani";PHONE=;WEBSITE=www.parkourhalle-lani.de:M
  AILTO:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Autumn Jam Stamboliyski
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261024
-UID:4091781
-DESCRIPTION:<p>On the 24th of October we will have a jam at the parkour pa
- rk in Stamboliyski\, Bulgaria. The starting time is 10:00 AM. We try to ha
- ve at least 2 jams a year across Bulgaria to stay in touch with old friend
- s and meet new faces. We will be really happy if you come to train with us
-  and visit our country.</p></br>\n<p>Price: free</p>\n<p>Food: not include
- d</p>\n<p>Accomodation: No (but let us know if you are coming and we will 
- try to host you)</p>
-LOCATION:4210\, Bulgaria
-ORGANIZER;CN="Valentina Lilova, Nikola Harapov, Recreate parkour";PHONE=;W
- EBSITE=:MAILTO:valentina.lilova98@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rt - Malaga
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:4080156
-DESCRIPTION:<p>A weekend to get moving together&nbsp\;</p></br>\n<p>An RT 
- (Traceurs’ Meet-up) is a gathering of parkour practitioners. We train at
-  the best spots in the city\, head out into the countryside and share what
-  this sport has given us. This edition is open to the national and interna
- tional community\, with the best weather in Europe for getting active outd
- oors in the middle of October. &nbsp\;</p></br>\n<p>Weekend programme</p>\
- n<p>Provisional and 100% live. The exact locations and any changes will be
-  announced via the WhatsApp group. &nbsp\;</p></br>\n<p>Proposed workshops
- &nbsp\;</p>\n<p>Two workshops in the pipeline\, yet to be confirmed. Here
- ’s what’s in the pipeline:&nbsp\;</p>\n<p>Creativity&nbsp\;</p>\n<p>Fi
- nd your own movement. With Paul (sympanic.parkour) &nbsp\;</p></br>\n<p>Pe
- rformance</p>\n<p>Strength\, control and power. With Alain (tot.move) &nbs
- p\;</p></br>\n<p>RT MÁLAGA Reunión de Traceurs · 24–25 octubre &nbsp\
- ;¿Questions? plataformapepadd@gmail.com · 677 620 665</p></br>\n<p>Price
- : free</p>\n<p>Food: not included</p>\n<p>Accomodation: possible</p>
-LOCATION:Málaga\, Province of Málaga\, Spain
-ORGANIZER;CN="Parkour Movers, DAPP, Team Coast, Parkour Costa del Sol und 
- PEPADD";PHONE=;WEBSITE="https://clasesdeparkour.es/rt-parkour-malaga/":MAI
- LTO:eggert-frederick@web.de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ollerup Parkour Week & Jam
@@ -8509,6 +8509,65 @@ GEO:57.7454373;14.170872
 LOCATION:xFlow\, Herkulesvägen\, Jönköping\, Sweden
 ORGANIZER;CN="xFlow Parkour";PHONE=;WEBSITE=xflow.se/xjam:MAILTO:erik@xflo
  w.se
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Winter Jam
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+UID:4247534
+DESCRIPTION:<h3>The legendary Winter Jam is back — this time in Prague!<
+ /h3>\n<p>From Friday 22 to Sunday 24 January 2027\, we’ll meet in Prague
+  at Jarov. Three days packed with parkour\, challenges\, and training toge
+ ther are waiting for you. Come jump\, push your limits\, and enjoy the uni
+ que Winter Jam atmosphere!</p>\n<p>Since 2015\, parkour athletes from all 
+ over Europe have been meeting at Winter Jam — from beginners to experien
+ ced athletes. What brings us together is movement\, challenges\, and above
+  all a great crew. In 2027\, we’ll kick it off together in the capital c
+ ity!</p></br>\n<h3>SKILL CHALLENGE is here again this year!</h3>\n<p>8 sta
+ tions await you\, with 3 attempts at each and a total of 2 hours to comple
+ te all the challenges — in whatever order you want. At the end\, we’ll
+  announce the winner among the men and the winner among the women.</p>\n<p
+ >Both champions will earn bonus points for qualification and free entry to
+  IMACON BRNO\, taking place 9–11 April 2027!</p>\n<h3>Saturday workshop<
+ /h3>\n<p>This year again\, you can look forward to a guided workshop that 
+ will kick off Saturday’s program. Who will lead it and what will we focu
+ s on? We’ll reveal the instructor and the topic very soon!</p>\n<h3>Entr
+ y to Winter Jam</h3>\n<p>The price for the full Winter Jam 2027\, includin
+ g open training\, all activities\, and participation in the Skill Challeng
+ e\, is 1\,200 CZK.</p>\n<h3>Program</h3>\n<h3>Friday 22 January 2027</h3>\
+ n<ul>\n  <li>20:00 — Winter Jam 2027 begins</li>\n  <li>20:00–23:00 
+ — Open training</li>\n  <li>21:00 — Opening together</li>\n  <li>23:00
+  — End of program</li>\n</ul>\n<h3>Saturday 23 January 2027</h3>\n<ul>\n
+   <li>11:00–12:30 — Workshop</li>\n  <li>17:00–20:00 — Skill Chall
+ enge</li>\n  <li>20:00–21:00 — Open training and results announcement<
+ /li>\n  <li>23:00 — End of program</li>\n</ul>\n<h3>Sunday 24 January 20
+ 27</h3>\n<ul>\n  <li>10:00 — Wake-up call</li>\n  <li>10:00–14:00 — 
+ Open training</li>\n  <li>14:00 — End of event</li>\n</ul></br>\n<p>Pric
+ e: 1200 Kc</p>\n<p>Food: not included</p>\n<p>Accomodation: in the gym</p>
+ </br>\n<p>Sign up <a rel="noopener noreferrer" target="_blank" href="https
+ ://imacademy.cz/en/event/winterjam"><strong>here</strong></a>.</p>
+GEO:49.1731419;14.4905574
+LOCATION:Vídeňská 297/99\, 639 00 Brno-střed\, Czechia
+ORGANIZER;CN="In Motion Academy";PHONE=;WEBSITE="https://imacademy.cz/en/b
+ rno/event/winterjam":MAILTO:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gizmo Style Battles 2027
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270517
+UID:4247532
+DESCRIPTION:<p>Another year of GIZMO madness is close.&nbsp\;</p></br>\n<p
+ >In May we will have Gizmo for the fifth time. As usual\, you will get the
+  finest movement\, daily Breakfast &amp\; Dinner(Saturday&amp\;Sunday) and
+  Accommodation nearby Die Halle. &nbsp\;</p></br>\n<p>Eventhough the event
+  starts on the 15th you have the option to arrive already on Friday evenin
+ g. Everything else you will find on our instagram @gizmo_battles &nbsp\;</
+ p></br>\n<p>See you in may:)</p></br>\n<p>Accomodation: included</p>\n<p>F
+ ood: breakfast &amp\; dinner</p>\n<p>Price: tba</p>
+GEO:53.5424593;9.987170299999999
+LOCATION:Stockmeyerstraße 43\, 20457 Hamburg\, Germany
+ORGANIZER;CN="Die Halle Hamburg";PHONE=;WEBSITE="https://diehalle.hamburg/
+ gizmo-styles-battles/":MAILTO:hallo@diehalle.hamburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freiburg Jam
